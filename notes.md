@@ -155,7 +155,7 @@ Target CR is 9-11 (ACL+3, ACL+4 if 6+ PCs, ACL+2 if 3 PCs)
     - Berendey names Zander as successor in Ivan's place (skipping unmarried Rolobo, traitorous Bozidar)
     - Vasilisa escapes execution, killing Berendey, Rolobo seals the trod behind her
   - Elements that need to be seeded into game world
-    - The three faerie tales are in-world things, as written
+    - The four faerie tales are in-world things, as written
     - Tsar Berendey Kuznets - first Tsar, father of Ivan (Berendei: Turkic/Mongol descent)
     - Tsarevitch Ivan "The Hunter" Kuznetsov - Courtly Hunter (Grey Wolf), marries Helena, cuckolded by Rolobo, killed by Bozidar
     - Tsarevitch Bozidar "the Archer" Kuznetsov - Courtly Hunter (Horse of Power), second son, executed for murder of Ivan
