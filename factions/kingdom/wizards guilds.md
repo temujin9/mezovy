@@ -107,6 +107,7 @@
   - Envy - Abjuration, Prohibited Schools: evocation, necromancy
   - Absolute Arcanist (Wizard/Sorcerer)
   - Warding School - Abjuration
+  - Mystic Theurges
 - Warding and life are considered this craft's central attributes. It uses innate ability to access power. Practitioners are more powerful at twilight.
 - Cult of a petty god: Hāwlat (Eurabic Goddess of Magic)
 - Traits: only allows use of that which is worthy, deconstructors
