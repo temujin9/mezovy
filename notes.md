@@ -1,23 +1,35 @@
 Target CR is 9-11 (ACL+3, ACL+4 if 6+ PCs, ACL+2 if 3 PCs)
 
+# Next
+- Kingdom Building + Planning
+- Seryy's parting speech:
+  "We had a great . . . whatchacallit, where you fuck around and find out? . . . Experiment! We had a great experiment here. Please keep it going."
+- Event: Berko's envoy arrives in the court
+
+    Hello
+
+    I am Berko Yutchhead and I am want for your help. I have removed a noble who was cruel to us. We are simple farmers and hunter, he made us work until we broke bones and could walk no more just so he could get from our labor.  The cruel man has left but he will try and fight us, we just want our land and our food to eat and we must start an army, we want your help for it, please do so. We are no nobles, we can not do with out you
+
+    Forever grateful,
+    Berko of the Yutch
+
+- News: ice giants with flaming flying hounds have struck northern Moriloro
+- News: Gooses' work has results in a small but growing "little" population . . . but they want their own town (and no goblins)
+- Rumor: big fucking spells being cast on NE areas that resist the Queen (perm. Lost Locale, Curse Terrain)
+- Character: What would your character die to protect?
+- K: History DC 15: "and they were driven to the ends of the earth, to the seas of sunrise and sunset, and away over them"
+  Well known historical account of "the First Hobgoblin War" being fought back during Rolobo's era
+
 # Soon
 - Figure out how the limits on bought items should work
   https://www.d20pfsrd.com/Magic-items/#Purchasing_Magic_Items
 - Experience
-- Next Kingdom Building + Planning
-  - Seryy's parting speech: "We had a great . . . whatchacallit, where you fuck around and find out? . . . Experiment! We had a great experiment here. Please keep it going."
-  - News: ice giants with flaming flying hounds have struck northern Moriloro
-  - News: Gooses' work has results in a small but growing "little" population . . . but they want their own town (and no goblins)
-  - Character: What would your character die to protect?
-  - K: History DC 15: "and they were driven to the ends of the earth, to the seas of sunrise and sunset, and away over them"
-    Well known historical account of "the First Hobgoblin War" being fought back during Rolobo's era
-  - Rumor: big fucking spells being cast on NE areas that resist the Queen (perm. Lost Locale, Curse Terrain)
 - Leaking more fae lore into fae-adjacent PC backgrounds
   - Mezovian taboo against eating mushrooms, too? Only an outsider could notice.
   - (Robert) Portal to a world shaped just like the one you came from
   - The Old Rites (see religion.txt)
   - The existence of the witchlords?
-- Everyone's got combatus interruptus, which probably isn't good for stability
+- Everyone's got combatus interruptus, which isn't good for stability
 - Kat's seeds
   - Dragon in swamp
   - Fae in abandoned town
