@@ -8,7 +8,7 @@ Target CR is 9-11 (ACL+3, ACL+4 if 6+ PCs, ACL+2 if 3 PCs)
 
     Hello
 
-    I am Berko Yutchhead and I am want for your help. I have removed a noble who was cruel to us. We are simple farmers and hunter, he made us work until we broke bones and could walk no more just so he could get from our labor.  The cruel man has left but he will try and fight us, we just want our land and our food to eat and we must start an army, we want your help for it, please do so. We are no nobles, we can not do with out you
+    I am Berko Yutchhead and I am want for your help. I have removed a noble who was cruel to us. We are simple farmers and hunter, he made us work until we broke bones and could walk no more just so he could get from our labor.  The cruel man has left but he will try and fight us, we just want our land and our food to eat and we must start an army, we want your help for it, please do so. We are no nobles, we can not do with out you.
 
     Forever grateful,
     Berko of the Yutch
@@ -51,8 +51,7 @@ Target CR is 9-11 (ACL+3, ACL+4 if 6+ PCs, ACL+2 if 3 PCs)
 - Justify random results
   - Ghom hates local and royal Wizards, why
   - Rombordean Fault: small zone in Yutesh, WTF is it
-- Unrelated plot-A, so it's not all "shit the Queen stirred up directly"
-  - see "random crap.txt"
+- [Unrelated plot-A, so it's not all "shit the Queen stirred up directly"](random%20crap.md)
 - When the going gets desperate, the Tsarina will start conscripting slaves en-mass
 - The Treasurer witch knows the value of the library
   - Are they (he and minor rakshasa familiar) aligned with the witchlords? 
