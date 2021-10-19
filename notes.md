@@ -43,7 +43,7 @@ Target CR is 9-11 (ACL+3, ACL+4 if 6+ PCs, ACL+2 if 3 PCs)
 # Further ideas
 - Gahdri wants a wizard duel with a deserving opponent, give him some
   - Standing in the way of becoming a full guild member of Uhlinberg?
-  - Gang of spellcasters ready to duel-bully Gahdri: Delver (blindfighting), Bestial Arcanist (shapeshifter), ???
+  - Gang of spellcasters ready to duel-bully Gahdri: Delver (blindfighting), Bestial Arcanist (shapeshifter), Lady Frost (kineticist TWF)
   - Will push for her to be examined for "witch marks" (strip her nude, prod her familiar)
 - Two villainous groups seeking the same item in the same dungeon as the characters are
 - Rule?: Let players break out of a fear, stun, or charm by accepting a pile of psychic damage (d8 per level of spell)
