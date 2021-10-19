@@ -1,63 +1,68 @@
 The Ordhyrst Triumvirate rules the Maskar guild with an iron fist. Of the three, only Kto is known to be sympathetic to The Gutter's Court or outside concerns.
 
+They're all references to Doctor Who characters.
 
 # Ancients
 - Nolissar (Rassilon)
-- Izhitsa (Omega)
+- Izhitsa Ordhyrst (Omega)
 - Drugoy (The Other)
 
-High Magister Valeriya Romanova (Missy): Arcanist/Living Grimoire
+# Common Tricks
+Faith Magic - can cast divine 2nd when can cast 4th level arcane
+Haste + Slow: "Laws of Time are mine"
+Exploits: Armored Caster x2, Quick Study, Counterspell
+Feat: Extra Exploits
+
+# Current
+High Magister Valeriya Romanova (Missy)
 
 Str 7
-Dex 12
-Con 14
-Int 16 = 15+1(Levels)
-Wis 16 = 14+2(Human)
+Dex 14
+Con 12
+Int 18 = 15+1(Levels)+2(Human)
+Wis 14
 Cha 16 = 14+2(Levels)
 
-Arcanist 4/Living Grimoire 4/Mystic Theurge 6
-Casts as Arcanist 10th/Living Grimoire 10th
-Feats: 7
-  Extra Exploits
-  Improved Caster Level
-Exploits: Armored Caster x2, Quick Study, Counterspell
+Patron Mage 14
+Casts as Arcanist 14th plus a domain
 Domain: Legislation - Scribe Scroll, 30ft forbid action 1 turn or 1d6+2 damage, can attach a spell and its duration, 3+Wis/day
 
 
-
-Vlava "Ushas" Ordhyrst (Rani): Wizard/Archivist
+Vlava "Ushas" Ordhyrst (Rani)
 
 Str 7
 Dex 14
 Con 14
 Int 18 = 15+2(Human)+1(Levels)
-Wis 12
-Cha 16 = 14+2(Levels)
+Wis 16 = 14+2(Levels)
+Cha 12
 
-Wizard 7/Archivist 1/Theurge 6/VMC Magus
-Casts as Wizard 13th/Archivist 7th
-Faith Magic - use Wizard 3rd (when able to cast 4th) to cast 2nd level divine spell
+Theurge 14/VMC Magus
+Casts as mix of Wizard+Archivist 14
+Spell Mastery (Flame Blade)
 https://www.d20pfsrd.com/feats/combat-feats/flame-blade-dervish-combat/
 
 
-
-Vratch Kto (Doctor): Sorcerer/Druid
+Vratch Kto (Doctor Who)
 
 Str 7
-Dex 14
-Con 12
-Int 14
-Wis 20 = 15+2(Human)+3(Levels)
+Dex 12
+Con 14
+Int 16 = 14+2(Human)
+Wis 18 = 15+3(Levels)
 Cha 14
 
-Empyreal Sorcerer 4/Menhir Savant Druid 3/Theurge 7
-  Casts as Sorcerer 11th/Druid 10th
+Shaman 4/Empyreal Blood Arcanist 1/Theurge 10
+Casts as Shaman 14th/Arcanist 11th
+Precocious Apprentice - arcane 1st can cast arcane 2nd, but chance of spell failure
+Feat: Improved Caster Level
 https://www.reddit.com/r/Pathfinder_RPG/comments/q5x01v/max_the_min_monday_cultivate_magic_plants/
+  https://www.aonprd.com/FeatDisplay.aspx?ItemName=Cultivate%20Magic%20Plants
   https://www.d20pfsrd.com/magic/all-spells/h/harvest-season/
-    https://aonprd.com/MagicPlantsDisplay.aspx?FinalName=Palm%20of%20Decadent%20Feasts
-    https://aonprd.com/MagicPlantsDisplay.aspx?FinalName=Tree%20of%20Knowledge
-    https://www.d20pfsrd.com/magic-items/magic-plants/#Fireapple_Tree
   https://www.d20pfsrd.com/magic/all-spells/a/awaken/
-    https://www.aonprd.com/MagicPlantsDisplay.aspx?FinalName=Portal%20Oak
-Haste + Slow: "Laws of Time are mine"
- 
+  https://aonprd.com/MagicPlantsDisplay.aspx?FinalName=Palm%20of%20Decadent%20Feasts
+  https://aonprd.com/MagicPlantsDisplay.aspx?FinalName=Tree%20of%20Knowledge
+  https://www.d20pfsrd.com/magic-items/magic-plants/#Fireapple_Tree
+  https://www.aonprd.com/MagicPlantsDisplay.aspx?FinalName=Portal%20Oak
+
+Awakened Council of Portal Oaks: kinda like a TARDIS?

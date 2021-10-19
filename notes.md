@@ -2,6 +2,7 @@ Target CR is 9-11 (ACL+3, ACL+4 if 6+ PCs, ACL+2 if 3 PCs)
 
 # Soon
 - Figure out how the limits on bought items should work
+  https://www.d20pfsrd.com/Magic-items/#Purchasing_Magic_Items
 - Experience
 - Next Kingdom Building + Planning
   - Seryy's parting speech: "We had a great . . . whatchacallit, where you fuck around and find out? . . . Experiment! We had a great experiment here. Please keep it going."
