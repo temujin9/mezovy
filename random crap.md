@@ -1,20 +1,9 @@
-# B-plot ideas
-- Heist http://recedingrules.blogspot.com/2011/05/heist-con-special-mission.html
+# A-plot ideas
+- [Heist](http://recedingrules.blogspot.com/2011/05/heist-con-special-mission.html)
 - Opportunism: various scheming groups come out of the woodwork with the war footing
 - Woodland encounters: Young green/white/red dragon, wyverns, griffons, ogres, owlbears, dire boar, roc
-- Dwarf highwaymen: ranger + 12-16 recruits (CR 8-9, K: Local DC 16)
-  https://www.d20pfsrd.com/bestiary/npc-s/npcs-cr-6/mountaineer-dwarf-ranger-7/
-  https://www.d20pfsrd.com/bestiary/npc-s/npcs-cr-0/recruit-dwarf-warrior-1/
+- Dwarf highwaymen: [ranger 7](https://www.d20pfsrd.com/bestiary/npc-s/npcs-cr-6/mountaineer-dwarf-ranger-7/) + 12-16 [warrior 1](https://www.d20pfsrd.com/bestiary/npc-s/npcs-cr-0/recruit-dwarf-warrior-1/) (CR 8-9, K: Local DC 16)
 - Hand out first level NPC characters (city guard), murder the hell out of them, survivor alerts them or they find bodies
-- Mayhem, False and True
-  - Coven CR 11 (-1 due to favorable circumstances of Mayhem distracting if 5- PCs)
-    https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag/
-    https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag/winter-hag/
-    https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag/hag-blood/
-    https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag/hag-night/
-  - Made a Simulacrum of Mayhem, which the PCs catch coming with all his gear to kill Seryy
-  - Mayhem convinced them it was a good idea to send him that way, to tip off the PCs
-  - He's already gotten some info on the Queen and her plot, but he needs a rescue to deliver it
 
 
 # Min The Max, etc.

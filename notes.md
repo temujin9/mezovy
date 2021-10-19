@@ -76,6 +76,11 @@ Target CR is 9-11 (ACL+3, ACL+4 if 6+ PCs, ACL+2 if 3 PCs)
   - Trash them utterly, but try not to kill them, and do let them escape
 - Humans stole the Inuk goblinoids thunderbolt iron, leading to their conquest by the fae folk (ala Robert Peary and the Inuit)
 - You put https://en.wikipedia.org/wiki/Sword_Kladenets over the mantle in the first act, you have to use it in the third
+- Mayhem, False and True
+  - Coven of hags ([winter](https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag/winter-hag/), [blood](https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag/hag-blood/), [night](https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag/hag-night/)) CR 11 (-1 due to favorable circumstances of Mayhem distracting if 5- PCs)
+  - Made a Simulacrum of Mayhem, which the PCs catch coming with all his gear to kill Seryy
+  - Mayhem convinced them it was a good idea to send him that way, to tip off the PCs
+  - He's already gotten some info on the Queen and her plot, but he needs a rescue to deliver it
 
 
 # Expies/homages
