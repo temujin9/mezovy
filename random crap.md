@@ -18,6 +18,8 @@
 
 
 # Min The Max, etc.
+- Magic plants are pretty perfect tools for extradimensional elves
+  https://www.reddit.com/r/Pathfinder_RPG/comments/q5x01v/max_the_min_monday_cultivate_magic_plants/
 - Druids can be potion pumps
   https://www.aonprd.com/DruidHerbalism.aspx
 - Soulbound Eye: turns a person into a scrying sensor involuntarily
