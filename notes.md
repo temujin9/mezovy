@@ -21,13 +21,12 @@ Target CR is 9-11 (ACL+3, ACL+4 if 6+ PCs, ACL+2 if 3 PCs)
   Well known historical account of "the First Hobgoblin War" being fought back during Rolobo's era
 
 # Soon
-- Figure out how the limits on bought items should work
-  https://www.d20pfsrd.com/Magic-items/#Purchasing_Magic_Items
+- [Figure out how the limits on bought items should work](https://www.d20pfsrd.com/Magic-items/#Purchasing_Magic_Items)
 - Experience
 - Leaking more fae lore into fae-adjacent PC backgrounds
   - Mezovian taboo against eating mushrooms, too? Only an outsider could notice.
   - (Robert) Portal to a world shaped just like the one you came from
-  - The Old Rites (see religion.txt)
+  - [The Old Rites](religion.md)
   - The existence of the witchlords?
 - Everyone's got combatus interruptus, which isn't good for stability
 - Kat's seeds
@@ -43,7 +42,7 @@ Target CR is 9-11 (ACL+3, ACL+4 if 6+ PCs, ACL+2 if 3 PCs)
 # Further ideas
 - Gahdri wants a wizard duel with a deserving opponent, give him some
   - Standing in the way of becoming a full guild member of Uhlinberg?
-  - Gang of spellcasters ready to duel-bully Gahdri: Delver (blindfighting), Bestial Arcanist (shapeshifter), Lady Frost (kineticist TWF)
+  - Gang of spellcasters ready to duel-bully Gahdri: Delver (blindfighting), Bestial Arcanist (shapeshifter), [Lady Frost](lady%20frost.md)
   - Will push for her to be examined for "witch marks" (strip her nude, prod her familiar)
 - Two villainous groups seeking the same item in the same dungeon as the characters are
 - Rule?: Let players break out of a fear, stun, or charm by accepting a pile of psychic damage (d8 per level of spell)
@@ -60,11 +59,11 @@ Target CR is 9-11 (ACL+3, ACL+4 if 6+ PCs, ACL+2 if 3 PCs)
   - So they are part of a Thieves' Guild, maybe? Which one? One who's pocketed a wizards guild?
 - An army can move through a 20ft portal at roughly 1000 troops per minute
 - What's with all the birds and bird names
-  - https://en.wikipedia.org/wiki/The_Birds_(play) references: Nephelokokkygia aka Cloud-Cookoo-Land
+  - [The Birds](https://en.wikipedia.org/wiki/The_Birds_(play)) references: Nephelokokkygia aka Cloud-Cookoo-Land
   - Maybe one of the more prevalent planes creators is a bird fae
   - Maybe birds and elves/fae/drow are connected somehow
   - The Sea Tsar is a very "turn into birds" story
-  - https://en.wikipedia.org/wiki/Language_of_the_birds
+  - [Language of the birds](https://en.wikipedia.org/wiki/Language_of_the_birds)
 - Corrupt or complicate PC plans
   - Raag wants a halfling enclave / thieves guild
     - Everyone sees it coming because halflings have a larcenous reputation
@@ -85,8 +84,7 @@ Target CR is 9-11 (ACL+3, ACL+4 if 6+ PCs, ACL+2 if 3 PCs)
 
 # Expies/homages
 ## Unused
-- Multiple towers in Prolichia, result of the internicine combat of factions
-  https://en.m.wikipedia.org/wiki/Towers_of_Bologna
+- [(Towers of Bologna)](https://en.m.wikipedia.org/wiki/Towers_of_Bologna) Multiple towers in Prolichia, result of the internicine combat of factions
 - (Mac the Knife) Macheath the Drow Assassin
 - Black List
   - Slick talking gang-lord using law enforcement to take out enemies
@@ -98,14 +96,12 @@ Target CR is 9-11 (ACL+3, ACL+4 if 6+ PCs, ACL+2 if 3 PCs)
   - It's bigger on the inside and all that
 - This is fantasy Russia, there should be at least one badass bear
   - Gnomes revere bears (from Finnish)
-  - (Sir Bearington) Fae-touched bear masquerading as human knight
-    https://imgur.com/m569leN <- Bearington, philosopher
+  - (Sir Bearington) Fae-touched bear masquerading as human knight, [philosopher](https://imgur.com/m569leN)
   - Hobgoblins riding grizzlies
   - Giants with tame polars as dogs
   - Bruin-hilde - female were-bear
 - Downton Abbey
-  - Violet Crawley, Dowager Countess of Grantham - Lawful evil, wields a mean cane, very important and can't be killed lawfully
-    https://downtonabbey.fandom.com/wiki/Violet_Crawley#Quotes
+  - [Violet Crawley, Dowager Countess of Grantham](https://downtonabbey.fandom.com/wiki/Violet_Crawley#Quotes) - Lawful evil, wields a mean cane, very important and can't be killed lawfully
   - Powerful estate, important leaders during the war footing, but generally behind the times
   - Servants a snooping, secrets and intrigues a plenty
   - Do about half a generation earlier (e.g. she's less decrepit, her son is younger and less self-assured)
@@ -123,10 +119,8 @@ Target CR is 9-11 (ACL+3, ACL+4 if 6+ PCs, ACL+2 if 3 PCs)
   - Nehwon - Fafhrd & Grey Mouser, Ningauble Seven-Eyes, Sheelba Eyeless-Face
   - Non-human - no, except as caricatures
   - Norse - Odin & Freke & Gere & Hugin & Munin & Slephnir, Surtr & Thrym
-- (old PC) Tarnek ut Baltor needs to come back, and put a hurt on some spellcasters
-  http://www.pathfindercommunity.net/classes/multiclass-archetypes/barbarian/tribal-champion-barbarian-ranger
-  http://www.pathfindercommunity.net/classes/multiclass-archetypes/ranger/wildheart-warrior-ranger-barbarian
-  https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/paizo-ranger-archetypes/wild-stalker/
+- (old PC) Tarnek ut Baltor needs put a hurt on some spellcasters ([tribal champion](http://www.pathfindercommunity.net/classes/multiclass-archetypes/barbarian/tribal-champion-barbarian-ranger), [wildheart warrior](http://www.pathfindercommunity.net/classes/multiclass-archetypes/ranger/wildheart-warrior-ranger-barbarian), or 
+[wild stalker](https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/paizo-ranger-archetypes/wild-stalker/))
 - (Old Man Henderson) Eli Burning - "MUCKLE DAMRED CULT! 'AIR EH NAMBLIES BE KEEPIN' ME WEE MEN!?!?"
 - (Prydian/Black Cauldron) Undead fae as war commander, followed by legion of doom
 - (Flash's Rogues) high powered villains - wizards (mirrors, fire, weather), rogue, bard, weird monk, exotic weapons fighter
@@ -139,8 +133,7 @@ Target CR is 9-11 (ACL+3, ACL+4 if 6+ PCs, ACL+2 if 3 PCs)
   - Lead by a matriarch: Mother Fugger
 
 ## Used
-- Yassa
-  https://en.wikipedia.org/wiki/Yassa
+- [Yassa](https://en.wikipedia.org/wiki/Yassa)
   - Mongolian secret law, freedom of religion, succession at kuraltai, no peace w/o submission, army rules, great hunt, etc.
   - Important if the PCs want to negotiate peace: the hobgoblins won't accept what the Tzarina would offer
 - Russian history
@@ -180,9 +173,7 @@ Target CR is 9-11 (ACL+3, ACL+4 if 6+ PCs, ACL+2 if 3 PCs)
     - Tsar Zander Kuznetsov - Tsar, "nephew" of Rolobo, Rolobo locks portal in 3rd yr of his reign
     - Tsar Afron, Tsar Kusman, Tsar Dalmat: minor lords defeated in conquest of the realm
       Firebird was Afron's, Horse was Kusman's, Helena was Dalmat's daughter
-    - Firebird - minor magical monster, rejuvenates like a phoenix, now in Vasilisa's possession
-      https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/firebird-kp/
-      https://en.wikipedia.org/wiki/Firebird_(Slavic_folklore)
+    - [Firebird](https://en.wikipedia.org/wiki/Firebird_(Slavic_folklore)) - [minor magical monster, rejuvenates like a phoenix](https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/firebird-kp/), now in Vasilisa's possession
     - Animal speech items for Courtly Hunters are notable among nobility, which will include Kat's character
     - Vasilisa's dress: Mantle of Immortality, formerly her mother's dress
     - Seryy inherited Bozidar's bow (+1 Longshot)
@@ -225,11 +216,11 @@ Target CR is 9-11 (ACL+3, ACL+4 if 6+ PCs, ACL+2 if 3 PCs)
 - Vampire the Masquerade
   - Ghasts and Ghouls as hidden and influential group
   - Civilized Ghoulishness can suppress the stench as free action
-    https://www.aonprd.com/FeatDisplay.aspx?ItemName=Skin%20Suit
-    https://www.d20pfsrd.com/magic/all-spells/a/appearance-of-life/
+    [Skin Suit](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Skin%20Suit)
+    [Appearance of Life](https://www.d20pfsrd.com/magic/all-spells/a/appearance-of-life/)
     vs.
-    https://www.d20pfsrd.com/magic/all-spells/d/detect-undead/
-    https://www.d20pfsrd.com/magic/all-spells/d/deathwatch/
+    [Detect Undead](https://www.d20pfsrd.com/magic/all-spells/d/detect-undead/)
+    [Deathwatch](https://www.d20pfsrd.com/magic/all-spells/d/deathwatch/)
   - Subtly encouraging breeding for flavor (h/t Fridge/Feet of Clay)
   - Powerful ones have found ways to sleep out their hunger, awaiting war
   - Some even manage to become liches, after centuries of work
