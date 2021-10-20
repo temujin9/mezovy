@@ -6,8 +6,8 @@
 - https://en.wikipedia.org/wiki/Turkic_mythology
 - https://en.wikipedia.org/wiki/Tengrism
 - https://en.wikipedia.org/wiki/Mongol_military_tactics_and_organization
--   https://en.wikipedia.org/wiki/Mongol_invasion_of_Europe
--   https://en.wikipedia.org/wiki/History_of_Siberia#Mongol_conquest_of_Southern_and_Western_Siberia
+  - https://en.wikipedia.org/wiki/Mongol_invasion_of_Europe
+  - https://en.wikipedia.org/wiki/History_of_Siberia#Mongol_conquest_of_Southern_and_Western_Siberia
 
 # Used, Will Use Again
 - https://allpoetry.com/poem/14372757-Her-Strong-Enchantments-Failing-by-A-E-Housman
@@ -27,7 +27,7 @@
 
 # Stories I Remember
 - https://tvtropes.org/pmwiki/pmwiki.php/Literature/TheWeeFreeMen
-- - Former servants, now in exile and rebellion
+  - Former servants, now in exile and rebellion
 - https://tvtropes.org/pmwiki/pmwiki.php/Film/TheCraft
 - https://tvtropes.org/pmwiki/pmwiki.php/Literature/TheWitches
 - https://tvtropes.org/pmwiki/pmwiki.php/Anime/SpiritedAway
