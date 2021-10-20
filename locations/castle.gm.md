@@ -52,7 +52,7 @@ XX1 - the well-hidden and blocked passageway to the fourth tower, which is under
     - This is what makes it easy to restore: uses super-expensive, super-durable, hard-to-move Focus
     - Known circle was a site of the last battle of Rolobo and Vasilisa, and both the Ring and Trap spells destroyed
     - Still works for lesser rituals, because not all of the Focus was destroyed
-XX2-5 - the four well-hidden Focuses for the various Rolobo Rituals
+XX2-5 - the four well-hidden Focuses for the various Rolobo Rituals, buried beneath each tower
 XX6 - the Oubliette, focus of bigger Teleport Trap
 
 ## Library of Rolobo

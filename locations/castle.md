@@ -51,7 +51,7 @@ Malik's Quarry is a granite quarry which has recently opened a mine to exploit a
 http://www.paratime.ca/cartography/blue_buildings.html
 
 ## Mystic Defenses
-There's a Permanent Teleport Trap covering the whole castle, leading to the oubliettes on room 8 of the dungeon level. There's also a custom Permanent spell that makes all cold damage strike like cold iron & silver within the castle grounds. There's a well-hidden set of rooms in the basement, covered with Permanent Nondetection and Mage's Private Sanctum. Finally, there are five 
+There's a Permanent Teleport Trap covering the whole castle, leading to the oubliettes on room 8 of the dungeon level. There's also a custom Permanent spell that makes all cold damage strike like cold iron & silver within the castle grounds. There's a well-hidden set of rooms in the basement, covered with Permanent Nondetection and Mage's Private Sanctum. Finally, there are five ice golems in the basement which react to an alarm by stationing defenses.
 
 The defenses are keyed to the lawful ruler of the castle, and the golems will treat the ruler's declared allies as allies.
 
