@@ -147,8 +147,8 @@ Important People:
     Relationships: dislikes The Church
 - Grand Dukes representatives
   - Lord Feliks Novikov of Orarfutaqia Margrave
-    Representing: Grand Duke Marko Vyacheslav Pasternak
-    Relationships: dislikes The Church loves Military Academy dislikes Sat
+    Representing: Grand Duke Markus Venceslav Pasternak
+    Relationships: dislikes The Church loves Military Academy dislikes Thieves Guild
     Massive moustache, loves to waltz (met at the Ball)
   - Lord Tikhon Nikitin of Bereria Margrave
     Representing: Grand Duke Stanislav Fedorov

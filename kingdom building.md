@@ -8,7 +8,7 @@
     If the kingdom’s Unrest is 11 or higher, it loses 1 hex (the leaders choose which hex). See Losing Hexes.
 - Edict
   https://www.d20pfsrd.com/gamemastering/other-rules/kingdom-building/edicts/#:~:text=Table%3A%20Improvement%20Edicts,-Kingdom
-  Next change to claims etc is at Size 50.  
+  Next change to claims etc is at Size 50.
   - Assign Leadership
     Abdicating a Role: If you want to step down from a leadership position, you must find a replacement to avoid incurring the appropriate vacancy penalty for your position. Abdicating a position increases Unrest by 1 and requires a Loyalty check; if the check fails, the vacancy penalty applies for 1 turn while the new leader transitions into that role. If you are the Ruler, abdicating increases Unrest by 2 instead of 1, and you take a –4 penalty on the Loyalty check to avoid the vacancy penalty.
     If you are not the Ruler and are leaving one leadership role to take a different one in the kingdom, the Unrest increase does not occur and you gain a +4 bonus on the Loyalty check to avoid the vacancy penalty.
@@ -28,18 +28,17 @@
 - Event - 25% or 75% if no event
 
 # Who Rolls
-Ruler: Loyalty checks, any checks or edicts not covered by other rulers
-Consort: As Ruler when Ruler is unavailable
-Councilor: Holiday edicts
-General: Kingdom checks for events requiring combat
-Grand Diplomat: Diplomatic edicts (optional rule)
-Heir: Kingdom event rolls
-High Priest: Holiday edicts, rolls to generate magic items from Cathedrals, Shrines, and Temples
-Magister: Rolls to generate magic items not rolled by the High Priest
-Marshal: Exploration edicts (optional rule)
-Royal Enforcer: Loyalty checks to reduce Unrest or prevent Unrest increases
-Spymaster: Kingdom checks involving crime and foreigners
-Treasurer: Economy checks, Taxation edicts, Trade edicts (optional rule)
-Viceroy: Vassalage edicts (optional rule)
-Warden: Stability checks
- 
+- Ruler: Loyalty checks, any checks or edicts not covered by other rulers
+- Consort: As Ruler when Ruler is unavailable
+- Councilor: Holiday edicts
+- General: Kingdom checks for events requiring combat
+- Grand Diplomat: Diplomatic edicts (optional rule)
+- Heir: Kingdom event rolls
+- High Priest: Holiday edicts, rolls to generate magic items from Cathedrals, Shrines, and Temples
+- Magister: Rolls to generate magic items not rolled by the High Priest
+- Marshal: Exploration edicts (optional rule)
+- Royal Enforcer: Loyalty checks to reduce Unrest or prevent Unrest increases
+- Spymaster: Kingdom checks involving crime and foreigners
+- Treasurer: Economy checks, Taxation edicts, Trade edicts (optional rule)
+- Viceroy: Vassalage edicts (optional rule)
+- Warden: Stability checks

@@ -1,6 +1,8 @@
 # A-plot ideas
 - [Heist](http://recedingrules.blogspot.com/2011/05/heist-con-special-mission.html)
 - Opportunism: various scheming groups come out of the woodwork with the war footing
+  - Villain PCs: drow undead shaman, fantasy Afghanistan, tyrant antipaladin, vigilante lord/rogue
+  - NPCs: black dragon, ghastly ecclesiarch
 - Woodland encounters: Young green/white/red dragon, wyverns, griffons, ogres, owlbears, dire boar, roc
 - Dwarf highwaymen: [ranger 7](https://www.d20pfsrd.com/bestiary/npc-s/npcs-cr-6/mountaineer-dwarf-ranger-7/) + 12-16 [warrior 1](https://www.d20pfsrd.com/bestiary/npc-s/npcs-cr-0/recruit-dwarf-warrior-1/) (CR 8-9, K: Local DC 16)
 - Hand out first level NPC characters (city guard), murder the hell out of them, survivor alerts them or they find bodies

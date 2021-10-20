@@ -114,7 +114,7 @@
 - The Gutter's Court: Once upon a time, all the highborn lords and ladies of the land agreed that they could not be bothered dealing with all the troubles presented by the everyday peasant. To remedy this issue, they created the Gutter's Court, a seperate, less powerful court then their own, composed of remarkable peasants that have demonstrated an above average level of loyalty to their respective feudal leader. These peasants are recruited by their feudal lords to handle menial administrative duties as well as provide an additional layer of contact between the nobility and the commoners. The Court is also a tool used for a less innocent purpose. Due to the chosen peasants being the lowborn representatives of their lords, any issues that the lords have with one another are typically resolved through violent retaliation directed towards their proxy. Chosen peasants often make their own plots to seize power in the Gutter's Court, and exceptionally prominent ones may even be taken into their lords house.
 
 
-## Oreskoere 
+## Oreskoere
 - loves Daydah Wizards hates Perin Thieves Guild dislikes Provenkia County
 - Leader: High Magister Yesfir Kozlova
 - Bacot Castle: This fortress complex has thick wooden walls with towers, and a shell keep. It is inhabited by a smuggler named Mira Bacot hiding his wares.
