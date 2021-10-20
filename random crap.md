@@ -132,69 +132,69 @@
   https://docs.google.com/document/d/1G1oa8hQif08qqRdEyMnDVVFAoBN_53uhNcJc4wArQxs/edit
 
 # Good Magic Items
-https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/wayfinder-standard/
-https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Magenta%20Prism
-https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Caltrop%20BeadCold%20Iron
-https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bag-of-everlasting-dung/
-https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/pearl-of-power/
-https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/runestone-of-power/
-https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/slippers-of-cloud-walking/
-https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/carpet-of-flying/
-https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Goz%20Mask
-https://www.d20pfsrd.com/magic-items/rings/saltspray-ring/
-https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-stones/orange-prism-ioun-stone/
-https://www.aonprd.com/MagicAltarsDisplay.aspx?ItemName=Altar%20of%20Nethys
-https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/dueling/
-https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Righteous%20Medal
-https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/goblin-skull-bomb/
-https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/crown-of-swords/
-https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Moonstone%20Cat
-https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/ring-gates/
-https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cloak-of-the-manta-ray/
-https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/migru/
-https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/glove-of-storing/
-https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-the-earth/
-https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/necklace-of-adaptation/
-https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gloves-of-shaping
-https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/lyre-of-building
-https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/apparatus-of-the-crab
-https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-striding-and-springing
-https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gloves-of-reconnaissance/
-https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gloves-of-dueling/
-https://www.d20pfsrd.com/magic-items/rods/rod-of-perilous-pits/
-https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/scabbard-of-vigor/
-https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Magenta%20Prism
-https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Arms%20of%20the%20Marilith
-https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Demon%20Mother%27s%20Mask
-https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=En-Nebi,%20Blade%20of%20the%20Leopard
-https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Bone%20Razor
-https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Deathwatch%20Eyes
-https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Quarterstaff%20of%20Entwined%20Serpents
-https://www.d20pfsrd.com/magic-items/rods/immovable-rod/
-https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Healer%27s%20SatchelSpecialized
-https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/preserving-flask/
-https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cyclops-helm/
-https://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/mage-s-crossbow/
-https://aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Wizard%20Hook
-https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-torch/
-https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=The%20Master%27s%20Name
-https://aonprd.com/MagicArmorDisplay.aspx?ItemName=Mosswater%20Stained%20Leather
-https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bead-campfire/
-https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/shoes-of-lightning-leaping/
-https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Stagger-Proof%20Boots
-https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Amulet%20of%20Quaking%20Strikes
-https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/muleback-cords/
-https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/shirt-unfettered/
-https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Battle%20Strider%27s%20Boots
-https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/kimono-other/
-https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-speed/
-https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/talisman-lesser/
-https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-stones/opalescent-white-pyramid-ioun-stone/
-https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-stones/dusty-rose-prism-ioun-stone/
-https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gloves-first-aid/
-https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/numerology-cylinder/
-https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-jaunt/
-https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Stubborn%20Nail
+- https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/wayfinder-standard/
+- https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Magenta%20Prism
+- https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Caltrop%20BeadCold%20Iron
+- https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bag-of-everlasting-dung/
+- https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/pearl-of-power/
+- https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/runestone-of-power/
+- https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/slippers-of-cloud-walking/
+- https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/carpet-of-flying/
+- https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Goz%20Mask
+- https://www.d20pfsrd.com/magic-items/rings/saltspray-ring/
+- https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-stones/orange-prism-ioun-stone/
+- https://www.aonprd.com/MagicAltarsDisplay.aspx?ItemName=Altar%20of%20Nethys
+- https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/dueling/
+- https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Righteous%20Medal
+- https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/goblin-skull-bomb/
+- https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/crown-of-swords/
+- https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Moonstone%20Cat
+- https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/ring-gates/
+- https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cloak-of-the-manta-ray/
+- https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/migru/
+- https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/glove-of-storing/
+- https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-the-earth/
+- https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/necklace-of-adaptation/
+- https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gloves-of-shaping
+- https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/lyre-of-building
+- https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/apparatus-of-the-crab
+- https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-striding-and-springing
+- https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gloves-of-reconnaissance/
+- https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gloves-of-dueling/
+- https://www.d20pfsrd.com/magic-items/rods/rod-of-perilous-pits/
+- https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/scabbard-of-vigor/
+- https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Magenta%20Prism
+- https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Arms%20of%20the%20Marilith
+- https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Demon%20Mother%27s%20Mask
+- https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=En-Nebi,%20Blade%20of%20the%20Leopard
+- https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Bone%20Razor
+- https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Deathwatch%20Eyes
+- https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Quarterstaff%20of%20Entwined%20Serpents
+- https://www.d20pfsrd.com/magic-items/rods/immovable-rod/
+- https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Healer%27s%20SatchelSpecialized
+- https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/preserving-flask/
+- https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cyclops-helm/
+- https://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/mage-s-crossbow/
+- https://aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Wizard%20Hook
+- https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-torch/
+- https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=The%20Master%27s%20Name
+- https://aonprd.com/MagicArmorDisplay.aspx?ItemName=Mosswater%20Stained%20Leather
+- https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bead-campfire/
+- https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/shoes-of-lightning-leaping/
+- https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Stagger-Proof%20Boots
+- https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Amulet%20of%20Quaking%20Strikes
+- https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/muleback-cords/
+- https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/shirt-unfettered/
+- https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Battle%20Strider%27s%20Boots
+- https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/kimono-other/
+- https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-speed/
+- https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/talisman-lesser/
+- https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-stones/opalescent-white-pyramid-ioun-stone/
+- https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-stones/dusty-rose-prism-ioun-stone/
+- https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gloves-first-aid/
+- https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/numerology-cylinder/
+- https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-jaunt/
+- https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Stubborn%20Nail
 
 
 # Random
@@ -296,27 +296,27 @@ https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Stubborn%20Nail
 - This broadsword was forged by humans and is stylized but practical. The hilt is inset with garnets. It protects the owner from fire. The source of its power is nature. At the moment, it is in scattered pieces.
 - A large carving depicting a message involving the tall, muscular, capricious sister of a legendary heroine and a cauldron. It was done in a highly abstracted style. It is in great condition.
 - Bazaar: quite a few pickpockets, very few beggars
-  Stall 1:  ceremonial armor and chain mail
+  - Stall 1:  ceremonial armor and chain mail
       Quality: very high         Price: very high         Variety: above average
       Haggling: only for the expensive items         Owner: male, apathetic, sneezes often
       Stall Type: tables and wheelbarrows
-  Stall 2:  ritual components
+  - Stall 2:  ritual components
       Quality: below average         Price: below average         Variety: very low
       Haggling: occasionally involves barter         Owner: male, apathetic, mildy racist
       Stall Type: goods piled on the ground
-  Stall 3:  daggers
+  - Stall 3:  daggers
       Quality: low         Price: very low         Variety: high
       Haggling: goes much better for males         Owner: male, welcoming, unusual eye color and a female, spiteful, mildly sexist
       Stall Type: roofed and walled kiosk
-  Stall 4:  nuts and soup
+  - Stall 4:  nuts and soup
       Quality: high         Price: very high         Variety: low
       Haggling: is treated with contempt         Owner: female, young, too much eye contact
       Stall Type: small table with goods piled haphazardly
-  Stall 5:  full plate, bracers and greaves
+  - Stall 5:  full plate, bracers and greaves
       Quality: low         Price: very low         Variety: very high
       Haggling: is only allowed for certain items         Owner: male, drunk, too much eye contact
       Stall Type: wheelbarrow and some baskets
-  Stall 6:  carpentry, honey and hot food
+  - Stall 6:  carpentry, honey and hot food
       Quality: above average         Price: low         Variety: average
       Haggling: is treated with contempt         Owner: female, pessimistic, very masculine and a male, pessimistic, mildy racist
       Stall Type: hand-cart which opens to display wares
