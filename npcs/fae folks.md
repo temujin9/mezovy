@@ -1,5 +1,7 @@
 # Common Types
 - https://www.d20pfsrd.com/races/core-races/gnome/
+- https://www.d20pfsrd.com/bestiary/monster-listings/fey/
+- https://www.d20pfsrd.com/bestiary/monster-listings/fey/wild-hunt/
 - https://www.d20pfsrd.com/bestiary/monster-listings/fey/pooka
 - https://www.d20pfsrd.com/bestiary/monster-listings/fey/redcap/
 - https://www.d20pfsrd.com/bestiary/monster-listings/fey/faun/
@@ -31,9 +33,6 @@
 - https://www.d20pfsrd.com/bestiary/monster-listings/animals/canines/wolf/dire-wolf/
 - https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/worg/
 - https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/worg/worg-elder-2/
-- 
-- https://www.d20pfsrd.com/bestiary/monster-listings/fey/
-- https://www.d20pfsrd.com/bestiary/monster-listings/fey/wild-hunt/
 
 # Notes
 Welsh fae classification - elves, hobgoblins, dwarves, naiads, hags
