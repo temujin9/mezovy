@@ -1,6 +1,6 @@
 aka Ljosalfheimr
 
-Granforgia (dwarven), Boskirhamp (elven) and Compoundia
+Athamberingia, Granforgia (dwarven), Boskirhamp (elven) and Compoundia
 - Most permanent residence is actually on the other side of Portals
 - They have better anti-fae protections, but are also superstitious about sharing
 
