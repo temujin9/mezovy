@@ -7,6 +7,8 @@
 
 
 # Min The Max, etc.
+- Silver Horde!
+  https://www.d20pfsrd.com/classes/core-classes/barbarian/rage-powers/paizo-rage-powers/spring-rage-su/
 - Magic plants are pretty perfect tools for extradimensional elves
   https://www.reddit.com/r/Pathfinder_RPG/comments/q5x01v/max_the_min_monday_cultivate_magic_plants/
 - Druids can be potion pumps
