@@ -2,6 +2,7 @@ https://dysonlogos.blog/400-characters/
 - CR 13: https://dysonlogos.blog/2010/11/10/diablo-ii-skitterstab-nezumi-amazon/
 - CR 15: https://dysonlogos.blog/2010/12/28/devils-players-guide-fruzek-icehunter-mighty-ice-devil-warder/
 - CR 16: https://dysonlogos.blog/2010/01/04/thuffir-ironhelm-dungeons-dragons-3-5/
+
 https://www.d20pfsrd.com/bestiary/npc-s?=%2F%2F/#NPCs_CR_11
 - NPCs (CR 11)
   - Bandit Lord (Human Fighter 8/Rogue 4)

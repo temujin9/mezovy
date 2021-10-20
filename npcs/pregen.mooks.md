@@ -11,6 +11,7 @@ https://dysonlogos.blog/400-characters/
 - https://dysonlogos.blog/2009/03/21/kerith-the-black-scout-of-the-fourth-army/
 - https://dysonlogos.blog/2010/11/08/diablo-ii-vitorra-el-valterra-masked-sorceress/
 - https://dysonlogos.blog/2009/06/06/arcanum-diaglo-half-troll-bounty-hunter/
+
 https://www.d20pfsrd.com/bestiary/npc-s?=%2F%2F/#TOC-NPCs-CR-1-
 - NPCs (CR < 1)
   - Acolyte (Human Adept 1)
