@@ -215,12 +215,7 @@ Target CR is 9-11 (ACL+3, ACL+4 if 6+ PCs, ACL+2 if 3 PCs)
   - "the wormhole" - powerful trod
 - Vampire the Masquerade
   - Ghasts and Ghouls as hidden and influential group
-  - Civilized Ghoulishness can suppress the stench as free action
-    [Skin Suit](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Skin%20Suit)
-    [Appearance of Life](https://www.d20pfsrd.com/magic/all-spells/a/appearance-of-life/)
-    vs.
-    [Detect Undead](https://www.d20pfsrd.com/magic/all-spells/d/detect-undead/)
-    [Deathwatch](https://www.d20pfsrd.com/magic/all-spells/d/deathwatch/)
+  - Civilized Ghoulishness can suppress the stench as free action, [Skin Suit](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Skin%20Suit) or [Appearance of Life](https://www.d20pfsrd.com/magic/all-spells/a/appearance-of-life/) vs. [Detect Undead](https://www.d20pfsrd.com/magic/all-spells/d/detect-undead/) and [Deathwatch](https://www.d20pfsrd.com/magic/all-spells/d/deathwatch/)
   - Subtly encouraging breeding for flavor (h/t Fridge/Feet of Clay)
   - Powerful ones have found ways to sleep out their hunger, awaiting war
   - Some even manage to become liches, after centuries of work
