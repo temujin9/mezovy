@@ -27,7 +27,7 @@
 
 
 - Goblin witches riding yeth hounds
-  Yeth Hound: CR 3, XP 800; NE Medium Outsider (evil, extraplanar); Init +6; Senses darkvision 60 ft., scent; Perception +9; AC 15, touch 12, flat-footed 13 (+2 Dex, +3 natural); hp 30 (4d10+8); Fort +3, Ref +6, Will +6; DR 5/silver; Speed 40 ft., fly 60 ft. (good); Melee bite +7 (2d6+4 plus sinister bite and trip); SA bay; Str 17, Dex 15, Con 15, Int 6, Wis 14, Cha 10; Base Atk +4, CMB +7, CMD 19 (23 vs. trip)
+  - Yeth Hound: CR 3, XP 800; NE Medium Outsider (evil, extraplanar); Init +6; Senses darkvision 60 ft., scent; Perception +9; AC 15, touch 12, flat-footed 13 (+2 Dex, +3 natural); hp 30 (4d10+8); Fort +3, Ref +6, Will +6; DR 5/silver; Speed 40 ft., fly 60 ft. (good); Melee bite +7 (2d6+4 plus sinister bite and trip); SA bay; Str 17, Dex 15, Con 15, Int 6, Wis 14, Cha 10; Base Atk +4, CMB +7, CMD 19 (23 vs. trip)
   Skills and Feats: Fly +16, Perception +9, Stealth +9, Survival +9; Improved Initiative, Skill Focus (Fly)
   - https://www.d20pfsrd.com/classes/base-classes/witch/hexes/hexes/common-hexes/mud-witch-su/
   - https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/stingchuck - rotten skull filled with biting insects
