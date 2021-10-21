@@ -20,7 +20,7 @@ A Royal Wizard spy has planted Calling Cards in hidden places (throne room, cast
     If the kingdom’s Unrest is 11 or higher, it loses 1 hex (the leaders choose which hex). See Losing Hexes.
 - Edict
   https://www.d20pfsrd.com/gamemastering/other-rules/kingdom-building/edicts/#:~:text=Table%3A%20Improvement%20Edicts,-Kingdom
-  Next change to claims etc is at Size 50.  
+  Next change to claims etc is at Size 50.
   - Assign Leadership
     Abdicating a Role: If you want to step down from a leadership position, you must find a replacement to avoid incurring the appropriate vacancy penalty for your position. Abdicating a position increases Unrest by 1 and requires a Loyalty check; if the check fails, the vacancy penalty applies for 1 turn while the new leader transitions into that role. If you are the Ruler, abdicating increases Unrest by 2 instead of 1, and you take a –4 penalty on the Loyalty check to avoid the vacancy penalty.
     If you are not the Ruler and are leaving one leadership role to take a different one in the kingdom, the Unrest increase does not occur and you gain a +4 bonus on the Loyalty check to avoid the vacancy penalty.
@@ -54,6 +54,4 @@ Spymaster: Kingdom checks involving crime and foreigners
 Treasurer: Economy checks, Taxation edicts, Trade edicts (optional rule)
 Viceroy: Vassalage edicts (optional rule)
 Warden: Stability checks
-
-
 
