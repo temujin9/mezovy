@@ -50,4 +50,4 @@ She also desires a wedding for her son which will confirm his rightful place as 
 - Make Vasilisa's retributive strike abilities clear, so PCs know a sacrifice is being called for, keep details hazy
  
 # Next
-- Moriloran Occultism is run by undead, head of the cult is aiming to make himself a lich with 
+- Moriloran Occultism is run by undead, head of the cult is aiming to make himself a lich with mushroom magic
