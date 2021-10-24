@@ -31,7 +31,8 @@ Notes:
 - Plans to become a dread lich soon
 - "A dread lich can also make another nonliving creature, except another dread lich, as its phylactery via the use of powerful magic such as wish or miracle."
 - Mushrooms count as undead enough for this purpose.
-- Ala [Aumvor's fragmented phylactery](https://forgottenrealms.fandom.com/wiki/Aumvor%27s_fragmented_phylactery), but done as a powerful occult ritual
+- Armillaria ostoyae - 3.5 sq mi., 35kton mushroom
+- Intends to add mushrooms on other planes, ala [Aumvor's fragmented phylactery](https://forgottenrealms.fandom.com/wiki/Aumvor%27s_fragmented_phylactery)/Voldemort, but done as a powerful occult ritual
 - Result: "You cannot kill me in any way that matters."
 
 
