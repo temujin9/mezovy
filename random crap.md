@@ -9,6 +9,8 @@
 
 
 # Min The Max, etc.
+- Hobgoblins: good with bombs, disciplined, etc
+  https://www.reddit.com/r/Pathfinder_RPG/comments/qe4cbn/is_it_just_me_or_do_hobgoblins_seem_kinda_weak/
 - Silver Horde!
   https://www.d20pfsrd.com/classes/core-classes/barbarian/rage-powers/paizo-rage-powers/spring-rage-su/
 - Magic plants are pretty perfect tools for extradimensional elves
