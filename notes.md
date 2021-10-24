@@ -1,20 +1,23 @@
 Target CR is 9-11 (ACL+3, ACL+4 if 6+ PCs, ACL+2 if 3 PCs)
 
-# Next
-- Kingdom Building + Planning
-- Seryy's parting speech:
-  "We had a great . . . whatchacallit, where you fuck around and find out? . . . Experiment! We had a great experiment here. Please keep it going."
-- Seed all the plot hooks
+# Tomorrow
+- Give Dylan access to a Royal Guild card deck, with apologies for "gathering necessary info in these uncertain times"
+- Seed current villain plot hooks
   - Event: [Berko's envoy arrives in the court](pcs/villains/Berko%20of%20the%20Yutch.md)
-  - News: [Seryy has news of a weird low-level demon incursion, and too many people to help himself](pcs/villains/Oilester%20Bolech.md)
-  - 
+  - News: [Seryy tells of weird low-level demons in Rovenk, and can't spare people right now](pcs/villains/Oilester%20Bolech.md)
+- Get next adventure figured out
+
+# Next
+Kingdom Building + Planning
+- Seryy's parting speech:
+  "We had a great . . . what do the alchemists call it, where you fuck around and find out? . . . Experiment! We had a great experiment here. Please keep it going."
 - Other hooks as appropriate
   - News: ice giants with flaming flying hounds have struck northern Moriloro
   - News: Gooses' work results in a growing "little" population . . . but they want their own town (and no goblins)
   - Rumor: flower deliveries
+  - K: History DC 15: "and they were driven to the ends of the earth, to the seas of sunrise and sunset, and away over them"
+    Well known historical account of "the First Hobgoblin War" being fought back during Rolobo's era
 - Character: What would your character die to protect?
-- K: History DC 15: "and they were driven to the ends of the earth, to the seas of sunrise and sunset, and away over them"
-  Well known historical account of "the First Hobgoblin War" being fought back during Rolobo's era
 
 # Soon
 - Rumor: big fucking spells being cast on NE areas that resist the Queen (perm. Lost Locale, Curse Terrain)
@@ -130,6 +133,7 @@ Target CR is 9-11 (ACL+3, ACL+4 if 6+ PCs, ACL+2 if 3 PCs)
   - Lead by a matriarch: Mother Fugger
 
 ## Used
+- (Amber) Trump cards - how the Royal Wizards communicate
 - [Yassa](https://en.wikipedia.org/wiki/Yassa)
   - Mongolian secret law, freedom of religion, succession at kuraltai, no peace w/o submission, army rules, great hunt, etc.
   - Important if the PCs want to negotiate peace: the hobgoblins won't accept what the Tzarina would offer

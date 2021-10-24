@@ -1,5 +1,6 @@
 Character: Berko of the Yutch
 Player: longerthanbefore
+Class: Rogue
 
 Highlanders with control of the main trading pass south and access to a trod.
 
