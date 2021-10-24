@@ -1,7 +1,7 @@
 # Jesse's Eidolon
 - Size Small
 - Speed 40 ft / 40ft fly (good)
-- 8d10 hp
+- HD 8d10 (44hp)
 - AC 21
 - CMD 19
 - Fort +6
