@@ -111,4 +111,4 @@ XX6 - the Oubliette, focus of bigger Teleport Trap
   - Key is in a secret phrase Seryy was taught as a child ("the second sign is the blue blood")
   - Has a ritual that gives SR to *everything* in its area for a fortnight
   - Also causes subzero temperatures regardless of season
-  - Would be a massive secret weapon to either side, which is why The Queen wanted it
+  - Would be a massive secret weapon to either side
