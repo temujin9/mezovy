@@ -81,7 +81,7 @@ XX6 - the Oubliette, focus of bigger Teleport Trap
       - Ice Crystal Teleport
       - True Seeing
     - 64 7th = 50% of 128
-      - -Teleport Trap-
+      - ~~Teleport Trap~~
     - 24 8th = 30% of 79
       - Polar Ray (8th)
     - 7 9th = 10% of 71
