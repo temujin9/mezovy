@@ -63,7 +63,7 @@ XX6 - the Oubliette, focus of bigger Teleport Trap
   - Mending will clean them up, but doesn't understand page order
   - Between the original decay and the old treasurer ransacking, quite out of order
   - Allow one roll for each column, one week apiece, separate from your kingdom duties
-- -DC 0: Renewal for Ritual version of Teleport Trap-
+- ~~DC 0: Renewal for Ritual version of Teleport Trap~~
   - Renewable within places already cast, like the palace grounds (Rolobo laid the foundations)
   - Difficult and time consuming ritual, but not expensive
   - Big enough to cover a structure, not enough to cover a land
@@ -73,7 +73,7 @@ XX6 - the Oubliette, focus of bigger Teleport Trap
   - All abjuration, anything with Ice in the name or descriptors
   - Figure rest as for newly 17th level Wizard: 
     - 100% of 4th or below
-      - -Hold Person-
+      - ~~Hold Person~~
     - 90% of 5th
       - Cold Iron Fetters
       - Fabricate
@@ -87,7 +87,7 @@ XX6 - the Oubliette, focus of bigger Teleport Trap
     - 7 9th = 10% of 71
       - -Mage's Disjunction-
 - DC 20+: Rituals (these DCs are not the performance DCs, which should be set separately)
-  - -DC 20: Permanent Teleport Trap (difficult, time, and expensive: lots of cold iron and silver)-
+  - ~~DC 20: Permanent Teleport Trap (difficult, time, and expensive: lots of cold iron and silver)~~
     - Can be applied to other castles, etc with time, materials etc. (+X BP)
   - DC 20: Permanent Mage's Private Sanctum (difficult, time, and expensive: lots of cold iron and silver)
     - DC 35 Spellcraft, -5 for each instance of it: huh . . . it seems like the *same* focus could be used for these
@@ -97,13 +97,13 @@ XX6 - the Oubliette, focus of bigger Teleport Trap
   - DC 30: Protection From Spells (difficult, 500gp, 1kgp focus per target)
   - DC 35: Permanent Symbol of Vulnerability (time consuming, 40kgp)
 - DC 20+: Nearly untranslatable portions contain shorthand-laden journals
-  - -DC 21: Didn't die childless, also fathered the current Kuznetsov clan via his brother's wife-
+  - ~~DC 21: Didn't die childless, also fathered the current Kuznetsov clan via his brother's wife~~
   - DC 21: There was once a fourth gatetower, where "I first met The Lady Fair"
   - DC 22: Rolobo got fucked and dumped by Vasilisa
   - DC 26: Details her basic nature, fae witch enchantress
-  - -DC 27: Ends rather abruptly, because he stopped updating it when she killed him-
-  - -DC 27: The fourth tower was buried to protect Velerolobo-
-  - -DC 36: The rituals are actually poorly centered, and could be extended and solidified if the four Focuses are located-
+  - ~~DC 27: Ends rather abruptly, because he stopped updating it when she killed him~~
+  - ~~DC 27: The fourth tower was buried to protect Velerolobo~~
+  - ~~DC 36: The rituals are actually poorly centered, and could be extended and solidified if the four Focuses are located~~
   - DC 40: Notes about Codex Praestabilis Bruma he's writing, clue to Seryy knowing second key
 - Codex Praestabilis Bruma: "The Book of Preeminent Frost"
   - Probably still in order, which is a small blessing
