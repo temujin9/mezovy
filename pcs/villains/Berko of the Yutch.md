@@ -1,6 +1,7 @@
 Character: Berko of the Yutch
 Player: longerthanbefore
 Class: Rogue
+Group: the Yutch
 
 Highlanders with control of the main trading pass south and access to a trod.
 
@@ -13,3 +14,4 @@ Leader-of-the-people type character.
     Forever grateful,
     Berko of the Yutch
 
+Got help from Yarik who hired an assassin, not understanding that the cousin whose eye they took stood next in line to the Yutesh throne. The prior Count Yutesh hushed up loss of the direct heir to the simulacrum hags.

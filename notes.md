@@ -1,7 +1,9 @@
 Target CR is 9-11 (ACL+3, ACL+4 if 6+ PCs, ACL+2 if 3 PCs)
 
 # Soon
+- \[Villains\] Figure out who the worst polluter in Mezovy is
 - \[Villains\] Tell Daydah and Orarfutaquia about the recent Lizardmen
+- \[Villains\] Orarfutaqia Thieves Guild under new and brutal management, one of the fleeing ones makes it to Velerolobo
 - Kingdom Building + Planning
   - Seryy's parting speech:
     "We had a great . . . what do the alchemists call it, where you fuck around and find out? . . . Experiment! We had a great experiment here. Please keep it going."

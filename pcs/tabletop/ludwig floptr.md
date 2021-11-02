@@ -1,6 +1,3 @@
-https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/preserving-flask/
-
-
 "General Mayhem"
 
 Str 10  +0
@@ -63,10 +60,7 @@ Feats
   Fast Learner - +1hp and +1 skill point per favored level
   Improvisation - +2 to unknown skills
   Improved Improvisation - halve unskilled penalty for unskilled equipment, +4 on unknown skills
-  Combat Stamina - 9pt pool of stamina, can use for up to +5 on an attack after roll, also synergies
-    Combat Reflexes - 5pts to second-try an AoO at -5
-    Vital Strike - 2pts to reroll 2 damage dice
-    Weapon Finesse - 2pts to avoid shield penalty to finesse attack
+  Improved Caster Level - +4 CL to extracts
 Traits
   Elven Reflexes - +2 to initiative
   Lucky Tattoo - roll with advantage, once per game session (Simargl, god of luck & drunks)
@@ -124,9 +118,7 @@ Skills:
     Animal Calls     10 =         +2 (calls) +2 (prepared)
   Swim                6 = 0 +0 +6
   Use Magic Device    7 = 0 +1 +6
-Extracts: 2x day
-  Long Arm - +5ft reach, 1 min
-  Enlarge Person - become Large, +2 Str, -2 Dex, -1 AC, +5ft reach, 10ft space, weapon die increase, 1 min
+Extracts: 2x day, both unprepared; 1 min prep for any formula, or to refill Preserving Flasks after use
 Formula
   Blend - +4 to Stealth and can Stealth w/o concealment, only while at 1/2 speed, 10 min, broken by attack
   Blurred Movement - blur while moving, or all turn if move 2x normal speed, 1 min
@@ -141,7 +133,7 @@ Formula
   Heightened Awareness - +2 to Perception and Knowledge, 10 min, dismiss for +4 initiative
   Identify - Detect Magic and +10 to Spellcraft to identity item, 3 rounds
   Jump - +10 to Acrobatics to jump, 1 min
-  Long Arm - +5ft reach, 1 min
+  Long Arm - +5ft reach, 5 min
   Monkey Fish - 10ft climb and swim speeds, only in light armor, 1 min
   Negate Aroma - can't be tracked by Scent, 1hr
   Obscure Poison - DC 16 CL check to Detect Poison, +10 DC for Alchemy or Wisdom to identify, 1hr
@@ -163,9 +155,9 @@ Hat of Disguise, hiding
     Gauntlets, +8, d3 w/ 2x Drow Poison
   Handy Haversack, 5lbs, carries 120lbs
   Efficient Quiver, 2lbs, holds 60 arrows, 18 javelin, 6 bows
-  2x Speed sheaths, retrieve as swift
-    Bountiful Bottle with a potion of CL 15 Cure Serious Wounds (3d6+15 hp), 6250gp
+  2x Spring-loaded Wrist Sheath, retrieve as swift
     Potion of Invisibility
+    Potion of Cure Moderate Wounds - heal 2d8+3 (19hp)
 Belt of Dexterity +2, 4000gp
 Sword-cane, +11, d6+2, x2, DC 20 Perception to recognize as weapon
 Shield Cloak - turn into masterwork light shield as move (drop as free), +1 AC
@@ -195,7 +187,7 @@ Paddle-foot, +11, 1d8, 20ft (range or cone), 1-2 (5ft), 4 shots (bullet, scatter
   Wand of Detect Good, 48 charges, UMD DC 20
   Wand of Magic Stone, 49 charges, UMD DC 20
 - 18 "Javelins"
-  (Sword-cane [social] or dueling daggers and rapier [vigilante], when not in use)
+  (Sword-cane \[social\] or dueling daggers and rapier \[vigilante\], when not in use)
   2x Pilum & Amentum, 40ft, +11, 1d8, hit also neutralizes shield AC (standard to remove)
   Cat-o-nine-tails, +11, 1d4+2 nonlethal, x2, disarm
   Sap, +11, 1d6+2 nonlethal, x2
@@ -215,7 +207,7 @@ Paddle-foot, +11, 1d8, 20ft (range or cone), 1-2 (5ft), 4 shots (bullet, scatter
   Balancing Pole, +1 to balance, +2 to pole-vault
 
 ## In Haversack
-(Drinking horn and paddle-foot [vigilante], when not in use)
+(Drinking horn and paddle-foot \[vigilante\], when not in use)
 (Brilliant Planner payload, 20lbs, see below)
 50ft of hemp rope
 50ft of silk rope
@@ -232,6 +224,11 @@ Healer's Kit, +2 to Heal, 10 uses
 22x Lamp oil
 2x Scent cloak, track DC +10 for 24 hours
 
+Preserving Flask (1st) - Enlarge
+Preserving Flask (1st) - Long Arm
+Preserving Flask (1st) - Cure Light Wounds, 1d8+5 (13hp)
+Preserving Flask (1st) - left open for brilliant planner
+
 Tanglefoot bag, +11, entangle, DC 15 or glued in place, DC 17 Str to free, DC 15+SL Concentrate to cast, 2d4 rounds
 Poisons
   Drow Poison (5x unapplied), Fort DC 13, 2x 1/minute, 1 save, unconscious 1 minute / unconscious 2d4 hours
@@ -244,7 +241,6 @@ Oil of Magic Weapon
 2x Oil of Purify Food and Drink
 Potion of Acute Senses
 Potion of Blur
-Potion of Cure Moderate Wounds
 Potion of Enlarge Person
 2x Potions of Expeditious Retreat
 Potion of Hide from Animals
@@ -260,8 +256,7 @@ Scholars outfit and powdered wig
 Alchemist's Lab, +2 to Alchemy
 3900ft of twine (39lbs)
 
-2160gp @ 2021-07-23
-
+4415gp @ 2021-07-23
 
 
 # Always Prepared
@@ -269,6 +264,7 @@ Alchemist's Lab, +2 to Alchemy
 24 hours prep, costs 20lbs and 600gp
 2x weighs less than 10lbs, total cost less than 600gp, pull with 1 min prep
 ### Options
+Preserving Flask - 0gp, any formulae I know
 Perfume Kit - 40gp, +1 to one of Bluff, Diplomacy, Disguise, Handle Animal, Intimidate, or Perform, 10 uses
 Climber's Kit - 80gp, +2 to Climb
 Tanner's Kit - 10gp, +5 to Craft (Leather)
@@ -309,19 +305,21 @@ One in Puryev (2500gp)
 # Later
 8th level
   Mockingbird - at-will ghost sound, ventriloquism, vocal alteration (self only)
-
-Feats: @9th, @11th
-  Practiced Alchemist - +4 CL to extracts
-Vigilante talents: @9th, @11th
+9th level
+  Combat Stamina - 9pt pool of stamina, can use for up to +5 on an attack after roll, also synergies
+    Combat Reflexes - 5pts to second-try an AoO at -5
+    Vital Strike - 2pts to reroll 2 damage dice
+    Weapon Finesse - 2pts to avoid shield penalty to finesse attack
   Sweeping Shot - Ranged Trip, Ace Trip @ 6th
-  Vital Training - @11th, Improved Vital Strike, Greater at 14th
-Social Talents: @10th
+10th level
   Hidden Magic - constant Magic Aura, Greater @11th
+11th level
+  Vital Training - Improved Vital Strike, Greater at 14th
+  ??? Feat
 
 Pepperbox, 1500gp, 1d8, 20ft, 1-2 (5ft), 6 shots (bullet or alchemical)
-Bountiful Bottle with a potion of Contingent Cure Light Wounds (1d6+5 hp), 4750gp - fires if at 1/4 HP
 1/day spell-trigger Paragon Surge 4.5kpg - add any one Feat & +2 Dex & Int
 Poisoner's gloves 5kgp, add potions
+Bountiful Bottle with a potion of CL 15 Cure Serious Wounds (3d6+15 hp), 6250gp
 Ring of Chameleon, +10 to Stealth, +10 to Disguise, 12700gp
 Impact - +2, +1d6 as if bigger size, always on (18kgp)
-

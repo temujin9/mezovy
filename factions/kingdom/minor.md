@@ -41,7 +41,6 @@
 - Velorolobo half-orcs
 - Yutesh elves
 
-
 # Other minor groups
 - Mercenary companies (often half-orc)
 - Mundane guilds
