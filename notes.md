@@ -74,6 +74,7 @@ Target CR is 9-11 (ACL+3, ACL+4 if 6+ PCs, ACL+2 if 3 PCs)
   - Made a Simulacrum of Mayhem, which the PCs catch coming with all his gear to kill Seryy
   - Mayhem convinced them it was a good idea to send him that way, to tip off the PCs
   - He's already gotten some info on the Queen and her plot, but he needs a rescue to deliver it
+- Fae folk piloting warforged like mech-suits against humans
 
 
 # Expies/homages

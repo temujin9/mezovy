@@ -32,7 +32,7 @@ Saves
   Will           5 = 0 +5 +0
 HP              45
   Stupor        53
-  Current       -0
+  Current      -39
 
 Half-elf
   Reflexive Improvisation - +2 racial bonus on untrained skill checks, replaces adaptability and multitalented
@@ -49,7 +49,7 @@ Vigilante 6
   Avenger Specialization - BAB as fighter
   Social Talents
     Always Prepared (LVV) - eschew tools, or extra bonuses for having them (+2 to regular or masterwork)
-    Always Prepared (CoL) - 100*CL gp in "define later" items weighing 20lbs or less, 500*CL gp in stash
+    Always Prepared (CoL) - 100xCL gp in "define later" items weighing 20lbs or less, 500xCL gp in stash
     Many Guises - third guise as "mundane NPC"
   Vigilante Talents
     Lethal Grace - Weapon Finesse, +1/2 vigilante to damage
@@ -157,7 +157,6 @@ Hat of Disguise, hiding
   Efficient Quiver, 2lbs, holds 60 arrows, 18 javelin, 6 bows
   2x Spring-loaded Wrist Sheath, retrieve as swift
     Potion of Invisibility
-    Potion of Cure Moderate Wounds - heal 2d8+3 (19hp)
 Belt of Dexterity +2, 4000gp
 Sword-cane, +11, d6+2, x2, DC 20 Perception to recognize as weapon
 Shield Cloak - turn into masterwork light shield as move (drop as free), +1 AC
@@ -178,7 +177,7 @@ Paddle-foot, +11, 1d8, 20ft (range or cone), 1-2 (5ft), 4 shots (bullet, scatter
   4x thistle arrows, bleed for 1d6 rounds, move & 1d3 damage or standard Heal DC 12 to remove, w/ Fire Jackal Saliva
   19x arrows
   Alchemical Cartridges
-    6x Dragoon
+    5x Dragoon
     Dragoon (Pitted), poison w/ save DC -2, w/ Fire Jackal Saliva
     5x Entangling, +2 misfire, scatter, 1/2 damage, DC 15 Ref or entangled 2d4 rounds
     2x Salt, +1 misfire, scatter, nonlethal damage
@@ -316,6 +315,9 @@ One in Puryev (2500gp)
 11th level
   Vital Training - Improved Vital Strike, Greater at 14th
   ??? Feat
+
+
+3x Potion of Cure Moderate Wounds - heal 2d8+3 (19hp)
 
 Pepperbox, 1500gp, 1d8, 20ft, 1-2 (5ft), 6 shots (bullet or alchemical)
 1/day spell-trigger Paragon Surge 4.5kpg - add any one Feat & +2 Dex & Int

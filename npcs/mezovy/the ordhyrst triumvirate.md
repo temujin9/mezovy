@@ -52,16 +52,19 @@ Int 16 = 14+2(Human)
 Wis 18 = 15+3(Levels)
 Cha 14
 
-Shaman 4/Empyreal Blood Arcanist 1/Theurge 10
-Casts as Shaman 14th/Arcanist 11th
+Reincarnated Druid 5/Empyreal Blood Arcanist 1/Theurge 10
+Casts as Shaman 15th/Arcanist 11th (CL 15)
 Precocious Apprentice - arcane 1st can cast arcane 2nd, but chance of spell failure
 Feat: Improved Caster Level
 https://www.aonprd.com/FeatDisplay.aspx?ItemName=Cultivate%20Magic%20Plants
-https://www.d20pfsrd.com/magic/all-spells/h/harvest-season/
-https://www.d20pfsrd.com/magic/all-spells/a/awaken/
-https://aonprd.com/MagicPlantsDisplay.aspx?FinalName=Palm%20of%20Decadent%20Feasts
-https://aonprd.com/MagicPlantsDisplay.aspx?FinalName=Tree%20of%20Knowledge
-https://www.d20pfsrd.com/magic-items/magic-plants/#Fireapple_Tree
-https://www.aonprd.com/MagicPlantsDisplay.aspx?FinalName=Portal%20Oak
-
-Awakened Council of Portal Oaks: kinda like a TARDIS?
+  https://www.d20pfsrd.com/magic/all-spells/h/harvest-season/
+    https://aonprd.com/MagicPlantsDisplay.aspx?FinalName=Palm%20of%20Decadent%20Feasts
+    https://aonprd.com/MagicPlantsDisplay.aspx?FinalName=Tree%20of%20Knowledge
+    https://www.d20pfsrd.com/magic-items/magic-plants/#Fireapple_Tree
+  https://www.aonprd.com/MagicPlantsDisplay.aspx?FinalName=Portal%20Oak
+    https://www.d20pfsrd.com/magic/all-spells/a/awaken/
+  Awakened collection of Portal Oaks: kinda like a TARDIS?
+Many Lives: once weekly resurrection
+  https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Black%20Soul%20Shard make it free
+  Amulet of Continuous Contingency (73.5kgp=6x12x2000*0.5+1500gp), with Reincarnate cast into it
+  

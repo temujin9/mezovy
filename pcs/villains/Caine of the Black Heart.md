@@ -1,6 +1,6 @@
 Character: Marduke Marcus Venceslav Pasternak of Orarfutaqia Margrave
 Player: caine
-Class: Tyrant Antipaladin/Vigilante
+Class: Tyrant Antipaladin 3/Vigilante 11
 Group: ???
 Alias: Caine of the Black Heart
 

@@ -9,6 +9,8 @@
 
 
 # Min The Max, etc.
+- Antiquarian Natural Attack Investigator: arcane spells up to 6th, no ASF
+  https://www.reddit.com/r/Pathfinder_RPG/comments/qmrwvh/natural_attack_investigator/
 - Hobgoblins: good with bombs, disciplined, etc
   https://www.reddit.com/r/Pathfinder_RPG/comments/qe4cbn/is_it_just_me_or_do_hobgoblins_seem_kinda_weak/
 - Silver Horde!
