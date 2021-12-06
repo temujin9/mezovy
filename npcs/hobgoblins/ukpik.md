@@ -2,12 +2,12 @@ Ukpik daan Deraan (The Wise Owl)
 aka Scandiacus of Styerrabrae
 CR 18 Hobgoblin King (Fey Owl 6 + Bard 11 + PC Wealth 1)
 
-Str  16 +3 (20-2, -4 variance, +2 in hobgoblin form)
-Dex  22 +5 (15+4, +2 variance, +1 level)
+Str  16 +3 (20, -2 fey, -4 variance, +2 in hobgoblin form)
+Dex  22 +5 (15, +4 fey, +2 variance, +1 level)
 Con  16 +3 (18, -2 variance)
-Int  16 +3 (14+2)
+Int  16 +3 (14, +2 fey)
 Wis  17 +3 (17)
-Cha  22 +5 (9+2, +4 variance, +1 level, +6 from Headband)
+Cha  22 +5 (9, +2 fey, +4 variance, +1 level, +6 from Headband)
 
 N Fey Giant Owl (CR 5+1)
 - Telepathy, 30ft, animals

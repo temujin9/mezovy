@@ -1,3 +1,10 @@
+Robert
+Gallows
+Dylan
+Kat
+Goose
+
+
 News: Zvezdana of Bebia's army got crushed
 
 Dylan becomes Viceroy, Robert becomes Spymaster

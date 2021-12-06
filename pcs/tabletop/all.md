@@ -5,8 +5,9 @@ Regulars
 - Raag
 
 Irregulars
-- Avsolom
+- Absolom
 - Alaric (Jerry)
 - Shiny
 - ??? (Puppy's Cossack)
-- Hellstrom
+- Heleward
+- Fendil Overhill

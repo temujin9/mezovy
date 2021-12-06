@@ -1,38 +1,41 @@
 Ragnar Osmund
 
 Str 14 (+2)
-Dex 18 (+4) = 14+2(elf)+2(Belt)
+Dex 20 (+5) = 14+2(elf)+2(Belt)+2(levels)
 Con 10 (+0) = 12-2(elf)
 Int 16 (+3) = 14+2(elf)
 Wis 8  (-1)
 Cha 14 (+2)
 
 Stats
-- Init        +7 = +4(Dex)+2(Reactionary)+1(Ioun)
-- BAB         +5
-  Melee       +7 = +5+2(Str)
-  Finesse     +9 = +5+4(Dex)
-  Ranged      +9 = +5+4(Dex)
-- AC          20 = 10+5(Chain)+4(Dex)+1(Ring)
-- CMD         17 = 10+2(Str)+4(Dex)+1(Ring)
-- Saves
-  Fort        +4 = +2(Rogue)+0(Con)+2(Cloak)
-  Ref        +12 = +5(Rogue)+5(Dex)+2(Cloak)
-  Will        +3 = +2(Rogue)-1(Wis)+2(Cloak)
-- Hit points  35 = 8+6d8
+- Init          +8 = +5(Dex)+2(Reactionary)+1(Ioun)
+- BAB        +6/+1
+  Melee      +8/+3 = +6+2(Str)
+  Finesse   +11/+6 = +6+5(Dex)
+  Ranged    +11/+6 = +6+5(Dex)
+- AC            21 = 10+5(Chain)+5(Dex)+1(Ring)
+- CMD           18 = 10+2(Str)+5(Dex)+1(Ring)
+- Saves     
+  Fort          +4 = +2(Rogue)+0(Con)+2(Cloak)
+  Ref          +13 = +6(Rogue)+5(Dex)+2(Cloak)
+  Will          +3 = +2(Rogue)-1(Wis)+2(Cloak)
+- Hit points    39 = 8+7d8
 
 Unchained Rogue 7th
 - Sneak Attack +4d6
 - Danger Sense +2 - adds to Reflex and dodge AC vs traps, Perception to avoid surprise
 - Debilitating Injury - bewildered (-2 AC, -2 vs rogue), bewildered (-2 to hit, -2 vs rogue), hampered (half move)
 - Archetype: Scout
+  - Scout’s Charge - charge gives sneak attack
+  - Skirmisher - 10ft move gives sneak attack
 - Archetype: Underground Chemist
   - Chemical Weapons - +Int (+3) to damage with splash attacks
   - Precise Splash Weapons - Sneak attack with first splash weapon a round
 - Rogue's Edge (Stealth)
-  - Scout’s Charge - charge gives sneak attack damge
-- Talent: Certainty (Stealth) - reroll one Stealth check per day, take better
-- Talent: Bleeding Attack - sneak attack also deals 4 bleed
+- Talents:
+  - Canny Observer - +4 Perception to hear conversation details or find hidden objects
+  - Certainty (Stealth) - reroll one Stealth check per day, take better
+  - Bleeding Attack - sneak attack also deals 4 bleed
 
 Fire Elf
 - +2 Dex, +2 Int, -2 Con
@@ -51,19 +54,21 @@ Reactionary - +2 to initiative
 Inspired - reroll skill/ability 1/day
 
 # Skills
-Acrobatics         14 = 7+3(class)+4(Dex)
-Bluff              12 = 7+3(class)+2(Cha)
-Craft (Alchemy)    16 = 7+3(class)+3(Int)+3(Chemist)
-Climb              12 = 6+3(class)+2(Str)
-Disable Device     14 = 7+3(class)+4(Dex)
-Knowledge (Local)  15 = 7+3(class)+3(Int)+2(Breadth)
+Acrobatics         16 = 8+3(class)+5(Dex)
+Bluff              13 = 8+3(class)+2(Cha)
+Craft (Alchemy)    17 = 8+3(class)+3(Int)+3(Chemist)
+Climb              13 = 8+3(class)+2(Str)
+Disable Device     16 = 8+3(class)+5(Dex)
+Knowledge (Local)  16 = 8+3(class)+3(Int)+2(Breadth)
 Knowledge (*Any*)   5 = 0+3(Int)+2(Breadth)
-Linguistics        12 = 7+3(class)+3(Int)
-Perception         12 = 7+3(class)-1(Wis)
+Linguistics        14 = 8+3(class)+3(Int)
+Perception         10 = 8+3(class)-1(Wis)
+  Surprise         12 = +2 (Danger Sense)
+  Canny Observer   14 = +4 (conversation, hidden objects)
 Profession (*Any*)  1 = 0-1(Wis)+2(Breadth)
-Sense Motive       12 = 7+3(class)-1(Wis)
-Sleight of Hand     8 = 1+3(class)+4(Dex)
-Stealth            14 = 7+3(class)+4(Dex)
+Sense Motive       12 = 8+3(class)-1(Wis)
+Sleight of Hand     9 = 1+3(class)+5(Dex)
+Stealth            15 = 8+3(class)+5(Dex)
 
 # Equipment
 409gp 32cp
@@ -85,6 +90,7 @@ Fire-ink tattoos (50gp) - firebird (left arm) and a feather (right palm), can ex
 ## Arrows/Bolts
 Hand Crossbow Bolts (20, 1gp)
 10x Common (200, 10gp)
+5x Cold Iron (100, 10gp)
 5x Blunt (100, 10gp) - crushing, can subdual at -4
 5x Flight (100, 10gp) - range 130, 1d6 damage
 2x Incendiary (40, 20gp)

@@ -5,10 +5,19 @@
   - NPCs: black dragon, ghastly ecclesiarch
 - Woodland encounters: Young green/white/red dragon, wyverns, griffons, ogres, owlbears, dire boar, roc
 - Dwarf highwaymen: [ranger 7](https://www.d20pfsrd.com/bestiary/npc-s/npcs-cr-6/mountaineer-dwarf-ranger-7/) + 12-16 [warrior 1](https://www.d20pfsrd.com/bestiary/npc-s/npcs-cr-0/recruit-dwarf-warrior-1/) (CR 8-9, K: Local DC 16)
-- Hand out first level NPC characters (city guard), murder the hell out of them, survivor alerts them or they find bodies
+- Hand out first level NPC characters (city guard), murder the hell out of them, survivor alerts regular PCs or they find bodies
 
 
 # Min The Max, etc.
+- Quintessentialist Kitsune with Fox Form: false familiar with an ethereal caster buddy
+  https://www.reddit.com/r/Pathfinder_RPG/comments/r4xadv/max_the_min_monday_quintessentialist/
+- Daring Champion, Order of Eastern Star, Crane Style, Unhindering Shield, Bladed Brush: dodgy glaive fighter
+  https://www.reddit.com/r/Pathfinder_RPG/comments/qvxccd/free_hand_builds/
+  Can take all Weapon Tricks but Ranged and Two-Weapon with this
+- Calamity Caller Warpriest: tanky area-control priest
+  https://www.reddit.com/r/Pathfinder_RPG/comments/quigru/max_the_min_monday_calamity_caller_warpriest/
+- False Priest, Healer's Hands, Signature Skill (Heal), Angelskin: fake cleric who looks real
+  https://www.reddit.com/r/Pathfinder_RPG/comments/qqzowm/the_fake_cleric/
 - Antiquarian Natural Attack Investigator: arcane spells up to 6th, no ASF
   https://www.reddit.com/r/Pathfinder_RPG/comments/qmrwvh/natural_attack_investigator/
 - Hobgoblins: good with bombs, disciplined, etc

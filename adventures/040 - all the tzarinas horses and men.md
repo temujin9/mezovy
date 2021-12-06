@@ -1,3 +1,7 @@
+Dylan
+Kat
+Goose
+
 Results:
 - Day 1
   - Raag is angry at snide noble ("mummer's show")

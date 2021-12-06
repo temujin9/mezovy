@@ -1,3 +1,8 @@
+Gallows
+Dylan
+Kat
+Goose
+
 Results
 - Day 2
   - Gallows tracks Sioraneq's rep with rat, finds hatred

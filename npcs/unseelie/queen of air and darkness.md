@@ -26,7 +26,7 @@ Drow:
 - Darkvision 120ft
 - Immunity to sleep
 - Voice in the Darkness - +2 to Intimidate and Stealth in dim light, no weapon familiarity
-Age: Venerable (487 physically, 1000+ in actual years, 1500+ in mental years, unaging)
+Age: Venerable (487 physically, 1000+ in actual years, 1500+ in mental years, now unaging)
 
 Witch:
 - Patron: Baba Yaga (type unimportant due to Feytouched)
@@ -58,6 +58,10 @@ Feats: 10
 - Toxic Spell (+1)
 - Extend Spell (+1)
 - Persistent Spell (+2)
+
+Traits: 2
+- Wicked Leader
+- ???
 
 Skills: 100
 - Fly          5
@@ -179,22 +183,22 @@ Spells:
   - "Tithe to hell" every seven years per Tam Lin
   - Actually a tithe to Baba Yaga, living deep in the Abyss
   - Soul-gems of dead folks, the "punished" 
-- Vile Leadership
-  - 18th level cohort, each (down to 12th) also takes Vile Leadership
-    - Prince of Crows - Changeling Wizard 18
-      - Vile Leadership 42 => 18(level)+6(various)+18(murder)+0(Cha) => 1200/120/60/30/15/8/4/2/1
-    - Lord Hob - Goblin Hearth Witch 16
-      - Vile Leadership 38 => 16(level)+6(various)+16(murder)+0(Cha) => 820/82/41/21/11/6/3/2/1+2
-    - High Witchlord - Blood Hag (CR 8) + Rogue 5 = CR 13
-      - Vile Leadership 38 => 14(level)+6(various)+14(murder)+4(Cha) => 820/82/41/21/11/6/3/2/1/+2
-    - Assassin - Night Hag (CR 9) + Vigilante 4 = CR 11
-      - Vile Leadership 35 => 12(level)+6(various)+12(murder)+5(Cha) => 590/59/30/15/8/4/2/1
-  - Followers 69! (nice) = 20 + 10 (Cha) +26 (vile leader) + 6 (Legendary, Gloves) + 7 (Practiced)
+- Vile Leadership & Wicked Leader
+  - 18th level cohort, each (down to 12th) also takes Vile Leadership & Wicked Leader
+    - Prince of Crows - Changeling Wizard 19
+      - Vile Leadership 44 => 19(level)+6(various)+19(murder)+0(Cha) => 1400/140/70/35/18/9/5/3/2/1/0+2
+    - Lord Hob - Goblin Hearth Witch 18
+      - Vile Leadership 42 => 18(level)+6(various)+18(murder)+0(Cha) => 1200/120/60/30/15/8/4/2/1+2
+    - High Witchlord - Blood Hag (CR 8) + Rogue 8 + PC Wealth 1 = CR 17
+      - Vile Leadership 44 => 17(level)+6(various)+17(murder)+4(Cha) => 1400/140/70/35/18/9/5/3/2/1/0+2
+    - Assassin - Night Hag (CR 9) + Vigilante 6 + PC Wealth 1 = CR 16
+      - Vile Leadership 44 => 16(level)+6(various)+16(murder)+6(Cha) => 1400/140/70/35/18/9/5/3/2/1
+  - Followers 69! (nice) => 20+6(various)+20(murder)+10(Cha)+6(Legendary Dex)+7(Practiced)
     - 7800/780/390/196/98/50/26/14/8/4/2 = 3900/390/195/98/49/25/13/7/4/2/1 *2
-    - After trades: 7800/780/390/196/98/50/26/12/6/3
-    - 3 Witchlords 10
+    - After trades: 7800/780/390/196/98/50/26/12/6/2/0/0/0/0/+1/+1/+1/+1/1
+    - 2 Witchlords 10
       - Vile Leadership 31 => 10(level)+6(various)+10(murder)+5(Cha) => 350/35/18/9/5/3/2/2
-    - 2 Witchlords 9
+    - up to 6 Witchlords 9
       - Vile Leadership 28 => 9(level)+6(various)+9(murder)+4(Cha) => 300/30/15/8/4/2/2
     - Remaining
       - hags, witches (many hagbound and/or fae), fae, drow, wolves
@@ -204,22 +208,22 @@ Spells:
       - Treasurer - witch thief, angry at PCs
   - Trade 2x lower level minions to cohorts in exchange for their cohorts
     - This is also a hedge against betrayal, since everyone has Vile Leadership
-    - 2x Changeling Heka Magi 11 to son, for Lord Hob (CR 15)
-    - 2x witches 9 to Lord Hob, for High Witchlord (CR 13)
-    - 2x drow witchlords 10 to High Witchlord, for Assassin (CR 11)
-    - 2x CR 7 hags to Assassin, for drow witchlord 10
+    - 2x Changeling Heka Magi 11 to son, for Lord Hob (CR 18)
+    - 2x drow witchlords TBD 10 to High Witchlord, for Assassin (CR 16)
+    - 2x witches TBD 9 to Lord Hob, for High Witchlord (CR 17)
+    - 2x CR 8 hags to Assassin, for drow witchlord TBD 15
   - Grand coven
-    - 8 witchlords (5 level 10, 3 level 9), loyalties (Queen vs. High Witchlord) TBD
+    - 8 witchlords (2+2 level 10, 4 level 9), all loyal to Queen but two TBD serving under High Witchlord
       - Changeling Altered bloodline Sorcerer 10
       - Changeling Seducer 10 (Witch)
       - Changeling Skald 10 (Barbarian/Bard) with Coven-Touched
         - The Queen's PR specialist, with the handy Modify Memory?
       - Drow Fell Knight 10 (Cavalier)
       - Changeling Feytouched Hexer 9 (Witch)
-      - Drow Sylvan Trickster 10 (Rogue)
+      - Drow Sylvan Trickster 9 (Rogue)
       - Drow Plague Bringer 9 (Antipaladin)
       - Drow Shaman 9 (Oracle)
-    - 4 hags - High Witchlord (Blood, CR 13), Assassin (Night, CR 11), Storm (CR 7), Winter (CR 7)
+    - 4 hags - High Witchlord (Blood, CR 17), Assassin (Night, CR 16), Storm (CR 7), Winter (CR 7)
     - All members get SR 31
     - animate dead, baleful polymorph (DC 18), blight (DC 17), bestow curse (DC 17), clairaudience/clairvoyance, charm monster (DC 17), commune, dream, forcecage, mind blank, mirage arcana (DC 18), reincarnate, veil (DC 19), vision
     - Storm: call lightning storm (DC 18), plague storm (DC 19), quench (DC 16), whirlwind (DC 21), wind wall, child-scent within 100 ft

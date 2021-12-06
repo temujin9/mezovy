@@ -7,3 +7,6 @@ Was apprenticed to Dusky Snobs, but was caught snooping around in Forbidden Text
   - With apologies for "gathering necessary info rudely in these uncertain times"
   - Way to "phone a friend" in hard situations
   - Plot hook source
+
+"I'd die for forbidden knowledge being read and attempting to prevent the reading of it."
+- Lol what dude?

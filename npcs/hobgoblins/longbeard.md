@@ -6,7 +6,7 @@ N(LG tend) Ritualist Wizard
 - Driven out of Auseq guild 20 years ago for teaching
 - Always charging a stave, so always down a high level spell
 
-Dweomerden Ritualist Wizard 13
+Dweomerden Ritualist Wizard 14
 - Bonus Spells - 1 added slot for every spell level, must come from:
   0-level spells—detect magic, detect poison, light, mending, message, open/close, read magic
   1st   alarm, animate rope, comprehend languages, endure elements, erase, floating disk, hold portal, identify, mount, unseen servant
@@ -22,7 +22,7 @@ Dweomerden Ritualist Wizard 13
 - Swift Inscriptions - Incantations take 1/2 time, any Glyph, Rune, or Symbol in 1 rnd, but fatigued
 - Scroll Mastery - use own caster level and save DC for scrolls, Spellcraft DC 15 + 2*level or mishap
 
-Feats: 9 => 7 from level 13, 2 from Wizard 10
+Feats: 9 => 7 from level 14, 2 from Wizard 10
 - Craft Staff
 - Craft Lesser Incantation
 - Craft Incantation

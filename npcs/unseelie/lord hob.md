@@ -1,5 +1,5 @@
-Lord Hob - Goblin Hearth Witch 16
-- 8th level spells
+Lord Hob - Goblin Hearth Witch 18
+- 9th level spells
 - Coven hex
 - Hidden Home hex - permanent Mirage Arcana on area 200 x 200?
 - Patron: Trickery: animate rope, mirror image, major image, hallucinatory terrain, mirage arcana, mislead, reverse gravity, screen, time stop
@@ -14,7 +14,7 @@ Lord Hob - Goblin Hearth Witch 16
     https://www.d20pfsrd.com/feats/item-creation-feats/craft-poppet-item-creation/
   - Craft Wondrous Item
   - Improved Familiar: Fae-touched Ratling - alt form of rook, reads scrolls
-- Vile Leadership 38 => 16(level)+6(various)+16(murder)+0(Cha) => 820/82/41/21/11/6/3/2/1+2
+- Vile Leadership 42 => 18(level)+6(various)+18(murder)+0(Cha) => 1200/120/60/30/15/8/4/2/1+2
   - Leads grand coven
     - 10x Witches (2x9, 2x7, 3x6, 3x5)
       - Fortune Thief (Vigilante)
@@ -26,7 +26,7 @@ Lord Hob - Goblin Hearth Witch 16
     - Winter: sculpt simulacrum, simulacrum, icewalking and snow vision within 1 mi
     - CL 20, +1 CL (up to 20) and +1/2 DC for added casters
   - Remaining followers are spies and enforcers
-    - 820/82/41/21/8/3/1/0/1
+    - 1200/120/60/30/15/5/1/0/1
 - Equipment
   - Sentinel Huts: 18kgp (5BP)
     https://www.d20pfsrd.com/bestiary/monster-listings/constructs/sentinel-hut/

@@ -7,3 +7,5 @@ unless folks say otherwise: headcanon is that the Halflings aren't faring so wel
 Halfling Israel / Thieves Guild
 
 Has a butler, who is his most important person
+
+Die to establish Halfling state

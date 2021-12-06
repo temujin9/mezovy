@@ -1,9 +1,9 @@
 Ukpik's Cohort: Ter Khrekaan the Lockeweaver
 N(LE tend) Goblin Enchanter
-- Figured out how to turn young goblins into hobgoblins or bugbears with alchemy?
 - Building demiplanes for Ukpik on the sly
+- Figured out how to turn young goblins into hobgoblins or bugbears with alchemy?
 
-Investigator (Empiricist) 15
+Investigator (Empiricist) 16
 - Inspiration: 7+Int, +d6 to skill roll, free on trained Knowledge, Linguistics, or Spellcraft, 2 to use on attack or saving throw
 - Trapfinding
 - Ceaseless Observation - use Int as stat for Diplomacy (Gather Info), Disable Device, Perception, Sense Motive, and Use Magic Device
@@ -20,9 +20,9 @@ Investigator (Empiricist) 15
 - Keen Recollection - can attempt Knowledge untrained
 - Trap Sense
 - Studied Combat - move action, +7/+7 vs target for Int rounds, sack for Studied Strike, 1/day/target, spend Inspiration for more
-- Studied Strike - add 6d6 to a successful attack
+- Studied Strike - add 7d6 to a successful attack
 - Unfailing Logic - +4 to Will vs. illusion, inspiration to sub Int for Wis
-- Extracts: 5/5/5/4/3
+- Extracts: 5/5/5/4/3/1
 
 Feats: 8
 - Alchemical Craftsman - Alchemical levels qualify for magic crafting feats, +2 to Craft, Spellcraft using masterwork alchemy
@@ -38,7 +38,7 @@ Skills
 - Use Magic Device
 - Spellcraft
 
-Equipment: 240kgp
+Equipment: 315kgp
 - Arcane Family Workbook: 300gp (stolen from a non-drow elf)
 - Armillary Amulet: 2500gp (1250gp to make)
 - Junk Golems: 5200gp per to make, two can heal one another
@@ -75,6 +75,7 @@ Other things made
     - 32kgp value (16k/4BP/16 days to create) => (1800*5*9) / 5
   - Astral Anvil: Permanency fully-paid on CGD, command word 1/day
     - 240kgp value (120k/30BP/120 days to create) => (50*22,500 + 1800*5*9) / 5
+    - Takes 240 days to craft, so he's occupied for the foreseeable future
   - Crafting
     - You can make items bigger than you can cast the spells for
     - Spellcraft 38 = 15+4?(Int)+4(Arcane Workbook)+5(Armillary Amulet)+6(Skill Focus)+4(Magical Aptitude)

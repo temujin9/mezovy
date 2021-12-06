@@ -1,25 +1,28 @@
-Target CR is 9-11 (ACL+3, ACL+4 if 6+ PCs, ACL+2 if 3 PCs)
+# TODO
+- Figure out what ruined buildings are in the ruins we found at the border
+- [Figure out how the limits on bought items should work](https://www.d20pfsrd.com/Magic-items/#Purchasing_Magic_Items)
 
-# Soon
-- \[Villains\] Figure out who the worst polluter in Mezovy is
-- \[Villains\] Tell Daydah and Orarfutaquia about the recent Lizardmen
-- \[Villains\] Orarfutaqia Thieves Guild under new and brutal management, one of the fleeing ones makes it to Velerolobo
-- Kingdom Building + Planning
+- Denouement and next steps
+  - Cossacks burn their pal
+  - Yutch: two Seekers on the road, discussing their hope for "a land of freedom for all, short or tall" (DC 15 Sense Motive)
   - Seryy's parting speech:
     "We had a great . . . what do the alchemists call it, where you fuck around and find out? . . . Experiment! We had a great experiment here. Please keep it going."
-  - Other hooks as appropriate
-    - News: Gooses' work results in a growing "little" population . . . but they want their own town (and no goblins)
-    - Rumor: flower deliveries
-    - K: History DC 15: "and they were driven to the ends of the earth, to the seas of sunrise and sunset, and away over them"
-      Well known historical account of "the First Hobgoblin War" being fought back during Rolobo's era
-  - Character: What would your character die to protect?
-- [Figure out how the limits on bought items should work](https://www.d20pfsrd.com/Magic-items/#Purchasing_Magic_Items)
-- Experience
+  - Gahdri: board game buddy in tavern starts asking about her distraction and absence
+  - Next session possibilities:
+    - Gahdri formally accepted to Uhlinberg guild
+    - Find the other side of the mimi gate, open it
+    - Try to go help the Yutch
+
+
+# Pacing/Timing
+- Target CR is 13/12/11 (ACL+5 if 6+ PCs, ACL+4 if 4-5, ACL+3 if 3 PCs)
+- Target is 4.5 levels for next two years
+- PCs confront Queen around 11/2023 at 17th or 18th level
+
+# Soon
 - Leaking more fae lore into fae-adjacent PC backgrounds
   - Mezovian taboo against eating mushrooms, too? Only an outsider could notice.
-  - (Robert) Portal to a world shaped just like the one you came from
   - [The Old Rites](religion.md)
-  - The existence of the witchlords?
 - Everyone's got combatus interruptus, which isn't good for stability
 - Kat's seeds
   - Dragon in swamp
@@ -28,9 +31,6 @@ Target CR is 9-11 (ACL+3, ACL+4 if 6+ PCs, ACL+2 if 3 PCs)
   - Raag's accidental Thieves Guild
   - The Hag's Coven
 - Use people's "favorite person" to give them some more depth
-  - Gahdri: board game buddy in tavern starts asking about her distraction
-  - Raag: butler should start having opinions
-- News: ice giants with flaming flying hounds have struck northern Moriloro
 - Rumor: big fucking spells being cast on NE areas that resist the Queen (perm. Lost Locale, Curse Terrain)
 
 # Further ideas
@@ -67,6 +67,7 @@ Target CR is 9-11 (ACL+3, ACL+4 if 6+ PCs, ACL+2 if 3 PCs)
     - They grow up to be hobgoblins if you feed them right (or bugbears if they get too much sentient meat)
 - Force PCs against The Queen early, trying to prevent the permanent tower of fear
   - Trash them utterly, but try not to kill them, and do let them escape
+  - This should be the end of the second act (11/2022)
 - Humans stole the Inuk goblinoids thunderbolt iron, leading to their conquest by the fae folk (ala Robert Peary and the Inuit)
 - You put https://en.wikipedia.org/wiki/Sword_Kladenets over the mantle in the first act, you have to use it in the third
 - Mayhem, False and True
