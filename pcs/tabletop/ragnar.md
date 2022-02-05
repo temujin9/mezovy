@@ -1,42 +1,49 @@
 Ragnar Osmund
 
+# Stats
 Str 14 (+2)
-Dex 20 (+5) = 14+2(elf)+2(Belt)+2(levels)
-Con 10 (+0) = 12-2(elf)
-Int 16 (+3) = 14+2(elf)
+Dex 21 (+5)                   = 14+2(elf)+2(Belt)+3(levels)
+Con 10 (+0)                   = 12-2(elf)
+Int 16 (+3)                   = 14+2(elf)
 Wis 8  (-1)
 Cha 14 (+2)
 
-Stats
-- Init          +8 = +5(Dex)+2(Reactionary)+1(Ioun)
+- Init          +5            = +5(Dex)
+  Surprise      25            = "roll" of 20 (Snap Shot)
 - BAB        +6/+1
-  Melee      +8/+3 = +6+2(Str)
-  Finesse   +11/+6 = +6+5(Dex)
-  Ranged    +11/+6 = +6+5(Dex)
-- AC            21 = 10+5(Chain)+5(Dex)+1(Ring)
-- CMD           18 = 10+2(Str)+5(Dex)+1(Ring)
-- Saves     
-  Fort          +4 = +2(Rogue)+0(Con)+2(Cloak)
-  Ref          +13 = +6(Rogue)+5(Dex)+2(Cloak)
-  Will          +3 = +2(Rogue)-1(Wis)+2(Cloak)
-- Hit points    39 = 8+7d8
+  Melee      +8/+3            = +6+2(Str)
+  Finesse   +11/+6            = +6+5(Dex)
+  Ranged    +11/+6            = +6+5(Dex)
+- AC            22            = 10+5(Chain)+5(Dex)+1(Ring)+1(Amulet)
+  Touch         16            = -5(Chain)-1(Amulet)
+  Flatfooted    17            = -5(Dex)
+- CMD           18            = 10+2(Str)+5(Dex)+1(Ring)
+- Saves
+  Fort          +4            = +2(Rogue)+0(Con)+2(Cloak)
+  Ref          +13            = +6(Rogue)+5(Dex)+2(Cloak)
+  Will          +4            = +2(Rogue)-1(Wis)+2(Cloak)+1(Hidden)
+    Divination  +6            = +2(Hidden)
+- Hit points    40            = 8+7d8
 
-Unchained Rogue 7th
+# Class
+Unchained Rogue 8th
 - Sneak Attack +4d6
 - Danger Sense +2 - adds to Reflex and dodge AC vs traps, Perception to avoid surprise
-- Debilitating Injury - bewildered (-2 AC, -2 vs rogue), bewildered (-2 to hit, -2 vs rogue), hampered (half move)
+- Debilitating Injury - bewildered (-2 AC, -2 vs rogue), disoriented (-2 to hit, -2 vs rogue), hampered (half move)
 - Archetype: Scout
   - Scout’s Charge - charge gives sneak attack
   - Skirmisher - 10ft move gives sneak attack
 - Archetype: Underground Chemist
   - Chemical Weapons - +Int (+3) to damage with splash attacks
   - Precise Splash Weapons - Sneak attack with first splash weapon a round
-- Rogue's Edge (Stealth)
+- Rogue's Edge (Stealth) - +10 to Snipe roll
 - Talents:
   - Canny Observer - +4 Perception to hear conversation details or find hidden objects
   - Certainty (Stealth) - reroll one Stealth check per day, take better
   - Bleeding Attack - sneak attack also deals 4 bleed
+  - Snap Shot - auto 20 initiative in surprise round (only), only for ranged attack
 
+# Race
 Fire Elf
 - +2 Dex, +2 Int, -2 Con
 - Silent Hunter: Elves are renowned for their subtlety and skill. Elves with this racial trait reduce the penalty for using Stealth while moving by 5 and can make Stealth checks while running at a –20 penalty (this number includes the penalty reduction from this racial trait). This racial trait replaces elven magic.
@@ -47,76 +54,102 @@ Fire Elf
 Point Blank Shot - +1 to hit within 30 ft
 Rapid Shot - fire an extra arrow during full-attack
 Breadth of Experience - +2 to all Knowledge and Profession, may roll untrained
-Eagle Eyes - ignore -5 Perception penalties
+Quick Draw - free action to draw weapon, or move action to draw if concealed
 
 # Traits
-Reactionary - +2 to initiative
-Inspired - reroll skill/ability 1/day
+Carefully Hidden - +1 to Will saves, +2 vs divination
+Lucky Tattoo - roll with advantage, once per game session (firebird)
 
 # Skills
-Acrobatics         16 = 8+3(class)+5(Dex)
-Bluff              13 = 8+3(class)+2(Cha)
-Craft (Alchemy)    17 = 8+3(class)+3(Int)+3(Chemist)
-Climb              13 = 8+3(class)+2(Str)
-Disable Device     16 = 8+3(class)+5(Dex)
-Knowledge (Local)  16 = 8+3(class)+3(Int)+2(Breadth)
-Knowledge (*Any*)   5 = 0+3(Int)+2(Breadth)
-Linguistics        14 = 8+3(class)+3(Int)
-Perception         10 = 8+3(class)-1(Wis)
-  Surprise         12 = +2 (Danger Sense)
-  Canny Observer   14 = +4 (conversation, hidden objects)
-Profession (*Any*)  1 = 0-1(Wis)+2(Breadth)
-Sense Motive       12 = 8+3(class)-1(Wis)
-Sleight of Hand     9 = 1+3(class)+5(Dex)
-Stealth            15 = 8+3(class)+5(Dex)
+Acrobatics         18         = 8+3(class)+5(Dex)+2(Boots)
+Appraise            6         = 1+3(class)+2(Int)
+Bluff              13         = 8+3(class)+2(Cha)
+Craft (Alchemy)    17         = 8+3(class)+3(Int)+3(Chemist)
+Climb               8         = 1+3(class)+2(Str)+2(Boots)
+Diplomacy           6         = 1+3(class)+2(Cha)
+Disable Device     16         = 8+3(class)+5(Dex)
+Disguise            6         = 1+3(class)+2(Cha)
+Escape Artist       9         = 1+3(class)+5(Dex)
+Intimidate          6         = 1+3(class)+2(Cha)
+Know (Local)       16         = 8+3(class)+3(Int)+2(Breadth)
+Know (Dungeon)      9         = 1+3(class)+3(Int)+2(Breadth)
+Know (*Any*)        5         = 0+3(Int)+2(Breadth)
+Linguistics        14         = 8+3(class)+3(Int)
+Perception         10         = 8+3(class)-1(Wis)
+  Surprise         12         = +2 (Danger Sense)
+  Canny Observer   14         = +4 (conversation, hidden objects)
+Profession (*Any*)  1         = 0-1(Wis)+2(Breadth)
+Sense Motive       10         = 8+3(class)-1(Wis)
+Sleight of Hand     9         = 1+3(class)+5(Dex)
+Stealth            17         = 8+3(class)+5(Dex)+2(Boots)
+  Snipe             7         = -20+10(Unlock)
+  Snipe (Longbow)  12         = -20+10(Unlock)+5(Sniping)
+Swim                6         = 1+3(class)+2(Str)
+
 
 # Equipment
-409gp 32cp
-Handy Haversack (2kgp)
-Efficient Quiver (1.8kgp)
-Sniper Goggles, Lesser (Sniper's Shot, use-activated, 2kgp)
+Handy Haversack (2000gp)
+Efficient Quiver (1800gp)
+Sniper Goggles, Lesser (Sniper's Shot, use-activated, 2000gp)
 Mithril chain +1 (2100gp)
-Ring of Protection +1 (2kgp)
-Cloak of Resistance +2 (4kgp)
-Belt of Dexterity +2 (4kgp)
-Amulet of Natural Armor +1 (2kgp)
-Cracked Dusty Rose Prism Ioun Stone (500gp) - +1 to initiative
-Cat Burglar’s Boots (2kgp) - +2 to Acrobatics, Climb, Stealth, reroll any of them once per day
-3x masterwork longbows (1125gp)
-1x masterwork launching crossbow (375gp)
-Masterwork rapier (320gp)
+Ring of Protection +1 (2000gp)
+Cloak of Resistance +2 (4000gp)
+Belt of Dexterity +2 (4000gp)
+Amulet of Natural Armor +1 (2000gp)
+Cat Burglar’s Boots (2000gp) - +2 to Acrobatics, Climb, Stealth, reroll any of them once per day
+Rope of Climbing (3000gp) - 60ft animated rope, can knot itself
 Fire-ink tattoos (50gp) - firebird (left arm) and a feather (right palm), can expose to shed light like torch or candle
 
-## Arrows/Bolts
-Hand Crossbow Bolts (20, 1gp)
-10x Common (200, 10gp)
-5x Cold Iron (100, 10gp)
-5x Blunt (100, 10gp) - crushing, can subdual at -4
-5x Flight (100, 10gp) - range 130, 1d6 damage
-2x Incendiary (40, 20gp)
-5x Holy water, Raining (-2 to hit, 150gp)
-5x Sleep Arrow (660gp)
-5x +1 Seeking Arrow (800gp)
-2x +1 Ghost Touch Arrow (320gp)
-+1 Corrosive Arrow (160gp)
-+1 Flaming Arrow (160gp)
-+1 Frost Arrow (160gp)
-+1 Shock Arrow (160gp)
-+1 Seeking Limning Arrow (360gp)
+## Weapons
++1 Sniping composite longbow (4275gp)
+- Ranged - +12/+7, 20/x3, 110ft, 1d8+3 piercing +4d6 sneak attack
+- Rapid shot - +10/+10/+5, 20/x3, 110ft, 1d8+3 piercing +4d6 sneak attack
+2x masterwork composite longbows (800gp) - backup in case primary bow is lost or broken
+Masterwork Launching crossbow (375gp)
+- Ranged - +12, 30ft, fired item's damage (see below), +4d6 sneak attack direct hit, +3 sneak attack splash
+Masterwork rapier (320gp)
+- Melee - +12/+7, 18-20/x2, 1d6+2 piercing +4d6 sneak attack
+Daggers: 9 regular, 6 cold iron, 3 silver (93gp)
+- Melee/ranged - +11/+6, 19-20/x2, 10ft, 1d4+2 piercing or slashing +4d6 sneak attack
+- Rapid shot - +9/+9/+4, 19-20/x2, 10ft, 1d4+2 piercing or slashing +4d6 sneak attack
+
+## Arrows
+100x Common (5gp)
+100x Cold Iron (10gp) - beats DR/cold iron
+100x Silver (205gp) - beats DR/silver
+100x Blunt (10gp) - crushing, or -4 to hit for nonlethal
+100x Flight (10gp) - range 130, 1d6 base damage
+
+40x Incendiary (20gp) - -1 to hit, +1 fire damage, crit Ref 15 or catch fire
+20x Adamantine (1201gp) - beats DR/adamantine
+5x Raining (150gp) - -2 to hit, only hurts undead/evil outsiders, direct 2d4 holy, splash 1 holy
+5x Sleep Arrow (660gp) - +1 to hit/damage, nonlethal, Will 11 or fall asleep
+5x +1 Seeking Arrow (800gp) - +1 to hit/damage, ignore concealment miss chance
+2x +1 Ghost Touch Arrow (320gp) - +1 to hit/damage, ignore incorporeal miss chance
+
++1 Corrosive Arrow (160gp) - +1 to hit, +1d6+1 acid damage
++1 Flaming Arrow (160gp) - +1 to hit, +1d6+1 fire damage
++1 Frost Arrow (160gp) - +1 to hit, +1d6+1 cold damage
++1 Shock Arrow (160gp) - +1 to hit, +1d6+1 electrical damage
++1 Seeking Limning Arrow (360gp) - +1 to hit/damage, ignore concealment miss chance, target loses concealment for 1 round
 
 ## Splash weapons & fireworks
-5x Alchemist's fire (100gp)
-5x Alkali flask (75gp)
-5x Firecracker firework (50gp)
-2x Bone burn (50gp)
-2x Burst jar (70gp)
-2x Shard gel (50gp)
-2x Thunderstone (60gp)
-Flash powder (50gp)
-Ghost retch (50gp)
-Sneezing powder (60gp)
-Dancing peonies firework (50gp)
-Sparking pinwheel firework (60gp)
+15x Alchemist's fire (100gp) - direct 1d6 fire, splash 1 fire
+15x Alkali flask (75gp) - direct 1d6 acid, splash 1 acid 
+6x Bone burn (50gp) - only hurts undead, direct 1d6 acid, splash 1 acid
+6x Burst jar (70gp) - 1 round delay, full-round: remove direct, direct 1 sonic deafened and Fort 12 or stunned, splash 1 sonic
+6x Shard gel (50gp) - direct 1d4 piercing, splash caltrops
+
+6x Thunderstone (60gp) - 10ft spread, Fort 15 or deafened for 1hr, can target square as AC 5
+3x Flash powder (50gp) - 10ft spread, Fort 13 or blinded for 1 round
+3x Ghast retch (50gp) - sickened 3 rounds and Fort 12 or nauseated 1 round, splash sickened 1 round
+3x Sneezing powder (60gp) - Fort 12 / splash Fort 8 or sneezing 1d4+1 rounds, sneezing is Fort 10 or staggered 1 rou11nd
+15x Firecracker firework (50gp) - 1 round delay, 1d2+1 nonlethal and deafened d4 rounds (Fort 11 halves), 20ft frightens animals
+3x Dancing peonies firework (50gp) - 1 round delay, 3x randomly moving dazzling and burning "jumping jennies"
+3x Sparking pinwheel firework (60gp) - 1 round delay, create a 15ft sparking barrier
+
+
+8176gp as of 2021-12-19
 
 
 # Notes
@@ -124,34 +157,3 @@ Sparking pinwheel firework (60gp)
 - Once had an drugged up affair with a tattooed ifrit firedancer. Passed out one night, woke up with glowing firebird tattoos on his hands.
 - Former sniper assassin and arsonist for the Prolichia Thieves Guild, guild nickname: Foxfire.
 - Left to walk the world like Jules from Pulp Fiction, after a heel-face turn.
-
-
-
-
-
-# Future possibilities
-160gp for +1 (w/ base +1)
-  https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/seeking
-  https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/shock
-  https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/bane
-  https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/corrosive
-  https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/flaming
-  https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/frost
-  https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/ghost-touch
-  https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/merciful
-  https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/planar
-  https://www.d20pfsrd.com/magic-items/3rd-party-magic-items/3rd-party-magic-weapons/weapon-properties/rite-publishing/desiccated
-  https://www.d20pfsrd.com/magic-items/3rd-party-magic-items/3rd-party-magic-weapons/weapon-properties/rite-publishing/disorienting
-  https://www.d20pfsrd.com/magic-items/3rd-party-magic-items/3rd-party-magic-weapons/weapon-properties/rite-publishing/blastback
-Frost Shackle (240gp)
-360 for +2 (w/ base +1)
-  https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/limning + seeking
-  https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/anarchic
-  https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/axiomatic
-  https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/holy
-  https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/phase-locking
-  https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/designating-lesser
-  https://www.d20pfsrd.com/magic-items/3rd-party-magic-items/3rd-party-magic-weapons/weapon-properties/ascension-games-llc/necrotic
-  https://www.d20pfsrd.com/magic-items/3rd-party-magic-items/3rd-party-magic-weapons/weapon-properties/rite-publishing/anchoring
-  https://www.d20pfsrd.com/magic-items/3rd-party-magic-items/3rd-party-magic-weapons/weapon-properties/rite-publishing/breaker
-  https://www.d20pfsrd.com/magic-items/3rd-party-magic-items/3rd-party-magic-weapons/weapon-properties/rite-publishing/dispelling

@@ -22,8 +22,8 @@ Cha 25  +7    31  +10   Headband
 
 HP: 20d6 => (1+1+1+1+2+3)/6 + 20 *= 1.5 * 20 = 30 + 60 = 90hp
 
-Drow:
-- Darkvision 120ft
+Unshadowed Drow:
+- Low-light vision, no light-blindness
 - Immunity to sleep
 - Voice in the Darkness - +2 to Intimidate and Stealth in dim light, no weapon familiarity
 Age: Venerable (487 physically, 1000+ in actual years, 1500+ in mental years, now unaging)
@@ -39,6 +39,7 @@ Witch:
   - Immunity to fear, charm
   - Vile Curse - Bestow Curse, 24 hr duration, at will
   - Vain Glamour - Alter Self at will
+  - Darkvision 60ft
 - Familiar: Unkindness of Ravens
   - Uses the Murder of Crows stats
   - AC +10, Int 15, HP 45, BAB +10, Evasion, Deliver Touch, Empathic Link (1 mi), Speak With Master, Scry as per spell 1/day

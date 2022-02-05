@@ -9,6 +9,17 @@
 
 
 # Min The Max, etc.
+- Ioun Kineticist, item of Greater Make Whole, resonant Ioun Stones: a bling-bender
+  https://www.reddit.com/r/Pathfinder_RPG/comments/s66o44/max_the_min_monday_ioun_kineticist/
+  Item of Greater Make Whole: repair a broken or destroyed ioun stone 1/day, 17kgp = 12x4x1800/5
+- Dimensional Savant, Wyroot Waveblade, Ring of Ki, Quigong Monk of Mantis, Ki Leech: every crit's a free Dim Door or two
+  https://www.reddit.com/r/Pathfinder_RPG/comments/rv3558/max_the_min_monday_dimensional_savant/
+- Diehard, Flagellant, Half-Orc Viking Fighter: the Determinator
+  https://www.reddit.com/r/Pathfinder_RPG/comments/rkp1jq/max_the_min_monday_diehard/
+- Lycanthropy corruption, manacles: Oz from Buffy
+  https://www.reddit.com/r/Pathfinder_RPG/comments/qkf6as/max_the_min_monday_corruptions/
+- Siege Mage, Named Bullet, True Strike: insanely accurate cannon team lead by 7th level caster
+  https://www.reddit.com/r/Pathfinder_RPG/comments/qfi22l/max_the_min_monday_siege_mage/
 - Quintessentialist Kitsune with Fox Form: false familiar with an ethereal caster buddy
   https://www.reddit.com/r/Pathfinder_RPG/comments/r4xadv/max_the_min_monday_quintessentialist/
 - Daring Champion, Order of Eastern Star, Crane Style, Unhindering Shield, Bladed Brush: dodgy glaive fighter
@@ -210,9 +221,35 @@
 - https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/numerology-cylinder/
 - https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-jaunt/
 - https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Stubborn%20Nail
+- Cloak of Treasures - 1/day, 18k, 5x9x2000/5
+  https://www.d20pfsrd.com/magic/all-spells/t/treasure-stitching/
 
 
 # Random
+- Hames's Sorcerous Tinctures
+  Location: Metropolis
+  Type: Alchemist
+  Location: On Highmoor Avenue, in an arcane ward of well-lit streets and wizards' towers. The street outside is shaded by large trees.
+  Description:The shop is a single storey building of conjured iron, with a slate roof. It has a dozen chimneys, each exhaling a different hue of smoke.
+  Shopkeeper: The shopkeeper is a short male halfling named Hames. He was cursed by an item, and cannot see or hear halflings.
+  Items
+    Abjurant Salt (600 gp) - This blue ichor causes flames to flicker wildly when used.
+    Oil of Obscure Object (cr, 300 gp) - This golden potion smells tart.
+    Potion of Burrow (um, 750 gp) - This cloudy elixir causes shadows to appear darker when used.
+    Potion of Darkvision (cr, 300 gp) - This viscous yellow oil smells like musk.
+    Potion of Draconic Reservoir (apg, 750 gp) - This translucent draught causes one's eyes to turn black when used.
+    Potion of Fox's Cunning (cr, 300 gp) - A swirling ruby elixir, contained in a square porcelain flask.
+    Potion of Hide from Animals (cr, 50 gp) - This watery ichor causes one's eyes to turn green when used.
+    Potion of Invisibility (cr, 300 gp) - A translucent liquid, contained in a porcelain bottle etched with arcane runes.
+    Potion of Levitate (cr, 300 gp) - A green ichor, contained in a square jar.
+    Potion of Nondetection (cr, 800 gp) - This smoky elixir causes the air to become warm and humid when used.
+    Potion of Remove Disease (cr, 750 gp) - This smoky serum causes the air to become warm and humid when used.
+    Potion of Resist Electricity (3rd) (cr, 300 gp) - This clear liquid causes motes of red light to appear when used.
+    Potion of Touch of the Sea (apg, 50 gp) - A translucent draught, contained in a crystal jar etched with geometric patterns.
+    Salve of Slipperiness (1000 gp) - A glowing potion, contained in a crystal jar etched with arcane runes.
+    Universal Solvent (50 gp) - This thin potion causes the air to become warm and humid when used.
+    War Paint of the Terrible Visage (100 gp) - A smoky draught, contained in a porcelain flask.
+
 - ancient Central American spirituality, ancient Japanese cuisine, and ancient African death rites
 - The cursed half-demon must go on a long quest before it is too late.
 - ancient Irish physical appearance, and ancient Russian spirituality

@@ -25,7 +25,6 @@ Investigator (Empiricist) 16
 - Extracts: 5/5/5/4/3/1
 
 Feats: 8
-- Alchemical Craftsman - Alchemical levels qualify for magic crafting feats, +2 to Craft, Spellcraft using masterwork alchemy
 - Craft Wondrous Item
 - Craft Magic Arms and Armor
 - Craft Construct
@@ -33,6 +32,7 @@ Feats: 8
 - Skill Focus: Spellcraft
 - Weapon Focus (Ray)
 - Ranged Study (Ray)
+- ???
 
 Skills
 - Use Magic Device
@@ -63,7 +63,7 @@ Other things made
 - The Forge of the Firmament
   - Original Worlds-Hammer: Create Lesser Demiplane 1/week, command word
     - 21,840gp value (1800*7*13/5/3*2)
-    - Primitive construction: an unshaped lump of star-admantium, wrapped in petrified vines
+    - Primitive construction: an unshaped lump of star-adamantium, wrapped in petrified vines
     - Made by an Ancient Master Craftsman as escape method many years ago
     - They also crafted more powerful ones, but this is what Ter could get hold of
     - Also probably the easiest to get hold of, since its in a vault he rarely visits

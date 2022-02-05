@@ -215,3 +215,5 @@
     Wand of Dispel Magic (cr, 11250 gp)
     Eternal Wand of Enlarge Person (cr, 750 gp)
   - 15 soul gems from the cacodaemon
+    4 Animal Spirits (25 gp)
+    11 Basic Soul (100 gp)

@@ -12,7 +12,7 @@
 - Olenkia Thieves Guild irritates Prolichica Wizards Guild
 - Perin Thieves Guild has pissed off Oreskoere Wizards Guild
 
-# Known demihuman retreats
+# Known demihuman enclaves
 - Agsilakunarsia half-orcs
 - Almasna oread
 - Alnasta dwarves

@@ -1,10 +1,13 @@
+https://legacy.aonprd.com/ultimateCampaign/kingdomsAndWar.html
+
 # Steps
 - Upkeep
   - Determine Kingdom Stability: Attempt a Stability check. If you succeed, Unrest decreases by 1 (if this would reduce Unrest below 0, add 1 BP to your Treasury instead). If you fail by 4 or less, Unrest increases by 1; if you fail by 5 or more, Unrest increases by 1d4.
   - Pay Consumption: Subtract your kingdom’s Consumption from the kingdom’s Treasury. If your Treasury is negative after paying Consumption, Unrest increases by 2.
   - Fill Vacant Magic Item Slots: If any of your settlement districts have buildings that produce magic items (such as a Caster’s Tower or Herbalist) with vacant magic item slots, there is a chance of those slots filling with new items (see the Magic Items in Settlements section).
+    - 50% once per district with open slot (random selection if more than one)
   - Modify Unrest: Unrest increases by 1 for each kingdom attribute (Economy, Loyalty, or Stability) that is a negative number.
-    The Royal Enforcer may attempt to reduce Unrest during this step.
+    The Royal Enforcer may decrease Unrest by 1; if you do so, you must succeed at a Loyalty check or Loyalty decreases by 1.
     If the kingdom’s Unrest is 11 or higher, it loses 1 hex (the leaders choose which hex). See Losing Hexes.
 - Edict
   https://www.d20pfsrd.com/gamemastering/other-rules/kingdom-building/edicts/#:~:text=Table%3A%20Improvement%20Edicts,-Kingdom
@@ -24,8 +27,8 @@
     New Buildings: 5
   - Create Army Units
   - Issue Edicts
-- Income - (d20+Income)/3 BP
-- Event - 25% or 75% if no event
+- Income - (d20+Income)/3 BP (Treasurer)
+- Event - 25% or 75% if no event (GM)
 
 # Who Rolls
 - Ruler: Loyalty checks, any checks or edicts not covered by other rulers

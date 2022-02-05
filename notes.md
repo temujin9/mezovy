@@ -1,49 +1,40 @@
-# TODO
-- Figure out what ruined buildings are in the ruins we found at the border
-- [Figure out how the limits on bought items should work](https://www.d20pfsrd.com/Magic-items/#Purchasing_Magic_Items)
-
-- Denouement and next steps
-  - Cossacks burn their pal
-  - Yutch: two Seekers on the road, discussing their hope for "a land of freedom for all, short or tall" (DC 15 Sense Motive)
-  - Seryy's parting speech:
-    "We had a great . . . what do the alchemists call it, where you fuck around and find out? . . . Experiment! We had a great experiment here. Please keep it going."
-  - Gahdri: board game buddy in tavern starts asking about her distraction and absence
-  - Next session possibilities:
-    - Gahdri formally accepted to Uhlinberg guild
-    - Find the other side of the mimi gate, open it
-    - Try to go help the Yutch
-
-
 # Pacing/Timing
 - Target CR is 13/12/11 (ACL+5 if 6+ PCs, ACL+4 if 4-5, ACL+3 if 3 PCs)
-- Target is 4.5 levels for next two years
+- Target is 4.5 levels per year for next two years
+- PCs encounter Queen for first time around 11/2022 at 12th or 13th level
 - PCs confront Queen around 11/2023 at 17th or 18th level
+- Meta: Prep one scene or one round of big combat for every 30 to 45 minutes of gameplay
 
 # Soon
-- Leaking more fae lore into fae-adjacent PC backgrounds
-  - Mezovian taboo against eating mushrooms, too? Only an outsider could notice.
-  - [The Old Rites](religion.md)
+- TTPCs: tracks are visible (at +5 DC) in the Yutesh L1 Trod
+- TTPCs: took the bribe to start looking into the church ghoulishness
+- Yarik: Safik is having some criminal troubles; an increase in drugs(?) and banditry
+- Berko: sending emissary to the fae realm that the PCs have explored
+  - Find 4 more portals, one deeper into faerie land, two more into Yutch, one into Athamberingia
+
+# Further ideas
 - Everyone's got combatus interruptus, which isn't good for stability
+  - Companies from some areas had foraged despite dictates from the palace not to, inflaming internicine passions
+  - Harvests are going poorly this year due to lack of manpower, foraging
+  - Military Academy and Royal Wizards are everywhere, and sometimes getting in fights with landed wizards and nobles
 - Kat's seeds
   - Dragon in swamp
   - Fae in abandoned town
   - Social-climbing noble mother
   - Raag's accidental Thieves Guild
   - The Hag's Coven
-- Use people's "favorite person" to give them some more depth
-- Rumor: big fucking spells being cast on NE areas that resist the Queen (perm. Lost Locale, Curse Terrain)
-
-# Further ideas
-- Gahdri wants a wizard duel with a deserving opponent, give him some
-  - Standing in the way of becoming a full guild member of Uhlinberg?
-  - Gang of spellcasters ready to duel-bully Gahdri: Delver (blindfighting), Bestial Arcanist (shapeshifter), [Lady Frost](npcs/mezovy/lady%20frost.md)
-  - Will push for her to be examined for "witch marks" (strip her nude, prod her familiar)
+- Placing secondary lands
+  - Vogovo: half-orcish (Cossack)
+  - Boskirhamp: elvish
+  - Grandforgia: dwarvish, demiplanar
+  - Compoundia: elf, dwarf, giant, half-orc, lizardfolk
+  - Amthamberengia: elf, dwarf, giant, gnome, demiplanar
+    - Ragnar is from ??? here
+- Goblin pikey merchant, selling (goblin) dog meat: "d'ya like dags?"
+- Dwarves sewed Loki's mouth shut as a slap on the wrist, use same as verbal idiom elsewhere
 - Two villainous groups seeking the same item in the same dungeon as the characters are
 - Rule?: Let players break out of a fear, stun, or charm by accepting a pile of psychic damage (d8 per level of spell)
-- Meta: Prep one scene for every 30 to 45 minutes of gameplay
-- Justify random results
-  - Ghom hates local and royal Wizards, why
-  - Rombordean Fault: small zone in Yutesh, WTF is it
+- Rombordean Fault: small zone in Yutesh, WTF is it
 - [Unrelated plot-A, so it's not all "shit the Queen stirred up directly"](random%20crap.md)
 - When the going gets desperate, the Tsarina will start conscripting slaves en-mass
 - The Treasurer witch knows the value of the library
@@ -66,7 +57,7 @@
     - They also hate the written word, and -love- fire (which is bad for silver dragons)
     - They grow up to be hobgoblins if you feed them right (or bugbears if they get too much sentient meat)
 - Force PCs against The Queen early, trying to prevent the permanent tower of fear
-  - Trash them utterly, but try not to kill them, and do let them escape
+  - Trash them utterly, but try not to kill them, and do let them escape (eventually)
   - This should be the end of the second act (11/2022)
 - Humans stole the Inuk goblinoids thunderbolt iron, leading to their conquest by the fae folk (ala Robert Peary and the Inuit)
 - You put https://en.wikipedia.org/wiki/Sword_Kladenets over the mantle in the first act, you have to use it in the third
@@ -80,8 +71,14 @@
 
 # Expies/homages
 ## Unused
-- [(Towers of Bologna)](https://en.m.wikipedia.org/wiki/Towers_of_Bologna) Multiple towers in Prolichia, result of the internicine combat of factions
-- (Mac the Knife) Macheath the Drow Assassin
+- [(Towers of Bologna)](https://en.m.wikipedia.org/wiki/Towers_of_Bologna) Multiple towers in Prolichica, result of the internicine combat of factions
+- (Drizzt Do'Urden) The Urden 
+  - CG shadow elves, look like Drizzt, all panthers and scimitars and spiders
+  - Conquered by the Queen of Air, making her the Queen of Air and Darkness
+  - Use regular elf with Darkvision and Shadowplay traits
+  - Classic Drow can be derived from them, often replacing the normal SLAs with Shadowplay
+  - Non-Urden Drow usually have the Surface Infiltrator trait instead
+- (Mac the Knife) MacHeath the Drow Assassin
 - Black List
   - Slick talking gang-lord using law enforcement to take out enemies
   - Hidden objectives and 15-betrayal-pileups
@@ -96,6 +93,12 @@
   - Hobgoblins riding grizzlies
   - Giants with tame polars as dogs
   - Bruin-hilde - female were-bear
+  - old D&D joke
+    DC10: Cave bears live in caves.
+    DC15: Dire bears like to attack with their natural weapons.
+    DC20: Bear society has no visibly ordained clerics.
+    DC25: SHIT, NEVERMIND, THEY DO HAVE THOSE. RUN!
+
 - Downton Abbey
   - [Violet Crawley, Dowager Countess of Grantham](https://downtonabbey.fandom.com/wiki/Violet_Crawley#Quotes) - Lawful evil, wields a mean cane, very important and can't be killed lawfully
   - Powerful estate, important leaders during the war footing, but generally behind the times
@@ -121,7 +124,7 @@
 - (Prydian/Black Cauldron) Undead fae as war commander, followed by legion of doom
 - (Flash's Rogues) high powered villains - wizards (mirrors, fire, weather), rogue, bard, weird monk, exotic weapons fighter
 - (Oz) Magic Picture scrying item
-- (Swords Comic) Blade of Insults - built by Lockeweaver for Ukpik
+- (Swords Comic) Blade of Insults - built by Lockeweaver for Ukpik?
 - (Quakers) Theotrepidarians
 - (Nevers) Collective of powered orphans
 - (The Labyrinth of Ariosto) In-game RPG, maybe played by The Mummers?
@@ -139,16 +142,16 @@
   - Tzarina Syuzanna Elmira Kuznetsov => Catherine the Great
 - Russian folklore
   - Firebird/Vasilisa stories
-    - Vasilisa the Beautiful
+    - [Vasilisa the Beautiful](https://en.wikipedia.org/wiki/Vasilisa_the_Beautiful#Synopsis)
       - Vasilisa is Baba Yaga's apprentice; does get staff, but as graduation present
       - Backstory she told to gain favor with the humans she was encountering, inc. Ivan
-    - Tsarevitch Ivan, the Fire Bird and the Gray Wolf
+    - [Tsarevitch Ivan, the Fire Bird and the Gray Wolf](https://en.wikipedia.org/wiki/Tsarevitch_Ivan,_the_Firebird_and_the_Gray_Wolf#Synopsis)
       - Bowdlerized, removing Vasilisa, focusing on his wife (Helena), and pretending his wolf revived him
-    - The Sea Tsar and Vasilisa the Wise
+    - [The Sea Tsar and Vasilisa the Wise](https://en.wikipedia.org/wiki/The_Sea_Tsar_and_Vasilisa_the_Wise#Summary)
       - Vasilisa's story, intended to convince Bozidar that his time in captivity was his dad's fault
       - Vasilisa is the daughter of the Morskoi Tsar, bird-shapeshifter lords of a watery realm
       - Underwater plus timeless should be survivable by airbreathers without extra work
-    - The Fire-Bird, the Horse of Power, and the Princess Vasilissa
+    - [The Fire-Bird, the Horse of Power, and the Princess Vasilissa](https://en.wikipedia.org/wiki/The_Firebird_and_Princess_Vasilisa#Synopsis)
       - Vasilisa's story, intended to convince Bozidar to set Berendey up for a boiling
   - The real story
     - Tsarevitch Ivan and Archer are Courtly Hunters: Ivan w/ wolf, Archer w/ Horse of Power won from Kusman
@@ -256,7 +259,7 @@
     - Elite beast-riders ride individualized monstrous stuff TBD
     - Ulus: ride horses
       - The most common of the hobgoblin types, as they have the most land space to grow in
-      - Immiscible w/ goblins: "few things inspire their wrath more than [...] horses (who frighten goblins tremendously)"
+      - Immiscible w/ goblins: "few things inspire their wrath more than \[...\] horses (who frighten goblins tremendously)"
       - Treat non-horse-riders as conquered levies (e.g. Xia chinese), not main part of troops
       - They gain the most benefit from some Mongol tactics (long march, live off land, looting horses)
     - Inuk: ride dire wolf & bat ("Wooooolf! BAAAAATS!")

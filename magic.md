@@ -55,3 +55,46 @@ Semi-forbidden lore, as knowing about the easy ritual to break a lock, or The Ol
   - Several pretenders to the title have happened both before and since, with their waning
   - War magic is poorly studied, since the last perfunctory war (Vogovo) was more than fifty years ago
   - Portal magic is lost to Mezovy, having been systematically destroyed by the witchlords over the centuries
+
+
+# Fun spells
+- https://www.d20pfsrd.com/magic/all-spells/h/hypercognition/
+- https://www.d20pfsrd.com/magic/all-spells/p/page-bound-epiphany/
+- https://www.d20pfsrd.com/magic/all-spells/i/investigative-mind/
+- https://www.d20pfsrd.com/magic/all-spells/b/blessing-of-fervor/
+- https://www.d20pfsrd.com/feats/general-feats/secret-of-magical-discipline/
+- https://www.d20pfsrd.com/magic/all-spells/m/mage-s-lucubration/
+- https://aonprd.com/SpellDisplay.aspx?ItemName=Waves%20of%20Blood
+- https://aonprd.com/SpellDisplay.aspx?ItemName=Swipe
+- https://www.d20pfsrd.com/magic/all-spells/w/waves-of-exhaustion/
+- https://www.d20pfsrd.com/magic/all-spells/b/bladed-dash/
+- https://www.d20pfsrd.com/magic/all-spells/h/hold-monster
+- https://www.d20pfsrd.com/magic/all-spells/d/deadly-juggernaut/
+- https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ablative%20Barrier
+- https://www.d20pfsrd.com/magic/all-spells/s/stumble-gap/
+- https://www.d20pfsrd.com/magic/3rd-party-spells/rite-publishing-3rd-party-spells/p/pants/
+- https://www.d20pfsrd.com/feats/metamagic-feats/maximize-spell-metamagic/
+- https://www.d20pfsrd.com/feats/general-feats/spell-perfection/
+- https://www.d20pfsrd.com/magic/all-spells/b/battering-blast/
+- https://www.d20pfsrd.com/magic/all-spells/c/conjure-carriage/
+- https://dndtools.net/spells/spell-compendium--86/avascular-mass--3859/
+- https://www.d20pfsrd.com/magic/all-spells/e/explode-head/
+- https://www.d20pfsrd.com/magic/all-spells/c/coin-shot/
+- https://www.d20pfsrd.com/magic/all-spells/s/sift/
+- https://www.d20pfsrd.com/magic/all-spells/m/murderous-command/
+- https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-magic/mythic-spells/elemental-bombardment/
+- https://www.d20pfsrd.com/magic/all-spells/t/tears-to-wine/
+- https://www.d20pfsrd.com/magic/all-spells/d/dragon-s-breath/
+- https://www.d20pfsrd.com/magic/all-spells/f/flaming-sphere/
+- https://www.d20pfsrd.com/magic/all-spells/s/sirocco/
+- https://www.d20pfsrd.com/magic/all-spells/a/aboleth-s-lung/
+- https://www.d20pfsrd.com/magic/all-spells/e/ears-of-the-city/
+- https://www.d20pfsrd.com/magic/all-spells/m/maze-of-madness-and-suffering/
+- https://www.d20pfsrd.com/magic/all-spells/k/keep-watch/
+- https://www.d20pfsrd.com/magic/all-spells/s/snowball/
+- https://www.d20pfsrd.com/magic/all-spells/b/burst-of-radiance/
+- https://www.d20pfsrd.com/magic/all-spells/b/baleful-shadow-transmutation/
+- https://www.d20pfsrd.com/magic/all-spells/s/subjective-reality/
+- https://www.d20pfsrd.com/magic/all-spells/c/conditional-curse/
+- https://www.d20pfsrd.com/magic/all-spells/b/black-tentacles/#Greater_Black_Tentacles
+

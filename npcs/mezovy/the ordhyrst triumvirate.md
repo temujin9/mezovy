@@ -15,6 +15,7 @@ Feat: Extra Exploits
 
 # Current
 High Magister Valeriya Romanova (Missy)
+"What's she up to now? It'll be something devious and over-complicated. She'd get dizzy if she tried to walk in a straight line."
 
 Str 7
 Dex 14

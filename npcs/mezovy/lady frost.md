@@ -1,3 +1,5 @@
+Rugov Demian Konstantinovich
+
 Str 7
 Dex 18 = 16+2(Belt)
 Con 14
