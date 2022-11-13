@@ -5,11 +5,34 @@ Alias: Count Viktor Borovkov
 
 # Planning
 ## Current Tick
+- ???
+## Soon
+- The Hand discussed with Victor that "I fear it was some form of fell arcana, almost certainly witchcraft. Our inquisitors will find the truth, no doubt."
+## Past Results
+- Viktor and Yarik both accepting Queen's invitation, only get response on the thieves side
+- Viktor sends the Lord Hand with a sizeable escort to the front lines, where they cure zombie plague and reconquer ruins of Singuit
+- Viktor tries blocking rings in Hap, undercover in merchant caravans in other nearby counties, has trouble finding them
+- Viktor and Yarik supporting fight against hobgoblins in the West, and results more in a stalemate than anything else
+- Blocks off known portals and posts guards
+- Investigates language of flowers, finds that there was a marriage offer for his daughter
+- Offers soldiers and some stone guardians to protect interests while in his lands
+- Meets PCs, asks about the trods, gets some info (none about spells, lock)
+- Getting the info out about the hobgoblins usage of the rings
+- Tries to find and destroy fae rings (unsuccessfully), trap two left untouched
+- Weaponized Carrion Golems from hobgoblin parts, Qermerseqerian components, sent after hobgoblins, also encountered TTPCs
+- Blaming Qermerseqeria for the zombie outbreak
+- Maximizing profits on drug supplies
+- Rallying local counties to Peikki
+- Forts along border with Peikki
+- Sent family to Hap for safekeeping
+- Spying on hobgoblins, informing to Peikki
+- Special forces set to frustrate the hobgoblins
+- Reserves guarding positions in Safik
+- Causes zombie plague in Safik
 - Continuing low-level work with Hap
 - Stockpiling drugs
-- Trying for ownership of the docks in Qermerseqeria
-- Escalating attacks in Daydah, including settlements
-## Past Results
+- Trying for ownership of the docks in Qermerseqeria, gets alliance instead
+- Escalating attacks in Safik, including settlements
 - Ramping up bandit attacks in Safik to stir unrest
 - Growing Keif, Bloodbrush Extract, Blood Leaf Residue in Safik backlands
 - Agents to other counties for information only

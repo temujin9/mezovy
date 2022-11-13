@@ -52,6 +52,11 @@ XX1 - the well-hidden and blocked passageway to the fourth tower, which is under
     - This is what makes it easy to restore: uses super-expensive, super-durable, hard-to-move Focus
     - Known circle was a site of the last battle of Rolobo and Vasilisa, and both the Ring and Trap spells destroyed
     - Still works for lesser rituals, because not all of the Focus was destroyed
+  - Slavic-adjacent folklore
+    - Trad start: "Where the water was being strewn and the sand poured..."
+    - Trad ending: "...and if they haven't died already, they are living happily to this day."
+    - Used for open and closing of Rolobo's locked gate
+
 XX2-5 - the four well-hidden Focuses for the various Rolobo Rituals, buried beneath each tower
 XX6 - the Oubliette, focus of bigger Teleport Trap
 
@@ -112,3 +117,6 @@ XX6 - the Oubliette, focus of bigger Teleport Trap
   - Has a ritual that gives SR to *everything* in its area for a fortnight
   - Also causes subzero temperatures regardless of season
   - Would be a massive secret weapon to either side
+
+
+

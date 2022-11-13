@@ -4,11 +4,14 @@
   - Villain PCs: drow undead shaman, fantasy Afghanistan, tyrant antipaladin, vigilante lord/rogue
   - NPCs: black dragon, ghastly ecclesiarch
 - Woodland encounters: Young green/white/red dragon, wyverns, griffons, ogres, owlbears, dire boar, roc
-- Dwarf highwaymen: [ranger 7](https://www.d20pfsrd.com/bestiary/npc-s/npcs-cr-6/mountaineer-dwarf-ranger-7/) + 12-16 [warrior 1](https://www.d20pfsrd.com/bestiary/npc-s/npcs-cr-0/recruit-dwarf-warrior-1/) (CR 8-9, K: Local DC 16)
 - Hand out first level NPC characters (city guard), murder the hell out of them, survivor alerts regular PCs or they find bodies
 
 
 # Min The Max, etc.
+- Gaseous Form on a loud ally, thrown as a weapon
+  https://www.reddit.com/r/DungeonsAndDragons/comments/s25v3c/the_paladin_grenade/
+- Elemental Ally Druid, specialized Eidelons, Call Animal, Carry Companion: elemental pokemon trainer
+  https://www.reddit.com/r/Pathfinder_RPG/comments/smrxlz/max_the_min_monday_elemental_ally/
 - Ioun Kineticist, item of Greater Make Whole, resonant Ioun Stones: a bling-bender
   https://www.reddit.com/r/Pathfinder_RPG/comments/s66o44/max_the_min_monday_ioun_kineticist/
   Item of Greater Make Whole: repair a broken or destroyed ioun stone 1/day, 17kgp = 12x4x1800/5
@@ -179,17 +182,14 @@
 - https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cloak-of-the-manta-ray/
 - https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/migru/
 - https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/glove-of-storing/
-- https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-the-earth/
 - https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/necklace-of-adaptation/
 - https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gloves-of-shaping
 - https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/lyre-of-building
 - https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/apparatus-of-the-crab
 - https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-of-striding-and-springing
-- https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gloves-of-reconnaissance/
 - https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gloves-of-dueling/
 - https://www.d20pfsrd.com/magic-items/rods/rod-of-perilous-pits/
 - https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/scabbard-of-vigor/
-- https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Ioun%20Stone%20Magenta%20Prism
 - https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Arms%20of%20the%20Marilith
 - https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Demon%20Mother%27s%20Mask
 - https://www.aonprd.com/MagicWeaponsDisplay.aspx?ItemName=En-Nebi,%20Blade%20of%20the%20Leopard
@@ -218,12 +218,17 @@
 - https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-stones/opalescent-white-pyramid-ioun-stone/
 - https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-stones/dusty-rose-prism-ioun-stone/
 - https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/gloves-first-aid/
-- https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/numerology-cylinder/
 - https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/boots-jaunt/
 - https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Stubborn%20Nail
 - Cloak of Treasures - 1/day, 18k, 5x9x2000/5
   https://www.d20pfsrd.com/magic/all-spells/t/treasure-stitching/
-
+- Flying Rug
+  https://aonprd.com/SpellDisplay.aspx?ItemName=Imbue%20with%20Flight
+  - 3.5klb continuous, 56k, 4x7x2000
+  - 4klb all-day spell trigger, 3/day, 29k, 4x8x1500x3/5
+  - 10klb all-day spell trigger, 1/day, 29k, 4x24x1500/5
+  - 6klb all-day spell trigger, Extended, 1/day, 18k, 5x12x1500/5
+- https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/living-garments/
 
 # Random
 - Hames's Sorcerous Tinctures
@@ -249,23 +254,17 @@
     Salve of Slipperiness (1000 gp) - A glowing potion, contained in a crystal jar etched with arcane runes.
     Universal Solvent (50 gp) - This thin potion causes the air to become warm and humid when used.
     War Paint of the Terrible Visage (100 gp) - A smoky draught, contained in a porcelain flask.
-
-- ancient Central American spirituality, ancient Japanese cuisine, and ancient African death rites
 - The cursed half-demon must go on a long quest before it is too late.
-- ancient Irish physical appearance, and ancient Russian spirituality
 - Spotted Knight, Scene of a famous murder 50 years ago. Still haunted at night. Wandering minstrel, accompanied by local musicians, will start up an impromptu ballad about one of the PCs, which will contain increasingly embarrasing & shameful (but true) details. Will only stop if paid 25 GP or sufficiently threatened w/ violence. The song is extremely catchy & will be remembered and repeated by all NPCs present for some time. When they leave, a group of young boys are fishing at a placid lake. They wave lazily to the PCs, just as two squamous, humanoid arms break the surface and drag one under.
 - Wax museum
 - Manhood trials
 - Hireling wants to learn the ropes
 - Tiny single story dwelling & once impeccable garden, protected from catastrophe by some godling's petty whim, inside one short, bent human skeleton, 1000 cat skeletons, after years untold, still smells  like cat piss, no treasure.
 - Ophelia curse: Will attempt to drown self at any well, pool, pond, lake, stream, river or ocean.
-- Goblin machine: save at -4 or be charmed into trying to fix it for 1d4 months, sparing no expense to get it home, buy parts, etc. it cannot be fixed.
 - Warrior with one-eyed beast tattooed on forehead.
 - Alchemy mishap: break out with acne everywhere until cure disease. -2 penalty to charisma.
 - Your teeth have been filed to points.
 - Your diet consists solely of flower petals
-- Esmerelda is a tall warrior woman will fight all comers in a back alley fight club. The warrior who defeats her gets to marry her. (She is a pennangalan).
-- Soul Eater – creatures slain by the undead cannot be raised or resurrected. The undead gains 1 HD for 24 hours, and permanently gains 1 hit point.
 - Lord Farthingale's Men. Lord Farthingale is a fop, dressed in whatever outrageous finery the GM wishes, but he has the cunning and brutality of a Blackbeard. His party, by contrasts, is plainly comprised of the worst sort of scum and riff-raff from every corner of the earth. He has a list of (often arbitrary) proscribed behaviors for his men within city walls, and will have any offenders killed on the spot, tossing a bag of silver at the feet of any wronged party. On their last adventure, one of his party members was infected with a parasite that is reproducing inside his/her body at an alarming rate, only to burst forth in a glistening, wriggling horde from the abdomen. S/he has managed to hide this fact from the rest of their party, but it is about to become profoundly apparent. They are pursuing individual interests (roll for each member/group of 1d#total in party-1) : (1) Doing research at a Library (2) Taking in a Show (Play, concert, bear-baiting, etc.) (3) Shopping at a Store or Market (4) Engaged in Secret Business with 1) Aristocrat 2) Random NPC 3) Criminal Organization 4) Outlawed Cult 5) The Regent/Mayor 6) Demonic/Extradimensional Entity (5) Attending public Church or Temple service (6) GM’s choice of results 3,6,8-10 on this column.
 - Coffin is filled with riches and gold equaling 4,000gp.  One necklace is cursed with insatiable greed.
 - Wizard keeps as a pet/races pixies
@@ -280,14 +279,12 @@
 - The Dungeon is a corpse that was/is now a zoo containing dinosaurs.
 - Gluttony: Witch Caster may afflict victim with an addiction. Requires some amount of the substance if physical (eg. wine) or must be cast while the victim is doing the activity that is to be the addiction (eg. gambling).
 - Thespian personality
-- Practicing throwing weapons at almost dead target
 - Alicuben Whoresbane: True heir to the throne of some distant kingdom, wants to reclaim his throne someday.
 - Chaos Patron: Narjhan, Lord of Beggars
   - "Thy deed hath earned thee a worthy reward!" - 1d3 randomly determined magical items are created on the floor beside the character.
   - You have remarkable infravision (+120' infravision)
 - Creepy combat commentary: Curious "I wonder how far that elbow joint will bend back. And those eyes seem unprotected."
 - obsessed with proving the existence of the Hollow World
-- elf village: numerous crystalline globes on pedestals, somewhat like modern streetlights except that they magically capture and rebroadcast both sunlight and moondark, keeping light levels in the village at a constant twinkling twilight
 - A human master peddler and caravan, 7 dwarf guards, 15 dim-witted Half-Ogres bearers, 4 teamsters, 18 goods:
   Most guards will have spears or polearms as appropriate. 50% will have ranged weapons. Peddlers will usually have coin on hand in value to that of 10% of their goods, typically in silver. A Peddler might buy goods from adventurers if they get along, the peddler will pay 1/6th the usual value in coin or 1/2 in trade. Food and drink carried for the peddlers, guards and bearers will typically be enough to feed them for 7-12 days.
   Goods: 9 Cloak Pins (2 s.p.), 5 pair dice (1 g.p. per pair), 5 Sewing Kit (4 g.p.), 17 days Iron Rations (1 g.p. per day), 6 pair Stockings/Socks (8 s.p. pair), 4 10' Pole (2 g.p.), 73 Sling Bullets (2 c.p. each), 2 Spear (6 g.p.), 2 Glow Grub Flasks (20 g.p.), 18 oz Salt (5 s.p. oz), Magical Rope
@@ -295,11 +292,9 @@
 - Haunting - The unquiet ghost of an ancestor prowls the halls on certain nights.
 - The remains of a recent forest or brush fire. Due to the scorched landscape, no foraging is possible while in this hex.
 - Killer Reefs Just Off The Coast
-- The Golden Fountain of Silver Doom (Wall/Runes: painting of a golden fountain with silver waters, and runic Symbol of XXX)
 - What's in the hole? A shrunken head.
 - They express joy at your safe arrival and present to you as a token of their abiding affection and respect a fine Pelt, common (~1gp value)
 - A granary burns on a terraced hillside, a pair of ragged soldiers throw the bodies of mutilated civilians into the blaze. A troubadour sings a lament for the heroic dead. Fleeing Civilians, and Stuff on fire, featuring Doppelsöldner (front-liners).
-- A horde of spiders emerge from crevices in the ground, they seem to be making their way westward.
 - Caspan Ranadivek a miserly old mine owner drove off his miners so used necromancy to raise the miners from the site grave pit to work the pit. A pleading phantom begs passers by the mine road for aid freeing the damned men
 - Volcanic castle surrounded by lava moat where fire newts build an army
 - Side-Effects of Being Resurrected: Any seed you sow grows unnaturally quickly, then dies.

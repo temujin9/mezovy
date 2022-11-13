@@ -69,3 +69,6 @@ Many Lives: once weekly resurrection
   https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Black%20Soul%20Shard make it free
   Amulet of Continuous Contingency (73.5kgp=6x12x2000*0.5+1500gp), with Reincarnate cast into it
   
+
+# Others
+The Other Anatoli (The Valeyard?): ghoul arcanist

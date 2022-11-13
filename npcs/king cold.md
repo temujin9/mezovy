@@ -1,5 +1,5 @@
 Leader of the Koschei cult
-CR 14
+CR 14+
 
 Str 29-2
 Dex 9+2
@@ -9,7 +9,7 @@ Wis 14+4
 Cha 11+4
 
 Frost giant
-Cleric 9
+Cleric 9+
 - Deity: Koschei
   Domains: Chaos, Evil, Strength, War
   Subdomains: Demon (Chaos), Demon (Evil), Ferocity, Ice, Tactics
@@ -32,7 +32,7 @@ Wis 14+0
 Cha 11+4
 
 Ice giant
-Antipaladin 3
+Antipaladin 3+
 - Deity: Koschei
   Favored weapon: bastard sword
 

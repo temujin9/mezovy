@@ -1,14 +1,23 @@
+# Inspirations
+- Starfleet (DS9) - Royal Academy & Royal Wizards
+- Trill symbiote (DS9) - Archmage shackles
+
 # Wizards Guilds
 - Most have specialties, few are exclusively so
 - Most are semi-rival, esp. with Royal guild
 - All were once military, but have gone soft in peace (exception is Royal)
 - Still have the obligation to service, which the Queen will use
 - Collective name is "The Nine Towers", despite there being ten: the Royal is new and nobody is making room
-- Somewhat gelded by fae influence: they have no Portal magic to speak of
+- Somewhat gelded by fae influence: they have no Portal magic to speak of, nor Ipsissimi
 - Records of the goblin, his old teacher, and maybe the prince of crows
-
+- Teleport Circles
+  - How wizards get armies around if a Tower isn't convenient
+  - Auseq: Scrolls, Greater Staff of Passage, https://www.d20pfsrd.com/magic-items/staves/staff-of-passage/ + 5 charges casts Teleport Circle
+  - Prolichia: Wondrous item, password, 1/day => 55kgp ~= 17x9x1800/5
+  - Polyn: Eternal Scrolls, as above but with Scroll restrictions => 46kgp ~= 17x9x1500/5
 
 ## Royal Wizards Guild (Minech)
+- aka Cannon Fodder
 - dislikes Hart halflings, dislikes Royal Wizards, loves Royal Wizards, loves Nepan Thieves Guild
 - Leader: High Magister Rodion Kuznetsov
   - From a cadet branch (the Tarasova Kuznetsovs, after Anzhelina Tarasova Kuznetsov)
@@ -52,12 +61,23 @@
 
 
 ## Auseq
+- aka Vagrants
 - loves Qermerseqeria goblins loves Nunareqersuaq gnomes dislikes Daydah Wizards hates The Church
 - hated by Maskar Wizards
 - Leader: High Magister Antoniya Tarasova
 - Vencesl Keep: This concentric castle has battered stone walls with large towers, and a square keep. It is inhabited by a poor beggar named Disla Vencesl.
+  - Disla is actually The Blue
+    https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/chromatic-blue/blue-dragon-great-wyrm
+      Spellcraft +37, several others -> Ritual Magic
+    https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/hat-of-disguise/ greater
+    https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/vestment-mnemonic/
+      https://www.d20pfsrd.com/magic/all-spells/c/create-demiplane/ for a well-hidden treasure horde
+    https://www.d20pfsrd.com/magic-items/rings/ring-of-spell-knowledge/ x2
+    https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/page-of-spell-knowledge/
+      https://www.d20pfsrd.com/magic/all-spells/p/plane-shift/
+      https://aonprd.com/SpellDisplay.aspx?ItemName=Legendary%20Proportions
 - Focus: Flexibility
-  - Ritualist - ala Longbeard (will connect him back to his Guild - Auseq)
+  - Ritualist - ala Longbeard (will connect him back to his Guild)
   - Arcane Physician - healing as if an alchemist, Brew Potion instead of Scribe Scroll
   - Spell Sage - occasionally buff CL, spontaneous cast out-of-class spells w/ effort
   - Sloth - Conjuration, Prohibited Schools: evocation, illusion
@@ -69,8 +89,15 @@
 - Drug den, rich and exotic
 - Traits: counterpart to another faction, causes ruination
 
+- The Octagon
+  - Eight teleportation circles to the other towers (except Royal)
+  - Corresponding teleportation circles in the other towers
+  - Have Teleport Traps which can be activated to protect against incursions from fallen towers
+  - Used to move armies around
+
 
 ## Daydah
+- aka Mummers
 - dislikes Qasatia Thieves Guild hates Royal Family hates Royal Wizards
 - loved by Oreskoere Wizards, Hap County
 - Leader: High Magister Valeriya Romanova
@@ -93,6 +120,7 @@
 
 
 ## Maskar
+- aka Dusky Snobs
 - dislikes Mayed Thieves Guild loves Royal Family dislikes Maskar halflings hates Auseq Wizards
 - loved by Mayed County
 - hated by Ghom County
@@ -115,6 +143,7 @@
 
 
 ## Oreskoere
+- aka Gravediggers
 - loves Daydah Wizards hates Perin Thieves Guild dislikes Provenkia County
 - Leader: High Magister Yesfir Kozlova
 - Bacot Castle: This fortress complex has thick wooden walls with towers, and a shell keep. It is inhabited by a smuggler named Mira Bacot hiding his wares.
@@ -130,7 +159,8 @@
 - Traits: obsessed with wind patterns, blunt, honest, pragmatic
 
 
-## Polyn 
+## Polyn
+- aka Sheepsquints
 - dislikes Perech Thieves Guild dislikes The Church dislikes The Church
 - loved by Kitsiaqia County, Alnasta County
 - hated by Sioraneq Wizards
@@ -150,7 +180,8 @@
 - The True Royals - They have a child who is supposedly the heir to a kingdom long since destroyed. They need to find other people first willing to follow them and then willing to reform the kingdom. The problem is somebody in the past did their best to erase all mention of the kingdom so nobody remembers or cares. The True Royals sponsor missions to rediscover this ancient civilization. If it was a good or evil place remains a mystery.
 
 
-## Prolichica 
+## Prolichica
+- aka Shopkeeps
 - dislikes Olenkia Thieves Guild dislikes Royal Wizards dislikes The Church
 - Leader: High Magister Yeva Ilina
 - Tadun Castle: This large walled castle sits upon the banks of a river, spanned by a drawbridge. It is inhabited by a civilized ghoul named Mira Tadun.
@@ -179,6 +210,7 @@
 
 
 ## Sioraneq
+- aka Brouhahas
 - loves Agsilakunarsia Thieves Guild dislikes The Church hates Polyn Wizards
 - Leader: High Magister Apollinariya Morozova
 - Esbluff Tower: This fortress complex has thick wooden walls and earthen ramparts, and a large keep. It is inhabited by brigands led by a pirate named Rimunda Esbluff.
@@ -200,6 +232,7 @@
 
 
 ## Topolh
+- aka Snowballs
 - dislikes Military Academy dislikes Drozelk elves loves Bereria Margrave dislikes Bereria halflings
 - loved by Velorolobo County
 - Leader: High Magister Sevastian Zakharov
@@ -223,6 +256,7 @@
 
 
 ## Uhlinberg
+- aka Ditchdiggers
 - loves Royal Family loves Military Academy loves The Church
 - loved by Hart County
 - Leader: High Magister Ieronim Makarov

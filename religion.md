@@ -1,24 +1,46 @@
 # Slavic Deities
-- Morilorian Occultism: inner cabal of LE leaders of The Church
-  - Part of the immortal ghoul clique
+## The Ecclesiarchy
+- The Six - Perun, Stirbog, Mokosh, Dahzbog, Khors, Zorya
+- the Common Council - Deivos, Simargl, Svarog, Radegast, Veles
+- the Small Gods - all others
 
-## Major
-- list is from https://en.wikipedia.org/wiki/Vladimir_the_Great#Years_of_pagan_rule
-- https://en.wikipedia.org/wiki/Perun - leadership, sky, lightning, law, war
-- https://en.wikipedia.org/wiki/Stribog - wind, wealth
-- https://en.wikipedia.org/wiki/Mokosh - weaving, women, childbirth
-- https://en.wikipedia.org/wiki/Dazhbog - sun
-- https://en.wikipedia.org/wiki/Khors - moon
-- https://en.wikipedia.org/wiki/Simargl - fire, luck (chained monster)
+## Sources
+- https://en.wikipedia.org/wiki/Vladimir_the_Great#Years_of_pagan_rule
+  - https://en.wikipedia.org/wiki/Perun - leadership, sky, lightning, law, war
+  - https://en.wikipedia.org/wiki/Stribog - wind, wealth
+  - https://en.wikipedia.org/wiki/Mokosh - weaving, women, childbirth
+  - https://en.wikipedia.org/wiki/Dazhbog - sun
+  - https://en.wikipedia.org/wiki/Khors - moon
+  - https://en.wikipedia.org/wiki/Simargl - fire, luck (chained monster)
+- Others
+  - https://en.wikipedia.org/wiki/Svarog - smithing, father of Dazhbog & Khors & Radegast
+  - https://en.wikipedia.org/wiki/Zorya - dawn, holds Simargl's chains
+  - https://en.wikipedia.org/wiki/Radegast_(god) - protection, hospitality, assemblies, aka Svarozhits
+  - https://en.wikipedia.org/wiki/Veles_(god) - underworld, trickery, magic
+  - Deivos - grandfather god, roughly equiv to Tyr?
+  - Chernabog - LE - Asmodeus expy, worshiped by Caine, wants into Common Council
+  - Chislobog – the god of numbers
+  - Lelya - goddess of love
+  - Berend-Perun - first Tsar, treated as the demigod child of Perun
+  - Svitibor - god of forests
+  - see also 
+    - https://en.wikipedia.org/wiki/List_of_Slavic_pseudo-deities
+    - https://en.wikipedia.org/wiki/Slavic_paganism
 
-## Others
-- https://en.wikipedia.org/wiki/Svarog - smithing, father of Dazhbog & Khors & Radegast
-- https://en.wikipedia.org/wiki/Zorya - dawn, holds Simargl's chains
-- https://en.wikipedia.org/wiki/Radegast_(god) - protection, hospitality, assemblies, aka Svarozhits
-- https://en.wikipedia.org/wiki/Veles_(god) - underworld, trickery, magic
-- see also 
-  - https://en.wikipedia.org/wiki/List_of_Slavic_pseudo-deities
-  - https://en.wikipedia.org/wiki/Slavic_paganism
+## Morilorian Occultism
+- Inner cabal of LE leaders of The Church
+  - Generally limited to priests of Zorya, Simargl, and Veles
+- Source of the immortal ghoul clique
+- Fae cult descended from gnomish practices
+  - Also the source of Jerry's sin-eating group
+  - Don't agree with the mushroom ban
+- Hallows eating mushrooms & intelligent flesh, in a ritual which creates living ghouls
+- Knows about the hidden fae circles, controls and uses some hidden ones
+- Circle in Prolichia is a former Morilorian circle
+  - they have retreated warily from Samvanzu and her minions
+  - the kobolds don't know about them due to their secrecy
+- MO is to stay under the radar by hiding theft of meat from burials
+
 
 # Norse Triad
 - All groups may cross over into others (uneasily)

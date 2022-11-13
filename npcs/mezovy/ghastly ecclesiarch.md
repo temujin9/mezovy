@@ -6,7 +6,7 @@ Int 13  <!--  7+6(Ghast) -->
 Wis 24  <!-- 16+8(Ghast) -->
 Cha 21  <!-- 15+6(Ghast) -->
 
-Alignment: NE
+Alignment: LE(tend NE)
 Dread Ghast (+2)/Monk 1/Separatist Ecclesitheurge 17
 - No weapons or armor
 - Domain Mastery - swap secondary domain spells for another domain

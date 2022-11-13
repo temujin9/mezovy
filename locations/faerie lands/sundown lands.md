@@ -39,7 +39,7 @@ Old Construction:
 
 
 ## The Autumn Palace
-Vast, magnificent and unapproachable jewel. All windows to the "northwest" have been covered from the inside. Actually several nested demiplanes, where the windows are gates into the larger realm (and sometimes elsewhere). Lord Hob (the Hearth Witch) secures and protects these realm for her at all times.
+Vast, magnificent and unapproachable jewel. All windows to the "northwest" have been covered from the inside. Actually several nested demiplanes, where the windows are gates into the larger realm (and sometimes elsewhere). Lord Hob (the Hearth Witch) secures and protects these realm for her at all times. In the center lies the Hall of Mirrors, an especially mutable realm that The Queen uses to visit the nine hundred realms she has personal portals to.
 
 Planar Traits
 - as Typical Planar Traits, plus
@@ -76,12 +76,12 @@ Inspirations:
 - http://pikeplacemarket.org/
 
 ## Towers of Fear
-Greater Create Demiplane (plus an Instant Fortress?)
+Greater Create Demiplane (plus an Instant Fortress for visual effect?)
 - Inside is created first, following by Faerie gate
 - Made with a Witches' Sabbath, making it large and very hard to dispel
 - Gate to the Abyss requires a coven of Night Hags to open their home (ergo lower CL, because they lack Coven hex)
 - Gate to the Material requires a local coven to open their home (also somewhat lower CL, since they're smaller)
 Gates at base to Abyss
-Gates at top to Faerie, Abyss
+Gates at top to Faerie
 Spellcasters at top have powerful advantages on folks at base
  

@@ -1,0 +1,15 @@
+- Vampire the Masquerade
+  - Ghasts and Ghouls as hidden and influential group
+  - Civilized Ghoulishness can suppress the stench as free action, [Skin Suit](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Skin%20Suit) or [Appearance of Life](https://www.d20pfsrd.com/magic/all-spells/a/appearance-of-life/) vs. [Detect Undead](https://www.d20pfsrd.com/magic/all-spells/d/detect-undead/) and [Deathwatch](https://www.d20pfsrd.com/magic/all-spells/d/deathwatch/)
+  - Subtly encouraging breeding for flavor (h/t Fridge/Feet of Clay)
+  - Powerful ones have found ways to sleep out their hunger, awaiting war
+  - Some even manage to become liches, after centuries of work
+  - They've infiltrated The Church, in the form of Morilloran Occultism
+  - Reverse the roles of vampire and ghoul: vampires are weaker minions, based on dhampir stats
+- Stargate
+  - Ori => A ghoul cleric who is trying to become a lich connected to the mycellial network
+- Deep Space 9
+  - Pah Wraiths - Morilloran Occultism?
+- (meme) "You cannot kill me in any way that matters" - mushroom ancients
+  - A lich who wants to make a mycellial network his phylactery => Ori/Pah Wraiths
+ 

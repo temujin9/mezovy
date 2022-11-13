@@ -24,3 +24,12 @@ The group's name is "The Axe of Perun". They were all wearing freshly carved woo
 
 
 
+# Spell wishlist
+d10+2x(spell level)
+ 1-9    Found in Rolobo's library (even roll) or potato wizard's treasure (odd roll)
+10-14   Found in Rolobo's library
+15      Known to be in Royal Wizard hands
+16      Known to be in Uhlinberg's hands
+17      Probably available in Prolichia
+18      Probably available in Polyn
+19+     Not available

@@ -3,12 +3,10 @@ Player: caine
 Build: Human Tyrant Antipaladin 3/Vigilante 11
 Alias: Caine of the Black Heart
 
-# Planning
-## Current Tick
-- ???
+# Past Results
+- Inform of current subplot, ask if the lawyer is one of his friends
 - Get news that the PCs have accepted his offer
 - Start getting news of the problems Yarik is stirring up
-## Past Results
 - Reach out to PCs via Cohort, alert them to Ghouls in the clergy
 - Brokered an understanding with Ukpik
 - Brokering a detente with Sioraneq Wizards
@@ -18,3 +16,4 @@ Alias: Caine of the Black Heart
 Follower of Chernabog (Asmodeus) 
 
 Dislikes the Church and the local/existing Thieves Guild, loves the Military Academy.
+

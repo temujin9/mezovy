@@ -3,10 +3,8 @@ Player: dicesmasher
 Build: Human Wizard 17
 Group: none yet
 
-# Planning
-## Current Tick
-- ???
-## Past Results
+# Past Results
+- Attacked the Queen's lands in Shadow, repulsed violently, got more spells & a cohort
 - Moved to a sanctuary hidden in the Shadow Plane
 - Teleported to real Bolechnikov (location TBD), promptly destroyed it in fit of madness
 - Built potato kingdom, collected spells and minions

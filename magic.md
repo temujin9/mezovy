@@ -1,5 +1,33 @@
 # Portals
-Semi-forbidden lore, as knowing about the easy ritual to break a lock, or The Old Rites, would make mundane people far more likely to enact them. In addition, several church practices (only approved songs, no dancing) are in place to prevent accidentally breaking a portal lock.
+Forbidden lore, as knowing about the easy ritual to break a lock, or The Old Rites, would make mundane people far more likely to enact them. In addition, several church practices (only approved songs, no dancing) are in place to prevent accidentally breaking a portal lock.
+
+## Items
+Portal Key
+- https://dndtools.net/spells/manual-of-the-planes--43/seal-portal--1853/
+- One shot use activated lock, 3300gp ~= 11 x 6 x 50
+- Once per day command word lock, 24kgp ~= 11 x 6 x 1800 / 5
+- Command word lock, 120kgp ~= 11 x 6 x 1800
+- Can be reversed to open a seal, on the sealed side
+
+## Spells
+- https://aonprd.com/SpellDisplay.aspx?ItemName=Locate%20Portal
+- https://dndtools.net/spells/manual-of-the-planes--43/analyze-portal--1857/
+- https://dndtools.net/spells/manual-of-the-planes--43/portal-alarm--1850/
+- https://dndtools.net/spells/manual-of-the-planes--43/portal-alarm-improved--1849/
+- https://dndtools.net/spells/manual-of-the-planes--43/seal-portal--1853/
+- https://dndtools.net/spells/manual-of-the-planes--43/scramble-portal--1872/
+- https://dndtools.net/spells/champions-of-valor--28/portal-well--328/
+- https://dndtools.net/spells/planar-handbook--79/precipitate-breach--2163/
+- https://dndtools.net/spells/planar-handbook--79/precipitate-complete-breach--2164/
+
+- https://dndtools.net/spells/manual-of-the-planes--43/attune-form--1865/
+- https://dndtools.net/spells/manual-of-the-planes--43/avoid-planar-effects--1846/
+- https://dndtools.net/spells/planar-handbook--79/astral-hospice--2148/
+- https://dndtools.net/spells/planar-handbook--79/cloak-pool--2184/
+- https://dndtools.net/spells/planar-handbook--79/discolor-pool--2185/
+- https://dndtools.net/spells/planar-handbook--79/perinarch--2206/
+- https://dndtools.net/spells/planar-handbook--79/perinarch-planar--2207/
+- https://dndtools.net/spells/planar-handbook--79/rarys-interplanar-telepathic-bond--2178/
 
 # Prehistory
 - Ritual magic
@@ -57,7 +85,10 @@ Semi-forbidden lore, as knowing about the easy ritual to break a lock, or The Ol
   - Portal magic is lost to Mezovy, having been systematically destroyed by the witchlords over the centuries
 
 
-# Fun spells
+# Fun spells, etc
+- https://www.d20pfsrd.com/feats/metamagic-feats/maximize-spell-metamagic/
+- https://www.d20pfsrd.com/feats/general-feats/spell-perfection/
+
 - https://www.d20pfsrd.com/magic/all-spells/h/hypercognition/
 - https://www.d20pfsrd.com/magic/all-spells/p/page-bound-epiphany/
 - https://www.d20pfsrd.com/magic/all-spells/i/investigative-mind/
@@ -73,8 +104,6 @@ Semi-forbidden lore, as knowing about the easy ritual to break a lock, or The Ol
 - https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ablative%20Barrier
 - https://www.d20pfsrd.com/magic/all-spells/s/stumble-gap/
 - https://www.d20pfsrd.com/magic/3rd-party-spells/rite-publishing-3rd-party-spells/p/pants/
-- https://www.d20pfsrd.com/feats/metamagic-feats/maximize-spell-metamagic/
-- https://www.d20pfsrd.com/feats/general-feats/spell-perfection/
 - https://www.d20pfsrd.com/magic/all-spells/b/battering-blast/
 - https://www.d20pfsrd.com/magic/all-spells/c/conjure-carriage/
 - https://dndtools.net/spells/spell-compendium--86/avascular-mass--3859/

@@ -1,3 +1,14 @@
+# Notes
+- Make sure Ukpik can contact juggle
+- https://www.poetryfoundation.org/poems/43991/kubla-khan
+  - stately pleasure dome
+  - sacred river of alp, "haunted by woman wailing for her demon-lover!": The Queen as originally from the Plane of Water, now courting Kosechi
+  - "Beware! Beware! His flashing eyes, his floating hair! Weave a circle round him thrice, And close your eyes with holy dread, For he on honey-dew hath fed, And drunk the milk of Paradise."
+    Ukpik as a kwisatz haderach, partaking in traditional hag powers while being a hobgoblin.
+- (Swords Comic) Blade of Insults - built by Lockeweaver for Ukpik?
+
+
+# Build
 Ukpik daan Deraan (The Wise Owl)
 aka Scandiacus of Styerrabrae
 CR 18 Hobgoblin King (Fey Owl 6 + Bard 11 + PC Wealth 1)
@@ -132,3 +143,4 @@ Followers:
 - Homages to Labyrinth, etc.
 - Kanabo - half-oni hobgoblin
   https://www.d20pfsrd.com/bestiary/monster-listings/templates/oni-kin-cr-varies/
+

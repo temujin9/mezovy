@@ -1,6 +1,15 @@
 "I fights for the liberty of peoples. I'd die for that."
 
+# Notes
+- Worked for Samvanzu unknowingly, killed the Queen's rep to the Thief's Guild during take-over
+
+
 # Future possibilities
+- Improved Sneak Attack feat
+- Some form of familiar / animal companion
+  - The Dragon knows how . . . 
+
+## Items
 160gp for +1 (w/ base +1)
   https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/seeking
   https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/shock

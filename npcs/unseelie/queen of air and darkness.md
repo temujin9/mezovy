@@ -78,6 +78,13 @@ Skills: 100
 
 Equipment: 880kgp
 235kgp  Staff of Power
+???kgp  Many-Way Mirrors
+          50kgp   Base
+          25kgp   Return
+          150kgp  +12 destinations
+          75kgp   +12 return
+          25kgp   Return are mobile
+          
  18kgp  Belt of Dexterity +6
  18kgp  Headband of Alluring Charisma +6
  20kgp  Suzerain Scepter
@@ -87,6 +94,7 @@ Equipment: 880kgp
  12kgp  Greater Silent Metamagic Rod
  75kgp  Coven Charm - one negative level per charge (up to 3, on other Coven members), use coven spells by self
  16kgp  Shawl of the Crone - used to use for getting wizards into Grand Coven (for the Permanency)
+ 50kgp  Item of Duplicate Familiar (CL 7, command word), worn by familiar
 
 Spells: 
   Known: 9/5/5/4/4/4/3/3/3/3
@@ -113,7 +121,7 @@ Spells:
     Baleful Shadow Transmutation
   - 5th
     mind fog
-    Duplicate Familiar
+    Duplicate Familiar - maybe ???
     Pain Strike, Mass
     Release the Hounds
     Wreath of Blades
@@ -180,12 +188,17 @@ Spells:
 
 
 # Notes
+- What's the Queen's end game? Ally with Mezovian elements and crush the hobgoblins for their impudence? Just reveal her command of them once she's pocketed them? This seems to depend on what she knows and when. If she learned recently it might still be in flux?
+- Cootie witch recommendations
+  - The Queen obviously has a poison plant garden
+    - https://en.wikipedia.org/wiki/Manchineel deadly tree: blistering sap, toxic to attack or burn
+  - New moon for rituals to The Queen
 - Was hag bound to Baba Yaga, but graduated a while ago
   - "Tithe to hell" every seven years per Tam Lin
   - Actually a tithe to Baba Yaga, living deep in the Abyss
   - Soul-gems of dead folks, the "punished" 
 - Vile Leadership & Wicked Leader
-  - 18th level cohort, each (down to 12th) also takes Vile Leadership & Wicked Leader
+  - 19th level cohort, each (down to 12th) also takes Vile Leadership & Wicked Leader
     - Prince of Crows - Changeling Wizard 19
       - Vile Leadership 44 => 19(level)+6(various)+19(murder)+0(Cha) => 1400/140/70/35/18/9/5/3/2/1/0+2
     - Lord Hob - Goblin Hearth Witch 18
@@ -203,7 +216,6 @@ Spells:
       - Vile Leadership 28 => 9(level)+6(various)+9(murder)+4(Cha) => 300/30/15/8/4/2/2
     - Remaining
       - hags, witches (many hagbound and/or fae), fae, drow, wolves
-      - count here is full, which is why she needs to bargain for the armies of others
     - PCs have encountered:
       - Coven who bonded Ivan: Winter Hag, Storm Hag, Boreal Annis Hag (or witch)
       - Treasurer - witch thief, angry at PCs

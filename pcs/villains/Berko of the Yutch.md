@@ -1,13 +1,42 @@
-Character: Berko of the Yutch
+Character: Komendant Berko of the Yutch
 Player: longerthanbefore
 Build: Human Rogue 14th-ish
-Group: the Yutch
 
 # Planning
 ## Current Tick
 - ???
-- Enemy of enemy pays off: who sends aid to them?
+## Soon
+- Samvanzu sends agents to scope out Berko et al, maybe gets scoped
+  - Also running trade south from Thorbuton to skip the war blockade
+- https://www.d20pfsrd.com/magic/all-spells/m/irrisen-mirror-sight/
 ## Past Results
+- Training heavier troops (bear hunters)
+- Looking for non-Mezovian spellcasting traditions
+- Diego used tax-free passage for merchants during negotiations to encourage delays, it's super effective
+- Vovo pushes back with down-payment on the danegeld offered
+- Queen offers magical backup for Berko's realm in exchange for Welcoming
+- Seekers see two dragons landing on a single mountaintop in Compoundia, and then disappearing into the same cave mouth without fighting
+- Diego stalls on negotiations, but puts safe access to the highway on table and offers free passage during negotiations
+- Preparing strategically for hobgoblins attacking the Vogovans
+- Warning and preparing the Vogovans for war with the Tsarina and/or hobgoblins
+- Diego gets to talk to the Tsarina's representative
+- Diego to explore his unorthodox and murder-related options regardless of the negotiations
+- The Queen sends an envoy offering to make him a Duke if he'll flip
+- Prominent dissidents from Mezovy invited to stay
+- The Tsarina is gonna lose her shit about this
+  - The hobgoblins retreat into the trods, she wheels west to the Yutch
+- Establishing foothold at the northern fortress along with Vogovans
+- Seekers remain hidden from Vogovans
+- The Tsarina sends assassins and a close friend or family member is killed instead of Berko
+- Get's "taken under the wing" of Komendant Vasyl Feodosijovych Denysenko of Kenland, shifted Vogovan balance of power
+  - \[Unknown\] is Vasyl an agent of The Queen?
+- Cossacks get free rein through Vogovan Yutchland, establish land-trade with Athamberingia (better than the fire-routes)
+- Lets the Vogovans in, they wreck massive damage upon the Count's army
+- Berko and three followers get the title of provincial governor
+- Stanislav is only two hexes in after months of fighting
+- Bulabar inform him of PCs trek through the trod
+- Vogovan diplomatic envoy: would they consider becoming a province
+- Enemy of enemy pays off: Lebosalk retakes the port town at the border
 - Reaching out to the fae, met Bulabar riding Small lynxes
 - Retreating into the mountains
 - Holding the pass vs. the approaching army

@@ -39,3 +39,71 @@ Trods connect to each other as well, forming a network that becomes more and mor
 - social stigma with humans & demihumans
 - also happens to animals which eat sentient fae creatures, resulting in hybrids (ala TMNT) in next generation
 - only happens on fungal trods
+
+
+### Random Trods
+Number of outbound portals: L+d6!-1
+
+Initial portal, for L1 & L2 portals:
+    1d1860    X-pixels
+    3d335     Y-pixels
+
+Added portals: d6, +5 for L2/L3
+    1-5   Material plane (Xd6 scatter in hexes)
+    6     Inner plane: d6
+          1     Earth
+          2     Air
+          3     Fire
+          4     Water
+          5     Ethereal
+          6     Shadow
+    7-10  A trod (dN+1: 1-N existing, N+1 new)
+          1-3     L1
+          4-5     One level less
+          6       Same level
+    11    Outer plane: 3d6
+          3-5     Heaven (LG)
+          6       Nirvana (NG)
+          7       Elysium (CG)
+          8       Utopia (LN)
+          9       Deep Astral
+          10-11   Astral
+          12      Limbo (CN)
+          13      Purgatory (N)
+          14      Abyss (CE)
+          15      Abaddon (NE)
+          16-18   Hades (LE)
+
+Portal condition: 1d6
+    1     Locked (other side)
+    2     Locked (this side)
+    3-4   Open
+    5     Blocked (this side)
+    6     Blocked (other side)
+
+
+#### Inhabitants
+    1     Uninhabited (reason?)
+    2-3   Fae folk
+    4-5   Native from a portal (fae-touched)
+    6     Native from a portal (not yet fae)
+
+### Map
+https://docs.google.com/drawings/d/1JVwHRdxBT65F4wVN1NnkJw-OcxwX8LVUaQXOerT2p7U/edit
+
+
+
+
+
+- Stargate
+  - Ancients => Myceloids/Mushroom Leshy/Vegepymies/Polevik/Funglet - makers of the faerie ring trods
+- Pratchett: Lords & Ladies, Wee Free Men, etc.
+  - Singing/dancing to distract fae creatures
+  - Standing circle closing off a fae portal, made of "cold iron" (magnetic iron)
+- Deep Space 9
+  - Prophets - fae-folk gods, one of whom chose Karl as his Emissary
+  - "the wormhole" - powerful trod
+- (meme) "You cannot kill me in any way that matters" - mushroom ancients
+  - Mushroom trods can turn you into fae: it's like The Ooze from TMNT
+  - Armillaria ostoyae - 3.5 sq mi., 35kton mushroom
+  - Prototaxites - 25ft tall, 3ft wide mushrooms

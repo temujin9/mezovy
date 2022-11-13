@@ -27,7 +27,7 @@ https://legacy.aonprd.com/ultimateCampaign/kingdomsAndWar.html
     New Buildings: 5
   - Create Army Units
   - Issue Edicts
-- Income - (d20+Income)/3 BP (Treasurer)
+- Income - (d20+Economy)/3+Income BP (Treasurer)
 - Event - 25% or 75% if no event (GM)
 
 # Who Rolls
@@ -45,3 +45,20 @@ https://legacy.aonprd.com/ultimateCampaign/kingdomsAndWar.html
 - Treasurer: Economy checks, Taxation edicts, Trade edicts (optional rule)
 - Viceroy: Vassalage edicts (optional rule)
 - Warden: Stability checks
+
+
+# Mass combat
+- Upsize the armies, so mass combat lasts multiple rounds
+  - Mounts (BP = Mount’s ACR): The army is mounted on horses or other war-trained animals. Increase its OM and DV by 2, and increase its Consumption by 1. If your army uses mounts that are more powerful than the units themselves, your army’s ACR and derived scores might increase (see ACR). To purchase this resource, a settlement in your kingdom must have a Foreign Quarter, Stable, or Stockyard.
+  - Ranged Weapons (2 BP): The army is equipped with ranged weapons (such as crossbows, slings, or bows), gaining ranged attack capability. Increase its Consumption by 1.
+- Work out how to have individual PCs on the battlefield
+    PC 7 = ACR 1/4
+    PC 10 = ACR 2
+- Figure out how to treat ships: 
+  - Fortification = hardness + 4 (moats, unsiegable, negated by boarding)
+  - ?x siege engines => 4x would reduce enemy warship to 0 fort on average
+    - Longship => 4 Large, Sailing ship => 24 Large, Warship => 26/23? Large
+    - 15bp => 60kgp (or 7500gp?) => 120 (or 15?) light ballista (not counting ammo)
+  - Can hold any army between crew size and crew + passengers size
+  - Usually using Withdraw to stay at Ranged
+  - Melee means it's a boarding action

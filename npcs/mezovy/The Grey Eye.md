@@ -3,10 +3,7 @@ Player: klipce
 Build: Drow Shaman 14
 Group: Slaugh (Unseelie)
 
-# Planning
-## Current Tick
-- ???
-## Past Results
+# Past Results
 - Sula investigates the Yutch portal
 - Break-ins at Auseq, Oreskoere, and Uhlinberg libraries
 - Participation in the yearly Black Mountain ritual

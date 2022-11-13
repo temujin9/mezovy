@@ -55,3 +55,10 @@ Church of the Realm
   Pushed south by Slovan conquest
 - Soumi: Finnish, gnome, south west
   Pushed south by Slovan conquest
+
+# Armies:
+- 40k of 4M pop
+- ala Catherine the Great v Turks - ~125K peak of 125M population / 3
+- 55 provinces, total pop 4.1M @ 1% recruitment
+- She brings ~20% to bear in Rovenk: 8k
+- 370 the PCs already have (3 medium, 1 small, 2 diminutive)

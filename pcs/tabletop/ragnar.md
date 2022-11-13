@@ -106,7 +106,7 @@ Fire-ink tattoos (50gp) - firebird (left arm) and a feather (right palm), can ex
 - Rapid shot - +10/+10/+5, 20/x3, 110ft, 1d8+3 piercing +4d6 sneak attack
 2x masterwork composite longbows (800gp) - backup in case primary bow is lost or broken
 Masterwork Launching crossbow (375gp)
-- Ranged - +12, 30ft, fired item's damage (see below), +4d6 sneak attack direct hit, +3 sneak attack splash
+- Ranged - +12, 30ft, fired item's damage (see below), +4d6 sneak attack direct hit, +4 sneak attack splash
 Masterwork rapier (320gp)
 - Melee - +12/+7, 18-20/x2, 1d6+2 piercing +4d6 sneak attack
 Daggers: 9 regular, 6 cold iron, 3 silver (93gp)
@@ -135,7 +135,7 @@ Daggers: 9 regular, 6 cold iron, 3 silver (93gp)
 
 ## Splash weapons & fireworks
 15x Alchemist's fire (100gp) - direct 1d6 fire, splash 1 fire
-15x Alkali flask (75gp) - direct 1d6 acid, splash 1 acid 
+15x Alkali flask (75gp) - direct 1d6 acid, splash 1 acid
 6x Bone burn (50gp) - only hurts undead, direct 1d6 acid, splash 1 acid
 6x Burst jar (70gp) - 1 round delay, full-round: remove direct, direct 1 sonic deafened and Fort 12 or stunned, splash 1 sonic
 6x Shard gel (50gp) - direct 1d4 piercing, splash caltrops

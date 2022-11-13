@@ -51,3 +51,21 @@ Roll the following for each cadet branch
     5 - Grigoreva - Richacren
     6 - Vinogradov - Hart
 - d8 for type (-1 for self, +1 for royals): 0-2 - loves, 3-6 dislikes, 7-9 hates
+
+
+
+Queen's representatives have been making offers of alliance
+- Mardukes got priority, but are also more reticent
+- Start backfooted enough that PCs could dislodge some useful part of it in time if they try hard
+- 3d6, subtract 10 for thieves guilds, 11 for nobles, and 12 for Dukes or better
+  0-: not started
+  1: initial flowers
+  2: returned flowers
+  3: visiting representative
+  4: exchange of gifts
+  5: permanent ambassador
+  6: "Welcoming Of The Gentry"
+  7: arranged marriage/lots of drow membership
+  8: complete infiltration
+- ??? Wizards? probably not? or by story rather than random
+- ??? Clergy? definitely not? also don't have a factions list there yet

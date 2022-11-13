@@ -45,7 +45,7 @@
 - https://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AvatarTheLastAirbender
 - https://tvtropes.org/pmwiki/pmwiki.php/Literature/HanselAndGretel
 - https://tvtropes.org/pmwiki/pmwiki.php/Literature/JackAndTheBeanstalk
--   https://tvtropes.org/pmwiki/pmwiki.php/Literature/JackTheGiantKiller
+  - https://tvtropes.org/pmwiki/pmwiki.php/Literature/JackTheGiantKiller
 - https://tvtropes.org/pmwiki/pmwiki.php/Literature/BeautyAndTheBeast
 - https://tvtropes.org/pmwiki/pmwiki.php/Music/PeterAndTheWolf
 - https://tvtropes.org/pmwiki/pmwiki.php/Literature/ThePiedPiperOfHamelin

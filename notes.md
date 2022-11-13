@@ -1,3 +1,38 @@
+# TODO
+- Yarik
+
+- TTPC next game news/events
+  - Diego comes back from further negotiations in Seryy's court
+  - Queen already started overtures to the guild in Hinnton
+  - Spy news:
+    - Dylan's
+      - High level spy in Tsarina's court
+        - Learns details about Tsarina's possible agreement with Yutch?
+      - Two first levels on each sibling (the ones at Puryev have been blown)
+        - Learns about The Traitor having a weird reclusive elven visitor
+      - One first level at each tower
+        - Learns news about Marduke Marcus' protection of Sioraneq from hobgoblins, taking of its lord as hostage
+      - Twenty first level scouts on river and road from Velerolobo to Prolichica
+        - Further news of The Black's agents?
+    - Kat's
+    - Who else? Raag? Gahdri?
+  - Allies deliver information
+    - Royal Wizards were looking in the library
+    - Maybe Alaric has capstoned Knowledge: History?
+  - Johnny Has Gone for a Soldier - NPCs from the lands return broken by war, and Queen asks for fresh regiments
+
+- The Tsarina
+  - Much more worried about losing lands to the southwest, is launching a counter-assault there
+
+- The Three
+  - The Blue is making enquiries about royal flowers to the local magisters in his guild, ???, ???, and ???
+    - Does this raise attention of Dylan's spies?
+  - The Black is putting out feelers in thieves guild to Prolichica, Auseq, and Sioraneq territories (with help from Blue on transport)
+    - Sending goods through trods to Singuit & Qilissuitsip, pretending it's the company's ship sending them
+  - The Mithral is exploring the Yutchland mountain-way to Athamberingia
+    - This alerts the Yutch, no doubt
+
+
 # Pacing/Timing
 - Target CR is 13/12/11 (ACL+5 if 6+ PCs, ACL+4 if 4-5, ACL+3 if 3 PCs)
 - Target is 4.5 levels per year for next two years
@@ -5,36 +40,89 @@
 - PCs confront Queen around 11/2023 at 17th or 18th level
 - Meta: Prep one scene or one round of big combat for every 30 to 45 minutes of gameplay
 
-# Soon
-- TTPCs: tracks are visible (at +5 DC) in the Yutesh L1 Trod
-- TTPCs: took the bribe to start looking into the church ghoulishness
-- Yarik: Safik is having some criminal troubles; an increase in drugs(?) and banditry
-- Berko: sending emissary to the fae realm that the PCs have explored
-  - Find 4 more portals, one deeper into faerie land, two more into Yutch, one into Athamberingia
+
+
 
 # Further ideas
+- How do the ghouls tie into this?
+  - They seem natural allies for the Queen, but may have ideological or power-hungry reasons to fight against. 
+  - Are they Illuminati behind the Mezovian throne? Yes.
+  - Why do they support the current Tsarina? 
+    - She is bidable and fecund, ensuring continuity of rule.
+    - She is bellicose which produces lots of bodies to feast upon.
+    - They didn't really care, because it didn't matter until recently. Now they do, and may be weighing in on the succession.
+- Dylan believes they're being scryed upon: not yet, but sooooon
+- Desired Scenes / Encounters
+  - Goblin artificer delivers a Hannibal Lecture. May lead to negotiation w/ Ukpik.
+  - Navigating the Goblin Market. Need ways to force this: air patrols and Teleport Traps.
+  - Confronting The Queen. Could involve digs about ghoul Illuminati?
+  - Hobgoblin (Mongol) tactics vs Mezovian (European) tactics
+  - Gahdri raised to Ipsissimus
+  - Confrontation with Anatoli the Abstemious
+  - Second encounter with the Mad Archmage
+  - (x2) confrontations with Kat's villains. These need bigger consequences, work with her to plan them out. Easiest is "PCs prevent a bad alliance between them".
+  - The Traitor is revealed
+  - Raag achieves success in business
+- Woods battle with shields used as a bridge
+- Helpful rebel changelings ala the Tokra
+- Cloudkill but w/ weed/mushroom trip, blown by a Catepillar fae w/ a hookah
+- Ryouko'jin Of The Iron-Skies, The Demon-King of Three Heavens, Demon Prince of the Tyger Throne, married to Indrakshi
+  https://wiki.eastkingdom.org/wiki/Ryouko%27jin_Of-The_Iron-Skies
+  https://www.facebook.com/profile.php?id=100015229189185
+  https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/
+  https://www.d20pfsrd.com/classes/core-classes/sorcerer/bloodlines/bloodlines-from-paizo/oni-bloodline/
+  - Orphan raised in Eraia's Japanese culture areas
+  - Dylan: "Do they have a king of a flying mountain?" "They do now."
+  - What is Pennsic in game? A royal mock-battle to celebrate the uniting of several smaller kingdoms?
+- More goblins want to surrender to the TTPCs?
+- Dylan posted meme about tarrasque lacking a lion's mane: https://www.reddit.com/r/dndmemes/comments/b9riv3/i_wonder_why_didnt_our_tarrasque_get_any_lion/
+  - Made by a high-level mad alchemist (Abstemious' friend and/or mentioned in Rolobo's notes)
+  - Feral brine dragon, alchemically force grown to old+ and Gigantic (32'-64' long), fleshwarped, and armored in adamantine
+    https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/primal-brine/brine-dragon-old/ (CR 14)
+    https://www.d20pfsrd.com/bestiary/monster-listings/templates/feral-dragon-cr-varies (CR -4ish)
+    https://www.d20pfsrd.com/bestiary/monster-listings/templates/simple-template-giant-cr-1 (CR +1)
+    https://www.d20pfsrd.com/bestiary/monster-listings/templates/metal-clad-creature (adamantine, CR +6)
+    https://www.d20pfsrd.com/bestiary/monster-listings/templates/fleshwarped-cr-1 (CR +1)
+    Grab & Swallow Whole on bite, breath weapon as a green (cone), swap swim and fly speed, wing buffet attacks are now piercing (shell)
+  - Target CR > PCL+5: CR 18+ @ PCL 13+
+    - The bigger threat the Queen blocks their counter-attack with while setting up Tower of Fear
+    - Ergo after her position in the whole thing is revealed
+  - Tarasque legends:
+    - Six limbs, lion's mane, tail attack, spiny shell, noxious gas, swallowing people, destroying ships
+    - old song evoking older guardian beast (Lagadigadèu is probably just a non-lexical vocable)
+      Lagadigadèu, The tarasque, The tarasque
+      Lagadigadèu, The tarasque of the Chateau
+      Let her go by, The old witch
+      Let her go by, For she's going to dance!
+    - a guardian beast of the town before Christianization?
+    - defeated by pacification by a saint, can we play off that?
+  - Charmed and Plane Shifted in by the Queen to attack a wizard tower (Uhlinberg) allied with the PCs
+    "You have refused and spurned the gifts of the eldar? Very well, we return the gift of the wizards to you."
+- Falkor as a denizen of the Plane of Air
+- The Queen has also collected several other types of portal magic
+  - Magic mirror portals which can be moved, linking back to the Hall of Mirrors: expensive, harder to make
 - Everyone's got combatus interruptus, which isn't good for stability
-  - Companies from some areas had foraged despite dictates from the palace not to, inflaming internicine passions
+  - Companies from some areas had foraged despite dictates from the palace not to, inflaming internecine passions
   - Harvests are going poorly this year due to lack of manpower, foraging
   - Military Academy and Royal Wizards are everywhere, and sometimes getting in fights with landed wizards and nobles
 - Kat's seeds
   - Dragon in swamp
-  - Fae in abandoned town
   - Social-climbing noble mother
   - Raag's accidental Thieves Guild
   - The Hag's Coven
 - Placing secondary lands
-  - Vogovo: half-orcish (Cossack)
   - Boskirhamp: elvish
   - Grandforgia: dwarvish, demiplanar
   - Compoundia: elf, dwarf, giant, half-orc, lizardfolk
-  - Amthamberengia: elf, dwarf, giant, gnome, demiplanar
-    - Ragnar is from ??? here
+  - Athamberingia: elf, dwarf, giant, gnome, demiplanar
+    - Ragnar is from a portal to the Fire plane within here
 - Goblin pikey merchant, selling (goblin) dog meat: "d'ya like dags?"
-- Dwarves sewed Loki's mouth shut as a slap on the wrist, use same as verbal idiom elsewhere
 - Two villainous groups seeking the same item in the same dungeon as the characters are
-- Rule?: Let players break out of a fear, stun, or charm by accepting a pile of psychic damage (d8 per level of spell)
-- Rombordean Fault: small zone in Yutesh, WTF is it
+- Map bits
+  - Rombordean Fault: small zone in Yutesh, WTF?
+    - Caused by Earthquake spell during Vogovan wars?
+  - Krimeshian Conspiracy: very close to Styerrabrae, connected to Krimeshian invasion in Arthia, WTF?
+  - Newceston Eruption: volcano, connected to Robert's home country via Plane of Fire?
 - [Unrelated plot-A, so it's not all "shit the Queen stirred up directly"](random%20crap.md)
 - When the going gets desperate, the Tsarina will start conscripting slaves en-mass
 - The Treasurer witch knows the value of the library
@@ -49,35 +137,29 @@
   - Maybe birds and elves/fae/drow are connected somehow
   - The Sea Tsar is a very "turn into birds" story
   - [Language of the birds](https://en.wikipedia.org/wiki/Language_of_the_birds)
+  - The Queen is ruler of the planes of Air and Shadow, birds would be prevalent in the former
 - Corrupt or complicate PC plans
-  - Raag wants a halfling enclave / thieves guild
-    - Everyone sees it coming because halflings have a larcenous reputation
-    - Lurko should double-hate this, because he wants an honorable one
-  - Lurko want a brainwashing school for goblins run by Inquisitor and dragons
-    - They also hate the written word, and -love- fire (which is bad for silver dragons)
-    - They grow up to be hobgoblins if you feed them right (or bugbears if they get too much sentient meat)
 - Force PCs against The Queen early, trying to prevent the permanent tower of fear
   - Trash them utterly, but try not to kill them, and do let them escape (eventually)
   - This should be the end of the second act (11/2022)
-- Humans stole the Inuk goblinoids thunderbolt iron, leading to their conquest by the fae folk (ala Robert Peary and the Inuit)
+- Humans stole the Inuk goblinoids thunderbolt iron, leading to their conquest by the fae folk 
+  - On display in Prolichica?
+  - ala Robert Peary and the Inuit: stole their only metal source
+  - Comes up during peace negotiations with the hobgoblins
 - You put https://en.wikipedia.org/wiki/Sword_Kladenets over the mantle in the first act, you have to use it in the third
 - Mayhem, False and True
   - Coven of hags ([winter](https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag/winter-hag/), [blood](https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag/hag-blood/), [night](https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag/hag-night/)) CR 11 (-1 due to favorable circumstances of Mayhem distracting if 5- PCs)
   - Made a Simulacrum of Mayhem, which the PCs catch coming with all his gear to kill Seryy
   - Mayhem convinced them it was a good idea to send him that way, to tip off the PCs
   - He's already gotten some info on the Queen and her plot, but he needs a rescue to deliver it
-- Fae folk piloting warforged like mech-suits against humans
+- Fae folk piloting warforged-like mech-suits against humans
+- Versatile Summon Monster + Mad Monkeys: more fun than a structure fire full of monkeys? (Not RAW, not unbalancing)
 
 
 # Expies/homages
 ## Unused
+- The Witch's Hammer https://astralcodexten.substack.com/p/book-review-malleus-maleficarum
 - [(Towers of Bologna)](https://en.m.wikipedia.org/wiki/Towers_of_Bologna) Multiple towers in Prolichica, result of the internicine combat of factions
-- (Drizzt Do'Urden) The Urden 
-  - CG shadow elves, look like Drizzt, all panthers and scimitars and spiders
-  - Conquered by the Queen of Air, making her the Queen of Air and Darkness
-  - Use regular elf with Darkvision and Shadowplay traits
-  - Classic Drow can be derived from them, often replacing the normal SLAs with Shadowplay
-  - Non-Urden Drow usually have the Surface Infiltrator trait instead
 - (Mac the Knife) MacHeath the Drow Assassin
 - Black List
   - Slick talking gang-lord using law enforcement to take out enemies
@@ -89,7 +171,7 @@
   - It's bigger on the inside and all that
 - This is fantasy Russia, there should be at least one badass bear
   - Gnomes revere bears (from Finnish)
-  - (Sir Bearington) Fae-touched bear masquerading as human knight, [philosopher](https://imgur.com/m569leN)
+  - (Sir Bearington) Fae-touched bear masquerading as a knight, [philosopher](https://imgur.com/m569leN)
   - Hobgoblins riding grizzlies
   - Giants with tame polars as dogs
   - Bruin-hilde - female were-bear
@@ -98,7 +180,6 @@
     DC15: Dire bears like to attack with their natural weapons.
     DC20: Bear society has no visibly ordained clerics.
     DC25: SHIT, NEVERMIND, THEY DO HAVE THOSE. RUN!
-
 - Downton Abbey
   - [Violet Crawley, Dowager Countess of Grantham](https://downtonabbey.fandom.com/wiki/Violet_Crawley#Quotes) - Lawful evil, wields a mean cane, very important and can't be killed lawfully
   - Powerful estate, important leaders during the war footing, but generally behind the times
@@ -118,178 +199,83 @@
   - Nehwon - Fafhrd & Grey Mouser, Ningauble Seven-Eyes, Sheelba Eyeless-Face
   - Non-human - no, except as caricatures
   - Norse - Odin & Freke & Gere & Hugin & Munin & Slephnir, Surtr & Thrym
-- (old PC) Tarnek ut Baltor needs put a hurt on some spellcasters ([tribal champion](http://www.pathfindercommunity.net/classes/multiclass-archetypes/barbarian/tribal-champion-barbarian-ranger), [wildheart warrior](http://www.pathfindercommunity.net/classes/multiclass-archetypes/ranger/wildheart-warrior-ranger-barbarian), or 
-[wild stalker](https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/paizo-ranger-archetypes/wild-stalker/))
+- (old PC) Tarnek ut Baltor needs put a hurt on some spellcasters
+  [tribal champion](http://www.pathfindercommunity.net/classes/multiclass-archetypes/barbarian/tribal-champion-barbarian-ranger)
+  [wildheart warrior](http://www.pathfindercommunity.net/classes/multiclass-archetypes/ranger/wildheart-warrior-ranger-barbarian)
+  [wild stalker](https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/paizo-ranger-archetypes/wild-stalker/)
 - (Old Man Henderson) Eli Burning - "MUCKLE DAMRED CULT! 'AIR EH NAMBLIES BE KEEPIN' ME WEE MEN!?!?"
-- (Prydian/Black Cauldron) Undead fae as war commander, followed by legion of doom
+- (Prydian/Black Cauldron) Undead fae as war commander, followed by legion of doom made from a resurrection cauldron
 - (Flash's Rogues) high powered villains - wizards (mirrors, fire, weather), rogue, bard, weird monk, exotic weapons fighter
 - (Oz) Magic Picture scrying item
-- (Swords Comic) Blade of Insults - built by Lockeweaver for Ukpik?
 - (Quakers) Theotrepidarians
 - (Nevers) Collective of powered orphans
 - (The Labyrinth of Ariosto) In-game RPG, maybe played by The Mummers?
+- (Once Upon A Time) Evil wizard from Polyn guild making her slaves her "sheep", using a shepherd's crook staff to track those she's Arcane Marked
 - (Reality) Extremely wealthy Dwarf family called the Fuggers
   - Lead by a matriarch: Mother Fugger
+- 13th Age Icons
+  - Archmage: missing due to The Queen
+    - "the Curse of Excellence": the Queen also locates and assassinates and soul-drains near-Ipsissimus-level wizards
+    - Gahdri later (when she rises to Ipsissimus)
+    - Potato wizard doesn't fit the niche, but maybe he's a former Age's Archmage?
+  - Crusader: Caine
+  - Diabolist: The Queen
+  - Dwarf King: Thror II Vegdrasill
+    - aka Thror Vinblad, successor of Hugstari Eikinskjaldi as dwarven ethnarch, who died after defeating the White
+    - Martok expy, taking the fight to the giants
+  - Elf Queen: The Queen
+  - Emperor: Tsarina 
+  - Great Gold Wyrm: Simargl
+    - Seryy respecs as a paladin of Simargl (in the middle of a battle/after a long meditation)
+  - High Druid: ???
+    - Tamacti Jun?
+  - Lich King: Ghastly Ecclesiarch
+  - Orc Lord: Ukpik
+  - Priestess: ???
+    - Heleward?
+  - Prince of Shadows: ???
+    - Yarik? Does he get/did he just lose "The Coin of Fate"? Does it go next to Seryy (to kill The Queen), and then to Gahdri (to become Archmage)
+  - The Three: The Beshrouded Black (Samvanzu), The Brazen Blue (Disla Vencesl), & The Mighty Mithral (???)
+    - Black "flits between marsh hunting grounds and evil monasteries in the mountains"
+      - The Black is kidnapping familiars, what if they get a witch's? Do they get knowledge of their spells too?
+    - Blue "serving as governor of Drakkenhall under geas from Archmage and Emperor"
+      - Which wizard tower is this? Disla Vencesl of Auseq (Vagrants) gives control of the wizard teleport circles
+      - Did he create Chained Lightning in this universe?
+    - Mithral replaces Red: metallic but typically neutral, does lots of bleed, likes mountains and cold?
+    - Initial meeting spawns kobold traditions
+    - Green is captive of the Elf Queen, and the White is dead at the Lich Kings' hand
+      - https://www.d20pfsrd.com/bestiary/monster-listings/undead/wyrmwraith/ of the White?
+    - Red dragon? no, the Red and her brood "just got killed by some amoral kids"
+    - All dragons are cousins: types happen after birth, and are more Lamarkian and less morally-connected
 
 ## Used
+- (Drizzt Do'Urden) The Urden 
 - (Amber) Trump cards - how the Royal Wizards communicate
-- [Yassa](https://en.wikipedia.org/wiki/Yassa)
-  - Mongolian secret law, freedom of religion, succession at kuraltai, no peace w/o submission, army rules, great hunt, etc.
-  - Important if the PCs want to negotiate peace: the hobgoblins won't accept what the Tzarina would offer
+- Mongols - [Yassa](https://en.wikipedia.org/wiki/Yassa)
 - Russian history
-  - Tsar Berendey Kusnets => Ivan III, first Tsar, united eastern Russia
-  - Tsar Mikhail Kuznetsov => Michael I, first Romanov Tsar, after Times of Trouble & Ivan the Terrible, conquered Siberia
-  - Tzarina Syuzanna Elmira Kuznetsov => Catherine the Great
 - Russian folklore
-  - Firebird/Vasilisa stories
-    - [Vasilisa the Beautiful](https://en.wikipedia.org/wiki/Vasilisa_the_Beautiful#Synopsis)
-      - Vasilisa is Baba Yaga's apprentice; does get staff, but as graduation present
-      - Backstory she told to gain favor with the humans she was encountering, inc. Ivan
-    - [Tsarevitch Ivan, the Fire Bird and the Gray Wolf](https://en.wikipedia.org/wiki/Tsarevitch_Ivan,_the_Firebird_and_the_Gray_Wolf#Synopsis)
-      - Bowdlerized, removing Vasilisa, focusing on his wife (Helena), and pretending his wolf revived him
-    - [The Sea Tsar and Vasilisa the Wise](https://en.wikipedia.org/wiki/The_Sea_Tsar_and_Vasilisa_the_Wise#Summary)
-      - Vasilisa's story, intended to convince Bozidar that his time in captivity was his dad's fault
-      - Vasilisa is the daughter of the Morskoi Tsar, bird-shapeshifter lords of a watery realm
-      - Underwater plus timeless should be survivable by airbreathers without extra work
-    - [The Fire-Bird, the Horse of Power, and the Princess Vasilissa](https://en.wikipedia.org/wiki/The_Firebird_and_Princess_Vasilisa#Synopsis)
-      - Vasilisa's story, intended to convince Bozidar to set Berendey up for a boiling
-  - The real story
-    - Tsarevitch Ivan and Archer are Courtly Hunters: Ivan w/ wolf, Archer w/ Horse of Power won from Kusman
-    - Rolobo w/ a blue merlin is the third brother, poorly represented in the stories
-    - They raid other kingdoms, capturing the firebird, Horse of Power, and (faux-capture) Vasilisa from other Tsars
-    - Vasilisa is already pregnant with Rolobo's child, wants to marry the (mind-controlled) Bozidar and rule kingdom
-    - Ivan gets wise, Vasilisa mind-controls Bozidar to kill him, but his wolf escapes
-    - Vasilisa sends Bozidar to "retrieve her wedding dress" from Morskoi Tsar's lands
-    - Vasilisa fails to mind-control Berendey, fails to get his blessing, plans to kills Berendey with her cauldron
-    - Zander, Rolobo and Ivan's wolf return and expose the plots, and Berendey orders Bozidar imprisoned and Vasilisa executed
-    - Berendey names Zander as successor in Ivan's place (skipping unmarried Rolobo, traitorous Bozidar)
-    - Vasilisa escapes execution, killing Berendey, Rolobo seals the trod behind her
-  - Elements that need to be seeded into game world
-    - The four faerie tales are in-world things, as written
-    - Tsar Berendey Kuznets - first Tsar, father of Ivan (Berendei: Turkic/Mongol descent)
-    - Tsarevitch Ivan "The Hunter" Kuznetsov - Courtly Hunter (Grey Wolf), marries Helena, cuckolded by Rolobo, killed by Bozidar
-    - Tsarevitch Bozidar "the Archer" Kuznetsov - Courtly Hunter (Horse of Power), second son, executed for murder of Ivan
-    - Tsarevitch Rolobo "the Blue" Kuznetsov - third son of first Tsar, father of Zander
-    - Tsar Zander Kuznetsov - Tsar, "nephew" of Rolobo, Rolobo locks portal in 3rd yr of his reign
-    - Tsar Afron, Tsar Kusman, Tsar Dalmat: minor lords defeated in conquest of the realm
-      Firebird was Afron's, Horse was Kusman's, Helena was Dalmat's daughter
-    - [Firebird](https://en.wikipedia.org/wiki/Firebird_(Slavic_folklore)) - [minor magical monster, rejuvenates like a phoenix](https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/firebird-kp/), now in Vasilisa's possession
-    - Animal speech items for Courtly Hunters are notable among nobility, which will include Kat's character
-    - Vasilisa's dress: Mantle of Immortality, formerly her mother's dress
-    - Seryy inherited Bozidar's bow (+1 Longshot)
+- Slavic-adjacent folklore
+- Wheel of Time
+- (meme) Mushroom: "You cannot kill me in any way that matters"
 - Stargate
-  - Goa'uld => Witchlords - Ancient immortal beings bent on enslaving Earth
-  - Jaffa => Hobgoblins - Uplifted weaker race for mass violence, on the verge of escape
-  - Ancients => Myceloids/Mushroom Leshy/Vegepymies/Polevik/Funglet - makers of the faerie ring trods
-  - Asgard => Dwarves - Currently overwhelmed in a cold war with western Arthia
   - Nox => Pooka - Run-and-hide as an eternal strategy
   - Tok'ra => good-aligned elves
-  - Free Jaffa => Ukpik if he gets free of The Queen
-  - Ori => A ghoul cleric who is trying to become a lich connected to the mycellial network
-- Pratchett: Lords & Ladies, Wee Free Men, etc.
-  - Singing/dancing to distract fae creatures
-  - Lots of enchantment/charm going on
-  - Greebo in a box homage => fae cat witch familiar
-  - Tradition of anti-fae witchcraft
-  - Standing circle closing off a fae portal, made of "cold iron" (magnetic iron)
-  - Other fae "waiting out" humans in realms => Compoundia etc
-    - Could counter her forces, if they could be convinced, with "I'll kill the portal" being a good threat
-  - Witches with flying brooms
-  - Scumble
-  - Elf-shot controls the minds of men
-  - Skill-based magic (e.g. Jason Ogg's Profession: Farrier)
-  - Feegles
 - Deep Space 9
   - Converted enemy fortress-town full of assorted species, at front lines of an interplanar war
-  - Federation - Tsardom - human majority, grey elves & dwarves as pals
-  - Klingons - Germanic dwarves, some hate elves over drow shit
-  - Dominion - Styerrabrae
-  - Changelings - Witchlords
-  - Vorta - drow, hags, etc
-  - Jem Hadar - hobgoblins
   - Ferengi - kobolds
-  - Bajor - ancestral gnome home in south-west Mezovy (Inuk & Soumi areas)
   - Cardassia - Japanese lizardfolk
-  - Romulans - wild elves, who are convinced to ally with the drow early
-  - Prophets - fae-folk gods, one of whom chose Karl as his Emissary
-  - "the wormhole" - powerful trod
-- Vampire the Masquerade
-  - Ghasts and Ghouls as hidden and influential group
-  - Civilized Ghoulishness can suppress the stench as free action, [Skin Suit](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Skin%20Suit) or [Appearance of Life](https://www.d20pfsrd.com/magic/all-spells/a/appearance-of-life/) vs. [Detect Undead](https://www.d20pfsrd.com/magic/all-spells/d/detect-undead/) and [Deathwatch](https://www.d20pfsrd.com/magic/all-spells/d/deathwatch/)
-  - Subtly encouraging breeding for flavor (h/t Fridge/Feet of Clay)
-  - Powerful ones have found ways to sleep out their hunger, awaiting war
-  - Some even manage to become liches, after centuries of work
-  - They've infiltrated The Church, in the form of Morilloran Occultism
-- Wheel of Time
-  - Warders - Bonded Mind, Share Spells, Special Delivery
-  - Group channeling - witches coven
-  - Aes Sedi & stilling - witches vs. wizards, hags killing most male heirs
-- (meme) "You cannot kill me in any way that matters" - mushroom ancients
-  - Mushroom trods can turn you into fae: it's like The Ooze from TMNT
-  - Armillaria ostoyae - 3.5 sq mi., 35kton mushroom
-  - Prototaxites - 25ft tall, 3ft wide mushrooms
-  - A lich who wants to make a mycellial network his phylactery => Ori/Pah Wraiths
-- Slavic-adjacent folklore
-  - Russian: "(In some kingdom, in some land) There lived, there was..."
-  - Czech: "Beyond seven mountain ranges, beyond seven rivers..."
-  - Slovak: "Where the water was being strewn and the sand poured..."
-  - Slovak gets credit for its traditional ending: "...and if they haven't died already, they are living happily to this day."
-  - Used for open and closing of Rolobo's locked gate
+  - Romulans - Athamberingia, convinced to ally with the drow early
 
-
-# Armies:
-- Mezovy - 40k
-  - ala Catherine the Great v Turks - ~125K peak of 125M population / 3
-  - 55 provinces, total pop 4.1M @ 1% recruitment
-  - She brings ~20% to bear in Rovenk: 8k
-  - 370 the PCs already have (3 medium, 1 small, 2 diminutive)
-- Ukpik - 8k/9k now, 25k/60k later, peak of 3.7M population
-  - ala Genghis - 20k/30k now (Mohi & Western Xia), ~75/180k (Kwarizm & Xia II) peak of 110M population / 3
-  - Early advantage goes to Ukpik, who has a novel interplanar highway for armies
-  - These conquests may allow him to swell his armies with human troops
-  - 60% cavalry archers/40% heavy cavalry
-  - Followers: 264 = 220/22/11/5/3/2/1
-    - 7th has a larger tumen (colossal core army, 2k, plus 1k from 8 zuut, 20 aravt, 20 spies)
-    - Five 5th-6th each have a tumen (colossal core army, 2k, plus 800 from 6 zuut, 20 aravt, 16 spies)
-    - 38 2nd-4th have a zuut (medium army, 100), often 2 or 5 merged (large or huge army, 200-500)
-    - 120 1st have a aravt (diminutive army, 10), usually 10 merged with zuut (large army, 200)
-    - 100 1st are spies (usage/rules TBD)
-    - 3x headed to Rovenk (7th, 6th, 5th, 8.6k), 3x conquering trods (6th, 2x 5th, 8.4k)
-  - Tribes:
-    - Elite beast-riders ride individualized monstrous stuff TBD
-    - Ulus: ride horses
-      - The most common of the hobgoblin types, as they have the most land space to grow in
-      - Immiscible w/ goblins: "few things inspire their wrath more than \[...\] horses (who frighten goblins tremendously)"
-      - Treat non-horse-riders as conquered levies (e.g. Xia chinese), not main part of troops
-      - They gain the most benefit from some Mongol tactics (long march, live off land, looting horses)
-    - Inuk: ride dire wolf & bat ("Wooooolf! BAAAAATS!")
-      - Several other groups have taken up the bat, for air support and to imitate Ukpik
-    - Nawatli: ride axe-beaks
-    - Wargs: troops in their own right, only carry goblins
-    - Goblins: ride goblin dogs
-    - Goblin-borne hobgoblins and bugbears: usually avoid horses, picking up other tribes choices
-- Vasilisa - 17k
-  - ala Ireland during 1798 rebellion - 50k, peak of 4.7M population / 3
-  - Followers: 12800 ~= 7800+1200+800+800+600+1600
-  - +4000 non-Followers: ~1/4 of the army
-  - Vile gives penalties (how much?) to Loyalty checks if not a Follower
-  - Got the edges of preparation, entrenchment, more equipment, and subversion
-  - This subversion may allow her to swell her armies with human troops
-
-
-# Mass combat
-- Upsize the armies, so mass combat lasts multiple rounds
-  - Mounts (BP = Mount’s ACR): The army is mounted on horses or other war-trained animals. Increase its OM and DV by 2, and increase its Consumption by 1. If your army uses mounts that are more powerful than the units themselves, your army’s ACR and derived scores might increase (see ACR). To purchase this resource, a settlement in your kingdom must have a Foreign Quarter, Stable, or Stockyard.
-  - Ranged Weapons (2 BP): The army is equipped with ranged weapons (such as crossbows, slings, or bows), gaining ranged attack capability. Increase its Consumption by 1.
-- Work out how to have individual PCs on the battlefield
-    PC 7 = ACR 1/4
-    PC 10 = ACR 2
-- Figure out how to treat ships: 
-  - Fortification = hardness + 4 (moats, unsiegable, negated by boarding)
-  - ?x siege engines => 4x would reduce enemy warship to 0 fort on average
-    - Longship => 4 Large, Sailing ship => 24 Large, Warship => 26/23? Large
-    - 15bp => 60kgp (or 7500gp?) => 120 (or 15?) light ballista (not counting ammo)
-  - Can hold any army between crew size and crew + passengers size
-  - Usually using Withdraw to stay at Ranged
-  - Melee means it's a boarding action
-
+# Product?
+What would a product look like?
+- What time era? 
+  - Current era has a bolus of information, but is also very path dependent
+  - Next generation would allow more input from others
+- Game system
+  - Pathfinder is super heavy-weight, but is the system we used
+  - 13th Age is super-light, doesn't share all of the DNA with Pathfinder
+  - Some mix of both? Carry forward the useful bits from Pathfinder into 13th Age?
+    - Difference between Wizards and Witches
+    - Magic item creation as important plot point
+    - Create Demiplane + Ritual Magic for permanence
+- The Codex of Ice
