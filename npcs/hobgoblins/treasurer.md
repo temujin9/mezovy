@@ -1,3 +1,17 @@
+# Pick a backstory
+The Treasurer witch knows the value of the library
+- Are they (he and minor rakshasa familiar) aligned with the witchlords? 
+- Probably not, or the PCs would already be fuckered
+- Unless he had no idea what he was getting in there, and/or hasn't admitted his failure
+- So they are part of a Thieves' Guild, maybe? Which one? One who's pocketed a wizards guild?
+
+Did the Codex go off, and if so who did it, and why?
+- Hobgoblins, looking to get out from under the thumb of the hags?
+- Is the old Treasurer working for the goblins? Does he succeed in getting the Codex?
+- Who does the work of the ritual? Is the Treasurer part of an rebel changeling coven ala the Tokra?
+
+
+
 # The Former Treasurer 
 Witch (Spellspy) lvl 7/Rogue 1
 

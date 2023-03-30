@@ -2,6 +2,8 @@ Kat running
 
 Sylus takes off running after ??? that the NPCs spooked, which is running away with Expeditious
 
+Fight with gators, electric eels, and glavo (electric eel swarms)
+
 Init
   23  Niobe
   20  Eels

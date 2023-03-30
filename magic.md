@@ -69,6 +69,18 @@ Portal Key
   - Wizards learn how to record spells and work without patronage
   - Creeps out witch folk, because of its high mutability and lack of social controls
 
+If spell-casting can be nerfed by the Codex, then everything past Spellcraft is constructed and destructable
+- Shades of Cixin Liu, huh? Also the Dr Who written canon, anchoring of the thread to hedge out magical precursors
+- Who built it? 
+  - The Towers is the obvious answer, though they hardly benefited alone
+  - Many extraplanar entities had an interest in it happening, but that doesn't give a clear answer
+  - Perhaps some trickster deity got it all lined up so that all three groups (towers, patrons, and deities) were pulling for it?
+- How deeply can the Codex freeze things?
+  - In the triple-trick explanation: the three will never trust each other on that level again, and the hobgoblins would be on it like white on rice
+  - Does it shatter it irrevocably? Are there fragments that survive in magic items, ley line nexuses, and so on?
+
+
+
 # History
 - Demihuman Kingdoms
   - Lots of small kingdoms like the Compoundia, slowly conquered by the witchlords

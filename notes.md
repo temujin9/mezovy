@@ -1,49 +1,83 @@
 # TODO
 - Yarik
+  - Blame for success in west accrues to DS9 (in Peikki) and Bokorov of Daydah, Queen sends greetings?
+  - DS9 is nearby and he can learn plenty with a few infiltrators
 
-- TTPC next game news/events
-  - Diego comes back from further negotiations in Seryy's court
-  - Queen already started overtures to the guild in Hinnton
-  - Spy news:
-    - Dylan's
-      - High level spy in Tsarina's court
-        - Learns details about Tsarina's possible agreement with Yutch?
-      - Two first levels on each sibling (the ones at Puryev have been blown)
-        - Learns about The Traitor having a weird reclusive elven visitor
-      - One first level at each tower
-        - Learns news about Marduke Marcus' protection of Sioraneq from hobgoblins, taking of its lord as hostage
-      - Twenty first level scouts on river and road from Velerolobo to Prolichica
-        - Further news of The Black's agents?
-    - Kat's
-    - Who else? Raag? Gahdri?
-  - Allies deliver information
-    - Royal Wizards were looking in the library
-    - Maybe Alaric has capstoned Knowledge: History?
-  - Johnny Has Gone for a Soldier - NPCs from the lands return broken by war, and Queen asks for fresh regiments
+- Berko
+  - 
 
-- The Tsarina
-  - Much more worried about losing lands to the southwest, is launching a counter-assault there
+- We're 2/3 of the way through the game, time to start revealing things more boldly
+  - Things start coming apart for the Empire
+  - The Queen intends to make a permanent Tower of Fear
+    - She's going to assault the Wizard's Tower with the Tarrasque as a diversion, but they don't learn that yet
+    - Maybe just throw down the Tarrasque and let the PCs blow some spells, 
+  - Tokra: a group of changelings which refuse to turn hag, who fight the hags secretly
 
-- The Three
-  - The Blue is making enquiries about royal flowers to the local magisters in his guild, ???, ???, and ???
-    - Does this raise attention of Dylan's spies?
-  - The Black is putting out feelers in thieves guild to Prolichica, Auseq, and Sioraneq territories (with help from Blue on transport)
-    - Sending goods through trods to Singuit & Qilissuitsip, pretending it's the company's ship sending them
-  - The Mithral is exploring the Yutchland mountain-way to Athamberingia
-    - This alerts the Yutch, no doubt
+
+
+# Regular considerations
+- [B-plot progress](b-plot.md)
+- [Rolobo's library](locations/castle.gm.md)
+- Followers
+  - Dylan
+    - High level spy in Tsarina's court
+    - Two first levels on each sibling (the ones at Puryev have been blown)
+    - One first level at each tower
+    - Twenty first level scouts on river and road from Velerolobo to Prolichica
+  - Kat
+    - Most protecting the trod forts (Faceplant, Redcap L3)
+    - Some watching the 4th tower
+    - Some watching the Painted Glen portals
+  - Goose
+    - Hinnton
+    - Whisper network
+    - High-level rogue in Tsarina's Court
+  - Gallows
+    - Goblins and others, scouting the trods, preparing to infiltrate hobgoblins
+  - Jerry
+    - ???
+- Allies
+  - Royal Wizard spies: looking in the library, or provide +2 for aid another
 
 
 # Pacing/Timing
-- Target CR is 13/12/11 (ACL+5 if 6+ PCs, ACL+4 if 4-5, ACL+3 if 3 PCs)
+- Target CR is currently 16/15/14 (ACL+5 if 6+ PCs, ACL+4 if 4-5, ACL+3 if 3 PCs)
 - Target is 4.5 levels per year for next two years
-- PCs encounter Queen for first time around 11/2022 at 12th or 13th level
-- PCs confront Queen around 11/2023 at 17th or 18th level
+- PCs encounter Queen for first time around 12th or 13th level?
+- PCs confront Queen at 17th or 18th level
 - Meta: Prep one scene or one round of big combat for every 30 to 45 minutes of gameplay
 
 
 
 
 # Further ideas
+- If the PCs leak to Ter Krekhan the nature of the relationship between drow, changelings, and hags, he will have an "only really need elf blood" realization
+  - This is the final part of the puzzle that he needs: hobgoblins could then farm from any elven population, not just the hags
+  - This tips the balance toward hobgoblin victory, as they can finally massively overpopulate from goblin ranks
+- So where is The Queen's father? He lies dead asleep and dreaming in his underwater house. She's merely the Princess Regent there.
+- Female drow can become hags without hagbinding, if they want
+  - Drow witches are the ultimate progenitors of hags, via this process
+  - Drow blood might substitute for changeling blood, which can substitute (at some penalty) for hag blood
+  - Elf blood might also work, at even greater penalty (e.g. takes more of it, or ritual is at minuses)
+  - Ritual which allows it shares elements with the ritual to make hobgoblins
+  - This replaces Lolth with hags and witch Patrons, which implies she is one (on Shadow?)
+    - Damhan: CG spidery goddess of destiny and artistry, kinda like Arachne + Athena
+- Plane of air
+  - https://pathfinderwiki.com/wiki/Plane_of_Air
+  - Required beating the Djinn
+    - https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/genie/djinni/
+    - https://www.d20pfsrd.com/magic/all-spells/b/binding/
+    - https://www.aonprd.com/MagicGenieSeals.aspx
+    - Can't actually grant Wish spells, just willing to work their way to freedom
+  - Also silver/white/cloud dragons
+- Plane of Shadow
+  - Thematically more aligned with evil outer planes?
+  - Maybe this is true, and ethereal aligns more with good?
+  - Astral corresponds to neutral (both types)?
+  - Both order and chaos can access Shadow (ala Amber)?
+- How old is The Queen and her hegemony? She doesn't have to have been young when she met Rolobo . . .
+  - Older explains her investment, her deeper power base, and her slower movement overall
+  - How many generations is 1000 years ago for dwarves (25) and elves (9)? 9 human gen ago was 1842, 25 was 1522.
 - How do the ghouls tie into this?
   - They seem natural allies for the Queen, but may have ideological or power-hungry reasons to fight against. 
   - Are they Illuminati behind the Mezovian throne? Yes.
@@ -53,27 +87,16 @@
     - They didn't really care, because it didn't matter until recently. Now they do, and may be weighing in on the succession.
 - Dylan believes they're being scryed upon: not yet, but sooooon
 - Desired Scenes / Encounters
-  - Goblin artificer delivers a Hannibal Lecture. May lead to negotiation w/ Ukpik.
-  - Navigating the Goblin Market. Need ways to force this: air patrols and Teleport Traps.
   - Confronting The Queen. Could involve digs about ghoul Illuminati?
   - Hobgoblin (Mongol) tactics vs Mezovian (European) tactics
   - Gahdri raised to Ipsissimus
   - Confrontation with Anatoli the Abstemious
   - Second encounter with the Mad Archmage
-  - (x2) confrontations with Kat's villains. These need bigger consequences, work with her to plan them out. Easiest is "PCs prevent a bad alliance between them".
+  - Two confrontations with Kat's villains. These need bigger consequences, work with her to plan them out. Easiest is "PCs prevent a bad alliance between them".
   - The Traitor is revealed
   - Raag achieves success in business
-- Woods battle with shields used as a bridge
 - Helpful rebel changelings ala the Tokra
 - Cloudkill but w/ weed/mushroom trip, blown by a Catepillar fae w/ a hookah
-- Ryouko'jin Of The Iron-Skies, The Demon-King of Three Heavens, Demon Prince of the Tyger Throne, married to Indrakshi
-  https://wiki.eastkingdom.org/wiki/Ryouko%27jin_Of-The_Iron-Skies
-  https://www.facebook.com/profile.php?id=100015229189185
-  https://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/
-  https://www.d20pfsrd.com/classes/core-classes/sorcerer/bloodlines/bloodlines-from-paizo/oni-bloodline/
-  - Orphan raised in Eraia's Japanese culture areas
-  - Dylan: "Do they have a king of a flying mountain?" "They do now."
-  - What is Pennsic in game? A royal mock-battle to celebrate the uniting of several smaller kingdoms?
 - More goblins want to surrender to the TTPCs?
 - Dylan posted meme about tarrasque lacking a lion's mane: https://www.reddit.com/r/dndmemes/comments/b9riv3/i_wonder_why_didnt_our_tarrasque_get_any_lion/
   - Made by a high-level mad alchemist (Abstemious' friend and/or mentioned in Rolobo's notes)
@@ -110,12 +133,6 @@
   - Social-climbing noble mother
   - Raag's accidental Thieves Guild
   - The Hag's Coven
-- Placing secondary lands
-  - Boskirhamp: elvish
-  - Grandforgia: dwarvish, demiplanar
-  - Compoundia: elf, dwarf, giant, half-orc, lizardfolk
-  - Athamberingia: elf, dwarf, giant, gnome, demiplanar
-    - Ragnar is from a portal to the Fire plane within here
 - Goblin pikey merchant, selling (goblin) dog meat: "d'ya like dags?"
 - Two villainous groups seeking the same item in the same dungeon as the characters are
 - Map bits
@@ -125,11 +142,6 @@
   - Newceston Eruption: volcano, connected to Robert's home country via Plane of Fire?
 - [Unrelated plot-A, so it's not all "shit the Queen stirred up directly"](random%20crap.md)
 - When the going gets desperate, the Tsarina will start conscripting slaves en-mass
-- The Treasurer witch knows the value of the library
-  - Are they (he and minor rakshasa familiar) aligned with the witchlords? 
-  - Probably not, or the PCs would already be fuckered
-  - Unless he had no idea what he was getting in there, and/or hasn't admitted his failure
-  - So they are part of a Thieves' Guild, maybe? Which one? One who's pocketed a wizards guild?
 - An army can move through a 20ft portal at roughly 1000 troops per minute
 - What's with all the birds and bird names
   - [The Birds](https://en.wikipedia.org/wiki/The_Birds_(play)) references: Nephelokokkygia aka Cloud-Cookoo-Land
@@ -142,7 +154,7 @@
 - Force PCs against The Queen early, trying to prevent the permanent tower of fear
   - Trash them utterly, but try not to kill them, and do let them escape (eventually)
   - This should be the end of the second act (11/2022)
-- Humans stole the Inuk goblinoids thunderbolt iron, leading to their conquest by the fae folk 
+- Humans stole the Inuk goblinoids thunderbolt iron, leading to their conquest by the hags?
   - On display in Prolichica?
   - ala Robert Peary and the Inuit: stole their only metal source
   - Comes up during peace negotiations with the hobgoblins
@@ -155,8 +167,78 @@
 - Fae folk piloting warforged-like mech-suits against humans
 - Versatile Summon Monster + Mad Monkeys: more fun than a structure fire full of monkeys? (Not RAW, not unbalancing)
 
+# Bookmarks
+- Traps ideas from Reddit: https://www.reddit.com/r/osr/comments/q01a6h/re_old_osr_content_treasure_of_secret_santicore/
+- The Monsters Know What They're Doing: https://www.themonstersknow.com/
+- Lotus-eater blisses out, hard to dispel: https://www.aonprd.com/MagicPlantsDisplay.aspx?FinalName=Ambrosial%20Lotus
+- 1/day Still and Silent Spell: https://www.aonprd.com/MagicTattooDisplay.aspx?FinalName=Caster%27s%20TattooLesser
+- Smallish, Celtic giants: https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/firbolg/ https://en.wikipedia.org/wiki/Fir_Bolg
+- Get out of jail free teleport: https://www.d20pfsrd.com/mhagic/all-spells/g/getaway/
+- Push teleport an ally: https://www.d20pfsrd.com/magic/all-spells/p/phase-step/
+- Teleport in a lightning line: https://www.d20pfsrd.com/magic/all-spells/s/storm-step/
+- Turn into a fiend: https://www.aonprd.com/OccultRituals.aspx?ItemName=Fourth%20Apotheosis
+- Drink a poison to kill your enemy: https://www.d20pfsrd.com/classes/base-classes/witch/hexes/hexes/common-hexes/greater-gift-of-consumption-su/
+- Make someone use an item (poisoned or cursed): https://www.d20pfsrd.com/magic/all-spells/b/beguiling-gift
+- Make a first level spell scale, 3/day: https://www.d20pfsrd.com/feats/general-feats/spell-hex/
+- Itchy thrown weapon: https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Goblinvine
+- Stunning or dazing amounts of pain: https://www.d20pfsrd.com/magic/all-spells/d/debilitating-pain/
+- Random combat maneuvers, or pick target and type with a skill check: https://aonprd.com/SpellDisplay.aspx?ItemName=Pernicious%20Pranksters
+- Notabeholder: https://www.d20pfsrd.com/bestiary/monster-listings/templates/eye-king-cr-varies
+- Bigger badder giants: https://www.d20pfsrd.com/bestiary/monster-listings/templates/jotunblood-giant-template
+- Hobgoblin werewolves, best on full moon: https://www.d20pfsrd.com/bestiary/monster-listings/templates/silverblood-lycanthrope-cr-2
+- Joker-like undead, passing out deck of many things cards: https://www.d20pfsrd.com/bestiary/monster-listings/undead/red-jester/
+- Identify class bits using Knowledge: https://www.aonprd.com/Skills.aspx?ItemName=Knowledge#:~:text=the%20same%20day.-,Recall%20Intrigues,-Source
+- Make a flying object (should allow Permanency): https://aonprd.com/SpellDisplay.aspx?ItemName=Imbue%20with%20Flight
+- Team uses highest Stealth roll for everyone: https://www.d20pfsrd.com/feats/general-feats/stealth-synergy-teamwork/
+- How the mobile mirror portal is made: https://realmshelps.net/charbuild/feat/Create_Moving_Portal
+- Forgo winning blow to change attitude with Diplomacy: https://aonprd.com/FeatDisplay.aspx?ItemName=Change%20of%20Heart
+- Brokerages for high level magic: https://www.reddit.com/r/DnD/comments/pyjeo4/use_magic_brokers_not_magic_shops_advice/
+- Humanoid adventurers: http://oldguardgamingaccoutrements.blogspot.com/2011/06/scorned-blade-all-humanoid-npc-rival.html
+- Killer blink frogs: http://oldguardgamingaccoutrements.blogspot.com/2011/08/beware-killer-blink-frogs.html
+- Replacement tongue made of demon: https://goblinpunch.blogspot.com/2013/10/tongue-demons.html
+- Gonzo bestiary: http://trollsmyth.blogspot.com/2011/08/hamsterish-bestiary.html
+- Gonzo NPCs: https://dysonlogos.blog/400-characters/
+- PF NPCs: https://www.d20pfsrd.com/bestiary/npc-s
+- Blue lava, sulfur burning in hot air: https://en.wikipedia.org/wiki/Blue_lava
+- Finnish mythology, bears and birds: https://en.wikipedia.org/wiki/Finnish_mythology
+- Underground cities, inspiration for dwarven cities?
+  https://www.bldgblog.com/2007/08/derinkuyu-or-the-allure-of-the-underground-city/
+  https://en.wikipedia.org/wiki/Derinkuyu_underground_city
+  https://en.wikipedia.org/wiki/Kaymakli_Underground_City
+  https://en.wikipedia.org/wiki/%C3%96zkonak_Underground_City
+  https://en.wikipedia.org/wiki/Avanos#History
+- Prediction houserules: http://recedingrules.blogspot.com/2012/06/3-ways-to-forsee.html
+- Wandering monster houserules: https://retiredadventurer.blogspot.com/2013/05/a-procedure-for-wandering-monsters.html
+- Language houserules: http://middenmurk.blogspot.com/2010/06/on-languages-and-herbalism.html
+- Metals: http://trollsmyth.blogspot.com/2011/03/metals-of-doom-tea-parties.html
 
 # Expies/homages
+- (13th Age) Icons
+  - Archmage: The Nine Towers
+    - Currently serving the place of the Archmage because none qualify
+    - "the Curse of Excellence": the Queen also locates, assassinates and soul-drains near-Ipsissimus-level wizards
+    - Gahdri later (when she rises to Ipsissimus)
+    - Potato wizard doesn't fit the niche, but maybe he's a former Age's Archmage?
+  - Crusader: Caine
+  - Diabolist: The Queen
+  - Dwarf King: Thror II Vegdrasill
+    - aka Thror Vinblad, successor of Hugstari Eikinskjaldi as dwarven ethnarch, who died after defeating the White
+    - Martok expy, taking the fight to the giants
+  - Elf Queen: The Queen
+  - Emperor: Tsarina 
+  - Great Gold Wyrm: Simargl
+    - Seryy respecs as a paladin of Simargl (in the middle of a battle/after a long meditation)
+  - Lich King: Ghastly Ecclesiarch
+  - Orc Lord: Ukpik
+  - Prince of Shadows: Yarik
+    - Does he get/did he just lose "The Coin of Fate"? 
+    - Does it go next to Seryy (to kill The Queen), and then to Gahdri (to become Archmage)?
+  - [The Three](npcs/the three.md)
+  - Unrepresented Icons
+    - Priestess: Heleward?
+    - High Druid: Tamacti Jun?
+
+
 ## Unused
 - The Witch's Hammer https://astralcodexten.substack.com/p/book-review-malleus-maleficarum
 - [(Towers of Bologna)](https://en.m.wikipedia.org/wiki/Towers_of_Bologna) Multiple towers in Prolichica, result of the internicine combat of factions
@@ -213,40 +295,6 @@
 - (Once Upon A Time) Evil wizard from Polyn guild making her slaves her "sheep", using a shepherd's crook staff to track those she's Arcane Marked
 - (Reality) Extremely wealthy Dwarf family called the Fuggers
   - Lead by a matriarch: Mother Fugger
-- 13th Age Icons
-  - Archmage: missing due to The Queen
-    - "the Curse of Excellence": the Queen also locates and assassinates and soul-drains near-Ipsissimus-level wizards
-    - Gahdri later (when she rises to Ipsissimus)
-    - Potato wizard doesn't fit the niche, but maybe he's a former Age's Archmage?
-  - Crusader: Caine
-  - Diabolist: The Queen
-  - Dwarf King: Thror II Vegdrasill
-    - aka Thror Vinblad, successor of Hugstari Eikinskjaldi as dwarven ethnarch, who died after defeating the White
-    - Martok expy, taking the fight to the giants
-  - Elf Queen: The Queen
-  - Emperor: Tsarina 
-  - Great Gold Wyrm: Simargl
-    - Seryy respecs as a paladin of Simargl (in the middle of a battle/after a long meditation)
-  - High Druid: ???
-    - Tamacti Jun?
-  - Lich King: Ghastly Ecclesiarch
-  - Orc Lord: Ukpik
-  - Priestess: ???
-    - Heleward?
-  - Prince of Shadows: ???
-    - Yarik? Does he get/did he just lose "The Coin of Fate"? Does it go next to Seryy (to kill The Queen), and then to Gahdri (to become Archmage)
-  - The Three: The Beshrouded Black (Samvanzu), The Brazen Blue (Disla Vencesl), & The Mighty Mithral (???)
-    - Black "flits between marsh hunting grounds and evil monasteries in the mountains"
-      - The Black is kidnapping familiars, what if they get a witch's? Do they get knowledge of their spells too?
-    - Blue "serving as governor of Drakkenhall under geas from Archmage and Emperor"
-      - Which wizard tower is this? Disla Vencesl of Auseq (Vagrants) gives control of the wizard teleport circles
-      - Did he create Chained Lightning in this universe?
-    - Mithral replaces Red: metallic but typically neutral, does lots of bleed, likes mountains and cold?
-    - Initial meeting spawns kobold traditions
-    - Green is captive of the Elf Queen, and the White is dead at the Lich Kings' hand
-      - https://www.d20pfsrd.com/bestiary/monster-listings/undead/wyrmwraith/ of the White?
-    - Red dragon? no, the Red and her brood "just got killed by some amoral kids"
-    - All dragons are cousins: types happen after birth, and are more Lamarkian and less morally-connected
 
 ## Used
 - (Drizzt Do'Urden) The Urden 
@@ -258,7 +306,6 @@
 - Wheel of Time
 - (meme) Mushroom: "You cannot kill me in any way that matters"
 - Stargate
-  - Nox => Pooka - Run-and-hide as an eternal strategy
   - Tok'ra => good-aligned elves
 - Deep Space 9
   - Converted enemy fortress-town full of assorted species, at front lines of an interplanar war
@@ -278,4 +325,10 @@ What would a product look like?
     - Difference between Wizards and Witches
     - Magic item creation as important plot point
     - Create Demiplane + Ritual Magic for permanence
-- The Codex of Ice
+- Codex Praestabilis Bruma turns magic into ritual only?
+  - Turns this into Chosen (Sharpe's + Ars Magica)
+  - All magic becomes ritual
+    - Only take the spell's usage each round, so other actions are still possible (maybe even fighting, for "quick" spells)
+    - d3+1 rounds for quick -> 14+ save 2nd round, 11+ 3rd round, automatic 4th round (preserves mystery if it matters)
+    - d4 minutes/quarter-hours/hours -> 16+ save 1st time interval, and then as above (if necessary to preserve mystery)
+  - Gather Power works on the next spell, but makes you visible until casting is completed

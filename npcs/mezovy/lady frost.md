@@ -92,12 +92,14 @@ Spells:
   - Line in the Sand - +7(Int) attacks of opportunity, 3 rounds
 
 Equipment: 62kgp
-- Conductive light crossbow +1 (total +2) with wand chamber: 8,135gp
-  - Eternal Wand of Frigid Touch: 9kgp
+- Conductive light crossbow +1 (total +2) with wand chamber: 8,350gp
+  - Eternal Wand of Reloading Hands @5th: 15000gp
 - Conductive rapier +1 (total +2) with wand chamber: 8,120gp
-  - Eternal Wand of Shocking Grasp @5th: 7500gp
+  - Wand of Touch of Combustion (30+d10 charges): 1500gp
 - Boots of Speed: 10 nonconsecutive rounds of haste a day, 6kgp
-- Wand of Touch of Combustion (30+d10 charges): 1500gp
+- Eternal Wand of Shocking Grasp @5th: 7500gp
+- Eternal Wand of Frigid Touch: 9kgp
+- Wand of Touch of Combustion (50 charges): 1500gp
 - Wand of Cure Light Wounds (30+d10 charges): 1500gp
 - Efficient Quiver: 1800gp
 - Mithral chain +1: 2100gp

@@ -1,6 +1,7 @@
 # Inspirations
 - Starfleet (DS9) - Royal Academy & Royal Wizards
 - Trill symbiote (DS9) - Archmage shackles
+  https://aonprd.com/MonsterDisplay.aspx?ItemName=Wizard%27s%20Shackle
 
 # Wizards Guilds
 - Most have specialties, few are exclusively so

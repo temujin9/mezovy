@@ -1,5 +1,5 @@
 # The Sundown Lands
-Like many powerful fae folk, Vasilisa has created a large array of interconnected fae realms with Create Demiplane. Not being able to cast Permanency herself (and not knowing the ancient ritual magic version), she has been forced to rely on enchanted wizards -- including the original Rolobo -- and what scrolls she could get hold of over the years. Being chaotic evil and sadistic has made it harder for her to rely on either, which is why she's trained her son by Rolobo to be a wizard. His efforts have improved the output, but it still grows slowly, and takes a lot more toil than she likes. Fae and goblin folk don't stop breeding, and even with abundant food provided, they stack up quickly (breeding is quadratic, but effort from Create Demiplane is linear, and can't be delegated).
+Like many powerful fae folk, Vasilisa has created a large array of interconnected fae realms with Create Demiplane. Not being able to cast Permanency herself (and disliking the time-intensive ancient ritual magic version), she has been forced to rely on enchanted wizards -- including the original Rolobo -- and what scrolls she could get hold of over the years. Being chaotic evil and sadistic has made it harder for her to rely on either, which is why she's trained her son by Rolobo to be a wizard. His efforts have improved the output, but it still grows slowly, and takes a lot more toil than she likes. Fae and goblin folk don't stop breeding, and even with abundant food provided, they stack up quickly (breeding is quadratic, but effort from Create Demiplane is linear, and can't be delegated).
 
 Typical Planar Traits
 - CL 50 Create Greater Demiplane: 1000 10f cubes, 22500gp (5BP)
@@ -12,30 +12,29 @@ Typical Planar Traits
 - Time: timeless
 - Portal: many, mostly to other Fae realms, some to Material Plane
 
-New Construction:
+Construction:
 - Using a massive asteroid in the plane of Air as core of operations
   - Goblins live mostly underground there, drow rule from the evergreen forests
-  - Queen's tower is in the center of an city in an impact crater, with the windows to Goblin Quarter blocked
+  - Queen's tower overlooks the goblin city in the massive impact crater, with the windows facing it blocked
+  - Looks like a verdant crescent moon from the side and at a distance, with the crater forming the concavity?
+  - Since this is obviously a Munchausen reference, I need flying heads on saucers for some reason.
 - One massive 4hr ritual w/ 27 witches
 - 1000 yrs x ~12 lunar months = ~12,000 castings
-  - Could have supported ~12M people if most castings had gone to added space
+  - Could have supported ~12M people if castings had gone to added space
   - Could have done more with both half-moons and 2x time, could have done less at beginning, etc.
-- Most castings make L3 trods, instead?
+- Larger planes spreads out the base cost of traits
+  - Goblin Market: mutable Small passageways in root-like undergrowth, Bountiful nuts and berries from the ceiling, many goblin Portals
+  - Deep Woods: connector between the various Demesnes and the moon, with hidden portals to wooded areas in the Plane of Shadow if you wander off-trail
+- More planes allows layering, which allows protection against casual Plane Shift
+  - Drow Demesnes: awarded to higher witchlords, shaped to their pleasure (via a magic object which an immutable and irremovable part of the plane)
+  - Mirror Realm: intentionally confusing/branching, mutable to chose portals at her pleasure
+  - Infinite Towers: matryoshka doll of strange tower-like realms, always leading "upward"
+  - The Oubliette: dead magic realm where prisoners (or at least their soul gems) are kept
+- More space takes full ritual
+- More doors or other traits just takes 4 hours apiece, probably something she'd do anyway
 
-Old Construction:
-- One massive 4hr ritual w/ 27 witches
-- 5x CGD per plane, +1 / portal or expansion
-- The Queen became a Tim Ferris fan (4 hr work week) and Google groupie (20% personal project time)
-- 100 yrs x 50 wks x double-time = 100,000 castings (80,000 for minions, 20,000 for self)
-  - 10,000,000 10f cubes => 10,000,000,000 cf => 100ft ceiling, 10,000ft (2mi) on a side
-- Most castings (80%) just go expand an existing plane, remainder to Portals
-- 3/4 of lands go to drow (60,000 castings), leaving goblins understandably dissatisfied (20,000 castings)
-  - Each of the twelve witchlords has their own vast demesne (~250 castings apiece, 196k pop cap, 49 portals)
-  - Minor witchlords command smaller demesnes (~120 realms, ~25 castings apiece, 16k pop cap, 4 portals)
-  - Goblins have one gigantic mental market/labyrinth (~3.2M goblin pop cap, 399 portals)
-- Can support ~7.4M population altogether, compare 4M for Mezovy
-  - Only ~4.2M is on drow side, compare ~3.2M goblins & hobgoblins
-  - Drow are probably outnumbered by their own slaves 4:1 => ~840k drow, ~3.4M slaves
+
+
 
 
 ## The Autumn Palace
@@ -60,12 +59,12 @@ Inspirations:
 - Elf Queen's lands from Discworld
 
 ## The Queen's Woods
-Gorgeous airy woods to the "east" of the Ice Palace. Her strongest drow nobles make their homes there, perpetually angling for added lands to buffer from one another and from the goblins, and added Portals to the mortal realms.
+Gorgeous airy woods to the "east" of the Autumn Palace. Her strongest drow nobles make their homes there, perpetually angling for added lands to buffer from one another and from the goblins, and added Portals to the mortal realms.
 
 The winding main road through the woods to the palace is its own demiplane, with each estate connecting to it via an ornamented portal. Drow patrol this area regularly.
 
 ## The Goblin Markets
-To the "west" of ice palace, the Goblin Markets are absolutely stuffed with fae and goblin folk looking for a way up and out. Even internally they are an semi-accidental labyrinth, on account of the overstuffed construction. Comparatively warm, from bodies and fires and lack of airflow. Mushrooms grow everywhere in the dank flickering.
+To the "west" of Autumn Palace, the Goblin Markets are absolutely stuffed with fae and goblin folk looking for a way up and out. Even internally they are an semi-accidental labyrinth, on account of the overstuffed construction. Comparatively warm, from bodies and fires and lack of airflow. Strange fruits grow everywhere in the dank flickering.
 
 The vast surface of the markets is its own demiplane, where many of the portals from the goblin demiplanes originate.
 
@@ -76,12 +75,12 @@ Inspirations:
 - http://pikeplacemarket.org/
 
 ## Towers of Fear
-Greater Create Demiplane (plus an Instant Fortress for visual effect?)
+Greater Create Demiplane (plus a single-use Instant Fortress for visual effect?)
 - Inside is created first, following by Faerie gate
 - Made with a Witches' Sabbath, making it large and very hard to dispel
 - Gate to the Abyss requires a coven of Night Hags to open their home (ergo lower CL, because they lack Coven hex)
 - Gate to the Material requires a local coven to open their home (also somewhat lower CL, since they're smaller)
-Gates at base to Abyss
-Gates at top to Faerie
+Gates at base to Abyss/Material
+Gates at top to an outer courtyard of the Autumn Palace
 Spellcasters at top have powerful advantages on folks at base
  

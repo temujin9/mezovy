@@ -1,0 +1,20 @@
+- Small refugees crisis 
+  - 80 slaves freed
+  - Settle them first in Velerolobo
+  - Offer: start new community or join Painted Glen
+- Informing the Friar
+  - Tell all the things (save timetable on first key)
+  - Don't mention the flower message left on way out
+  - Didn't mention the desire to investigate Church
+  - Show him the fourth tower and the portal there
+- Research on tower of fear
+  - Establish that what happened in Rovenk was the first ToF
+
+- Listing clues / ties
+  - Dragons in mountains
+  - Hags on the mountain
+  - Yutch rebellion
+  - Church investigation
+- Connecting the Queen to everything
+  - Rolobo's ex-lover
+  - Hags can come from changelings and drow

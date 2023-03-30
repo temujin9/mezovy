@@ -20,7 +20,7 @@
     - Rolobo w/ a blue merlin is the third brother, poorly represented in the stories
     - They raid other kingdoms, capturing the firebird, Horse of Power, and (faux-capture) Vasilisa from other Tsars
     - Vasilisa is already pregnant with Rolobo's child, wants to marry the (mind-controlled) Bozidar and rule kingdom
-    - Ivan gets wise, Vasilisa mind-controls Bozidar to kill him, but his wolf escapes
+    - Ivan gets wise, Vasilisa mind-controls Bozidar to kill him, his wolf escapes
     - Vasilisa sends Bozidar to "retrieve her wedding dress" from Morskoi Tsar's lands
     - Vasilisa fails to mind-control Berendey, fails to get his blessing, plans to kills Berendey with her cauldron
     - Zander, Rolobo and Ivan's wolf return and expose the plots, and Berendey orders Bozidar imprisoned and Vasilisa executed

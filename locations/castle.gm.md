@@ -62,7 +62,7 @@ XX6 - the Oubliette, focus of bigger Teleport Trap
 
 ## Library of Rolobo
 - Dole these out in bits and pieces, over several sessions (those already given are struck-through)
-  - Linguistics checks to read Ye Olde Commone: cluck tongue at "failures", and give one more bit
+  - Linguistics or Spellcraft+5
   - All water damaged, everything requires extra time to read or copy
   - Most of the bindings disintegrated, leaving the sheets loose
   - Mending will clean them up, but doesn't understand page order
@@ -98,8 +98,8 @@ XX6 - the Oubliette, focus of bigger Teleport Trap
     - DC 35 Spellcraft, -5 for each instance of it: huh . . . it seems like the *same* focus could be used for these
   - DC 23: Ice of Mithril and Iron (difficult, time, and materials, +X BP)
   - DC 25: True Seeing (difficult and time consuming but not expensive)
-  - DC 28: Earthbound Ward - https://aonprd.com/OccultRituals.aspx?ItemName=Earthbound%20Ward
-  - DC 30: Protection From Spells (difficult, 500gp, 1kgp focus per target)
+  - ~~DC 28: Earthbound Ward - https://aonprd.com/OccultRituals.aspx?ItemName=Earthbound%20Ward~~
+  - ~~DC 30: Protection From Spells (difficult, 500gp, 1kgp focus per target)~~
   - DC 35: Permanent Symbol of Vulnerability (time consuming, 40kgp)
 - DC 20+: Nearly untranslatable portions contain shorthand-laden journals
   - ~~DC 21: Didn't die childless, also fathered the current Kuznetsov clan via his brother's wife~~

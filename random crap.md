@@ -1,13 +1,56 @@
-# A-plot ideas
-- [Heist](http://recedingrules.blogspot.com/2011/05/heist-con-special-mission.html)
-- Opportunism: various scheming groups come out of the woodwork with the war footing
-  - Villain PCs: drow undead shaman, fantasy Afghanistan, tyrant antipaladin, vigilante lord/rogue
-  - NPCs: black dragon, ghastly ecclesiarch
+# A-plot Adventures/Scenarios/Locations
+- http://recedingrules.blogspot.com/2011/05/heist-con-special-mission.html
 - Woodland encounters: Young green/white/red dragon, wyverns, griffons, ogres, owlbears, dire boar, roc
-- Hand out first level NPC characters (city guard), murder the hell out of them, survivor alerts regular PCs or they find bodies
+- https://campaignwiki.org/wiki/DungeonMaps/One_Page_Dungeon_Contest
+- https://dysonlogos.blog/2011/06/11/labyrinth-lord-challenge-of-the-frog-idol/
+- https://dysonlogos.blog/2009/08/21/friday-map-goblin-gully-a-deadly-one-page-dungeon/
+- https://dysonlogos.blog/maps/dysons-delve/
+- https://batintheattic.blogspot.com/2011/12/arena.html
+- http://vaultsofnagoh.blogspot.com/2011/04/atoz-april-j-is-for-jungian.html
+- http://lurkingrhythmically.blogspot.com/2010/11/pellatarrum-bonefields.html
+- http://irresistibledance.blogspot.com/2010/07/response-to-this.html
+- http://sorcerersskull.blogspot.com/2011/05/black-school.html
+- http://www.paratime.ca/cartography/bw_dungeons.html
+- Leviathan worshiper: https://goblinpunch.blogspot.com/2013/11/balalang.html
+- http://elfmaidsandoctopi.blogspot.com/2014/01/complete-guide-to-psychonian-citadels.html
+- http://www.dndadventure.com/html/adventures/adv1.html
+- https://www.roleplayingtips.com/downloads/5RoomDungeons_Vol01-18.pdf
+- https://www.dungeonmastering.com/83-free-dd-adventures/
+- http://cauldronsandclerics.blogspot.com/2014/01/dungeon-in-table-diat-i-kickoff-ebet.html
+
+
+# Truth Is Stranger Than Fiction
+- Smoking scorpions for a fucked up trip
+  https://www.reddit.com/r/todayilearned/comments/rmssa1/til_that_smoking_dead_scorpions_to_get_high_is_a/
+- Caterpillar with weird butt pom-poms that looks like it's moving backwards
+  https://www.reddit.com/r/AIDKE/comments/xhwjg2/japanese_angled_sunbeam_caterpillar_curetis_acuta/
+- Jabuticabeira tree, aka Brazilian grapetree
+  https://en.wikipedia.org/wiki/Jabuticaba
+- Necromantic gold-plated stillborn baby
+  https://en.wikipedia.org/wiki/Kuman_Thong
 
 
 # Min The Max, etc.
+- https://www.reddit.com/r/Pathfinder_RPG/comments/11w4s9b/what_was_the_funniest_character_idea_youve_run/
+  - John Goodgnome, who decided to live among a tribe of goblins for research purposes and wore a really crude wooden mask
+  - Drah'galzyne, kobold barbarian with an Earth Breaker
+  - A halfling cavalier who rides an ostrich like Joust, can hide by pretending to be bush
+  - Mr. Bones-Skeleton Pimp Monk who does flurry of bitch slaps
+  - happy go lucky human barbarian that was actually a polymorphed golden retriever
+  - dwarven druid that would summon a half dozen or more compsognathus, then wild shape into one
+  - farting Dwarven Air Kineticist conceived as a lactose-intolerant fromager
+  - Beef Testosterone, The strongest wizard of all time (barbarian with identity issues)
+  - Gordon Ramsay adventuring to find exotic ingredients for his future restaurant
+  - Barles Charkley. The juggler archetype for Bards. Instead of juggling weapons, he dribbled spell storing basketballs
+  - Eyebiter mesmer kobold, eye has the mauler archetype, riding his own eyeball
+  - kenku gunslinger who thinks that pants are a conspiracy by the aboleth
+  - The triple gun ape man. Wild child brawler/eldritch guardian fighter: You have a gun, your ape has a gun, your monkey has a gun.
+- Binky, goblin alchemist / arsonist
+  https://www.reddit.com/r/Pathfinder_RPG/comments/4ozf5i/comment/d4h8of5/
+- Master Spy & Assassin, Murderous Sniper gets a decent ranged death attack
+  https://www.reddit.com/r/Pathfinder_RPG/comments/rfhlrp/max_the_min_monday_assassin_prestige_class/
+- High style, low magic, less hyperspecialized Ranger
+  https://www.reddit.com/r/Pathfinder_RPG/comments/s0m28e/max_the_min_monday_sworddevil/
 - Gaseous Form on a loud ally, thrown as a weapon
   https://www.reddit.com/r/DungeonsAndDragons/comments/s25v3c/the_paladin_grenade/
 - Elemental Ally Druid, specialized Eidelons, Call Animal, Carry Companion: elemental pokemon trainer
@@ -230,7 +273,88 @@
   - 6klb all-day spell trigger, Extended, 1/day, 18k, 5x12x1500/5
 - https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/living-garments/
 
-# Random
+- princess in a treasure chest: http://blogofholding.com/?p=3402
+- keoghtom’s ointment, leveled: http://blogofholding.com/?p=3347
+- Sending Stones, leveled: http://blogofholding.com/?p=3343
+- Magical ropes: http://aeonsnaugauries.blogspot.com/2010/12/magical-ropes.html
+- Magical books: http://kellri.blogspot.com/2008/10/from-across-table-books.html
+- d20 random treasure: http://rpgdiehard.blogspot.com/2010/07/my-sage-submission.html
+- Useful cursed lie detector: http://grognardia.blogspot.com/2008/08/grognards-challenge-1-devils-eye.html
+- Earth-aspected sword, grant stony armor bonus, negative boosh: http://hamsterhoard.blogspot.com/2012/01/magic-item-earths-ending.html
+- Feather boat, leveled: http://blogofholding.com/?p=3793
+- Rope of climbing, leveled: http://blogofholding.com/?p=3275
+- Several small items: http://vaultsofnagoh.blogspot.com/2011/03/storied-mageries-of-lux-familiar.html
+- Curative leeches, pin of fly summoning: http://oldguardgamingaccoutrements.blogspot.com/2011/07/fun-with-leeches-and-flies.html
+- 101 weird magic items: http://thealexandrian.net/wordpress/7246/roleplaying-games/101-curious-items-reflections
+- Magical coins
+  http://thealexandrian.net/wordpress/7283/roleplaying-games/gilted-fiends-cursed-coins-for-your-d20-fantasy-campaign
+  https://thealexandrian.net/wordpress/7288/roleplaying-games/gilted-fiends-part-2
+  https://thealexandrian.net/wordpress/7291/roleplaying-games/gilted-fiends-part-3
+  https://thealexandrian.net/wordpress/7297/roleplaying-games/gilted-fiends-part-4
+  https://thealexandrian.net/wordpress/7301/roleplaying-games/gilted-fiends-part-5
+  https://thealexandrian.net/wordpress/7307/roleplaying-games/gilted-fiends-part-6
+  https://thealexandrian.net/wordpress/7312/roleplaying-games/gilted-fiends-reflections
+  http://matt-landofnod.blogspot.com/2011/05/ten-uncommon-coins.html
+- Magic hats: http://matt-landofnod.blogspot.com/2011/06/hat-tricks-9-magic-chapeaus.html
+- Magic rocks: http://matt-landofnod.blogspot.com/2011/05/mystic-minerals.html
+- Magic rings: http://recedingrules.blogspot.com/2011/05/five-rings.html
+- Magic swords: http://recedingrules.blogspot.com/2011/05/five-swords.html
+- Equipment 
+  http://beyondtheblackgate.blogspot.com/2009/08/megadungeon-equipment.html
+  http://beyondtheblackgate.blogspot.com/2011/03/more-megadungeon-equipment.html
+- Magic weapons: http://beyondtheblackgate.blogspot.com/2009/03/magic-items-should-be-fun-part-of-your.html
+- Magic swords: http://dungeonofsigns.blogspot.com/2014/01/1-sword-equivilents.html
+
+# Randomly Generated
+## Sources
+- https://www.reddit.com/r/d100/wiki/finished/
+- https://www.reddit.com/r/BehindTheTables/wiki/index/
+- http://roll1d12.blogspot.com/
+- http://chaoticshiny.com/index.php
+- http://dandy-in-the-underworld.blogspot.com/search/label/tables
+- http://blessingsofthedicegods.blogspot.com/p/dungeon-dozen-fan-index.html
+
+- https://www.reddit.com/r/osr/comments/q01a6h/re_old_osr_content_treasure_of_secret_santicore/
+- http://dandy-in-the-underworld.blogspot.com/2011/07/whats-dazzling-urbanite-like-you-doing.html
+- http://legacy.aonprd.com/bestiary/encounterTables.html
+- http://monstermanualsewnfrompants.blogspot.com/2011/12/1d100-table-of-mutations-and-wait.html
+- http://aeonsnaugauries.blogspot.com/2011/11/dungeon-stocking-table.html
+- https://dysonlogos.blog/2011/01/11/labyrinth-lord-uniquely-undead/
+- Rival adventuring party: http://dandy-in-the-underworld.blogspot.com/2011/07/vornheim-contest-entry-1-some-rival.html
+- https://web.archive.org/web/20111008061341/http://1d8.blogspot.com/2011/04/what-are-those-wandering-monsters-up-to.html
+- https://wrathofzombie.wordpress.com/2011/06/22/third-vornheim-contest-entry-grave-diggin/
+- 99 rites of fairy creatures: http://blogofholding.com/?p=3732
+- What are the goblins up to? http://jrients.blogspot.com/2006/10/question-no-one-wanted-answered.html
+- http://elfmaidsandoctopi.blogspot.com/2013/10/d100-forbidden-castles.html
+- https://wrathofzombie.wordpress.com/2013/12/24/the-d200-side-effects-of-being-resurrected-table/
+- https://www.necropraxis.com/2012/10/27/marked-by-the-grave/
+- http://shamsgrog.blogspot.com/2011/03/100-npc-personality-types.html
+- http://shamsgrog.blogspot.com/2011/04/monster-business.html
+- http://www.carpeomnis.com/2011/07/27/random-criminals/
+- http://monstersandmanuals.blogspot.com/2010/02/chaos-patrons-revisited.html
+- http://recedingrules.blogspot.com/2011/05/creepy-combat-commentary.html
+- http://jrients.blogspot.com/2008/09/whats-my-motivation.html
+- http://jrients.blogspot.com/2011/07/lifestyles-of-long-lived-and-pointy.html
+- http://aeonsnaugauries.blogspot.com/2011/03/peddlers-of-deep-dark.html
+- http://jrients.blogspot.com/2008/11/welcome-to-carcosa.html
+- http://jrients.blogspot.com/2010/02/whats-up-with-those-crazy-nobles-anyway.html
+- http://poleandrope.blogspot.com/2010/02/hex-dressing.html
+- http://beyondtheblackgate.blogspot.com/2009/08/megadungeon-random-area-name-generator.html
+- http://beyondtheblackgate.blogspot.com/2011/01/random-table-whats-in-hole.html
+- http://vaultsofnagoh.blogspot.com/2011/04/atoz-april-x-is-for-xenium.html
+- http://middenmurk.blogspot.com/2013/04/aftermath.html
+- http://middenmurk.blogspot.com/2010/05/omentide-part-1.html
+- http://elfmaidsandoctopi.blogspot.com/2013/09/d100-necromancers.html
+- http://roll1d12.blogspot.com/2014/01/someone-tipped-off-humanoids.html
+- https://web.archive.org/web/20100405223735/https://www.rpgblog2.com/2010/04/random-island-generation-charts-part-ii.html
+- http://aeonsnaugauries.blogspot.com/2011/03/peddlers-of-deep-dark.html
+- http://www.roleplayingtips.com/one-sentence-npc-generator/
+- https://davesmapper.com/
+- http://www.rinkworks.com/namegen/
+- http://carpeomnis.com/2011/07/27/random-criminals/
+
+
+## Cached Results
 - Hames's Sorcerous Tinctures
   Location: Metropolis
   Type: Alchemist

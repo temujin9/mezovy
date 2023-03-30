@@ -8,27 +8,27 @@ Int 16 (+3)                   = 14+2(elf)
 Wis 8  (-1)
 Cha 14 (+2)
 
-- Init          +5            = +5(Dex)
+- Init          +5            = +7(Dex)
   Surprise      25            = "roll" of 20 (Snap Shot)
 - BAB        +6/+1
   Melee      +8/+3            = +6+2(Str)
-  Finesse   +11/+6            = +6+5(Dex)
-  Ranged    +11/+6            = +6+5(Dex)
-- AC            22            = 10+5(Chain)+5(Dex)+1(Ring)+1(Amulet)
+  Finesse   +11/+6            = +6+7(Dex)
+  Ranged    +11/+6            = +6+7(Dex)
+- AC            22            = 10+5(Chain)+7(Dex)+1(Ring)+1(Amulet)
   Touch         16            = -5(Chain)-1(Amulet)
   Flatfooted    17            = -5(Dex)
-- CMD           18            = 10+2(Str)+5(Dex)+1(Ring)
+- CMD           18            = 10+2(Str)+7(Dex)+1(Ring)
 - Saves
-  Fort          +4            = +2(Rogue)+0(Con)+2(Cloak)
-  Ref          +13            = +6(Rogue)+5(Dex)+2(Cloak)
-  Will          +4            = +2(Rogue)-1(Wis)+2(Cloak)+1(Hidden)
+  Fort          +4            = +3(Rogue)+0(Con)+2(Cloak)
+  Ref          +13            = +7(Rogue)+7(Dex)+2(Cloak)
+  Will          +4            = +3(Rogue)-1(Wis)+2(Cloak)+1(Hidden)
     Divination  +6            = +2(Hidden)
-- Hit points    40            = 8+7d8
+- Hit points    45            = 10d8
 
 # Class
-Unchained Rogue 8th
-- Sneak Attack +4d6
-- Danger Sense +2 - adds to Reflex and dodge AC vs traps, Perception to avoid surprise
+Unchained Rogue 11th
+- Sneak Attack +6d6
+- Danger Sense +3 - adds to Reflex and dodge AC vs traps, Perception to avoid surprise
 - Debilitating Injury - bewildered (-2 AC, -2 vs rogue), disoriented (-2 to hit, -2 vs rogue), hampered (half move)
 - Archetype: Scout
   - Scout’s Charge - charge gives sneak attack
@@ -37,11 +37,14 @@ Unchained Rogue 8th
   - Chemical Weapons - +Int (+3) to damage with splash attacks
   - Precise Splash Weapons - Sneak attack with first splash weapon a round
 - Rogue's Edge (Stealth) - +10 to Snipe roll
+- Rogue's Edge (Perception) - half penalties while asleep, +1 to perception per 30ft
 - Talents:
   - Canny Observer - +4 Perception to hear conversation details or find hidden objects
   - Certainty (Stealth) - reroll one Stealth check per day, take better
   - Bleeding Attack - sneak attack also deals 4 bleed
   - Snap Shot - auto 20 initiative in surprise round (only), only for ranged attack
+  - Spontaneous Healing - 5x day heal 5
+  - Quick Shot - get one shot off before initiative resolves, if armed already
 
 # Race
 Fire Elf
@@ -55,43 +58,45 @@ Point Blank Shot - +1 to hit within 30 ft
 Rapid Shot - fire an extra arrow during full-attack
 Breadth of Experience - +2 to all Knowledge and Profession, may roll untrained
 Quick Draw - free action to draw weapon, or move action to draw if concealed
+Extra Rogue Talent
 
 # Traits
 Carefully Hidden - +1 to Will saves, +2 vs divination
 Lucky Tattoo - roll with advantage, once per game session (firebird)
 
 # Skills
-Acrobatics         18         = 8+3(class)+5(Dex)+2(Boots)
-Appraise            6         = 1+3(class)+2(Int)
-Bluff              13         = 8+3(class)+2(Cha)
-Craft (Alchemy)    17         = 8+3(class)+3(Int)+3(Chemist)
-Climb               8         = 1+3(class)+2(Str)+2(Boots)
-Diplomacy           6         = 1+3(class)+2(Cha)
-Disable Device     16         = 8+3(class)+5(Dex)
-Disguise            6         = 1+3(class)+2(Cha)
-Escape Artist       9         = 1+3(class)+5(Dex)
-Intimidate          6         = 1+3(class)+2(Cha)
-Know (Local)       16         = 8+3(class)+3(Int)+2(Breadth)
-Know (Dungeon)      9         = 1+3(class)+3(Int)+2(Breadth)
-Know (*Any*)        5         = 0+3(Int)+2(Breadth)
-Linguistics        14         = 8+3(class)+3(Int)
-Perception         10         = 8+3(class)-1(Wis)
-  Surprise         12         = +2 (Danger Sense)
-  Canny Observer   14         = +4 (conversation, hidden objects)
-Profession (*Any*)  1         = 0-1(Wis)+2(Breadth)
-Sense Motive       10         = 8+3(class)-1(Wis)
-Sleight of Hand     9         = 1+3(class)+5(Dex)
-Stealth            17         = 8+3(class)+5(Dex)+2(Boots)
-  Snipe             7         = -20+10(Unlock)
-  Snipe (Longbow)  12         = -20+10(Unlock)+5(Sniping)
-Swim                6         = 1+3(class)+2(Str)
+Acrobatics         11+3(class)+7(Dex)+2(Boots)
+Appraise           1+3(class)+2(Int)
+Bluff              11+3(class)+2(Cha)
+Craft (Alchemy)    11+3(class)+3(Int)+3(Chemist)
+Craft (Bows)       1+3(class)+3(Int)
+Climb              1+3(class)+2(Str)+2(Boots)
+Diplomacy          1+3(class)+2(Cha)
+Disable Device     11+3(class)+7(Dex)
+Disguise           1+3(class)+2(Cha)
+Escape Artist      1+3(class)+7(Dex)
+Intimidate         1+3(class)+2(Cha)
+Know (Local)       11+3(class)+3(Int)+2(Breadth)
+Know (Dungeon)     1+3(class)+3(Int)+2(Breadth)
+Know (*Any*)       0+3(Int)+2(Breadth)
+Linguistics        11+3(class)+3(Int)
+Perception         11+3(class)-1(Wis)
+  Surprise         +3 (Danger Sense)
+  Canny Observer   +4 (conversation, hidden objects)
+Profession (*Any*) 0-1(Wis)+2(Breadth)
+Sense Motive       11+3(class)-1(Wis)
+Sleight of Hand    1+3(class)+7(Dex)
+Stealth            10+3(class)+7(Dex)+2(Boots)
+  Snipe            -5(Unlock)
+  Snipe (Longbow)  -5(Unlock)+5(Sniping)
+Swim               1+3(class)+2(Str)
 
 
 # Equipment
 Handy Haversack (2000gp)
 Efficient Quiver (1800gp)
 Sniper Goggles, Lesser (Sniper's Shot, use-activated, 2000gp)
-Mithril chain +1 (2100gp)
+Mithral chain +1 (2100gp)
 Ring of Protection +1 (2000gp)
 Cloak of Resistance +2 (4000gp)
 Belt of Dexterity +2 (4000gp)
@@ -100,12 +105,14 @@ Cat Burglar’s Boots (2000gp) - +2 to Acrobatics, Climb, Stealth, reroll any of
 Rope of Climbing (3000gp) - 60ft animated rope, can knot itself
 Fire-ink tattoos (50gp) - firebird (left arm) and a feather (right palm), can expose to shed light like torch or candle
 
+2x Potion of Cure Moderate Wounds (300gp, from Loot) - heal 2d8+3hp (19hp)
+
 ## Weapons
 +1 Sniping composite longbow (4275gp)
 - Ranged - +12/+7, 20/x3, 110ft, 1d8+3 piercing +4d6 sneak attack
 - Rapid shot - +10/+10/+5, 20/x3, 110ft, 1d8+3 piercing +4d6 sneak attack
-2x masterwork composite longbows (800gp) - backup in case primary bow is lost or broken
-Masterwork Launching crossbow (375gp)
+Masterwork composite longbows (400gp) - backup in case primary bow is lost or broken
+2x Masterwork Launching crossbow (750gp)
 - Ranged - +12, 30ft, fired item's damage (see below), +4d6 sneak attack direct hit, +4 sneak attack splash
 Masterwork rapier (320gp)
 - Melee - +12/+7, 18-20/x2, 1d6+2 piercing +4d6 sneak attack
@@ -149,8 +156,12 @@ Daggers: 9 regular, 6 cold iron, 3 silver (93gp)
 3x Sparking pinwheel firework (60gp) - 1 round delay, create a 15ft sparking barrier
 
 
-8176gp as of 2021-12-19
+40214gp as of 2022-11-19
 
+Belt of Dexterity +6 (from +2) 17.6k, 1600gp to Gahdri
+Celestial Armor 22400, made from Mithral chain +1 2100gp
+
+2314gp spent
 
 # Notes
 - From one of the planar elven kingdoms, specifically one of the fire plane outposts.

@@ -1,5 +1,5 @@
 "General Mayhem"
-Half-elf Vigilante 7 / Moonshiner Gun Chemist 1 / Brawler 2
+Half-elf Moonshiner Gun Chemist 1 / Vigilante 8 / Battle Dancer Brawler 2
 
 Str 10  +0
 Dex 22  +6  (+2 half-elf, +1 level 4, +2 Belt)
@@ -9,17 +9,17 @@ Wis 10  +0
 Cha 14  +2  (+1 level 8)
 
 Initiative      +8 = +6 (Dex) +2 (Trait)
-BAB             +9/+4
-  Melee         +9/+4     (Str based)
-  Finesse       +15/+10   (+3 damage)
-  Ranged        +15/+10
-  Flurry        +13/+13/+8
+BAB             +10/+5
+  Melee         +10/+5    (Str based)
+  Finesse       +16/+11   (+4 damage)
+  Ranged        +16/+11
+  Flurry        +14/+14/+8
   Stupor (Dex)  +2
   Enlarged      -1        (Finesse/Ranged)
   Defensive     -4
   Expertise     -3
-CMB             +9        bull rush, grapple, sunder, or overrun
-  Finesse       +15       disarm, trip, drag, reposition, dirty trick (if explained), steal (arguable)
+CMB             +10       bull rush, grapple, sunder, or overrun
+  Finesse       +16       disarm, trip, drag, reposition, dirty trick (if explained), steal (arguable)
   As above, and
   Enlarged      +1        (size)
 AC              25 = 10 +6 (armor) +2 (shield) +6 (Dex) +1 (ring)
@@ -34,13 +34,12 @@ CMD             17 = 10 +0 (Str) +6 (Dex) +1 (ring)
   Stupor (Dex)  +2
   Enlarged      +1        (size)
 Saves
-  Fortitude      6 = 2 +2 +2
-  Reflex        13 = 2 +5 +6
-  Will           5 = 0 +5 +0
-    Emotion      4 = -1 (except fear)
-HP              75 = (8+2)+7*(5+2)+2*(6+2)
-               -45
-  Stupor (Con)  91 = +8*2
+  Fortitude      9 = 2 +2 +3 +2
+  Reflex        17 = 2 +6 +3 +6
+  Will           6 = 0 +6 +0 +0
+    Emotion      5 = -1 (except fear)
+HP              77 = (8+2)+8x(4.5+2)+2x(5.5+2)
+  Stupor (Con)  99 = +11x2
 
 Half-elf
   Reflexive Improvisation - +2 racial bonus on untrained skill checks, replaces adaptability and multitalented
@@ -49,14 +48,7 @@ Moonshiner Gun Chemist 1
   Gunsmith - Gunsmithing, plus free battered gun
   Alchemical Ordinance - free action when loading, infuse up to 3 rounds/day with +1d6+2 damage (no Vital), max 1 shot per round
   Moonshine Stupor - drink alcohol, AC +2, Str+4&Int-2/Dex+4&Wis-2/Con+4&Cha-2 for 5+drink rounds, then sickened 2*stupor*drinks
-Battle Dancer Brawler 2
-  Unarmed Strike - d6 damage from unarmed attack (d8 if Enlarged)
-  Martial Flexibility - move action, pick up a combat feat for 1 min
-  Dancer's Cunning - unarmed strikes are performance weapons
-  Brawler's Flurry - extra attack in full-attack, -2 to hit for all attacks
-  Rolling Flurry - during Flurry must 5ft step before each attack, up to base move, can 5ft before first
-  Extra Combat Feat (Combat Expertise)
-Vigilante 7
+Vigilante 8
   Dual Identity - knowledge and scrying only shows current identity, can have two alignments, 1 min to switch
     "The Professor" - (L)N, old elf, know-it-all who's sometimes right
     "General Mayhem" - CG, young human, wearing a messed-up general's formal armor and a mask
@@ -72,6 +64,14 @@ Vigilante 7
     Lethal Grace - Weapon Finesse, +1/2 vigilante to damage
     Sure Footed - full speed Stealth and Acrobatics
     Vital Punishment - Vital Strike, plus use once per round in Attack of Opportunity
+    Cunning Feint - feint as move or first attack in full, flatfooted until the vigilante’s next turn
+Battle Dancer Brawler 2
+  Unarmed Strike - d6 damage from unarmed attack (d8 if Enlarged)
+  Martial Flexibility - move action, pick up a combat feat for 1 min
+  Dancer's Cunning - unarmed strikes are performance weapons
+  Brawler's Flurry - extra attack in full-attack, -2 to hit for all attacks
+  Rolling Flurry - during Flurry must 5ft step before each attack, up to base move, can 5ft before first
+  Extra Combat Feat (Combat Expertise)
 
 
 Feats
@@ -85,6 +85,8 @@ Feats
   Improved Improvisation - halve unskilled penalty for unskilled equipment, +4 on unknown skills
   Improved Caster Level - +4 CL to extracts
   Vigilante Savant (Lethal Grace) - select a vigilante talent using half vigilante level
+  ??? Feat
+  - Deadly Agility - +Dex to Finesse damage
 Traits
   Elven Reflexes - +2 to initiative
   Lucky Tattoo - roll with advantage, once per game session (Simargl, god of luck & drunks)
@@ -142,9 +144,12 @@ Skills:
     Animal Calls     10 =          +2 (calls) +2 (prepared)
   Swim                6 =  0 +0 +6
   Use Magic Device    8 =  0 +2 +6
-Extracts: 4x day (1 Alchemist + 1 Intelligence + 2 Brilliant Planner/Preserving Flask)
-  Start unprepared, 1 min prep (or Brilliant Planner) any formula, or refill Preserving Flasks after use
-Formula
+
+# Extracts
+4x day (1 Alchemist + 1 Intelligence + 2 Brilliant Planner/Preserving Flask)
+Start unprepared, 1 min prep (or Brilliant Planner) any formula, or refill Preserving Flasks after use
+
+## Formula
 - Blend - +4 to Stealth and can Stealth w/o concealment, only while at 1/2 speed, 50 min, broken by attack
 - Blurred Movement - blur while moving, or all turn if move 2x normal speed, 5 min
 - Cure Light Wounds - cure 1d8+5 hp damage
@@ -173,17 +178,17 @@ Formula
 
 
 # Equipment
-Most everything on person hidden by Shifting Armor and Hidden Magic when in Social guise.
+Most everything on person hidden by Shifting Armor and Hidden Magic when in Social or Anyman guise.
 
 ## Social guise
 - +2 Shifting Mithral Parade Armor with Spikes & Kilt - (armor)
   - AC +6, Max Dex +6, ACP -0, Move 30, 20lbs, +2 Diplomacy & Intimidate to countrymen
   - Disguise Self at will, 1 hr to swap one vigilante talent for another 1/day
-  - Armor Spikes - +15, d6+3 w/ 2x Drow Poison
-- Sword-cane, +15, d6+3, x2, DC 20 Perception to recognize as weapon
+  - Armor Spikes - +16, d6+4 w/ 2x Drow Poison
+- Sword-cane, +16, d6+4, x2, DC 20 Perception to recognize as weapon
 - Goz Mask / Battle Mask - see through smoke etc., one size larger & +4 save vs wind, 60 min water-breathing, +1 Intimidate, 2lbs
 - Quick Runner's Shirt - (chest) 1/day one added Move action and then end turn
-- Spiked cold-iron gauntlets - +15, d6+3 w/ 2x Drow Poison, 2lbs
+- Spiked cold-iron gauntlets - +16, d6+4 w/ 2x Drow Poison, 2lbs
 - Poisoner's gloves - (hands) 2x touch attack to deliver stored potions, 1/day
   - 2x Potion of Cure Moderate Wounds - heal 2d8+3 (19hp)
 - 2x Spring-loaded wrist sheath - retrieve contents as swift
@@ -206,11 +211,11 @@ Most everything on person hidden by Shifting Armor and Hidden Magic when in Soci
 
 ## Vigilante guise
 As social but no sword-cane, and Shifting hides nothing
-- 2x Dueling Daggers, +15, 1d4+3, 19-20/x2, 10ft, +1 AC if fight defensive, w/ 2x Drow Poison
+- 2x Dueling Daggers, +16, 1d4+4, 19-20/x2, 10ft, +1 AC if fight defensive, w/ 2x Drow Poison
 - Ivory drinking horn with copper ends (worth 60 gp)
-- Paddle-foot, +15, 1d8, 20ft (range or cone), 1-2 (5ft), 4 shots (bullet, scatter, or alchemical)
+- Paddle-foot, +16, 1d8, 20ft (range or cone), 1-2 (5ft), 4 shots (bullet, scatter, or alchemical)
   - loaded with Salt, Entangle, Grey Dust, Molten
-- Chain whip (custom weapon), cold iron, +13/+15 (exotic), d8+3 slashing, reach, monk
+- Chain whip (custom weapon), cold iron, +14/+16 (exotic), d8+4 slashing, reach, monk
   - Exotic (6 DP, 6gp), one-handed (+2 DP), additional DP (+2 DP, +30gp)
   - Improved damage (d8, 3 DP), reach (1 DP), trip (3 DP), finessable (3 DP)
 
@@ -222,16 +227,16 @@ As social but no sword-cane, and Shifting hides nothing
 18 "Javelins"
 - 4x large thistle arrows, bleed for 1d6 rounds, move & 1d3 damage or standard Heal DC 12 to remove, w/ Fire Jackal Saliva
 - 12x large arrows
-- 2x Pilum & Amentum, 40ft, +15, 1d8, hit also neutralizes shield AC (standard to remove)
-- Chain whip (custom weapon), silver, +13/+15 (exotic), d8+3 slashing, reach, monk
-- Rapier - +15, 1d6+3, 18-20/x2, w/ Fire Jackal Saliva
+- 2x Pilum & Amentum, 40ft, +16, 1d8, hit also neutralizes shield AC (standard to remove)
+- Chain whip (custom weapon), silver, +14/+16 (exotic), d8+4 slashing, reach, monk
+- Rapier - +16, 1d6+4, 18-20/x2, w/ Fire Jackal Saliva
 6 "Bows"
-- Composite longbow, 110ft, +15, 1d8
-- Large Orcish Hornbow, Masterwork, 80ft, -/+13/+15 (exotic, oversized), 3d6
-- Blowgun, 20ft, +15, 1d2 + poison
-- Bolas, 10ft, +13/+15 (exotic), d4 nonlethal, x2, trip attempt
-- Snag net, 10ft (max), +13/+15 (exotic), entangle, can trip next round, DC 17 Concentrate, DC 22 Escape, DC 25 Strength
-- Dragoon Musket, +15, 1d12, 60ft, 1-2 (5ft), 3 shots (dragoon only)
+- Composite longbow, 110ft, +16, 1d8
+- Large Orcish Hornbow, Masterwork, 80ft, -/+14/+16 (exotic, oversized), 3d6
+- Blowgun, 20ft, +16, 1d2 + poison
+- Bolas, 10ft, +14/+16 (exotic), d4 nonlethal, x2, trip attempt
+- Snag net, 10ft (max), +14/+16 (exotic), entangle, can trip next round, DC 17 Concentrate, DC 22 Escape, DC 25 Strength
+- Dragoon Musket, +16, 1d12, 60ft, 1-2 (5ft), 3 shots (dragoon only)
   - Far-Reaching Sight, full-round action to ranged touch at any increment
   - loaded with regular Dragoon (-1 shot)
 
@@ -240,15 +245,15 @@ As social but no sword-cane, and Shifting hides nothing
 - (Social: Drinking horn, dueling daggers, chain-whip, and paddle-foot, when not in use)
 - (Brilliant Planner payload, 20lbs, see below)
 
-- Scorpion whip, cold iron, +13/+15 (exotic), 1d4+3 slashing, disarm, performance, reach, trip
-  - as regular whip, +13/+15 (exotic), 1d3+3 nonlethal, trip, disarm, 15ft reach
-- Cat-o-nine-tails, +15, 1d4+3 nonlethal, x2, disarm
-- Sap, +15, 1d6+3 nonlethal, x2
+- Scorpion whip, cold iron, +14/+16 (exotic), 1d4+4 slashing, disarm, performance, reach, trip
+  - as regular whip, +14/+16 (exotic), 1d3+4 nonlethal, trip, disarm, 15ft reach
+- Cat-o-nine-tails, +16, 1d4+4 nonlethal, x2, disarm
+- Sap, +16, 1d6+4 nonlethal, x2
 
-- Elven Branched Spear, +13/+15 (exotic), 1d8+3, reach, +2 to AoO for movement
-- Dragoon Pistol, +15, 1d8, 30ft, 1-2 (5ft), 3 shots (dragoon only)
+- Elven Branched Spear, +14/+16 (exotic), 1d8+4, reach, +2 to AoO for movement
+- Dragoon Pistol, +16, 1d8, 30ft, 1-2 (5ft), 3 shots (dragoon only)
   - loaded with regular Dragoon (-1 shot)
-- Pistol (battered), +15, 1d8, 20ft, 1 (5ft), 1 shot (bullet or alchemical)
+- Pistol (battered), +16, 1d8, 20ft, 1 (5ft), 1 shot (bullet or alchemical)
   - loaded with Flare
 
 - 7x large arrows
@@ -264,7 +269,7 @@ As social but no sword-cane, and Shifting hides nothing
   - 1x Grey Dust - 1/2 damage, -10 to concentration and can't cast defensively for 1d4 rounds
   - 1x Molten Cartridge - does fire damage, Reflex DC 15 or 1d6 fire / round for 3 rounds unless full-round to remove, fire caltrops for 3 rounds
 
-- Wand of Cure Light Wounds, 47 charges
+- Wand of Cure Light Wounds, 43 charges
 - Wand of Detect Good, 48 charges, UMD DC 20
 - Wand of Magic Stone, 49 charges, UMD DC 20
 - Alchemist's oilstone, requires alchemical caster & Craft (Alchemy), use-activated Magic Weapon for 1 min
@@ -298,6 +303,7 @@ As social but no sword-cane, and Shifting hides nothing
   - 2x Violet fungus venom, contact, Fort 13, 6x 1/minute, 1 save, 1d2 Strength and 1d2 Con damage
   - 4x Scorpion swarm poison, Fort DC 15, 4x 1/round, 1 save, 1 Str and 1 Dex
   - Deadfall scorpion poison, Fort DC 20, 6x 1/round, 2 saves, 1d4 Str
+  - 2x Nitharit, contact, Fort DC 13, onset 1 min., 1/min. for 6 min., 1d3 Con, 1 save
 
 - Acid
 - 3x Alchemist's Fire
@@ -314,7 +320,14 @@ As social but no sword-cane, and Shifting hides nothing
 - Potion of Protection from Law
 - Potion of Touch of the Sea
 
-14632gp as of 2022-07-16
+- Powderkeg - 100gp, 5d6 damage, 20ft radius, Reflex 15 for half
+  - Paper candle - 1gp, used for fused ignition
+
+30185gp as of 2022-11-19
+
+
+      
+
 
 ## In Group Bag of Holding
 - Masterwork Parade Armor w/ Armor Spikes (d6), AC +3, Max Dex +5, ACP 0, Move 30, 20lbs, +2 Diplomacy & Intimidate to countrymen
@@ -324,13 +337,13 @@ As social but no sword-cane, and Shifting hides nothing
 - Alchemist's Lab, +2 to Alchemy
 - 3900ft of twine (39lbs)
 - 90x Powder bags - temporarily outline invisible, or coat square to see footprints
-- Whip, +13/+15 (exotic), 1d3+3 nonlethal, trip, disarm, 15ft reach, only damage low AC
+- Whip, +14/+16 (exotic), 1d3+4 nonlethal, trip, disarm, 15ft reach, only damage low AC
 
 
 # Faking
 Martial Flexibility (1 move, 1 min) gives a Combat feat. Using Paragon Surge item (standard, 5 min) gives any one feat. Using Shifting Armor (1 hr, all day) swaps any one talent for another.
 
-## Feats
+## Martial Flexibility or Paragon Surge
 - Stand Still - CMB to stop movement in threat range (for the untrippable)
 - Deadly Aim - -2 to hit, +4 to damage on ranged attacks
 - Opening Volley - hit with ranged gives +4 to hit with melee on next turn
@@ -346,15 +359,12 @@ Martial Flexibility (1 move, 1 min) gives a Combat feat. Using Paragon Surge ite
 - Improved Trip - +2 to CMB, no AoO
   - Greater Trip - +2 to CMB, tripped opponent provokes AoO
   - Ki Throw - on successful trip, put opponent anywhere you threaten
-- Improved Feint - feint as move action (until next level)
-  - Deceptive Exchange - trick adversary into grabbing an object you hand them
 - Extra Martial Flexibility - 3 more uses of Martial Flexibility per day
 
-### Non-Combat
-These can only be gotten via Paragon Surge.
+### Paragon Surge only
 - Change of Heart - forgo knockout to aggressor (Diplomacy/BAB + 1/2 damage) DC 20+HD+Cha, can change 2+ degrees
-- Skill Unlock (Sense Motive) - Sense Motive vs Bluff gives bonus to initiative
-- Skill Unlock (Perception) - half penalty for sleeping, distance
+- Skill Unlock (Sense Motive) - Sense Motive vs Bluff gives bonus to initiative, -20 to read thoughts
+- Skill Unlock (Perception) - half penalty for sleeping, one third for distance
 - Extra Social Talent - select a social talent using full vigilante level
 
 ### Later
@@ -362,21 +372,27 @@ These can only be gotten via Paragon Surge.
 
 ## Social Talents
 Shifting Armor: trade Always Prepared (eschew tools, or +2 for having them)
+Paragon Surge: Extra Social Talent
 
-### Shifting Armor or Extra Social Talent
+### Shifting Armor or Paragon Surge
 - Quick Change - shift identities as full-round, added full-round or Disguise check to avoid recognition as same person
 - Mockingbird - at-will ghost sound, ventriloquism, vocal alteration (self only)
 - Case the Joint - 1 hr at target, K(engineering) 20 to get reroll there within week, +1 reroll for +10 success, 1/week/joint
 - Guise of Unlife - Knowledge and divination read as undead
 - Social Grace - any mental skill but Perception or UMD, +4 to that skill as social, +1 skill / +4 levels after 1st
 - Safe House - (10*vigilante)ft cube, only discern location can find it or occupants, mage’s private sanctum at 13th
+- Skill Specialty (Investigation): +4 to SM & Per vs concealed, always get Per vs. disguise & SM vs. enchantment, Per DC 10+CL vs Illusion -> +4 save
+- Skill Specialty (Legerdemain): +4 to & vs. Sleight, +4 to feint, feinted/Sleighted stops AoO until next turn
+- Skill Specialty (Pretender): +4 to Disguise & Bluff to deceive/pass secrets, Bluff during mind-reading to cover surface thoughts
 
 ## Vigilante
 Shifting Armor: trade Sure Footed (full-speed Stealth and Acrobatics)
 
-### Shifting Armor or Vigilante Savant (3rd)
+### Shifting Armor
+- Skill Master - take a Signature Skill
+  - Sense Motive: initiative bonus if you know it's coming, -20 vs Bluff to read surface thoughts
+- Volatile Arrows - 4d6 alchemist bomb attached to arrow, 5/day, +1 time per day and a discovery per extra talent used
 - Shadow’s Speed - base speed +10 ft, +10ft more @ 10th level
-- Cunning Feint - feint as move or first attack in full, @ 8th level flatfooted until the vigilante’s next turn
 - Sweeping Shot - Ranged Trip, Ace Trip @ 6th
 - Magic Killer - ignore miss chance from magic, single attack ignoring spell AC, damage dispels all AC spells
 - Heavy Arms Hero - use outsized items, or treat correctly sized as one weapon category smaller
@@ -384,11 +400,8 @@ Shifting Armor: trade Sure Footed (full-speed Stealth and Acrobatics)
 - Combat Skill - bonus combat feat, counts as fighter of half vigilante level
 - Inspired Vigilante - inspiration pool of vigilante level, no freebie usages
 - Rooftop Infiltrator - climb speed of half base speed, or full base speed with rope
-- Volatile Arrows - 4d6 alchemist bomb attached to arrow, 5/day, +1 time per day and a discovery per extra talent used
 - Gear Master - Equipment Trick x2, another at every 4 levels after 6th
 - Silent Dispatch - Stealth check at a –5 penalty is DC of Perception (not DC -10) for sound from first round of combat
-
-### Shifting Armor only
 - Hurricane Strike - 6th, Whirlwind Attack
 - Fantastic Stride - 6th, Spring Attack, every 4 levels +1 secondary creature who isn't provoked to AoO by move
 - Critical Violence - 6th, light weapon, crit range +1 (+2 @ 12th), crit multiplier is 2x, stacks with Keen/Improved Crit
@@ -401,12 +414,12 @@ Shifting Armor: trade Sure Footed (full-speed Stealth and Acrobatics)
   - Owl - +4 Stealth, +6 at 8th level, +8 at 15th level
   - Snake - +2 attack of opportunity, +2 AC vs attacks of opportunity, +4 at 8th level, +6 at 15th level
   - Wolf - scent 10 feet, 20 feet at 8th level, 30 feet at 15th level
-
-### Later
-These will require leveling up Vigilante to access.
 - Critical Virtuoso - 8th, Critical Focus, Improved Critical
 - Aquatic Action - 8th, aquatic as freedom of movement, ignore 15ft of water for ranged
 - Perfect Vulnerability - 8th, standard, attack foe’s touch AC & denied Dex bonus against the attack, 1/target/day
+
+### Later
+These will require leveling up Vigilante to access.
 - Vital Training - 10th, Improved Vital Strike, Greater at 14th
 - Combat Skill - add half Vigilante to Brawler for Fighter level qualification
   - Disruptive - Fighter 6th, +4 DC to cast defensively if you threaten
@@ -460,243 +473,3 @@ Poisons (1/3 price because I made them)
   Ossivane, 175gp, Fort DC 18, 6x 1/round, 2 saves, 1d3 Dex / 1d3 Dex if any action taken
   Mage Bane, 250gp, Fort DC 20, contact, onset 1 minute, 6x 1/minute, 2 saves, -10 to Concentrate
 
-# Later
-## Build
-20th: Vigilante 13/Battle Dancer Brawler 6/Alchemist 1
-
-Vigilante 8
-- Cunning Feint - feint as move or first attack in full, flatfooted until the vigilante’s next turn
-- ??? Feat
-Vigilante 9
-- Skill Familiarity - four skills (Stealth, Perception, Bluff, Acrobatics) take 10 even when threatened, or +2 if not
-Vigilante 10
-- Shadow’s Speed - base speed +20 ft
-- ??? Feat
-Brawler 3
-- Maneuver training 1 (Trip)
-Brawler 4
-- d8/2d6 Unarmed Strike, Dancing Dodge (+Cha to AC to retreat), Sparring Partners 1/day
-- ??? Feat
-Brawler 5
-- Brawler's strike (magic), Close weapon mastery
-- ??? Combat Feat
-Brawler 6
-- Martial flexibility (swift)
-- ??? Feat
-
-If we continue to 20th level:
-Vigilante 11
-- Quick Change - shift identities as full-round, added full-round or Disguise check to avoid recognition as same person
-- Frightening Appearance - attack unaware, Demoralize target + enemies in 10ft, target Will (10+level/2+Cha) or frightened 1 rnd 
-Vigilante 12
-- Vigilante ???
-- ??? Feat
-Vigilante 13
-- Assumption - 13th, register as touched helpless target to divinations for 1 week, 1/week
-
-
-
-
-
-## Equipment
-- Tanglefoot bag, +15, entangle, DC 15 or glued in place, DC 17 Str to free, DC 15+SL Concentrate to cast, 2d4 rounds
-
-2x Bandolier - 5sp, hold 8 items (flask or dagger) apiece, useless flash for the punters?
-Pepperbox - 1500gp, 1d8, 20ft, 1-2 (5ft), 6 shots (bullet or alchemical)
-  3 cold iron, 2 silver, 1 adamantine - ???gp
-???x Tanglefoot bags - 50gp, Ref 15 or can't move, 1/2 move even on a save
-  Add Golden Maple Leaves - +50gp/3, -5 Craft DC, +1 save DC
-???x Tangleburn bags - 150gp, tanglefoot + d6 fire, Ref 20 or catch fire 2 rnds, Ref 25 extinguish, water -> alchemist fire
-  Add use-activated Drench item (200gp for 1/day) to extend the fun, or just get a water bucket
-
-Items Gahdri can make, given proper time and spells
-13500   https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/robe-of-scintillating-colors/   (body)
-4620    https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/headband-of-fortune-s-favor     (headband)
-Alchemist's Bracers
-- https://aonprd.com/SpellDisplay.aspx?ItemName=Full%20Pouch (wrists)
-- Greater (use activated) 2x3x2000+100=12100
-- Lesser (x2 per day) 2x3x2000*2/5+50=4850
-
-- Telepathic Bond x1 per day, 5x9x1800/5=16200
-
-
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Survival%20kit%20(masterwork)           50gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Smelling%20salts                        25gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Air%20bladder                           0.1gp
-https://www.aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Air%20crystals                      50gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Waterproof%20bag                        0.5gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Powder                                  0.01gp
-https://www.aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Skeleton%20key                      85gp
-https://www.aonprd.com/MagicWondrousDisplay.aspx?FinalName=Truecolor%20Dye                    25gp
-https://www.aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Desna%27s%20star                    5gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Alchemist%27s%20kindness                1gp
-https://www.aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Dusk%20lantern                      35gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Moonrod                                 10gp
-https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/ioun-torch/                           75gp
-https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/kunai/                         2gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Essence%20of%20independence             80gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Mimic%20fibers                          30gp
-https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/ranged-piton/                         800gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Piton                                   0.1gp
-https://www.aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Snorkel%20(masterwork)              5gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Smoked%20goggles                        10gp
-https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/iron-rope/                            750gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Wax%20key%20blank                       15gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Bell%20tripwire%20trap                  2gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Vermin%20repellent                      5gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Repellent%20salts                       100gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Orc%20trail%20rations                   1gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Trail%20rations                         0.5gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Backpack%20(hydration)                  40gp (-2gp for backpack base)
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Whetstone                               0.02gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Smoke%20cover                           75gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Stilts%20(masterwork)                   5gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Second-story%20harness                  55gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Pathfinder%20Chronicle                  50gp per Knowledge
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=City%20map                              40gp per city
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Mirror%20ball                           20gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Poison%20lip%20paint                    5gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Periscope                               20gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Poison%20pill%20ring                    +20gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Prosthetic%20(arm)                      10gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Puzzle%20heel                           80gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Quick-change%20outfit                   ?gp (2x most expensive)
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Rope%20(spider%27s%20silk,%2050%20ft.)  100gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Signal%20horn                           1gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Scroll%20case,%20spring%20loaded        5gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Jetcaster                               80gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=False%20manacles                        65gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Hoodwink%20cowl                         75gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Hunter%27s%20stand                      25gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Monster%20bait                          60gp per type
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Earplugs                                0.03gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Glue%20paper                            0.1gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Ember%20pot                             0.5gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Folding%20ladder                        2gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Fake%20footprint%20shoes                5gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Filter%20mask                           5gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Glass%20cutter                          5gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Field%20survival%20guide                20gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Cipher%20rings                          10gp for 2 + 4gp per extra ring
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Contracting%20rope                      50gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Collapsible%20trampoline                50gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Ear%20trumpet                           5gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Crutch                                  0.5gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Drill                                   0.5gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Cane,%20hollow                          +1gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Holy%20symbol%20(flask)                 +10gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Collapsible%20plank                     0.4gp
-https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Stubborn%20Nail                        100gp
-https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Raucous%20Canard                       100gp
-https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Caltrop%20BeadCold%20Iron              80gp (cold iron)
-https://aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Vine%20Arrow                             80gp
-https://aonprd.com/MagicWeaponsDisplay.aspx?ItemName=Darkness%20Arrow                         80gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Book%20of%20war%20prayers               50gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Caltrops,%20vicious                     50gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Heritage%20book                         50gp
-https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Universal%20Solvent                    50gp
-https://aonprd.com/MagicWondrousDisplay.aspx?FinalName=Hex%20Nail                             10gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Camouflage%20netting                    20gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Air%20tank,%20pressurized               25gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Blue%20book                             5gp per city
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Arrow%20(grappling)                     1gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Animal-repellant%20sack                 2gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Camouflage%20blanket                    12gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Mirror                                  10gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Bachelor%20snuff                        1gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Allnight                                75gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Clear%20ear                             15gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Angry%20jack                            25gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Subversive%20vest%20(vestment)          90gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Waffle%20iron%20(common)                1gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Wire                                    5gp per 6ft
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Waterproof%20lantern                    +5gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Alchemical%20grease                     5gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Applecheek                              10gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Wire%20saw%20(adamantine)               150gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Bladeguard                              40gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Anesthetic%20wine                       50gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Antiemetic%20snuff                      50gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Antiplague                              50gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Antitoxin                               50gp per poison
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Alchemical%20pheromones%20(simple)      1gp per type/subtype
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Memory%20incense                        50gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Insight%20leaves                        50gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Salt%20tablets%20(10)                   1gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Glowing%20ink                           5gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Marker%20dye                            15gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Tindertwig                              1gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Invisible%20ink%20(superior)            75gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Adhesive%20strip                        5gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Smoke%20signal                          5gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Angel%20quill%20arrowhead               10gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Paper%20wall%20paste                    10gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Vomit%20capsule                         12gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Alchemical%20glue                       20gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Alchemical%20glue%20accelerant          25gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Alchemical%20solvent                    20gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Efreeti%20cord                          50gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Efreeti%20switch                        25gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Kaava%20musk                            40gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Mending%20paste                         25gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Wyrm%27s%20breath%20bitter              30gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Smokestick                              20gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Deodorizing%20agent%20(vial)            30gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Flash%20seeds                           35gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Light%20fire%20ink                      40gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Vine%20tube                             40gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Blasting%20jelly                        45gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Fervor%20juice                          50gp
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Golden%20maple%20leaves                 50gp for 3 alchemical items
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Bear%20trap%20(offset)
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Bear%20trap
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Trespasser%27s%20boot
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Sugar%20glass%20bottle
-https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Poisoned%20sand%20tube
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Wandermeal%20(per%20day)
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Swim%20fins
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Applejack%20(gallon)
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Rusting%20powder
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Vector%20ink
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Bore%20brush
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Brewer%27s%20kit,%20masterwork
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Houndbane%20dust
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Rhinarium%20paste
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Elemental%20breath
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Scent%20blocker
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Stagnant%20fog%20sack
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=False%20teeth%20(clockwork)
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Deep%20breath
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Static%20wool
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Whip,%20training
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Cushion%20inserts
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Fire-resistant%20boots
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Tear-away%20clothing
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Surgeon%27s%20tools
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Decoy%20trigger%20(decoy%20tripwire)
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Symptom%20kit
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Poisoned%20quill
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Masterwork%20flippers
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Poison%20belcher
-  https://aonprd.com/PoisonDisplay.aspx?ItemName=Purple%20pesh
-  https://aonprd.com/PoisonDisplay.aspx?ItemName=Chelish%20deathapple
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Toxic%20censer
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Taxidermy%20tools
-https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Alchemical%20cartridge%20(gray%20dust)
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Ghast%20retch%20flask
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Artokus%27s%20fire
-https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Featherweight%20dart
-https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Light%20slaver%27s%20crossbow
-  https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Bolas%20bolts
-https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Razor-sharp
-https://aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Serrated%20edge
-https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Tome%20of%20epics
-https://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/boarding-pike-of-repelling/
-https://www.aonprd.com/EquipmentWeaponsDisplay.aspx?ItemName=Sword%20cane%20pistol
-https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/seducer-s-bane
-https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bracers-of-sworn-vengeance
-
-Eternal Wand of Animate Object III                                                                      11,250gp
-https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/dueling/              14,000gp
-
-https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-shadowform/                               110,000gp

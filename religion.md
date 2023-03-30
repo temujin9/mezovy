@@ -11,7 +11,7 @@
   - https://en.wikipedia.org/wiki/Mokosh - weaving, women, childbirth
   - https://en.wikipedia.org/wiki/Dazhbog - sun
   - https://en.wikipedia.org/wiki/Khors - moon
-  - https://en.wikipedia.org/wiki/Simargl - fire, luck (chained monster)
+  - https://en.wikipedia.org/wiki/Simargl - CG, fire, luck (chained monster)
 - Others
   - https://en.wikipedia.org/wiki/Svarog - smithing, father of Dazhbog & Khors & Radegast
   - https://en.wikipedia.org/wiki/Zorya - dawn, holds Simargl's chains
@@ -47,7 +47,8 @@
 - Germanic is based on this, but missing Vanir + extra hags (drow)
   - Woden (Odin), Frija (Frigg), Donar (Thor), Bældæg (Baldr)
   - Others by pronouncing Þ/ð as d instead of th
-  
+  - Also missing Hugin and Munin (evidence of deep complicity in The Queen's behaviour?)
+
 ## Dwarfs (Aesir)
 - Often part-Jottun
 - https://en.wikipedia.org/wiki/Borr - mountains

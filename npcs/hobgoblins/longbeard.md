@@ -3,7 +3,7 @@ Khrekaan's Cohort: Pekko Malinen
 N(LG tend) Ritualist Wizard
 - aka Urtu Saqal - Long Beard (Yelu Chucai's nickname)
 - Ter Khrekaan's former teacher and now research partner
-- Driven out of Auseq guild 20 years ago for teaching
+- Driven out of Auseq guild 20 years ago for teaching a goblin
 - Always charging a stave, so always down a high level spell
 
 Dweomerden Ritualist Wizard 14

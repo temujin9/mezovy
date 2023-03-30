@@ -99,3 +99,7 @@ Other things made
   https://www.d20pfsrd.com/bestiary/monster-listings/constructs/homunculus/
 - Guardian Scrolls: 2500gp (8 for 5BP)
   https://www.d20pfsrd.com/bestiary/monster-listings/constructs/guardian-scroll/
+- 1/day use-activated Awaken Construct: ???gp
+  https://www.d20pfsrd.com/magic/all-spells/a/awaken-construct/
+- Use-activated Make Whole: ???gp
+  https://www.d20pfsrd.com/magic/all-spells/m/make-whole

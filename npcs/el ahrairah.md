@@ -22,6 +22,7 @@ Inspirations:
 - The White Rabbit
 - Bugs Bunny
 - https://www.thisiscolossal.com/2016/05/violent-rabbit-illustrations-found-in-the-margins-of-medieval-manuscripts/
+- Stargate (Nox) => Pooka - Run-and-hide as an eternal strategy
 
 
 

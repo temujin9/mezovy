@@ -32,7 +32,7 @@ Witch:
 - Patron: Baba Yaga (type unimportant due to Feytouched)
 - Feytouched hexer: cast as sorcerer
   - Changes Patron spells
-  - Wings (speed 60), like wasp, 20 min/day
+  - Drop Wings in favor of the hex it replaced
 - Hagbound
   - Coven with hags
   - SR 31, share with coven
@@ -84,7 +84,7 @@ Equipment: 880kgp
           150kgp  +12 destinations
           75kgp   +12 return
           25kgp   Return are mobile
-          
+
  18kgp  Belt of Dexterity +6
  18kgp  Headband of Alluring Charisma +6
  20kgp  Suzerain Scepter
@@ -102,8 +102,8 @@ Spells:
   - 9th
     wail of the banshee
     Create Demiplane, Greater
-    Shadow Transmutation, Greater
-    Polar Midnight (S)
+    Shadow Transmutation, Greater (S) or Fey Form IV?
+    Polar Midnight (S) or Gate (and also replace Plane Shift)?
   - 8th
     irresistible dance
     Moment of Prescience
@@ -121,16 +121,16 @@ Spells:
     Baleful Shadow Transmutation
   - 5th
     mind fog
-    Duplicate Familiar - maybe ???
+    Duplicate Familiar
     Pain Strike, Mass
     Release the Hounds
     Wreath of Blades
   - 4th
     hallucinatory terrain
     Demanding Message
-    Masochistic Shadow (C,S)
     Innocuous Shape
     Shadowform (T,S)
+    Summon Cacodaemon, Greater
   - 3rd
     bestow curse
     Gloomblind Bolts (M,S)
@@ -176,23 +176,46 @@ Spells:
   - "Nenya's power was preservation, protection, and possibly concealment from evil."
 - Queen of the Fae from Lords and Ladies - glamour, otherworldly, ice land
 - The Morrigan - crows, shapeshifting, curses and portents
-  Morrigan Laufeysdottor -> Morgan La Fey
+  https://en.wikipedia.org/wiki/The_Morr%C3%ADgan
+  - Morrigan Laufeysdottor -> Morgan La Fey
+  - Triple sovereignty goddess:
+    - battle crow, harbinger of doom https://en.wikipedia.org/wiki/Badb
+    - land, fertility, kingship, war and horses https://en.wikipedia.org/wiki/Macha
+    - Morrigu
+      or mother goddess (Anand) https://en.wikipedia.org/wiki/Anu_(Irish_goddess)
+      or frenzied havoc of war https://en.wikipedia.org/wiki/Nemain
+  - Compare maiden-mother-crone: Macha-(Morrigu/Anand/Nemain)-Badb
+    - Badb is aka Baba Sutemos: Grandmother Shadow, the face given to thieves guilds
+    - Macha is the Exilarch of Air, name TBD
+  - Mór-Ríoghain: translates great queen, phantom queen, or sea queen (ref to her origin as sea king's daughter)
 - All of the Disney Evil Queens
-  - Mallificent (Sleeping Beauty) - fae queen, curses kingdoms for royal snubs
+  - Maleficent (Sleeping Beauty) - fae queen, curses kingdoms for royal snubs
+    - There's also the a jealous stepmother in the original story, possibly the original queen mother
     - https://en.wikipedia.org/wiki/Brunhild the original sleeping beauty
       - Based on https://en.wikipedia.org/wiki/Brunhilda_of_Austrasia
-    - There's also the a jealous stepmother in the original story, possibly the original queen mother
+      - No clear Maleficent equivalent: Odin cursed her for siding against a favorite king of his
   - Queen Grimhilde (Snow White) - jealous of a prince's affection, poisons his paramour
     - Inspired by https://en.wikipedia.org/wiki/She_(1935_film)#Plot
   - Yzma - "Snuff Out The Light"
+- The Raven Banner 
+  https://en.wikipedia.org/wiki/Raven_banner
+  - Originally a Norse thing, referring maybe to Hugin and Munin
+  - What does that mean for the old relationship with the dwarves? Was Odin a witch, or was it a kenning for an elven witch advisor?
 
 
 # Notes
-- What's the Queen's end game? Ally with Mezovian elements and crush the hobgoblins for their impudence? Just reveal her command of them once she's pocketed them? This seems to depend on what she knows and when. If she learned recently it might still be in flux?
+- What's the Queen's end game? 
+  - Ally with Mezovian elements and crush the hobgoblins for their impudence? 
+  - Just reveal her command of them once she's pocketed the Mezovians?
+  - This seems to depend on what she knows and when. If she learned recently it might still be in flux.
 - Cootie witch recommendations
   - The Queen obviously has a poison plant garden
     - https://en.wikipedia.org/wiki/Manchineel deadly tree: blistering sap, toxic to attack or burn
+    - https://en.wikipedia.org/wiki/Datura white flower, hallucinatory/toxic
   - New moon for rituals to The Queen
+  - Triune goddess that is a succession of hosts with longevity
+    - All just Vasilisa in a new form, backed up by Simulacrum of others which hides when she's about
+    - Badb, Macha, Nemain, Anand: names of different aspects (maybe rename Badb to Bryna, meaning raven instead of crow)
 - Was hag bound to Baba Yaga, but graduated a while ago
   - "Tithe to hell" every seven years per Tam Lin
   - Actually a tithe to Baba Yaga, living deep in the Abyss
