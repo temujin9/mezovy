@@ -1,5 +1,5 @@
 "General Mayhem"
-Half-elf Moonshiner Gun Chemist 1 / Vigilante 8 / Battle Dancer Brawler 2
+Half-elf Moonshiner Gun Chemist 1 / Vigilante 9 / Battle Dancer Brawler 2
 
 Str 10  +0
 Dex 22  +6  (+2 half-elf, +1 level 4, +2 Belt)
@@ -9,17 +9,17 @@ Wis 10  +0
 Cha 14  +2  (+1 level 8)
 
 Initiative      +8 = +6 (Dex) +2 (Trait)
-BAB             +10/+5
-  Melee         +10/+5    (Str based)
-  Finesse       +16/+11   (+4 damage)
-  Ranged        +16/+11
-  Flurry        +14/+14/+8
+BAB             +11/+6
+  Melee         +11/+6    (Str based)
+  Finesse       +17/+12   (+4 damage)
+  Ranged        +17/+12
+  Flurry        +16/+16/+9
   Stupor (Dex)  +2
   Enlarged      -1        (Finesse/Ranged)
   Defensive     -4
   Expertise     -3
-CMB             +10       bull rush, grapple, sunder, or overrun
-  Finesse       +16       disarm, trip, drag, reposition, dirty trick (if explained), steal (arguable)
+CMB             +11       bull rush, grapple, sunder, or overrun
+  Finesse       +17       disarm, trip, drag, reposition, dirty trick (if explained), steal (arguable)
   As above, and
   Enlarged      +1        (size)
 AC              25 = 10 +6 (armor) +2 (shield) +6 (Dex) +1 (ring)
@@ -38,8 +38,8 @@ Saves
   Reflex        17 = 2 +6 +3 +6
   Will           6 = 0 +6 +0 +0
     Emotion      5 = -1 (except fear)
-HP              77 = (8+2)+8x(4.5+2)+2x(5.5+2)
-  Stupor (Con)  99 = +11x2
+HP              81 = (8+2)+9x(4.5+2)+2x(5.5+2)
+  Stupor (Con) 105 = +12x2
 
 Half-elf
   Reflexive Improvisation - +2 racial bonus on untrained skill checks, replaces adaptability and multitalented
@@ -48,7 +48,7 @@ Moonshiner Gun Chemist 1
   Gunsmith - Gunsmithing, plus free battered gun
   Alchemical Ordinance - free action when loading, infuse up to 3 rounds/day with +1d6+2 damage (no Vital), max 1 shot per round
   Moonshine Stupor - drink alcohol, AC +2, Str+4&Int-2/Dex+4&Wis-2/Con+4&Cha-2 for 5+drink rounds, then sickened 2*stupor*drinks
-Vigilante 8
+Vigilante 9
   Dual Identity - knowledge and scrying only shows current identity, can have two alignments, 1 min to switch
     "The Professor" - (L)N, old elf, know-it-all who's sometimes right
     "General Mayhem" - CG, young human, wearing a messed-up general's formal armor and a mask
@@ -65,8 +65,9 @@ Vigilante 8
     Sure Footed - full speed Stealth and Acrobatics
     Vital Punishment - Vital Strike, plus use once per round in Attack of Opportunity
     Cunning Feint - feint as move or first attack in full, flatfooted until the vigilante’s next turn
+    Skill Familiarity - four skills (Stealth, Perception, Bluff, Acrobatics) take 10 even when threatened, or +2 if not
 Battle Dancer Brawler 2
-  Unarmed Strike - d6 damage from unarmed attack (d8 if Enlarged)
+  Unarmed Strike - d6+6 damage from unarmed attack (d8+6 if Enlarged)
   Martial Flexibility - move action, pick up a combat feat for 1 min
   Dancer's Cunning - unarmed strikes are performance weapons
   Brawler's Flurry - extra attack in full-attack, -2 to hit for all attacks
@@ -81,12 +82,10 @@ Feats
     Combat Reflexes - 5pts to second-try an AoO at -5
     Vital Strike - 2pts to reroll 2 damage dice
     Combat Expertise - stamina points to raise an attack roll also cancel Combat Expertise penalty
+  Deadly Agility - +Dex to Finesse damage
   Improvisation - +2 to unknown skills
   Improved Improvisation - halve unskilled penalty for unskilled equipment, +4 on unknown skills
   Improved Caster Level - +4 CL to extracts
-  Vigilante Savant (Lethal Grace) - select a vigilante talent using half vigilante level
-  ??? Feat
-  - Deadly Agility - +Dex to Finesse damage
 Traits
   Elven Reflexes - +2 to initiative
   Lucky Tattoo - roll with advantage, once per game session (Simargl, god of luck & drunks)
@@ -95,24 +94,28 @@ Flaw
   Short Attention Span   -2 on all skill checks to retry a failed check, can't take 20
 Drawback
   Righteous Indignation - take all attacks of opportunity (or Will DC 10+CL to resist), -1 will save against non-fear emotions
-Languages: Abyssal, Common, Draconic, Elven, Giant, Goblin, Infernal, Orc, Sylvan, Undercommon, ???
+Languages: Abyssal, Common, Draconic, Elven, Giant, Gnomish, Goblin, Infernal, Orc, Sylvan, Undercommon, ???, ???, ???
 
 Skills:
-  Acrobatics         19 = 10 +6 +3
-    Balance          22 =          +1 (pole) +2 (prepared)
-    Pole-vault       23 =          +2 (pole) +2 (prepared)
+  Acrobatics         21 = 12 +6 +3
+    Balance          24 =          +1 (pole) +2 (prepared)
+    Pole-vault       25 =          +2 (pole) +2 (prepared)
+    Take 10 (threat)   -> 31
+    Take 10            -> 33
   Appraise            8 =  0 +2 +6
     Small/detailed   12 =          +2 (glass) +2 (prepared)
-  Bluff              15 = 10 +2 +3
-    Verbal Imitation 25 =          +10 (Ruff)
+  Bluff              17 = 12 +2 +3
+    Verbal Imitation 27 =          +10 (Ruff)
+    Take 10 (threat)   -> 27
+    Take 10            -> 29
   Climb               6 =  0 +0 +6
-  C. (Alchemy)       17 = 10 +2 +3 +2 (prepared)
-    Laboratory       19 =          +2 (lab)
+  C. (Alchemy)       19 = 12 +2 +3 +2 (prepared)
+    Laboratory       21 =          +2 (lab)
   C. (Gunsmith)      12 =  0 +2 +6 +2 (prepared) +2 (masterwork)
   C. (any)           12 =  0 +2 +6 +2 (prepared) +2 (masterwork)
   Diplomacy           8 =  0 +2 +6
     Armor            12 =          +2 (parade) +2 (prepared)
-  Disable Device     21 =  8 +6 +3 +2 (masterwork) +2 (prepared)
+  Disable Device     25 = 12 +6 +3 +2 (masterwork) +2 (prepared)
   Disguise            8 =  0 +2 +6
     Ludwig           38 =          +20 (vigilante) +10 (armor) +2 (prepared) -2 (age)
     Mayhem           38 =          +20 (vigilante) +10 (armor) +2 (prepared) -2 (age)
@@ -131,15 +134,19 @@ Skills:
   Intimidate          8 =  0 +2 +6
     Armor & Mask     12 =          +2 (parade) +1 (mask) +2 (prepared)
   K. (any)            8 =  0 +2 +6
-  Linguistics         9 =  7 +2 +0
+  Linguistics        14 = 12 +2 +0
   Perf. (any)         8 =  0 +2 +6
-  Perception         13 = 10 +0 +3
+  Perception         15 = 12 +0 +3
+    Take 10 (threat)   -> 25
+    Take 10            -> 27
   Prof. (any)        10 =  0 +0 +6 +2 (prepared) +2 (masterwork)
   Ride               14 =  0 +6 +6 +2 (prepared)
-  Sense Motive       13 = 10 +0 +3
+  Sense Motive       13 = 12 +0 +3
   Sleight of Hand    12 =  0 +6 +6
   Spellcraft          8 =  0 +2 +6
-  Stealth            19 = 10 +6 +3
+  Stealth            21 = 12 +6 +3
+    Take 10 (threat)   -> 31
+    Take 10            -> 33
   Survival            6 =  0 +0 +6
     Animal Calls     10 =          +2 (calls) +2 (prepared)
   Swim                6 =  0 +0 +6
@@ -184,11 +191,11 @@ Most everything on person hidden by Shifting Armor and Hidden Magic when in Soci
 - +2 Shifting Mithral Parade Armor with Spikes & Kilt - (armor)
   - AC +6, Max Dex +6, ACP -0, Move 30, 20lbs, +2 Diplomacy & Intimidate to countrymen
   - Disguise Self at will, 1 hr to swap one vigilante talent for another 1/day
-  - Armor Spikes - +16, d6+4 w/ 2x Drow Poison
-- Sword-cane, +16, d6+4, x2, DC 20 Perception to recognize as weapon
+  - Armor Spikes - +17, d6+6 w/ 2x Drow Poison
+- Sword-cane, +17, d6+6, x2, DC 20 Perception to recognize as weapon
 - Goz Mask / Battle Mask - see through smoke etc., one size larger & +4 save vs wind, 60 min water-breathing, +1 Intimidate, 2lbs
 - Quick Runner's Shirt - (chest) 1/day one added Move action and then end turn
-- Spiked cold-iron gauntlets - +16, d6+4 w/ 2x Drow Poison, 2lbs
+- Spiked cold-iron gauntlets - +17, d6+6 w/ 2x Drow Poison, 2lbs
 - Poisoner's gloves - (hands) 2x touch attack to deliver stored potions, 1/day
   - 2x Potion of Cure Moderate Wounds - heal 2d8+3 (19hp)
 - 2x Spring-loaded wrist sheath - retrieve contents as swift
@@ -211,11 +218,11 @@ Most everything on person hidden by Shifting Armor and Hidden Magic when in Soci
 
 ## Vigilante guise
 As social but no sword-cane, and Shifting hides nothing
-- 2x Dueling Daggers, +16, 1d4+4, 19-20/x2, 10ft, +1 AC if fight defensive, w/ 2x Drow Poison
+- 2x Dueling Daggers, +17, 1d4+6, 19-20/x2, 10ft, +1 AC if fight defensive, w/ 2x Drow Poison
 - Ivory drinking horn with copper ends (worth 60 gp)
-- Paddle-foot, +16, 1d8, 20ft (range or cone), 1-2 (5ft), 4 shots (bullet, scatter, or alchemical)
+- Paddle-foot, +17, 1d8, 20ft (range or cone), 1-2 (5ft), 4 shots (bullet, scatter, or alchemical)
   - loaded with Salt, Entangle, Grey Dust, Molten
-- Chain whip (custom weapon), cold iron, +14/+16 (exotic), d8+4 slashing, reach, monk
+- Chain whip (custom weapon), cold iron, +15/+17 (exotic), d8+6 slashing, reach, monk
   - Exotic (6 DP, 6gp), one-handed (+2 DP), additional DP (+2 DP, +30gp)
   - Improved damage (d8, 3 DP), reach (1 DP), trip (3 DP), finessable (3 DP)
 
@@ -227,16 +234,16 @@ As social but no sword-cane, and Shifting hides nothing
 18 "Javelins"
 - 4x large thistle arrows, bleed for 1d6 rounds, move & 1d3 damage or standard Heal DC 12 to remove, w/ Fire Jackal Saliva
 - 12x large arrows
-- 2x Pilum & Amentum, 40ft, +16, 1d8, hit also neutralizes shield AC (standard to remove)
-- Chain whip (custom weapon), silver, +14/+16 (exotic), d8+4 slashing, reach, monk
-- Rapier - +16, 1d6+4, 18-20/x2, w/ Fire Jackal Saliva
+- 2x Pilum & Amentum, 40ft, +17, 1d8, hit also neutralizes shield AC (standard to remove)
+- Chain whip (custom weapon), silver, +15/+17 (exotic), d8+6 slashing, reach, monk
+- Rapier - +17, 1d6+6, 18-20/x2, w/ Fire Jackal Saliva
 6 "Bows"
-- Composite longbow, 110ft, +16, 1d8
-- Large Orcish Hornbow, Masterwork, 80ft, -/+14/+16 (exotic, oversized), 3d6
-- Blowgun, 20ft, +16, 1d2 + poison
-- Bolas, 10ft, +14/+16 (exotic), d4 nonlethal, x2, trip attempt
-- Snag net, 10ft (max), +14/+16 (exotic), entangle, can trip next round, DC 17 Concentrate, DC 22 Escape, DC 25 Strength
-- Dragoon Musket, +16, 1d12, 60ft, 1-2 (5ft), 3 shots (dragoon only)
+- Composite longbow, 110ft, +17, 1d8
+- Large Orcish Hornbow, Masterwork, 80ft, -/+15/+17 (exotic, oversized), 3d6
+- Blowgun, 20ft, +17, 1d2 + poison
+- Bolas, 10ft, +15/+17 (exotic), d4 nonlethal, x2, trip attempt
+- Snag net, 10ft (max), +15/+17 (exotic), entangle, can trip next round, DC 17 Concentrate, DC 22 Escape, DC 25 Strength
+- Dragoon Musket, +17, 1d12, 60ft, 1-2 (5ft), 3 shots (dragoon only)
   - Far-Reaching Sight, full-round action to ranged touch at any increment
   - loaded with regular Dragoon (-1 shot)
 
@@ -245,15 +252,15 @@ As social but no sword-cane, and Shifting hides nothing
 - (Social: Drinking horn, dueling daggers, chain-whip, and paddle-foot, when not in use)
 - (Brilliant Planner payload, 20lbs, see below)
 
-- Scorpion whip, cold iron, +14/+16 (exotic), 1d4+4 slashing, disarm, performance, reach, trip
-  - as regular whip, +14/+16 (exotic), 1d3+4 nonlethal, trip, disarm, 15ft reach
-- Cat-o-nine-tails, +16, 1d4+4 nonlethal, x2, disarm
-- Sap, +16, 1d6+4 nonlethal, x2
+- Scorpion whip, cold iron, +15/+17 (exotic), 1d4+4 slashing, disarm, performance, reach, trip
+  - as regular whip, +15/+17 (exotic), 1d3+4 nonlethal, trip, disarm, 15ft reach
+- Cat-o-nine-tails, +17, 1d4+4 nonlethal, x2, disarm
+- Sap, +17, 1d6+4 nonlethal, x2
 
-- Elven Branched Spear, +14/+16 (exotic), 1d8+4, reach, +2 to AoO for movement
-- Dragoon Pistol, +16, 1d8, 30ft, 1-2 (5ft), 3 shots (dragoon only)
+- Elven Branched Spear, +15/+17 (exotic), 1d8+4, reach, +2 to AoO for movement
+- Dragoon Pistol, +17, 1d8, 30ft, 1-2 (5ft), 3 shots (dragoon only)
   - loaded with regular Dragoon (-1 shot)
-- Pistol (battered), +16, 1d8, 20ft, 1 (5ft), 1 shot (bullet or alchemical)
+- Pistol (battered), +17, 1d8, 20ft, 1 (5ft), 1 shot (bullet or alchemical)
   - loaded with Flare
 
 - 7x large arrows
@@ -337,7 +344,7 @@ As social but no sword-cane, and Shifting hides nothing
 - Alchemist's Lab, +2 to Alchemy
 - 3900ft of twine (39lbs)
 - 90x Powder bags - temporarily outline invisible, or coat square to see footprints
-- Whip, +14/+16 (exotic), 1d3+4 nonlethal, trip, disarm, 15ft reach, only damage low AC
+- Whip, +15/+17 (exotic), 1d3+4 nonlethal, trip, disarm, 15ft reach, only damage low AC
 
 
 # Faking

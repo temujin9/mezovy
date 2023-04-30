@@ -3,9 +3,6 @@
   - Blame for success in west accrues to DS9 (in Peikki) and Bokorov of Daydah, Queen sends greetings?
   - DS9 is nearby and he can learn plenty with a few infiltrators
 
-- Berko
-  - 
-
 - We're 2/3 of the way through the game, time to start revealing things more boldly
   - Things start coming apart for the Empire
   - The Queen intends to make a permanent Tower of Fear
@@ -51,6 +48,7 @@
 
 
 # Further ideas
+- The conscription orders have been getting slaves, and now the PCs are getting complained to by slave-owners (whups, you didn't know?)
 - If the PCs leak to Ter Krekhan the nature of the relationship between drow, changelings, and hags, he will have an "only really need elf blood" realization
   - This is the final part of the puzzle that he needs: hobgoblins could then farm from any elven population, not just the hags
   - This tips the balance toward hobgoblin victory, as they can finally massively overpopulate from goblin ranks

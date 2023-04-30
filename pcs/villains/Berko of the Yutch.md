@@ -6,9 +6,11 @@ Build: Human Rogue 14th-ish
 ## Current Tick
 - ???
 ## Soon
+- Revolt and subversion attempts are starting to pan out: lots of escaped slaves fleeing south to escape conscription
 - Samvanzu sends agents to scope out Berko et al, maybe gets scoped
   - Also running trade south from Thorbuton to skip the war blockade
-- https://www.d20pfsrd.com/magic/all-spells/m/irrisen-mirror-sight/
+- Aligajievs are minor nobles who practice The Old Rites
+  - https://www.d20pfsrd.com/magic/all-spells/m/irrisen-mirror-sight/
 ## Past Results
 - Training heavier troops (bear hunters)
 - Looking for non-Mezovian spellcasting traditions
@@ -55,6 +57,10 @@ I am Berko Yutchhead and I am want for your help. I have removed a noble who was
 
 Forever grateful,
 Berko of the Yutch
+
+## Allies
+- Sula, elven advisor from Excillarchy of Air
+- Vasyl, Kommendant of Kenland
 
 ## Enemy
 - Count Stansilav Sergeev of Yutesh inherited sidelong from Count Artem Avretsniev. Artem's direct heir was replaced with a simulacrum that died at the Ballroom Blitz, which Artem hushed up.

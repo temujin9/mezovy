@@ -139,3 +139,11 @@ If spell-casting can be nerfed by the Codex, then everything past Spellcraft is 
 - https://www.d20pfsrd.com/magic/all-spells/c/conditional-curse/
 - https://www.d20pfsrd.com/magic/all-spells/b/black-tentacles/#Greater_Black_Tentacles
 
+# Intentionally cursed item
+Helm of Reverse Alignment
+https://www.aonprd.com/MagicCursedDisplay.aspx?ItemName=Helm%20of%20Opposite%20Alignment
+https://www.d20pfsrd.com/magic/all-spells/b/bestow-curse/
+https://www.d20pfsrd.com/magic/all-spells/m/magic-aura/
+https://dnd.arkalseif.info/spells/oriental-adventures--96/compel--2055/index.html
+Ghadri's DC: 30 = 5+15 (CL) +5 (missing CL) +5 (missing spell)
+Cost: 62.6kgp, constant Greater Magic Aura (4th level, 56kgp = 4x7x2000) & single use Compel (8th level, 4.5kgp = 8x15x50x1.5x0.5) & single use Bestow Curse (4th level, 2.1kgp = 4x7x50x1.5)

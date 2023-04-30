@@ -1,7 +1,7 @@
 # Slavic Deities
 ## The Ecclesiarchy
 - The Six - Perun, Stirbog, Mokosh, Dahzbog, Khors, Zorya
-- the Common Council - Deivos, Simargl, Svarog, Radegast, Veles
+- the Common Council - Deivos, Simargl, Svarog, Radagost, Veles
 - the Small Gods - all others
 
 ## Sources
@@ -13,7 +13,7 @@
   - https://en.wikipedia.org/wiki/Khors - moon
   - https://en.wikipedia.org/wiki/Simargl - CG, fire, luck (chained monster)
 - Others
-  - https://en.wikipedia.org/wiki/Svarog - smithing, father of Dazhbog & Khors & Radegast
+  - https://en.wikipedia.org/wiki/Svarog - smithing, father of Dazhbog & Khors & Radagost
   - https://en.wikipedia.org/wiki/Zorya - dawn, holds Simargl's chains
   - https://en.wikipedia.org/wiki/Radegast_(god) - protection, hospitality, assemblies, aka Svarozhits
   - https://en.wikipedia.org/wiki/Veles_(god) - underworld, trickery, magic
@@ -29,7 +29,7 @@
 
 ## Morilorian Occultism
 - Inner cabal of LE leaders of The Church
-  - Generally limited to priests of Zorya, Simargl, and Veles
+  - Generally limited to priests of Zorya, Chernabog and Veles
 - Source of the immortal ghoul clique
 - Fae cult descended from gnomish practices
   - Also the source of Jerry's sin-eating group

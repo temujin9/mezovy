@@ -5,8 +5,6 @@
 ## Build
 20th: Vigilante 13/Battle Dancer Brawler 6/Alchemist 1
 
-Vigilante 9
-- Skill Familiarity - four skills (Stealth, Perception, Bluff, Acrobatics) take 10 even when threatened, or +2 if not
 Vigilante 10
 - Shadow’s Speed - base speed +20 ft
 - ??? Feat

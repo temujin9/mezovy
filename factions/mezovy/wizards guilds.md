@@ -139,6 +139,9 @@
   - Mystic Theurges
 - Warding and life are considered this craft's central attributes. It uses innate ability to access power. Practitioners are more powerful at twilight.
 - Cult of a petty god: Hāwlat (Eurabic Goddess of Magic)
+  - Goddess of magic and power; patroness of the oases of Dumah and Hejra. The name of the goddess means “to change (fortunes)” and “to avert”.
+  - Is actually an aspect of Anansi, who is the spinner of the "Wight-Wheel" (Ghost Wheel)
+  - Amber: destroyable Pattern vs earlier chaotic Logrus?
 - Traits: only allows use of that which is worthy, deconstructors
 - The Gutter's Court: Once upon a time, all the highborn lords and ladies of the land agreed that they could not be bothered dealing with all the troubles presented by the everyday peasant. To remedy this issue, they created the Gutter's Court, a seperate, less powerful court then their own, composed of remarkable peasants that have demonstrated an above average level of loyalty to their respective feudal leader. These peasants are recruited by their feudal lords to handle menial administrative duties as well as provide an additional layer of contact between the nobility and the commoners. The Court is also a tool used for a less innocent purpose. Due to the chosen peasants being the lowborn representatives of their lords, any issues that the lords have with one another are typically resolved through violent retaliation directed towards their proxy. Chosen peasants often make their own plots to seize power in the Gutter's Court, and exceptionally prominent ones may even be taken into their lords house.
 
@@ -229,6 +232,7 @@
 - Pirates, in service of royalty
 - Traits: trade with monsters, very few members/exclusive
 - In bed with the fae, though nobody admits it publicly (yet)
+- Amber: destroyable Pattern vs earlier chaotic Logrus?
 - The Collective; this widespread hobby is particularly popular amongst young men, but they play in secret clubs due to watchdog groups that claim that the players are tempted by the infernal by participating.
 
 

@@ -7,4 +7,5 @@ Compoundia
   https://www.d20pfsrd.com/classes/core-classes/sorcerer/bloodlines/bloodlines-from-paizo/oni-bloodline/
   - Orphan raised in Eraia's Japanese culture areas
   - Dylan: "Do they have a king of a flying mountain?" "They do now."
-  - What is Pennsic in game? A royal mock-battle to celebrate the uniting of several smaller kingdoms?
+- Pennsic: a royal mock-battle to celebrate the uniting of several smaller kingdoms
+- Shadow Legion becomes Shadowed Legion, well-known mercenaries
