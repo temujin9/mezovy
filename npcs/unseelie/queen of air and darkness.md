@@ -94,7 +94,7 @@ Equipment: 880kgp
  12kgp  Greater Silent Metamagic Rod
  75kgp  Coven Charm - one negative level per charge (up to 3, on other Coven members), use coven spells by self
  16kgp  Shawl of the Crone - used to use for getting wizards into Grand Coven (for the Permanency)
- 50kgp  Item of Duplicate Familiar (CL 7, command word), worn by familiar
+ 81kgp  Item of Duplicate Familiar (CL 9, command word), worn by familiar
 
 Spells: 
   Known: 9/5/5/4/4/4/3/3/3/3
@@ -102,8 +102,13 @@ Spells:
   - 9th
     wail of the banshee
     Create Demiplane, Greater
-    Shadow Transmutation, Greater (S) or Fey Form IV?
-    Polar Midnight (S) or Gate (and also replace Plane Shift)?
+    ???
+    ???
+    Shadow Transmutation, Greater (S)
+    Fey Form IV
+    Polar Midnight (S)
+    Gate (and also replace Plane Shift)
+    Rival's Weald
   - 8th
     irresistible dance
     Moment of Prescience
@@ -141,8 +146,8 @@ Spells:
     unnatural lust
     Shadow Anchor (T,S)
     Protective Penumbra (T,S)
-    Aggressive Thundercloud (M,F)
     Garden of Peril (M,F)
+    Pernicious Poison (T)
     Bloodbath (C,F)
   - 1st
     charm person
@@ -221,15 +226,18 @@ Spells:
   - Actually a tithe to Baba Yaga, living deep in the Abyss
   - Soul-gems of dead folks, the "punished" 
 - Vile Leadership & Wicked Leader
-  - 19th level cohort, each (down to 12th) also takes Vile Leadership & Wicked Leader
+  - 19th level cohort, each (down to 16th) also takes Vile Leadership & Wicked Leader
     - Prince of Crows - Changeling Wizard 19
       - Vile Leadership 44 => 19(level)+6(various)+19(murder)+0(Cha) => 1400/140/70/35/18/9/5/3/2/1/0+2
-    - Lord Hob - Goblin Hearth Witch 18
-      - Vile Leadership 42 => 18(level)+6(various)+18(murder)+0(Cha) => 1200/120/60/30/15/8/4/2/1+2
-    - High Witchlord - Blood Hag (CR 8) + Rogue 8 + PC Wealth 1 = CR 17
-      - Vile Leadership 44 => 17(level)+6(various)+17(murder)+4(Cha) => 1400/140/70/35/18/9/5/3/2/1/0+2
-    - Assassin - Night Hag (CR 9) + Vigilante 6 + PC Wealth 1 = CR 16
+    - High Witchlord - Blood Hag (CR 8) + Rogue 9 + PC Wealth 1 = CR 18
+      - old Vile Leadership 42 => 18(level)+6(various)+18(murder)+0(Cha) => 1200/120/60/30/15/8/4/2/1+2
+      - Need to recalculate?
+    - Assassin - Night Hag (CR 9) + Vigilante 7 + PC Wealth 1 = CR 17
+      - old Vile Leadership 44 => 17(level)+6(various)+17(murder)+4(Cha) => 1400/140/70/35/18/9/5/3/2/1/0+2
+      - Need to recalculate?
+    - Lord Hob - Goblin Hearth Witch 16
       - Vile Leadership 44 => 16(level)+6(various)+16(murder)+6(Cha) => 1400/140/70/35/18/9/5/3/2/1
+      - Need to recalculate?
   - Followers 69! (nice) => 20+6(various)+20(murder)+10(Cha)+6(Legendary Dex)+7(Practiced)
     - 7800/780/390/196/98/50/26/14/8/4/2 = 3900/390/195/98/49/25/13/7/4/2/1 *2
     - After trades: 7800/780/390/196/98/50/26/12/6/2/0/0/0/0/+1/+1/+1/+1/1
@@ -244,10 +252,12 @@ Spells:
       - Treasurer - witch thief, angry at PCs
   - Trade 2x lower level minions to cohorts in exchange for their cohorts
     - This is also a hedge against betrayal, since everyone has Vile Leadership
-    - 2x Changeling Heka Magi 11 to son, for Lord Hob (CR 18)
+    - 2x Changeling Heka Magi 11 to son, for High Witchlord (CR 18)
     - 2x drow witchlords TBD 10 to High Witchlord, for Assassin (CR 16)
-    - 2x witches TBD 9 to Lord Hob, for High Witchlord (CR 17)
-    - 2x CR 8 hags to Assassin, for drow witchlord TBD 15
+    - 2x witches TBD 9 to Lord Hob, for 
+    Lord Hob (CR 18)
+    - 2x CR 8 hags to Assassin, for 
+    drow witchlord TBD 15
   - Grand coven
     - 8 witchlords (2+2 level 10, 4 level 9), all loyal to Queen but two TBD serving under High Witchlord
       - Changeling Altered bloodline Sorcerer 10
@@ -279,7 +289,7 @@ Spells:
   - CL 50 Create Greater Demiplane: 10000 cf, 22500gp (5BP, not actually ritual but similar size / cost)
   - CL 50 Create Greater Demiplane: Gate, incredibly hard to dispel (DC 61)
       Gate can only be to a "Very familiar" place: "where you have been very often and where you feel at home"
-  - The Old Rites
+  - Welcoming The Gentry
       Requires targets who live in a home area to symbolically welcome you in via gifts, three times on full/half/new moon
       That home then counts as "very familiar" for the purposes of a Conjuration spell
   - Grand Coven

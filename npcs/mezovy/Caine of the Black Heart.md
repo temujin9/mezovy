@@ -4,6 +4,7 @@ Build: Human Tyrant Antipaladin 3/Vigilante 11
 Alias: Caine of the Black Heart
 
 # Past Results
+- Surrendered to hobgoblins "to protect the city"
 - Inform of current subplot, ask if the lawyer is one of his friends
 - Get news that the PCs have accepted his offer
 - Start getting news of the problems Yarik is stirring up

@@ -1,5 +1,7 @@
+Feannagan
+
 Prince of Crows
-- Changeling Wizard 18
+- Changeling Wizard 19
 - Child of Vasilisa and Rolobo
 - Changeling (Heritage: Drow, Witchborn)
 - Wizard
@@ -15,7 +17,7 @@ Prince of Crows
     - Forgotten (Oracle curse): -4 Cha skills, Disguise Self, Memory Lapse, Misdirection, Undetectable Alignment
     - Reroll CL, Concentrate, Init or Save and add +IntM, 3 + IntM/2 per day 
     - Metamagic -1 level for Patron and Curse spells
-- Feats: x9
+- Feats: x10
   - Allied Spellcaster
   - Coven-Touched
   - Coven Caster
@@ -23,13 +25,18 @@ Prince of Crows
   - Vile Leadership
   - Extend Spell
   - Reach Spell
-  - TODO: 2 more
+  - ???
+  - ???
+  - ???
   - Craft Wondrous Item
 - Vile Leadership 42 => 18(level)+6(various)+18(murder)+0(Cha) => 1200/120/60/30/15/8/4/2/1
+  - TODO: upgrade score
 - Leads a coven of 13 changeling wizard-types
-  - 2x Heka Magi 11th level with Coven from mom
+  - TODO: upgrade list?
+  - Changeling Heka Magi 11th level with Coven from mom
+  - Changeling Strega 11th level from mom
   - 9x others (1 9th/2 8th/3 7th/3 6th)
-    - Wizard 9th with Coven feats
+    - Changeling Wizard 9th with Coven feats
     - Strega (Sorcerer) 8th
     - Eldritch Scoundrel (Thief) 8th with Coven feats
     - Cabalist (Vigilante Magus) 7th with Coven feats
@@ -42,9 +49,10 @@ Prince of Crows
   - Some have Enhanced Coven (+3/day uses)
   - 3x Changeling 9+: Disguise Other, Fog Cloud, Bestow Curse, Speak With Dead, Baleful Polymorph, Mirage Arcana, 3/day
   - 7+: create undead, dominate person (DC 18), epidemic (DC 19), fairy ring retreat, major curse (DC 18), magic jar (DC 18), and prying eyes
-  - 13+: create greater undead, cursed earth (DC 22), dominate monster (DC 22), greater prying eyes, and wail of the banshee (DC 22)
-  - CL 18 if he's leading, +1 CL (up to 20) and +1/2 DC for added casters
+  - 13: create greater undead, cursed earth (DC 22), dominate monster (DC 22), greater prying eyes, and wail of the banshee (DC 22)
+  - CL 19 if he's leading, +1 CL (up to 20) and +1/2 DC for extra casters
 - Spells
+  - Assume he has access to all Wizard spells, just list the important / interesting ones
   - 9th
     Refuge
     Scribe's Binding
@@ -70,3 +78,4 @@ Prince of Crows
   - Brought him back once he could cast Permanency, so he's leveled much slower since
   - Might therefore be hundreds of years old, requiring research
 
+- Name is literally "crows" in Scots Gaelic

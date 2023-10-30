@@ -67,46 +67,54 @@ TODO: Figure out the actual ritual practice, so that the PCs can recognize (mayb
 
 
 ## Koschei
-- Plot points: 7
+- Plot points: 8
 - King Cold advancing from the north, gathering souls for Koschei in his belly
 - Attack any of the northern realms
 
 ## Ukpik
-- Plot points: 1
+- Plot points: 3
 - Securing the trods
 - Advancing into the mundane realm
 
 ## The Traitor
-- Plot points: 0
+- Plot points: 4
 - Arrange failure for a sibling
 - Can contribute to another's success
 - Each step should eliminate another possibility
 
 ## Caine
-- Plot points: 3
+- Plot points: 6
 - Manipulating others against The Church
 - Playing off The Queen's minions on behalf of Ukpik
 
 ## Oilester
-- Plot points: 8
+- Plot points: 0
 - Regain powerful spells
 - Take revenge on elves
 
 ## Grey Eye
-- Plot points: 8
+- Plot points: 1
 - Open closed trods
 - Finding and destroying portal knowledge
 - Necromantic power sources
 
 ## Tsarina Suzyanna
-- Plot points: 2
+- Plot points: 9
 - Advances her plots by 2d3-2 each month
 - Armies advance upon and smash her enemies
 - Courtiers find ways to maintain power
 
 
 # History
+- The Queen raises a Tower of Fear, only to have it smashed by the TTPCs
+- Grey Eye starts assassinating wizards and burning libraries en-masse
+- Oilester attacks in the Shadow Realm, pulling The Queen into a two-front war
+- The Queen pushes balance in Ducal Council (killing Duke Bereria and subverting Duchess Zvezdana)
+- Yutch counterattack takes Yutesh and eventually Bereria
+- PCs return from the Goblin Market with evidence of The Queen's plotting
+- Hobgoblins routed in southwestern front: Old Army helped Yarik, Ukpik sacrificed the Queen's loyalists
 - The Traitor poisons Seryy's wife so she is barren
+- Yutch secession
 - Caine surrenders to the hobgoblins and saves his city and wizard guild
 - King Cold assaults Uhlinberg badly, causing "a second dearth"
 - False Bolechnikov found and destroyed by PCs, True Bolechnikov found and destroyed by Bolech

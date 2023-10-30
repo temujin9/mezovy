@@ -1,5 +1,5 @@
-Lord Hob - Goblin Hearth Witch 18
-- 9th level spells
+Lord Hob - Goblin Hearth Witch 16
+- 8th level spells
 - Coven hex
 - Hidden Home hex - permanent Mirage Arcana on area 200 x 200?
 - Patron: Trickery: animate rope, mirror image, major image, hallucinatory terrain, mirage arcana, mislead, reverse gravity, screen, time stop
@@ -24,7 +24,7 @@ Lord Hob - Goblin Hearth Witch 18
     - 13+: create greater undead, cursed earth (DC 22), dominate monster (DC 22), greater prying eyes, wail of the banshee (DC 22)
     - Storm: call lightning storm (DC 18), plague storm (DC 19), quench (DC 16), whirlwind (DC 21), wind wall, child-scent within 100 ft
     - Winter: sculpt simulacrum, simulacrum, icewalking and snow vision within 1 mi
-    - CL 20, +1 CL (up to 20) and +1/2 DC for added casters
+    - CL 16, +1 CL (up to 20) and +1/2 DC for added casters
   - Remaining followers are spies and enforcers
     - 1200/120/60/30/15/5/1/0/1
 - Equipment

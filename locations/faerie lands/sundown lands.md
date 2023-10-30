@@ -75,12 +75,12 @@ Inspirations:
 - http://pikeplacemarket.org/
 
 ## Towers of Fear
-Greater Create Demiplane (plus a single-use Instant Fortress for visual effect?)
-- Inside is created first, following by Faerie gate
+Greater Create Demiplane, plus a single-use Instant Fortress for visual effect
+- Inside is created first, then doors, then antimagic
 - Made with a Witches' Sabbath, making it large and very hard to dispel
 - Gate to the Abyss requires a coven of Night Hags to open their home (ergo lower CL, because they lack Coven hex)
 - Gate to the Material requires a local coven to open their home (also somewhat lower CL, since they're smaller)
 Gates at base to Abyss/Material
 Gates at top to an outer courtyard of the Autumn Palace
-Spellcasters at top have powerful advantages on folks at base
+Archers at top have powerful advantages on folks at base
  

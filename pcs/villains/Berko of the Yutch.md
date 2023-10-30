@@ -11,6 +11,7 @@ Build: Human Rogue 14th-ish
   - Also running trade south from Thorbuton to skip the war blockade
 - Aligajievs are minor nobles who practice The Old Rites
   - https://www.d20pfsrd.com/magic/all-spells/m/irrisen-mirror-sight/
+  - If they know, The Queen knows (eventually)
 ## Past Results
 - Training heavier troops (bear hunters)
 - Looking for non-Mezovian spellcasting traditions
@@ -59,7 +60,7 @@ Forever grateful,
 Berko of the Yutch
 
 ## Allies
-- Sula, elven advisor from Excillarchy of Air
+- Sula, elven advisor from Exilarchy of Air
 - Vasyl, Kommendant of Kenland
 
 ## Enemy

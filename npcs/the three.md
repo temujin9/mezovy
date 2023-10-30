@@ -32,3 +32,7 @@ Notes:
 - Initial meeting spawns kobold traditions, esp. amongst the monks
 - All dragons are cousins: types happen after birth, and are more Lamarkian and less morally-connected
   - This means the unhatched eggs from Cirothe could become golden dragons
+- The Queen of Air and Darkness is unmasked
+  - Black: sends Blue after the royal family suspects, confirms suspicions of the two nearer thieves guilds
+  - Blue: confirms PCs' suspicions of royals, starts mustering forces within wizards guilds
+  - Mithril: tells others of conquest of Air and djinni bottles, willing to do one-time show of force

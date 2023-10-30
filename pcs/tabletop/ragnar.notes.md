@@ -10,6 +10,7 @@
   - The Dragon knows how . . . 
 
 ## Items
+### Arrows
 160gp for +1 (w/ base +1)
   https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/seeking
   https://www.d20pfsrd.com/magic-items/magic-weapons/magic-weapon-special-abilities/shock

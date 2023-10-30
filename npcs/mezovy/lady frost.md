@@ -39,8 +39,9 @@ Cerebral Duelist Kineticist 7
   - Cerebral Overflow - size bonuses can go to any stat
 - Internal buffer 1
 - Expanded element: air
-  - Air blast: physical, 4d6+7 crushing
-  - Blizzard blast: 2 burn, physical, 8d6+7 piercing/cold
+  - Air blast: physical, 4d6+6 crushing
+  - Blizzard blast: 2 burn, physical, 8d6+10 piercing/cold
+  - Charged water blast: 2 burn, physical, 8d6+10 crushing/electrical
 
 Feats: 5+1(Human)+2(Flaws)
 - 2x Extra Wild Talent - up to 3rd level talents
@@ -93,7 +94,7 @@ Spells:
 
 Equipment: 62kgp
 - Conductive light crossbow +1 (total +2) with wand chamber: 8,350gp
-  - Eternal Wand of Reloading Hands @5th: 15000gp
+  - Constant Reloading Hands @3rd: 12kgp +4kgp
 - Conductive rapier +1 (total +2) with wand chamber: 8,120gp
   - Wand of Touch of Combustion (30+d10 charges): 1500gp
 - Boots of Speed: 10 nonconsecutive rounds of haste a day, 6kgp

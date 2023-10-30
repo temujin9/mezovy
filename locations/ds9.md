@@ -1,0 +1,6 @@
+- Eurabic leader - Sisko
+- Gnomish bartender - Quark
+  - Negotiated passage into goblin market
+- Weird wizard - Erzai Dax
+  - Jadzia killed by Queen's revenge
+- Lizardman tailor - Garak

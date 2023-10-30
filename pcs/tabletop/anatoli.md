@@ -10,8 +10,8 @@ Has access to a Royal Guild card deck
 
 "I'd die for forbidden knowledge being read and attempting to prevent the reading of it."
 
-Cohort: Cavalier
-Cohort's Cohort: Oracle
+Cohort: Cavalier named Kostya
+Cohort's Cohort: Oracle named Neobe
 
 # The other Anatoli
 Asked for a https://www.d20pfsrd.com/bestiary/monster-listings/templates/alter-ego-cr-0/

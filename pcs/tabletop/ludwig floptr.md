@@ -3,44 +3,49 @@ Half-elf Moonshiner Gun Chemist 1 / Vigilante 9 / Battle Dancer Brawler 2
 
 Str 10  +0
 Dex 22  +6  (+2 half-elf, +1 level 4, +2 Belt)
-Con 14  +2
+Con 15  +2  (+1 level 12)
 Int 14  +2
 Wis 10  +0
 Cha 14  +2  (+1 level 8)
 
 Initiative      +8 = +6 (Dex) +2 (Trait)
-BAB             +11/+6
-  Melee         +11/+6    (Str based)
-  Finesse       +17/+12   (+4 damage)
-  Ranged        +17/+12
+BAB             +12/+7
+  Melee         +12/+7    (Str based)
+  Finesse       +18/+13   (+4 damage)
+  Ranged        +18/+13
   Flurry        +16/+16/+9
   Stupor (Dex)  +2
   Enlarged      -1        (Finesse/Ranged)
   Defensive     -4
   Expertise     -3
-CMB             +11       bull rush, grapple, sunder, or overrun
-  Finesse       +17       disarm, trip, drag, reposition, dirty trick (if explained), steal (arguable)
+CMB             +12       bull rush, grapple, sunder, or overrun
+  Finesse       +18       disarm, trip, drag, reposition, dirty trick (if explained), steal (arguable)
   As above, and
   Enlarged      +1        (size)
-AC              25 = 10 +6 (armor) +2 (shield) +6 (Dex) +1 (ring)
-  Touch         -8
-  Flatfooted    -6
-  Enlarged      -2
+AC              26 = 10 +6 (armor) +2 (shield) +6 (Dex) +2 (ring)
+  Touch         -8 = 18
+  Flatfooted    -6 = 20
+  Enlarged      -2 = 24
+  No shield     -2 = 24
+  Shield spell  +2 = 28
   Stupor        +2        (dodge)
   Defensive     +2        (dodge)
   Expertise     +3        (dodge)
-CMD             17 = 10 +0 (Str) +6 (Dex) +1 (ring)
+CMD             18 = 10 +0 (Str) +6 (Dex) +2 (ring)
   As above, and
   Stupor (Dex)  +2
   Enlarged      +1        (size)
 Saves
-  Fortitude      9 = 2 +2 +3 +2
-  Reflex        17 = 2 +6 +3 +6
-  Will           6 = 0 +6 +0 +0
-    Emotion      5 = -1 (except fear)
-HP              81 = (8+2)+9x(4.5+2)+2x(5.5+2)
-  Stupor (Con) 105 = +12x2
+  Fortitude     10 = 2 +2 +3 +3
+  Reflex        18 = 6 +2 +7 +3
+  Will           7 = 0 +0 +7 +0
+    Emotion      6 = -1 (except fear)
+    Enchantment 11 = +4
+HP              90 = (8+2)+10x(4.5+2)+2x(5.5+2)
+  Stupor (Con) 116 = +13x2
 
+
+  
 Half-elf
   Reflexive Improvisation - +2 racial bonus on untrained skill checks, replaces adaptability and multitalented
   Thinblood Resilience - drow ancestry, +2 Fort vs poison and disease, poison use, replaces the elven immunities
@@ -66,9 +71,10 @@ Vigilante 9
     Vital Punishment - Vital Strike, plus use once per round in Attack of Opportunity
     Cunning Feint - feint as move or first attack in full, flatfooted until the vigilante’s next turn
     Skill Familiarity - four skills (Stealth, Perception, Bluff, Acrobatics) take 10 even when threatened, or +2 if not
+    Shadow’s Speed - base speed +20 ft
 Battle Dancer Brawler 2
-  Unarmed Strike - d6+6 damage from unarmed attack (d8+6 if Enlarged)
-  Martial Flexibility - move action, pick up a combat feat for 1 min
+  Unarmed Strike - d6+10 damage from unarmed attack (d8+10 if Enlarged)
+  Martial Flexibility - move action, pick up a combat feat for 1 min, 4/day
   Dancer's Cunning - unarmed strikes are performance weapons
   Brawler's Flurry - extra attack in full-attack, -2 to hit for all attacks
   Rolling Flurry - during Flurry must 5ft step before each attack, up to base move, can 5ft before first
@@ -80,12 +86,14 @@ Feats
   Combat Expertise - -3 to attacks, +3 dodge to AC
   Combat Stamina - 8pt pool of stamina, can use for up to +5 on an attack after roll, also synergies
     Combat Reflexes - 5pts to second-try an AoO at -5
-    Vital Strike - 2pts to reroll 2 damage dice
+    Vital Strike - 2pts to reroll up to 2 damage dice
+    Vital Strike, Improved - 3pts to reroll up to 3 damage dice
     Combat Expertise - stamina points to raise an attack roll also cancel Combat Expertise penalty
   Deadly Agility - +Dex to Finesse damage
   Improvisation - +2 to unknown skills
   Improved Improvisation - halve unskilled penalty for unskilled equipment, +4 on unknown skills
   Improved Caster Level - +4 CL to extracts
+  ???
 Traits
   Elven Reflexes - +2 to initiative
   Lucky Tattoo - roll with advantage, once per game session (Simargl, god of luck & drunks)
@@ -141,7 +149,7 @@ Skills:
     Take 10            -> 27
   Prof. (any)        10 =  0 +0 +6 +2 (prepared) +2 (masterwork)
   Ride               14 =  0 +6 +6 +2 (prepared)
-  Sense Motive       13 = 12 +0 +3
+  Sense Motive       18 = 12 +0 +3 +5 (bracelet)
   Sleight of Hand    12 =  0 +6 +6
   Spellcraft          8 =  0 +2 +6
   Stealth            21 = 12 +6 +3
@@ -153,7 +161,7 @@ Skills:
   Use Magic Device    8 =  0 +2 +6
 
 # Extracts
-4x day (1 Alchemist + 1 Intelligence + 2 Brilliant Planner/Preserving Flask)
+2x day (1 Alchemist + 1 Int)
 Start unprepared, 1 min prep (or Brilliant Planner) any formula, or refill Preserving Flasks after use
 
 ## Formula
@@ -183,7 +191,6 @@ Start unprepared, 1 min prep (or Brilliant Planner) any formula, or refill Prese
 - True Strike - +20 to next attack
 - Vocal Alteration - +10 to Disguise, 5 min
 
-
 # Equipment
 Most everything on person hidden by Shifting Armor and Hidden Magic when in Social or Anyman guise.
 
@@ -191,26 +198,31 @@ Most everything on person hidden by Shifting Armor and Hidden Magic when in Soci
 - +2 Shifting Mithral Parade Armor with Spikes & Kilt - (armor)
   - AC +6, Max Dex +6, ACP -0, Move 30, 20lbs, +2 Diplomacy & Intimidate to countrymen
   - Disguise Self at will, 1 hr to swap one vigilante talent for another 1/day
-  - Armor Spikes - +17, d6+6 w/ 2x Drow Poison
-- Sword-cane, +17, d6+6, x2, DC 20 Perception to recognize as weapon
+  - Armor Spikes - +18, d6+10 w/ 2x Drow Poison
+- Adamantine martial wraps, +19, d6+10/d8+10, +1 Sapping (+2d6 nonlethal, crit fatigues 5 rnds) & Spell Storing
+  - Force Punch - 10d4, 30ft pushback unless Fort save
+  - Trial of Fire and Acid - d6 fire & d6 acid for CL rnds, Fort half (each round) or douse in water to end
+- Sword-cane, +18, d6+10, x2, DC 20 Perception to recognize as weapon
 - Goz Mask / Battle Mask - see through smoke etc., one size larger & +4 save vs wind, 60 min water-breathing, +1 Intimidate, 2lbs
 - Quick Runner's Shirt - (chest) 1/day one added Move action and then end turn
-- Spiked cold-iron gauntlets - +17, d6+6 w/ 2x Drow Poison, 2lbs
 - Poisoner's gloves - (hands) 2x touch attack to deliver stored potions, 1/day
-  - 2x Potion of Cure Moderate Wounds - heal 2d8+3 (19hp)
+  - 2x Potion of Cure Serious Wounds - heal 3d8+5 (29hp)
 - 2x Spring-loaded wrist sheath - retrieve contents as swift
   - Preserving Flask (1st) - Enlarge
-  - Preserving Flask (1st) - Cure Light Wounds (d8+5 => 13hp)
+  - Preserving Flask (1st) - Long Arm
+- Seducer's Bane Bracelet - +5 to Sense Motive, +5 Will vs enchantment, can pretend to be enchanted
 - Mummer's Ruff - (neck) +10 Bluff to imitate a voice, 5 min ventriloquism once per day
 - Belt of Dexterity +2 - (belt)
 - Paragon Cloak - (shoulders, shield)
   - turn into +1 light shield (+2 AC) as move, drop as free
   - 1/day command word Paragon Surge - add one Feat & +2 Dex & Int for 5 min
 - Ring of Sustenance - doesn't need food or water, sleeps only two hours
-- Ring of Protection +1
+- Ring of Protection +2
 - Bottle of Mists - Obscuring Mist, 20ft, continuous
 - Boots of Speed - 10 nonconsecutive rounds of haste (+1 attack at highest, +1 to hit, +1 dodge to AC, +1 Reflex, +30ft move)
 - Goggles of Night - darkvision 60ft
+- Silencer token - Silence, 1/day
+- 4x Dastard's Smoke Pellets - 20ft smoke, Will DC 14 or forget last minute (attune one for 24hrs, DC 18)
 
 - Handy Haversack - (slotless) 5lbs, carries 120lbs, see below
 - Efficient Quiver - (slotless) 2lbs, holds 60 arrows, 18 javelin, 6 bows, see below
@@ -218,32 +230,34 @@ Most everything on person hidden by Shifting Armor and Hidden Magic when in Soci
 
 ## Vigilante guise
 As social but no sword-cane, and Shifting hides nothing
-- 2x Dueling Daggers, +17, 1d4+6, 19-20/x2, 10ft, +1 AC if fight defensive, w/ 2x Drow Poison
+- 2x Dueling Daggers, +18, 1d4+10, 19-20/x2, 10ft, +1 AC if fight defensive, w/ 2x Drow Poison
 - Ivory drinking horn with copper ends (worth 60 gp)
-- Paddle-foot, +17, 1d8, 20ft (range or cone), 1-2 (5ft), 4 shots (bullet, scatter, or alchemical)
+- Paddle-foot, +18, 1d8, 20ft (range or cone), 1-2 (5ft), 4 shots (bullet, scatter, or alchemical)
   - loaded with Salt, Entangle, Grey Dust, Molten
-- Chain whip (custom weapon), cold iron, +15/+17 (exotic), d8+6 slashing, reach, monk
+- Chain whip (custom weapon), cold iron, +16/+18 (exotic), d8+10 slashing, reach, monk
   - Exotic (6 DP, 6gp), one-handed (+2 DP), additional DP (+2 DP, +30gp)
   - Improved damage (d8, 3 DP), reach (1 DP), trip (3 DP), finessable (3 DP)
 
 ## In Efficient Quiver
 60 "Arrows"
 - 20x blowgun darts, 2x w/ Drow Poison
-- 35x medium arrows
+- 20x medium arrows
+- 9x masterwork bolas bolts (DC 20 to break entangle)
 - 5x caltrop beads (2 cold iron, 3 iron) - thrown range 10, 2d4 piercing, 1d4 splash, 10ft radius caltrops
+- 5x Darts w/ Drow Poison, +18, 1d4 + poison, 20ft
 18 "Javelins"
 - 4x large thistle arrows, bleed for 1d6 rounds, move & 1d3 damage or standard Heal DC 12 to remove, w/ Fire Jackal Saliva
 - 12x large arrows
-- 2x Pilum & Amentum, 40ft, +17, 1d8, hit also neutralizes shield AC (standard to remove)
-- Chain whip (custom weapon), silver, +15/+17 (exotic), d8+6 slashing, reach, monk
-- Rapier - +17, 1d6+6, 18-20/x2, w/ Fire Jackal Saliva
+- 2x Pilum & Amentum, 40ft, +18, 1d8, hit also neutralizes shield AC (standard to remove)
+- Chain whip (custom weapon), silver, +16/+18 (exotic), d8+10 slashing, reach, monk
+- Rapier - +18, 1d6+10, 18-20/x2, w/ Fire Jackal Saliva
 6 "Bows"
-- Composite longbow, 110ft, +17, 1d8
-- Large Orcish Hornbow, Masterwork, 80ft, -/+15/+17 (exotic, oversized), 3d6
-- Blowgun, 20ft, +17, 1d2 + poison
-- Bolas, 10ft, +15/+17 (exotic), d4 nonlethal, x2, trip attempt
-- Snag net, 10ft (max), +15/+17 (exotic), entangle, can trip next round, DC 17 Concentrate, DC 22 Escape, DC 25 Strength
-- Dragoon Musket, +17, 1d12, 60ft, 1-2 (5ft), 3 shots (dragoon only)
+- Composite longbow, 110ft, +18, 1d8
+- Large Orcish Hornbow, Masterwork, 80ft, -/+16/+18 (exotic, oversized), 3d6
+- Blowgun, 20ft, +18, 1d2 + poison
+- Bolas, 10ft, +16/+18 (exotic), d4 nonlethal, x2, trip attempt
+- Light slaver's crossbow, +16/+18 (exotic), d4, 19-20/entangle, 40ft, trip attempt
+- Dragoon Musket, +18, 1d12, 60ft, 1-2 (5ft), 3 shots (dragoon only)
   - Far-Reaching Sight, full-round action to ranged touch at any increment
   - loaded with regular Dragoon (-1 shot)
 
@@ -252,19 +266,20 @@ As social but no sword-cane, and Shifting hides nothing
 - (Social: Drinking horn, dueling daggers, chain-whip, and paddle-foot, when not in use)
 - (Brilliant Planner payload, 20lbs, see below)
 
-- Scorpion whip, cold iron, +15/+17 (exotic), 1d4+4 slashing, disarm, performance, reach, trip
-  - as regular whip, +15/+17 (exotic), 1d3+4 nonlethal, trip, disarm, 15ft reach
-- Cat-o-nine-tails, +17, 1d4+4 nonlethal, x2, disarm
-- Sap, +17, 1d6+4 nonlethal, x2
+- Scorpion whip, cold iron, +16/+18 (exotic), 1d4+10 slashing, disarm, performance, reach, trip
+  - as regular whip, +16/+18 (exotic), 1d3+4 nonlethal, trip, disarm, 15ft reach
+- Cat-o-nine-tails, +18, 1d4+10 nonlethal, x2, disarm
+- Sap, +18, 1d6+4 nonlethal, x2
+- Snag net, 10ft (max), +16/+18 (exotic), entangle, can trip next round, DC 17 Concentrate, DC 22 Escape, DC 25 Strength
 
-- Elven Branched Spear, +15/+17 (exotic), 1d8+4, reach, +2 to AoO for movement
-- Dragoon Pistol, +17, 1d8, 30ft, 1-2 (5ft), 3 shots (dragoon only)
+- Elven Branched Spear, +16/+18 (exotic), 1d8+10, reach, +2 to AoO for movement
+- Dragoon Pistol, +18, 1d8, 30ft, 1-2 (5ft), 3 shots (dragoon only)
   - loaded with regular Dragoon (-1 shot)
-- Pistol (battered), +17, 1d8, 20ft, 1 (5ft), 1 shot (bullet or alchemical)
+- Pistol (battered), +18, 1d8, 20ft, 1 (5ft), 1 shot (bullet or alchemical)
   - loaded with Flare
 
 - 7x large arrows
-- 5x medium arrows
+- 20x medium arrows
 - 5x grappling arrows - grappling hook, range increment 30 ft
 - 10x cold iron caltrops - +0 touch attack against any mover (+2 AC for shoes), stopped & 1 damage & half speed until healed
 - Alchemical Cartridges
@@ -283,7 +298,9 @@ As social but no sword-cane, and Shifting hides nothing
 
 - Preserving Flask (1st) - Enlarge
 - Preserving Flask (1st) - Long Arm
-- Preserving Flask (1st) - Cure Light Wounds - cure 1d8+5 hp damage
+- Preserving Flask (1st) - True Strike
+- Preserving Flask (1st) - Shield
+- Preserving Flask (1st) - Jump
 - Preserving Flask (1st) - left open for brilliant planner
 
 - Scholar's outfit and powdered wig - 10lb
@@ -319,7 +336,8 @@ As social but no sword-cane, and Shifting hides nothing
 - 2x Oil of Purify Food and Drink
 - Potion of Acute Senses
 - Potion of Blur
-- Potion of Cure Moderate Wounds - heal 2d8+3 (19hp)
+- 3x Potion of Cure Moderate Wounds - heal 2d8+3 (19hp)
+- 3x Potion of Cure Serious Wounds - heal 3d8+5 (29hp)
 - Potion of Enlarge Person
 - 2x Potions of Expeditious Retreat
 - Potion of Hide from Animals
@@ -330,21 +348,20 @@ As social but no sword-cane, and Shifting hides nothing
 - Powderkeg - 100gp, 5d6 damage, 20ft radius, Reflex 15 for half
   - Paper candle - 1gp, used for fused ignition
 
-30185gp as of 2022-11-19
+28885gp as of 2023-07-22
 
-
-      
 
 
 ## In Group Bag of Holding
 - Masterwork Parade Armor w/ Armor Spikes (d6), AC +3, Max Dex +5, ACP 0, Move 30, 20lbs, +2 Diplomacy & Intimidate to countrymen
+- Spiked cold-iron gauntlets - +18, d6+10, 2lbs
 - Battle mask, +1 to Intimidate
 - 6x peasants outfits, corset, eyepatch, scarf, vest
 - 2x wigs
 - Alchemist's Lab, +2 to Alchemy
 - 3900ft of twine (39lbs)
 - 90x Powder bags - temporarily outline invisible, or coat square to see footprints
-- Whip, +15/+17 (exotic), 1d3+4 nonlethal, trip, disarm, 15ft reach, only damage low AC
+- Whip, +16/+18 (exotic), 1d3+10 nonlethal, trip, disarm, 15ft reach, only damage low AC
 
 
 # Faking
@@ -353,6 +370,7 @@ Martial Flexibility (1 move, 1 min) gives a Combat feat. Using Paragon Surge ite
 ## Martial Flexibility or Paragon Surge
 - Stand Still - CMB to stop movement in threat range (for the untrippable)
 - Deadly Aim - -2 to hit, +4 to damage on ranged attacks
+- Devastating Strike - +2 to each die added by Vital Strike
 - Opening Volley - hit with ranged gives +4 to hit with melee on next turn
 - Blind Fight - reroll miss chances, invisible gets no bonus in attacking you
 - Improved Dirty Trick - +2 to CMB, no AoO
@@ -366,13 +384,14 @@ Martial Flexibility (1 move, 1 min) gives a Combat feat. Using Paragon Surge ite
 - Improved Trip - +2 to CMB, no AoO
   - Greater Trip - +2 to CMB, tripped opponent provokes AoO
   - Ki Throw - on successful trip, put opponent anywhere you threaten
-- Extra Martial Flexibility - 3 more uses of Martial Flexibility per day
+- Improved Vital Strike - triple damage on a single strike
 
 ### Paragon Surge only
 - Change of Heart - forgo knockout to aggressor (Diplomacy/BAB + 1/2 damage) DC 20+HD+Cha, can change 2+ degrees
+- Extra Martial Flexibility - 3 more uses of Martial Flexibility per day
+- Extra Social Talent - select a social talent using full vigilante level
 - Skill Unlock (Sense Motive) - Sense Motive vs Bluff gives bonus to initiative, -20 to read thoughts
 - Skill Unlock (Perception) - half penalty for sleeping, one third for distance
-- Extra Social Talent - select a social talent using full vigilante level
 
 ### Later
 - Disruptive - Fighter 6th, +4 DC to cast defensively if you threaten
@@ -399,12 +418,12 @@ Shifting Armor: trade Sure Footed (full-speed Stealth and Acrobatics)
 - Skill Master - take a Signature Skill
   - Sense Motive: initiative bonus if you know it's coming, -20 vs Bluff to read surface thoughts
 - Volatile Arrows - 4d6 alchemist bomb attached to arrow, 5/day, +1 time per day and a discovery per extra talent used
-- Shadow’s Speed - base speed +10 ft, +10ft more @ 10th level
 - Sweeping Shot - Ranged Trip, Ace Trip @ 6th
 - Magic Killer - ignore miss chance from magic, single attack ignoring spell AC, damage dispels all AC spells
 - Heavy Arms Hero - use outsized items, or treat correctly sized as one weapon category smaller
 - Spell Master - use items as one of bard/inquisitor/magus/paladin/summoner, +Cha to DC, Vigilante level for CL @ 12th
 - Combat Skill - bonus combat feat, counts as fighter of half vigilante level
+  - Disruptive - Fighter 6th, +4 DC to cast defensively if you threaten
 - Inspired Vigilante - inspiration pool of vigilante level, no freebie usages
 - Rooftop Infiltrator - climb speed of half base speed, or full base speed with rope
 - Gear Master - Equipment Trick x2, another at every 4 levels after 6th
@@ -429,7 +448,6 @@ Shifting Armor: trade Sure Footed (full-speed Stealth and Acrobatics)
 These will require leveling up Vigilante to access.
 - Vital Training - 10th, Improved Vital Strike, Greater at 14th
 - Combat Skill - add half Vigilante to Brawler for Fighter level qualification
-  - Disruptive - Fighter 6th, +4 DC to cast defensively if you threaten
   - Pin Down: 5ft step or withdraw both provoke an attack which stops move, requires Fighter 11th (Brawler 6/Vigilante 10th)
 - Mad Rush - 12th, charge and full attack, –6 AC until start next turn
 

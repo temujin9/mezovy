@@ -1,26 +1,43 @@
-# Currently picked options
+# Used
+Shifting Armor: trade Sure Footed (full-speed Stealth and Acrobatics)
+- Silent Dispatch
+Haste (1/10)
+Long Arm
+Enlarge
+
+# Tactical Plans
+- This turn
+  - Combat Expertise: +3 AC, -3 to hit (cancelled by CS)
+  - Move action: give self Improved Vital Strike
+  - Combat Stamina: 3 to get +3 to hit
+  - Spike dude 10ft from the bottle of mist (Improved Vital Strike + Force Punch + fall damage)
+  - Quick shirt: move action to get next to him, drawing pistol
+- Next turn:
+  - Haste from shoes
+  - Wail on dude with fists or shoot people with gun
+
 
  
 # Later
+- Feat ???
+
 ## Build
 20th: Vigilante 13/Battle Dancer Brawler 6/Alchemist 1
 
-Vigilante 10
-- Shadow’s Speed - base speed +20 ft
-- ??? Feat
-Brawler 3
+Brawler 3 (14)
 - Maneuver training 1 (Trip)
-Brawler 4
+Brawler 4 (15)
 - d8/2d6 Unarmed Strike, Dancing Dodge (+Cha to AC to retreat), Sparring Partners 1/day
 - ??? Feat
-Brawler 5
+Brawler 5 (16)
 - Brawler's strike (magic), Close weapon mastery
+- +1 Constitution
 - ??? Combat Feat
-Brawler 6
-- Martial flexibility (swift)
-- ??? Feat
 
 If we continue to 20th level:
+Brawler 6 (17)
+- Martial flexibility (swift)
+- ??? Feat
 Vigilante 11
 - Quick Change - shift identities as full-round, added full-round or Disguise check to avoid recognition as same person
 - Frightening Appearance - attack unaware, Demoralize target + enemies in 10ft, target Will (10+level/2+Cha) or frightened 1 rnd 
@@ -39,29 +56,22 @@ Vigilante 13
 4308    https://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/boarding-pike-of-repelling/
 4500    Eternal Wand of Frigid Touch - 4d6 cold, staggered 1 round (1 min on crit)
 11250   Eternal Wand of Animate Object III
++14k    Martial Wraps (Dueling: +4 initiative, +2 to and vs disarm and feint)
 
 
 Items Gahdri can make, given proper time and spells
 250     Dastard's Smoke Pellets - 20ft smoke, Will DC 17 or forget last minute
-2400    Silence                         x1 per day      2x3x2000/5
 2450    Alchemist's Bracers, Lesser     x1 per day      2x3x2000/5+50                           (wrists)
         - https://aonprd.com/SpellDisplay.aspx?ItemName=Full%20Pouch 
-4620    https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/headband-of-fortune-s-favor     (headband)
 9900    https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/seducer-s-bane                  (wrists)
 13500   https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/robe-of-scintillating-colors/   (body)
-15100   Martial Wraps                                   (7k+4k)*110% + 3kgp, 1100gp to Gahdri
-          3k  Adamantine, +1 to hit, bypass hardness less than 20
-          7k  Dueling, +4 initiative, +2 to and vs disarm and feint
-          +1  Sapping, +2d6 nonlethal damage, crit fatigues for 5 rounds
-          +1  Spell Storing, 3rd level touch spell to deliver via attack
-
 16200   Telepathic Bond                 x1 per day      5x9x1800/5
-25000   https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bracers-of-sworn-vengeance      (wrists)
 110000  https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-shadowform/
 
 
 
-
+Cure Serious potion @ CL 5 -> 29hp, 750gp
+Cure Serious potion @ CL 15 -> 39hp, 2250gp?
 
 
 Tanglefoot bag, +15, entangle, DC 15 or glued in place, DC 17 Str to free, DC 15+SL Concentrate to cast, 2d4 rounds

@@ -8,7 +8,7 @@ Wis 13  +1
 Cha 13  +1
 
 Alignment: Neutral Good (Lawful)
-7th level Cavalier (Gendarme)
+Nth level Cavalier (Gendarme)
 23500gp (ala PC)
 1 Con
 4 feats

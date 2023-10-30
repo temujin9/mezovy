@@ -9,6 +9,12 @@ Alias: Count Viktor Borovkov
 ## Soon
 - The Hand discussed with Victor that "I fear it was some form of fell arcana, almost certainly witchcraft. Our inquisitors will find the truth, no doubt."
 ## Past Results
+- Visited by Aligajiev asking about Royal Wizard spell sharing
+- Sent assassins after hags, got 2/3
+- Building golems: cold iron, clay armored (armor spiked w/ cold iron) and acid+cold iron explosive
+  https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-carrion/golem-carrion-weaponized/
+  https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-clay/golem-clay-armored/
+  https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/spiked-armor/
 - Viktor and Yarik both accepting Queen's invitation, only get response on the thieves side
 - Viktor sends the Lord Hand with a sizeable escort to the front lines, where they cure zombie plague and reconquer ruins of Singuit
 - Viktor tries blocking rings in Hap, undercover in merchant caravans in other nearby counties, has trouble finding them

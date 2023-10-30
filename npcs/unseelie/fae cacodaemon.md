@@ -1,4 +1,5 @@
 TODO: Rework for being Prince's familiar
+TODO: Has command-word Duplicate Familiar spell like Queen's familiar does
 
 CR: ~7
 - HP:                 4.5
