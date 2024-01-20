@@ -10,12 +10,13 @@ Typical Planar Traits
 - Morphic: allows the Queen to cover and uncover Portals easily
 - Shape: self-contained (disorienting mists return you to opposite side)
 - Time: timeless
-- Portal: many, mostly to other Fae realms, some to Material Plane
+- Portal: many, mostly to areas in Air and Darkness, some to Material Plane (thanks to the Welcoming)
 
 Construction:
 - Using a massive asteroid in the plane of Air as core of operations
   - Goblins live mostly underground there, drow rule from the evergreen forests
-  - Queen's tower overlooks the goblin city in the massive impact crater, with the windows facing it blocked
+  - Queen's towering palace overlooks the goblin city in the massive impact crater, with the windows facing it blocked
+  - Other side has the towering gatehouse to the Deep Woods, forcing supplicants from there to walk garden path to reach the Palace
   - Looks like a verdant crescent moon from the side and at a distance, with the crater forming the concavity?
   - Since this is obviously a Munchausen reference, I need flying heads on saucers for some reason.
 - One massive 4hr ritual w/ 27 witches
@@ -28,7 +29,7 @@ Construction:
 - More planes allows layering, which allows protection against casual Plane Shift
   - Drow Demesnes: awarded to higher witchlords, shaped to their pleasure (via a magic object which an immutable and irremovable part of the plane)
   - Mirror Realm: intentionally confusing/branching, mutable to chose portals at her pleasure
-  - Infinite Towers: matryoshka doll of strange tower-like realms, always leading "upward"
+  - The Infinite Palace: matryoshka doll of strange tower-like realms, always leading "upward"
   - The Oubliette: dead magic realm where prisoners (or at least their soul gems) are kept
 - More space takes full ritual
 - More doors or other traits just takes 4 hours apiece, probably something she'd do anyway
@@ -37,7 +38,7 @@ Construction:
 
 
 
-## The Autumn Palace
+## The Infinite Palace
 Vast, magnificent and unapproachable jewel. All windows to the "northwest" have been covered from the inside. Actually several nested demiplanes, where the windows are gates into the larger realm (and sometimes elsewhere). Lord Hob (the Hearth Witch) secures and protects these realm for her at all times. In the center lies the Hall of Mirrors, an especially mutable realm that The Queen uses to visit the nine hundred realms she has personal portals to.
 
 Planar Traits
@@ -52,7 +53,7 @@ Construction:
 - 10x CGD before portals
 - Half cost (1000 castings) is planes, half is portals
 - 100 planes, 1000 portals
-- Lord Hob and the Forgotten Prince both live here too
+- Lord Hob and the Forgotten Prince both live here too?
 
 Inspirations:
 - Ice Queen's palace from Narnia
@@ -77,10 +78,15 @@ Inspirations:
 ## Towers of Fear
 Greater Create Demiplane, plus a single-use Instant Fortress for visual effect
 - Inside is created first, then doors, then antimagic
-- Made with a Witches' Sabbath, making it large and very hard to dispel
-- Gate to the Abyss requires a coven of Night Hags to open their home (ergo lower CL, because they lack Coven hex)
-- Gate to the Material requires a local coven to open their home (also somewhat lower CL, since they're smaller)
+- Gate to the Abyss requires a coven of Night Hags to open their home (ergo lower CL, because they lack Coven hex?)
+- Gate to the Material requires a local coven, etc to open their home (also somewhat lower CL, since they're smaller?)
 Gates at base to Abyss/Material
 Gates at top to an outer courtyard of the Autumn Palace
-Archers at top have powerful advantages on folks at base
- 
+Attackers at top have powerful advantages on folks at base
+
+Next time: 
+- Made with a Witches' Sabbath, making it large and very hard to dispel
+- No antimagic inside, but plenty of protection against demons climbing into elven realms
+- Better Instant Tower with more ground exits, etc
+- Better protective detail for the Instant Tower
+- More than one exit / physical plane Tower?

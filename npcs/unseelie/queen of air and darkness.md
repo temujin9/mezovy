@@ -193,6 +193,10 @@ Spells:
     - Badb is aka Baba Sutemos: Grandmother Shadow, the face given to thieves guilds
     - Macha is the Exilarch of Air, name TBD
   - Mór-Ríoghain: translates great queen, phantom queen, or sea queen (ref to her origin as sea king's daughter)
+  - Triune goddess that is a succession of hosts with longevity
+    - All just Vasilisa in a new form, backed up by Simulacrum of others which hides when she's about?
+    - Others are the two biggest members of her own circle, the Blood and Night hags? 
+    - Badb, Macha, Nemain, Anand: names of different aspects (maybe rename Badb to Bryna, meaning raven instead of crow)
 - All of the Disney Evil Queens
   - Maleficent (Sleeping Beauty) - fae queen, curses kingdoms for royal snubs
     - There's also the a jealous stepmother in the original story, possibly the original queen mother
@@ -209,35 +213,30 @@ Spells:
 
 
 # Notes
-- What's the Queen's end game? 
-  - Ally with Mezovian elements and crush the hobgoblins for their impudence? 
+- How old is The Queen and her hegemony? She doesn't have to have been young when she met Rolobo . . .
+  - Older explains her investment, her deeper power base, and her slower movement overall
+  - How many generations is 1000 years ago for dwarves (25) and elves (9)? 9 human gen ago was 1842, 25 was 1522.
+  - More interesting if she conquered Air and Darkness during the interim
+- The Queen's end game: ally with Mezovian elements and crush the hobgoblins for their impudence
   - Just reveal her command of them once she's pocketed the Mezovians?
   - This seems to depend on what she knows and when. If she learned recently it might still be in flux.
-- Cootie witch recommendations
-  - The Queen obviously has a poison plant garden
-    - https://en.wikipedia.org/wiki/Manchineel deadly tree: blistering sap, toxic to attack or burn
-    - https://en.wikipedia.org/wiki/Datura white flower, hallucinatory/toxic
-  - New moon for rituals to The Queen
-  - Triune goddess that is a succession of hosts with longevity
-    - All just Vasilisa in a new form, backed up by Simulacrum of others which hides when she's about
-    - Badb, Macha, Nemain, Anand: names of different aspects (maybe rename Badb to Bryna, meaning raven instead of crow)
+- The Queen obviously has a poison plant garden
+  - https://en.wikipedia.org/wiki/Manchineel deadly tree: blistering sap, toxic to attack or burn
+  - https://en.wikipedia.org/wiki/Datura white flower, hallucinatory/toxic
+  - Poppy fields https://oz.fandom.com/wiki/Poppies
+- New moon for rituals to The Queen
 - Was hag bound to Baba Yaga, but graduated a while ago
   - "Tithe to hell" every seven years per Tam Lin
-  - Actually a tithe to Baba Yaga, living deep in the Abyss
+  - Will be the way she pays her husband off for his part in her ascension
   - Soul-gems of dead folks, the "punished" 
 - Vile Leadership & Wicked Leader
   - 19th level cohort, each (down to 16th) also takes Vile Leadership & Wicked Leader
     - Prince of Crows - Changeling Wizard 19
       - Vile Leadership 44 => 19(level)+6(various)+19(murder)+0(Cha) => 1400/140/70/35/18/9/5/3/2/1/0+2
     - High Witchlord - Blood Hag (CR 8) + Rogue 9 + PC Wealth 1 = CR 18
-      - old Vile Leadership 42 => 18(level)+6(various)+18(murder)+0(Cha) => 1200/120/60/30/15/8/4/2/1+2
-      - Need to recalculate?
     - Assassin - Night Hag (CR 9) + Vigilante 7 + PC Wealth 1 = CR 17
-      - old Vile Leadership 44 => 17(level)+6(various)+17(murder)+4(Cha) => 1400/140/70/35/18/9/5/3/2/1/0+2
-      - Need to recalculate?
-    - Lord Hob - Goblin Hearth Witch 16
-      - Vile Leadership 44 => 16(level)+6(various)+16(murder)+6(Cha) => 1400/140/70/35/18/9/5/3/2/1
-      - Need to recalculate?
+    - The Binder's Apprentice - Changeling Heka Magi 16 + PC Wealth = CR 16
+    - Lord Hob - Goblin Hearth Witch 16 = CR 15
   - Followers 69! (nice) => 20+6(various)+20(murder)+10(Cha)+6(Legendary Dex)+7(Practiced)
     - 7800/780/390/196/98/50/26/14/8/4/2 = 3900/390/195/98/49/25/13/7/4/2/1 *2
     - After trades: 7800/780/390/196/98/50/26/12/6/2/0/0/0/0/+1/+1/+1/+1/1
@@ -269,7 +268,7 @@ Spells:
       - Drow Sylvan Trickster 9 (Rogue)
       - Drow Plague Bringer 9 (Antipaladin)
       - Drow Shaman 9 (Oracle)
-    - 4 hags - High Witchlord (Blood, CR 17), Assassin (Night, CR 16), Storm (CR 7), Winter (CR 7)
+    - 4 hags - High Witchlord (Blood, CR 18), Assassin (Night, CR 17), Storm (CR 7), Winter (CR 7)
     - All members get SR 31
     - animate dead, baleful polymorph (DC 18), blight (DC 17), bestow curse (DC 17), clairaudience/clairvoyance, charm monster (DC 17), commune, dream, forcecage, mind blank, mirage arcana (DC 18), reincarnate, veil (DC 19), vision
     - Storm: call lightning storm (DC 18), plague storm (DC 19), quench (DC 16), whirlwind (DC 21), wind wall, child-scent within 100 ft

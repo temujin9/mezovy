@@ -1,68 +1,78 @@
-# Next game
-- Prolichica, check in on Martsell
-- Meet with the goblin rebellion
-  - Humans stole the Inuk goblinoids thunderbolt iron, leading to their conquest by the hags?
-    - On display in Prolichica?
-    - ala Robert Peary and the Inuit: stole their only metal source
-    - Comes up during peace negotiations with the hobgoblins
-  - If the PCs leak to Ter Krekhan the nature of the relationship between drow, changelings, and hags, he will have an "only really need elf blood" realization
-    - This is the final part of the puzzle that he needs: hobgoblins could then farm from any elven population, not just the hags & changelings
-    - This tips the balance toward hobgoblin victory, as they can finally massively overpopulate from goblin ranks
+# Next game(s)
+- What did Ragnar do in Prolichica while the shit was going down in Velerolobo
 
-# TODO
-- Aligajievs are minor nobles who practice The Old Rites
-  - https://www.d20pfsrd.com/magic/all-spells/m/irrisen-mirror-sight/
-  - If they know, The Queen knows (eventually)
-  - One of the is factotum between Yarik and Berko asking about RW Int spell-sharing right now
+# Next tick
+- Yarik
+  - If he tries another strike on Mila, his agent is caught by the hidden bodyguard
 
-- How mad is the Queen? 
-  - Just a lil bit
-  - What does she do in response?
-    - Plan to make it again, with unbreakable CL and core which can be reopened from inside (w/ no-magic as a "lock")
-    - Get revenge on the organizers
-      "Who fucking orchestrated that debacle which MAY COST ME MY BETROTHAL?!"
-      "Royal Wizards and Axe of Perun."
-      "They must go. NOW! ... They clash with the drapes."
-    - Accelerate plans: push all who've responded toward a Welcoming
-    - Deploy higher level assets now that the target is softened up and alliances clear
-    - Send the witches who were running the Tarasque after the PCs?
-  - Does she discover the flower language thing now that it'll be a problem for Lord Hob?
-    - Or is that something that the goblins can drop when time is right?
-    - Maybe Queen's treatment of Lord Hob and his subsequent hiding of things from her has helped rebels tremendously
-    - Khrekaan may know this, may tell PCs?
 
-- How does everyone else react to Towersfall
-  - Koschei: King Cold is told to withdraw pending an unbroken tower
-  - Ukpik: impressed by the fight, willing to consider negotiations
-  - The Traitor: getting rushed into marriage to Prince of Crows, no time to think on consequences?
-  - Caine: impressed by the fight, continues quiet support from background via Cienfuegos
-  - Oilester: wild card
-    - did he learn of this in time to take advantage, raiding Uhlinberg's remains while the PCs fought the demons?
-    - or does he show up in Hart and collect demons for his own army?
-    - how lucid is he about the fronts of this war? can he identify the demon tower as the queen's work? is he a potential TTPC ally? who could tell?
-  - Grey Eye: increasing attacks against the wizards per Queen's orders tips his hands, giving PCs a lead (via RW Int?)
+
+# Soon
+- The Queen wakes up every day and casts Perm. Curse Land on someplace that spurned her
+  - https://www.aonprd.com/Rules.aspx?Name=Horror%20Hazards&Category=Horror%20Environments x6 up to 10CR
+  - Ugusuk, Tuttaarsuaqaq, Yutivl spared for now (she hasn't learned yet)
+
+- Who freed the wayang from the book? It takes a Miracle / another 9th level splash
+  - They bought a scroll from The Shepherd? Means scrolls of Wish are on the table.
+  - Many of Jerry's NPC friends helped in a ceremonial casting? Means a ritual of debinding / Wish is on the table.
+  - The Wayang is a devotee of anti-Lolth, she got him out? Means praying for a Miracle is on the table.
+  - A weak bit of all of the above managed to crack him, maybe in stages?
+  - A deity (Veles? anti-Lolth?) broke him out of their own accord for their own purposes?
+
+- The Towers are an infighting mess over Towersfall
+  - Half are well aligned with the Tsarina, half sneering at them through prejudice or misinformation
+  - Royal Wizards - Cannon Fodder - for, firmly aligned with Tsarina and PCs on this
+  - Uhlinberg - Ditchdiggers - for, but reduced to beggars with rich purses, which they wish to protect from other guilds
+  - Topolh - Snowballs - for, Rovenk is in their territory
+  - Maskar - Dusky Snobs - for, loves Royal Family
+  - Prolichica - Shopkeeps - for, dislikes Royal Wizards, but royals just repudiated The Queen
+  - Daydah - Mummers - against, hate Royal Family and Royal Wizards
+  - Sioraneq - Brouhahas - against, secretly sympathizers with The Queen
+  - Oreskoere - Gravediggers - against, loves Daydah and agrees with them
+  - Polyn - Sheepsquints - against, dislikes the Church
+  - Auseq - Vagrants - against, dislikes Daydah but hates the Church
+
+- Does The Queen discover the flower language insult now that it'd be a problem for Lord Hob?
+  - Khrekaan may know this, may tell PCs?
+  - Or is that something that the goblins can drop when time is right?
+  - Maybe Queen's treatment of Lord Hob and his subsequent hiding of things from her has helped rebels tremendously
+
+- Queen plans to make another Tower, this time with unbreakable CL and core which can be reopened from inside (w/ a no-magic one as an "airlock")
+  - PCs need to know this is coming, so they can try to prevent it and so the drumbeat can be started
+
+- The Tsarina rallies (got to 10 on her villain clock)
   - Tsarina: Holy Warrior Priestess of Law is out in full force
-  - Wizards are an infighting mess over this?
-    - Royal Wizards: firmly aligned with Tsarina and PCs on this
-  - Thieves Guilds & nobles are suddenly wary of their alignment with Queen?
-  - The Three: ???
-  - Other Icons: ???
+  - Forestalls the Council acting against Seryy somehow (quorum failure, temp knockout of an opposed member?)
+  - Akichi just pulled Athamberingia into the war on the Tsarina's side, and she'll make hay of that
+    - Blockade cuts off Yutch support while she recaptures the , forcing Berko into a rough choice
+  - It's not going to be enough on its own, but it should give the PCs a chance at true diplomacy (or a late "side with Tsarina" move)
+
+- The Traitor is being rushed into marriage to Prince of Crows, no time to think on consequences
+  - Raag was looking to prevent this, maybe he gets word in time?
+  - This likely puts the PCs up against the Prince, which is CR 19+
+  - Ergo this shouldn't get to them until closer to the end
+
+- Oilester is a Darkness wild card
+  - did he learn of this in time to take advantage, raiding Uhlinberg's remains while the PCs fought the demons?
+  - or does he show up in Hart and collect demons for his own army?
+  - how lucid is he about the fronts of this war? can he identify the demon tower as the queen's work? is he a potential TTPC ally? who could tell?
 
 - Gallows wondered out loud which Demon Lord she was in league with, we should reward that with info soon
   - How would Ghadri or Yedder discover this?
   - Do the goblins tell them this?
 
+- Ukpik is impressed by the Towersfall fight and the odd self-sacrifice for Akichi, willing to consider negotiations
 
+- Dylan believes they're being scryed upon: not yet, but sooooon
 
-## Soon
-- Tokra: a circle of changeling witches which refuse to turn hag, and who fight the hags secretly
-  - A source of hag lore, plot hooks, and maybe some magic?
+- Tokra-expies are a circle of changeling witches which refuse to turn hag, and who fight the hags secretly
+  - A source of hag lore, plot hooks, and maybe some magic
   - PCs are introduced by Uncle Ivan the witch
-  - This needs to happen in a separate game from the one with the goblins
+  - This needs to happen in a separate game from the one with the goblin negotiations
 
 - Ducal council rumblings
   - 10 total (9 currently), current ruler breaks ties, meaning she had thin lock (5v5) before and now doesn't
-  - State of war and country is not great
+  - State of war and country is not great, at all
   - Seryy and Tsarina are against alliance with the Exilarchy of Air thanks to PCs / Royal Wizards
     - Tsarina
     - Tsesarevich Seryy Anton Kuznetsov the Longshot of Rovenk Margrave
@@ -79,44 +89,49 @@
   - Someone is gonna leak Seryy's wife's infertility, causing vote to force him out of his Margrave and thus off council (who/when?)
     - Ideal for Queen result is that the succession be given to Agnessa, which tips the council heavily in her favor (5v3)
     - If that works, eventually the Exilarchy folks will call for a forced succession
+  - How do the ghouls tie into this?
+    - They are Illuminati behind the Mezovian throne
+    - They idly supported the current Tsarina because she is bidable, has ensured succession, and the war was producing a feast
+    - They didn't really care much beforehand, because it didn't threaten the realm until more recently
+    - The Ghastly Ecclesiarch is trying to decide whether it's better to let to let The Queen win
 
 - Alter Ego subplot for Dylan
   - The trigger is Prince of Crows releasing the retconned wizards, including Abstemious
-  - Reveal that his cohort and cohort's cohort were assigned to him by RW Int due to his false identification with old school mates
+  - Reveal that his cohort and cohort's cohort were assigned to him by RWInt due to his false identification with old school mates
   - Abstemious does what to who in the Arcanists guild?
   - End-game option: merge with Abstemious (becoming human true neutral Arcanist w/ bad rep) or kill him (remain construct Sorcerer)
   - Use the quick-swap ability from Arcanist to maximum effect?
 
-- Royal Wizards Intelligence (RW Int) starts to figure out just how fucked it is?
-  - Might give them reason to support surrender to the hobgoblin rebellion?
-  - Do they have good contingencies for this? Maaaaybe?
-  - Does this explain why Mayhem is away so often? He's working with them now?
 
 
-## Endgame
-- We're 2/3 of the way through the game, time to start revealing plot points more boldly
+# Endgame
+https://gnomestew.com/how-to-have-an-epic-campaign-in-three-acts-part-3-of-3/
+- Bring back memorable NPCs
+  - TODO: run through the adventure logs, see who looks good
+  - Rugov (Lady Frost) came back and got soul-sucked
+  - Old PCs: Jon and Lurko's characters
+    - Jon is keeping ???'s court free, making her ironically a decent succession chance
+    - Lurko is leading a flying squad that has done ???
 
-- https://gnomestew.com/how-to-have-an-epic-campaign-in-three-acts-part-3-of-3/
-  - Bring back memorable NPCs
-    - TODO: run through the adventure logs, see who looks good
-  - Why did it come to this? Recap the cassus belli, maybe w/ escaped NPCs
-    - The Queen loses the war with Mezovy a thousand years ago, swears she'll reclaim throne
-    - Her agents have been hiding and destroying wizardly knowledge for generations
-    - PCs found out, but were too weird and disloyal to be broadly listened to
-    - The goblins are in some sort of cryptic rebellion, which accelerated her plans
-    - The Queen is going to use demons to beat goblins and Mezovy into submission in exchange for soul tithes thereafter
-  - NPCs start losing hope, to emphasize bleakness of situation
-    - Things start coming apart for the Empire
-    - Citizen rebellions spurred by the Yutch
-    - Loss of the Duke of Bereria
-    - RW Int knows how bad the current situation stands
-  - Climactic battle needs chaotic setting (larger battle, interesting terrain, etc)
-  - Blow something up at the end 
-    - The Queen's Palace?
-    - the Empire?
-    - the Spellweb?
-    - all of the above?
+- Goblins and PCs *could* force a drow revolt against The Queen
+  - She's a thousand-plus years old and hasn't leveled appreciably? She started out nearly this strong in backstory?
+  - She's obligated to punish failure, and also doomed if she punishes too much (20%)
+  - She's can punish a few times before killing, and kill sparingly, but it still adds up
+  - 20% of 9368 is 1874, x3 is 5622 total failures and punishments, if she last leveled 500 years ago that's 1/month or less, 1 death/quarter
+  - Current situation may have increased that base rate considerably ... and she doesn't have a meter to watch
 
+- Climactic battle needs chaotic setting (larger battle, interesting terrain, etc)
+  - The many realms of the Queen's Castle
+- Blow something up at the end
+  - The Queen's Palace?
+  - the Empire?
+  - the Spellweb?
+  - all of the above?
+
+- Elf blood makes goblins into hobgoblins
+  - If Ter Krekhan learns the full relationship between drow and hags, he will have an "only really need elf blood" realization
+  - This is the final part of the puzzle that he needs: hobgoblins could then farm from any elven population, not just the hags & changelings
+  - This tips the balance solidly toward hobgoblin victory, as they can finally massively overpopulate from goblin ranks
 
 # Regular considerations
 - [B-plot progress](b-plot.md)
@@ -135,18 +150,16 @@
   - Gallows
     - Goblins and others, scouting the trods, preparing to infiltrate hobgoblins
 - Allies
-  - Royal Wizard spies: looking in the library, or provide +2 for aid another
+  - Royal Wizard Intelligence: looking in the library, or provide +2 for aid another
   - Raaginald
     - Hinnton
     - Whisper network
     - High-level rogue in Tsarina's Court
-    - Making overtures to Queen?
 
 
 # Pacing/Timing
-- Target CR is currently 18/17/16 (ACL+5 if 6+ PCs, ACL+4 if 4-5, ACL+3 if 3 PCs)
+- Target CR is currently 19/18/17 (ACL+5 if 6+ PCs, ACL+4 if 4-5, ACL+3 if 3 PCs)
 - Target is 4.5 levels per year for next two years
-- PCs encounter Queen for first time around 12th or 13th level?
 - PCs confront Queen at 17th or 18th level
 - Meta: Prep one scene or one round of big combat for every 30 to 45 minutes of gameplay
 
@@ -155,25 +168,24 @@
 
 # Further ideas
 - Desired Scenes / Encounters
-  - Hobgoblin (Mongol) tactics vs Mezovian (European) tactics
-  - Confronting The Queen. Could involve digs about ghoul Illuminati?
   - Confrontation with Anatoli the Abstemious
   - Second encounter with the Mad Archmage
-  - Two confrontations with Kat's villains. These need bigger consequences, work with her to plan them out. Easiest is "PCs prevent a bad alliance between them".
   - The Traitor is revealed
+  - Confronting The Queen. Could involve digs about ghoul Illuminati?
   - Gahdri raised to Ipsissimus
   - Raag achieves success in business
 - Minotaurs made from eating the flying aurochs
-- The conscription orders have been getting slaves, and now the PCs are getting complained to by slave-owners (whups, you didn't know?)
+- When the going gets desperate, the Tsarina will start conscripting slaves en-mass
 - So where is The Queen's father? He lies dead asleep and dreaming in his underwater house. She's merely the Princess Regent there.
   - Could have a Nanny Ogg wakes C'thulu subplot if the PCs want
 - Female drow witches can become hags without hagbinding, if they want
   - Drow witches are the ultimate progenitors of hags, via this process
   - Drow blood might substitute for changeling blood, which can substitute (at some penalty) for hag blood
-  - Elf blood might also work, at even greater penalty (e.g. takes more of it, or ritual is at minuses)
+  - Regular elf blood also works, at even greater penalty (e.g. takes more of it, or ritual is at minuses)
   - Ritual which allows it shares elements with the ritual to make hobgoblins
   - This replaces Lolth with hags and witch Patrons, which implies she is one (on Shadow?)
     - Damhan: CG spidery goddess of destiny and artistry, kinda like Arachne + Athena
+    - Oh hey is this the spider deity that wove the spellweb? Makes her magic her domain as well.
 - Plane of air
   - https://pathfinderwiki.com/wiki/Plane_of_Air
   - Required beating the Djinn
@@ -184,31 +196,13 @@
   - Also silver/white/cloud dragons
 - Plane of Shadow
   - Thematically more aligned with evil outer planes? Dislike
-  - Astral corresponds to neutral (both types)?
-  - Both order and chaos can access Shadow (ala Amber)?
-- How old is The Queen and her hegemony? She doesn't have to have been young when she met Rolobo . . .
-  - Older explains her investment, her deeper power base, and her slower movement overall
-  - How many generations is 1000 years ago for dwarves (25) and elves (9)? 9 human gen ago was 1842, 25 was 1522.
-- How do the ghouls tie into this?
-  - They seem natural allies for the Queen, but may have ideological or power-hungry reasons to fight against. 
-  - Are they Illuminati behind the Mezovian throne? Yes.
-  - Why do they support the current Tsarina? 
-    - She is bidable and fecund, ensuring continuity of rule.
-    - She is bellicose which produces lots of bodies to feast upon.
-    - They didn't really care, because it didn't matter until recently. Now they do, and may be weighing in on the succession.
-    - How do they influence the Ducal Court now that it's been established
-- Dylan believes they're being scryed upon: not yet, but sooooon
+  - Both order and chaos could use Shadow travel (ala Amber)?
+  - Cosmologically this is the borderlands between negative material plane and 
+  - Underdark is the heavy overlap between this and the plane of earth?
 - The Queen has also collected several other types of portal magic
   - Magic mirror portals which can be moved, linking back to the Hall of Mirrors: expensive, harder to make
+  - Elf doors ala that one animated Netflix TV show
 - Goblin pikey merchant, selling (goblin) dog meat: "d'ya like dags?"
-- Map bits
-  - Rombordean Fault: small zone in Yutesh, WTF?
-    - Caused by Earthquake spell during Vogovan wars?
-  - Krimeshian Conspiracy: very close to Styerrabrae, connected to Krimeshian invasion in Arthia, WTF?
-  - Newceston Eruption: volcano, connected to Robert's home country via Plane of Fire?
-- [Unrelated plot-A, so it's not all "shit the Queen stirred up directly"](random%20crap.md)
-- When the going gets desperate, the Tsarina will start conscripting slaves en-mass
-- An army can move through a 20ft portal at roughly 1000 troops per minute
 - What's with all the birds and bird names
   - [The Birds](https://en.wikipedia.org/wiki/The_Birds_(play)) references: Nephelokokkygia aka Cloud-Cookoo-Land
   - Maybe one of the more prevalent planes creators is a bird fae
@@ -217,75 +211,9 @@
   - [Language of the birds](https://en.wikipedia.org/wiki/Language_of_the_birds)
   - The Queen is ruler of the planes of Air and Shadow, birds would be prevalent in the former
 - You put https://en.wikipedia.org/wiki/Sword_Kladenets over the mantle in the first act, you have to use it in the third
-- Mayhem, False and True
-  - Coven of hags ([winter](https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag/winter-hag/), [blood](https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag/hag-blood/), [night](https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag/hag-night/)) CR 11 (-1 due to favorable circumstances of Mayhem distracting if 5- PCs)
-  - Made a Simulacrum of Mayhem, which the PCs catch coming with all his gear to kill Seryy
-  - Mayhem convinced them it was a good idea to send him that way, to tip off the PCs
-  - He's already gotten some info on the Queen and her plot, but he needs a rescue to deliver it
 - Fae folk piloting warforged-like mech-suits against humans
-- Versatile Summon Monster + Mad Monkeys: more fun than a structure fire full of monkeys? (Not RAW, not unbalancing)
-
-## Maybe Not
-- Cloudkill but w/ weed/mushroom trip, blown by a Catepillar fae w/ a hookah
-- More goblins want to surrender to the TTPCs?
-- Two villainous groups seeking the same item in the same dungeon as the characters are
-- Falkor as a denizen of the Plane of Air
-
-# Bookmarks
-- Traps ideas from Reddit: https://www.reddit.com/r/osr/comments/q01a6h/re_old_osr_content_treasure_of_secret_santicore/
-- The Monsters Know What They're Doing: https://www.themonstersknow.com/
-- Lotus-eater blisses out, hard to dispel: https://www.aonprd.com/MagicPlantsDisplay.aspx?FinalName=Ambrosial%20Lotus
-- 1/day Still and Silent Spell: https://www.aonprd.com/MagicTattooDisplay.aspx?FinalName=Caster%27s%20TattooLesser
-- Smallish, Celtic giants: https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/firbolg/ https://en.wikipedia.org/wiki/Fir_Bolg
-- Get out of jail free teleport: https://www.d20pfsrd.com/magic/all-spells/g/getaway/
-- Push teleport an ally: https://www.d20pfsrd.com/magic/all-spells/p/phase-step/
-- Teleport in a lightning line: https://www.d20pfsrd.com/magic/all-spells/s/storm-step/
-- Turn into a fiend: https://www.aonprd.com/OccultRituals.aspx?ItemName=Fourth%20Apotheosis
-- Drink a poison to kill your enemy: https://www.d20pfsrd.com/classes/base-classes/witch/hexes/hexes/common-hexes/greater-gift-of-consumption-su/
-- Make someone use an item (poisoned or cursed): https://www.d20pfsrd.com/magic/all-spells/b/beguiling-gift
-- Make a first level spell scale, 3/day: https://www.d20pfsrd.com/feats/general-feats/spell-hex/
-- Itchy thrown weapon: https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Goblinvine
-- Stunning or dazing amounts of pain: https://www.d20pfsrd.com/magic/all-spells/d/debilitating-pain/
-- Random combat maneuvers, or pick target and type with a skill check: https://aonprd.com/SpellDisplay.aspx?ItemName=Pernicious%20Pranksters
-- Notabeholder: https://www.d20pfsrd.com/bestiary/monster-listings/templates/eye-king-cr-varies
-- Bigger badder giants: https://www.d20pfsrd.com/bestiary/monster-listings/templates/jotunblood-giant-template
-- Hobgoblin werewolves, best on full moon: https://www.d20pfsrd.com/bestiary/monster-listings/templates/silverblood-lycanthrope-cr-2
-- Identify class bits using Knowledge: https://www.aonprd.com/Skills.aspx?ItemName=Knowledge#:~:text=the%20same%20day.-,Recall%20Intrigues,-Source
-- Make a flying object (should allow Permanency): https://aonprd.com/SpellDisplay.aspx?ItemName=Imbue%20with%20Flight
-- Team uses highest Stealth roll for everyone: https://www.d20pfsrd.com/feats/general-feats/stealth-synergy-teamwork/
-- How the mobile mirror portal is made: https://realmshelps.net/charbuild/feat/Create_Moving_Portal
-- Forgo winning blow to change attitude with Diplomacy: https://aonprd.com/FeatDisplay.aspx?ItemName=Change%20of%20Heart
-- Brokerages for high level magic: https://www.reddit.com/r/DnD/comments/pyjeo4/use_magic_brokers_not_magic_shops_advice/
-- Humanoid adventurers: http://oldguardgamingaccoutrements.blogspot.com/2011/06/scorned-blade-all-humanoid-npc-rival.html
-- Killer blink frogs: http://oldguardgamingaccoutrements.blogspot.com/2011/08/beware-killer-blink-frogs.html
-- Replacement tongue made of demon: https://goblinpunch.blogspot.com/2013/10/tongue-demons.html
-- Gonzo bestiary: http://trollsmyth.blogspot.com/2011/08/hamsterish-bestiary.html
-- Gonzo NPCs: https://dysonlogos.blog/400-characters/
-- PF NPCs: https://www.d20pfsrd.com/bestiary/npc-s
-- Gnome druid, Bluff for fear or harmlessness: https://www.d20pfsrd.com/feats/general-feats/invoke-primal-instinct-general
-- Divine Celtic hag, associated with winter: https://en.wikipedia.org/wiki/Cailleach
-- Inuit avenging monster made of animal bits: https://www.reddit.com/r/ArtefactPorn/comments/12colyb/greenlandic_tupilaq_2560x1920/
-- Underground cities, inspiration for dwarven cities?
-  https://www.bldgblog.com/2007/08/derinkuyu-or-the-allure-of-the-underground-city/
-  https://en.wikipedia.org/wiki/Derinkuyu_underground_city
-  https://en.wikipedia.org/wiki/Kaymakli_Underground_City
-  https://en.wikipedia.org/wiki/%C3%96zkonak_Underground_City
-  https://en.wikipedia.org/wiki/Avanos#History
-- Finnish mythology, bears and birds: https://en.wikipedia.org/wiki/Finnish_mythology
-- Joker-like undead, passing out deck of many things cards: https://www.d20pfsrd.com/bestiary/monster-listings/undead/red-jester/
-- Blue lava, sulfur burning in hot air: https://en.wikipedia.org/wiki/Blue_lava
-- Prediction houserules: http://recedingrules.blogspot.com/2012/06/3-ways-to-forsee.html
-- Wandering monster houserules: https://retiredadventurer.blogspot.com/2013/05/a-procedure-for-wandering-monsters.html
-- Language houserules: http://middenmurk.blogspot.com/2010/06/on-languages-and-herbalism.html
-- Metals: http://trollsmyth.blogspot.com/2011/03/metals-of-doom-tea-parties.html
-- Showy octagonal castle: https://en.wikipedia.org/wiki/Castel_del_Monte,_Apulia
-- Sanskrit animal fables: https://en.wikipedia.org/wiki/Panchatantra
-- Origin of the Lady of Pain from Planescape: https://rpo.library.utoronto.ca/content/dolores-notre-dame-des-sept-douleurs
 
 # Expies/homages
-## Use Soon?
-- The Witch's Hammer https://astralcodexten.substack.com/p/book-review-malleus-maleficarum
-  - Give a copy of this to Gahdri from one of the high-level Axe of Perun
 - (Mac the Knife) MacHeath the Drow Assassin
 - Doctor Who
   - Powerful wizards fighting interdimensional wars that impinge on humanity
@@ -310,34 +238,12 @@
   [tribal champion](http://www.pathfindercommunity.net/classes/multiclass-archetypes/barbarian/tribal-champion-barbarian-ranger)
   [wildheart warrior](http://www.pathfindercommunity.net/classes/multiclass-archetypes/ranger/wildheart-warrior-ranger-barbarian)
   [wild stalker](https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/paizo-ranger-archetypes/wild-stalker/)
-- High Druid: Tamacti Jun
-- Priestess: Heleward
-
-## Maybe Not
-- [(Towers of Bologna)](https://en.m.wikipedia.org/wiki/Towers_of_Bologna) Multiple towers in Prolichica, result of the internicine combat of factions
-- Downton Abbey
-  - [Violet Crawley, Dowager Countess of Grantham](https://downtonabbey.fandom.com/wiki/Violet_Crawley#Quotes) - Lawful evil, wields a mean cane, very important and can't be killed lawfully
+- (Downton Abbey) Violet Crawley 
+  [Violet Crawley, Dowager Countess of Grantham](https://downtonabbey.fandom.com/wiki/Violet_Crawley#Quotes) 
+  - Lawful evil, wields a mean cane, very important and can't be killed lawfully
   - Powerful estate, important leaders during the war footing, but generally behind the times
   - Servants a snooping, secrets and intrigues a plenty
   - Do about half a generation earlier (e.g. she's less decrepit, her son is younger and less self-assured)
-- Deities & Demigods
-  - Arthurian Heroes - Morgan La Fey, Merlin (incubus-son), lotsa k-nighits
-  - Celtic - Morrigan (currently ascending), Dain Checht, Wild Hunt, etc
-  - Central American - SE Hobgoblins
-  - Finnish - Gnomes, Vainamoinen & other heroes, Mielikki
-  - Japanese - Lizardmen
-  - Melnibonean - drow antiheroes: Elric & Stormbringer, Moonglum, Theleb K'aarna, Yyrkoon & Mournblade
-  - Nehwon - Fafhrd & Grey Mouser, Ningauble Seven-Eyes, Sheelba Eyeless-Face
-  - Non-human - no, except as caricatures
-  - Norse - Odin & Freke & Gere & Hugin & Munin & Slephnir, Surtr & Thrym
-- (Old Man Henderson) Eli Burning - "MUCKLE DAMRED CULT! 'AIR EH NAMBLIES BE KEEPIN' ME WEE MEN!?!?"
-- (Flash's Rogues) high powered villains - wizards (mirrors, fire, weather), rogue, bard, weird monk, exotic weapons fighter
-- (Oz) Magic Picture scrying item
-- (Quakers) Theotrepidarians
-- (Nevers) Collective of powered orphans
-- (The Labyrinth of Ariosto) In-game RPG, maybe played by The Mummers?
-- (Reality) Extremely wealthy Dwarf family called the Fuggers
-  - Lead by a matriarch: Mother Fugger
 
 ## Used
 - (Black List) 
@@ -372,35 +278,18 @@
 - (Drizzt Do'Urden) The Urden 
 - (Amber) Trump cards - how the Royal Wizards communicate
 - Mongols - [Yassa](https://en.wikipedia.org/wiki/Yassa)
+  "It is forbidden to make peace with a monarch, a prince or a people who have not submitted."
 - Russian history
 - Russian folklore
 - Slavic-adjacent folklore
-- Wheel of Time
+- (Wheel of Time) - warders, mixed gender casting circles
 - (meme) Mushroom: "You cannot kill me in any way that matters"
-- Stargate
-  - Tok'ra => good-aligned elves
+- (Stargate)
+  - Tok'ra => good-aligned changelings
 - Deep Space 9
   - Converted enemy fortress-town full of assorted species, at front lines of an interplanar war
   - Ferengi - kobolds
   - Cardassia - Japanese lizardfolk
-  - Romulans - Athamberingia, convinced to ally with the drow early
-
-# Product?
-What would a product look like?
-- What time era? 
-  - Current era has a bolus of information, but is also very path dependent
-  - Next generation would allow more input from others
-- Game system
-  - Pathfinder is super heavy-weight, but is the system we used
-  - 13th Age is super-light, doesn't share all of the DNA with Pathfinder
-  - Some mix of both? Carry forward the useful bits from Pathfinder into 13th Age?
-    - Difference between Wizards and Witches
-    - Magic item creation as important plot point
-    - Create Demiplane + Ritual Magic for permanence
-- Codex Praestabilis Bruma turns magic into ritual only?
-  - Turns this into Chosen (Sharpe's + Ars Magica)
-  - All magic becomes ritual
-    - Only take the spell's usage each round, so other actions are still possible (maybe even fighting, for "quick" spells)
-    - d3+1 rounds for quick -> 14+ save 2nd round, 11+ 3rd round, automatic 4th round (preserves mystery if it matters)
-    - d4 minutes/quarter-hours/hours -> 16+ save 1st time interval, and then as above (if necessary to preserve mystery)
-  - Gather Power works on the next spell, but makes you visible until casting is completed
+  - Romulans - Athamberingia, convinced to ally with the drow early, but could be swayed back
+- The Witch's Hammer https://astralcodexten.substack.com/p/book-review-malleus-maleficarum
+  - Give a copy of this to Gahdri from one of the high-level Axe of Perun

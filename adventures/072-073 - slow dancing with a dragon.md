@@ -1,4 +1,4 @@
-PCs find that the Twins are working with the Guildmaster of the Prolichia Thieves (Marcellus)
+PCs find that the Twins are working with the Guildmaster of the Prolichica Thieves (Marcellus)
 
 
 Sam: What do you want?

@@ -15,6 +15,7 @@ Alias: Count Viktor Borovkov
   https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-carrion/golem-carrion-weaponized/
   https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-clay/golem-clay-armored/
   https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/spiked-armor/
+- Sent assassins after Mila to destabilize Martsell
 - Viktor and Yarik both accepting Queen's invitation, only get response on the thieves side
 - Viktor sends the Lord Hand with a sizeable escort to the front lines, where they cure zombie plague and reconquer ruins of Singuit
 - Viktor tries blocking rings in Hap, undercover in merchant caravans in other nearby counties, has trouble finding them

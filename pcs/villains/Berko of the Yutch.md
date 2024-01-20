@@ -45,7 +45,7 @@ Build: Human Rogue 14th-ish
 - Holding the pass vs. the approaching army
 - "Sincere" offer of help with wizardly problems
 - Convinced the PCs to send aid (1BP)
-- Entertained an envoy from The Grey Eye
+- Entertained an envoy from The Queen
 - Got help from Yarik: Artem assassinated, first assault blunted
 
 # Notes

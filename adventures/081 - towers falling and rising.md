@@ -155,5 +155,3 @@ Ending news
   - Tsarina and Seryy have blocked a proposed alliance with the Exilarchy, but this calls it into question
   - Made contact with goblin rebellion, who heard of Moriloro and are more willing to speak
 
-
-

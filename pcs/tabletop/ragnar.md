@@ -10,10 +10,10 @@ Cha 14 (+2)
 
 - Init          +5            = +7(Dex)
   Surprise      25            = "roll" of 20 (Snap Shot)
-- BAB        +6/+1
-  Melee      +8/+3            = +6+2(Str)
-  Finesse   +11/+6            = +6+7(Dex)
-  Ranged    +11/+6            = +6+7(Dex)
+- BAB       +10/+5
+  Melee     +10/+5            = +10+2(Str)
+  Finesse  +17/+12            = +10+7(Dex)
+  Ranged   +17/+12            = +10+7(Dex)
 - AC            22            = 10+5(Chain)+7(Dex)+1(Ring)+1(Amulet)
   Touch         16            = -5(Chain)-1(Amulet)
   Flatfooted    17            = -5(Dex)
@@ -26,8 +26,8 @@ Cha 14 (+2)
 - Hit points    59            = 13d8
 
 # Class
-Unchained Rogue 11th
-- Sneak Attack +6d6
+Unchained Rogue 14th
+- Sneak Attack +7d6
 - Danger Sense +3 - adds to Reflex and dodge AC vs traps, Perception to avoid surprise
 - Debilitating Injury - bewildered (-2 AC, -2 vs rogue), disoriented (-2 to hit, -2 vs rogue), hampered (half move)
 - Archetype: Scout
@@ -39,7 +39,7 @@ Unchained Rogue 11th
 - Rogue's Edge (Stealth) - +10 to Snipe roll
 - Rogue's Edge (Perception) - half penalties while asleep, +1 to perception per 30ft
 - Talents:
-  - Canny Observer - +4 Perception to hear conversation details or find hidden objects
+  - Minor Magic - Acid Splash at will
   - Certainty (Stealth) - reroll one Stealth check per day, take better
   - Bleeding Attack - sneak attack also deals 4 bleed
   - Snap Shot - auto 20 initiative in surprise round (only), only for ranged attack

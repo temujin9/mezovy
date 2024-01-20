@@ -14,16 +14,17 @@ Premise:
 - The drow side of the marriages inherit the throne after their half-elven children "die without issue" (herbal abortifacients, murders).
 
 # Antagonists
-- Each month, each major antagonist advances plots abstractly by 1d3-1 points (or GM fiat)
-- If PCs delivered them a setback this month, no advancement, and -1 points instead
+- Each so often, each major antagonist advances plots abstractly by 1d3-1 points (or GM fiat)
+- If PCs delivered them a setback this period, no advancement, and -1 points instead
 - If the antagonist instead got aid from the PCs, normal advancement +1
 - At 10 points, have background bad thing happen and subtract 10 points
 - This ratchets up the losses as time progresses, but let PCs decide where to focus
 
 ## Vasilisa
-- Plot points: 0
-- Advances her plots by 2d3-2 each month
-- Currently will spend 1 point for random advance in flowers, or 3 for targeted
+- Plot points: 3
+- Advances her plots by 2d3-2 each period
+- Currently will spend 1 point per targeted advance
+
 
 The Lady Fair desires a wedding with Koschei, to advance past hag to full outsider. To this end she has proposed by opening a temporary gate to the Abyss, causing the Dearth while sending a messenger to his court, and promising to open permanent ones as a dowry. She awaits his reply in her kingdom on the plane of air, from where she is stirring up trouble with three mortal lords (King Cold, Ukpik, and The Traitor).
 
@@ -39,7 +40,7 @@ Queen's representatives have also been making offers of alliance elsewhere:
   - Welcoming: Shulga is reticent to arrange marriage to grandchild with GD Zarko K
   - Representative: Marduke Marcus (Caine) knows Queen for the Chaotic shitbag she is and is stalling
 - Elsewhere
-  - Infiltrated: Hart thieves
+  - Infiltrated: Hart thieves (used for failed tower)
   - Welcoming: Kores thieves
   - Ambassador: Moriloro thieves, Count Spiridon K (Richacren)
   - Gifts: Almasna court, thieves from Qermerseqeria, Qersuaqia, Piekki, Ghom, and Mtiskia
@@ -47,6 +48,7 @@ Queen's representatives have also been making offers of alliance elsewhere:
 How is she handling the Vogovan Komendants?
 - Mirror scrying plus the mirror room plus the mirror part of the Welcoming implies deep connections
 - TODO: Witchy tradition much more accepted there, also plying them (in addition to thieves?)
+- Between the Komendants and Yutch, she's now got Vogovo in hand
 
 Progress:
   0-: not started
@@ -59,31 +61,34 @@ Progress:
   7: arranged marriage/lots of drow membership
   8: complete infiltration
 
-TODO: Figure out the actual ritual practice, so that the PCs can recognize (maybe false) signs of it
-- Waiting on notes from Cootie?
-- Language of flowers for "we'd like to meet"/"we invite you in"/"let's talk turkey" or similar
-- Posted in vases in a public reception hall or planted in royal gardens
-- Use the new moon, what else?
 
-
-## Koschei
-- Plot points: 8
-- King Cold advancing from the north, gathering souls for Koschei in his belly
-- Attack any of the northern realms
-
-## Ukpik
-- Plot points: 3
+## Ukpik & Ter Kreekan
+- Plot points: 5
+- Advances their plots by 2d3-2 each month
 - Securing the trods
 - Advancing into the mundane realm
 
+## Tsarina Suzyanna
+- Plot points: 10
+- Advances her plots by 2d3-2 each month
+- Armies advance upon and smash her enemies
+- Courtiers find ways to maintain power
+
+## Koschei
+- Plot points: 8
+- NOTE: King Cold has been told to withdraw and consolidate pending an unbroken tower
+- King Cold advancing from the north, gathering souls for Koschei in his belly
+- Attack any of the northern realms
+
 ## The Traitor
-- Plot points: 4
+- Plot points: 6
 - Arrange failure for a sibling
 - Can contribute to another's success
 - Each step should eliminate another possibility
 
 ## Caine
-- Plot points: 6
+- Plot points: 8
+- Impressed by the PCs fight against the Tower, continues quiet support from background via Cienfuegos
 - Manipulating others against The Church
 - Playing off The Queen's minions on behalf of Ukpik
 
@@ -93,19 +98,14 @@ TODO: Figure out the actual ritual practice, so that the PCs can recognize (mayb
 - Take revenge on elves
 
 ## Grey Eye
-- Plot points: 1
+- Plot points: 2
 - Open closed trods
 - Finding and destroying portal knowledge
 - Necromantic power sources
 
-## Tsarina Suzyanna
-- Plot points: 9
-- Advances her plots by 2d3-2 each month
-- Armies advance upon and smash her enemies
-- Courtiers find ways to maintain power
-
 
 # History
+- Akichi just pulled Athamberingia into the war on the Tsarina's side
 - The Queen raises a Tower of Fear, only to have it smashed by the TTPCs
 - Grey Eye starts assassinating wizards and burning libraries en-masse
 - Oilester attacks in the Shadow Realm, pulling The Queen into a two-front war

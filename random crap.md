@@ -1,3 +1,96 @@
+# Maybe Not
+## Ideas
+- Mayhem, False and True
+  - Coven of hags ([winter](https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag/winter-hag/), [blood](https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag/hag-blood/), [night](https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag/hag-night/)) CR 11 (-1 due to favorable circumstances of Mayhem distracting if 5- PCs)
+  - Made a Simulacrum of Mayhem, which the PCs catch coming with all his gear to kill Seryy
+  - Mayhem convinced them it was a good idea to send him that way, to tip off the PCs
+  - He's already gotten some info on the Queen and her plot, but he needs a rescue to deliver it
+- [Unrelated plot-A, so it's not all "shit the Queen stirred up directly"](random%20crap.md)
+- Map bits
+  - Rombordean Fault: small zone in Yutesh, WTF?
+    - Caused by Earthquake spell during Vogovan wars?
+  - Krimeshian Conspiracy: very close to Styerrabrae, connected to Krimeshian invasion in Arthia, WTF?
+  - Newceston Eruption: volcano, connected to Robert's home country via Plane of Fire?
+- Cloudkill but w/ weed/mushroom trip, blown by a Catepillar fae w/ a hookah
+- More goblins want to surrender to the TTPCs?
+- Two villainous groups seeking the same item in the same dungeon as the characters are
+- Falkor as a denizen of the Plane of Air
+- Wine-soaked raisins as weird fruit necromancy: mummies drunk on fermented gore
+
+
+## Expies / homages
+- [(Towers of Bologna)](https://en.m.wikipedia.org/wiki/Towers_of_Bologna) Multiple towers in Prolichica, result of the internicine combat of factions
+- Deities & Demigods
+  - Arthurian Heroes - Morgan La Fey, Merlin (incubus-son), lotsa k-nighits
+  - Celtic - Morrigan (currently ascending), Dain Checht, Wild Hunt, etc
+  - Central American - SE Hobgoblins
+  - Finnish - Gnomes, Vainamoinen & other heroes, Mielikki
+  - Japanese - Lizardmen
+  - Melnibonean - drow antiheroes: Elric & Stormbringer, Moonglum, Theleb K'aarna, Yyrkoon & Mournblade
+  - Nehwon - Fafhrd & Grey Mouser, Ningauble Seven-Eyes, Sheelba Eyeless-Face
+  - Non-human - no, except as caricatures
+  - Norse - Odin & Freke & Gere & Hugin & Munin & Slephnir, Surtr & Thrym
+- (Old Man Henderson) Eli Burning - "MUCKLE DAMRED CULT! 'AIR EH NAMBLIES BE KEEPIN' ME WEE MEN!?!?"
+- (Flash's Rogues) high powered villains - wizards (mirrors, fire, weather), rogue, bard, weird monk, exotic weapons fighter
+- (Oz) Magic Picture scrying item
+- (Quakers) Theotrepidarians
+- (Nevers) Collective of powered orphans
+- (The Labyrinth of Ariosto) In-game RPG, maybe played by The Mummers?
+- (Reality) Extremely wealthy Dwarf family called the Fuggers
+  - Lead by a matriarch: Mother Fugger
+
+# Bookmarks
+- Traps ideas from Reddit: https://www.reddit.com/r/osr/comments/q01a6h/re_old_osr_content_treasure_of_secret_santicore/
+- The Monsters Know What They're Doing: https://www.themonstersknow.com/
+- Lotus-eater blisses out, hard to dispel: https://www.aonprd.com/MagicPlantsDisplay.aspx?FinalName=Ambrosial%20Lotus
+- 1/day Still and Silent Spell: https://www.aonprd.com/MagicTattooDisplay.aspx?FinalName=Caster%27s%20TattooLesser
+- Smallish, Celtic giants: https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/firbolg/ https://en.wikipedia.org/wiki/Fir_Bolg
+- Get out of jail free teleport: https://www.d20pfsrd.com/magic/all-spells/g/getaway/
+- Push teleport an ally: https://www.d20pfsrd.com/magic/all-spells/p/phase-step/
+- Teleport in a lightning line: https://www.d20pfsrd.com/magic/all-spells/s/storm-step/
+- Turn into a fiend: https://www.aonprd.com/OccultRituals.aspx?ItemName=Fourth%20Apotheosis
+- Drink a poison to kill your enemy: https://www.d20pfsrd.com/classes/base-classes/witch/hexes/hexes/common-hexes/greater-gift-of-consumption-su/
+- Make someone use an item (poisoned or cursed): https://www.d20pfsrd.com/magic/all-spells/b/beguiling-gift
+- Make a first level spell scale, 3/day: https://www.d20pfsrd.com/feats/general-feats/spell-hex/
+- Itchy thrown weapon: https://aonprd.com/EquipmentMiscDisplay.aspx?ItemName=Goblinvine
+- Stunning or dazing amounts of pain: https://www.d20pfsrd.com/magic/all-spells/d/debilitating-pain/
+- Random combat maneuvers, or pick target and type with a skill check: https://aonprd.com/SpellDisplay.aspx?ItemName=Pernicious%20Pranksters
+- Notabeholder: https://www.d20pfsrd.com/bestiary/monster-listings/templates/eye-king-cr-varies
+- Bigger badder giants: https://www.d20pfsrd.com/bestiary/monster-listings/templates/jotunblood-giant-template
+- Hobgoblin werewolves, best on full moon: https://www.d20pfsrd.com/bestiary/monster-listings/templates/silverblood-lycanthrope-cr-2
+- Identify class bits using Knowledge: https://www.aonprd.com/Skills.aspx?ItemName=Knowledge#:~:text=the%20same%20day.-,Recall%20Intrigues,-Source
+- Make a flying object (should allow Permanency): https://aonprd.com/SpellDisplay.aspx?ItemName=Imbue%20with%20Flight
+- Team uses highest Stealth roll for everyone: https://www.d20pfsrd.com/feats/general-feats/stealth-synergy-teamwork/
+- How the mobile mirror portal is made: https://realmshelps.net/charbuild/feat/Create_Moving_Portal
+- Forgo winning blow to change attitude with Diplomacy: https://aonprd.com/FeatDisplay.aspx?ItemName=Change%20of%20Heart
+- Brokerages for high level magic: https://www.reddit.com/r/DnD/comments/pyjeo4/use_magic_brokers_not_magic_shops_advice/
+- Humanoid adventurers: http://oldguardgamingaccoutrements.blogspot.com/2011/06/scorned-blade-all-humanoid-npc-rival.html
+- Killer blink frogs: http://oldguardgamingaccoutrements.blogspot.com/2011/08/beware-killer-blink-frogs.html
+- Replacement tongue made of demon: https://goblinpunch.blogspot.com/2013/10/tongue-demons.html
+- Gonzo bestiary: http://trollsmyth.blogspot.com/2011/08/hamsterish-bestiary.html
+- Gonzo NPCs: https://dysonlogos.blog/400-characters/
+- PF NPCs: https://www.d20pfsrd.com/bestiary/npc-s
+- Gnome druid, Bluff for fear or harmlessness: https://www.d20pfsrd.com/feats/general-feats/invoke-primal-instinct-general
+- Divine Celtic hag, associated with winter: https://en.wikipedia.org/wiki/Cailleach
+- Inuit avenging monster made of animal bits: https://www.reddit.com/r/ArtefactPorn/comments/12colyb/greenlandic_tupilaq_2560x1920/
+- Underground cities, inspiration for dwarven cities?
+  https://www.bldgblog.com/2007/08/derinkuyu-or-the-allure-of-the-underground-city/
+  https://en.wikipedia.org/wiki/Derinkuyu_underground_city
+  https://en.wikipedia.org/wiki/Kaymakli_Underground_City
+  https://en.wikipedia.org/wiki/%C3%96zkonak_Underground_City
+  https://en.wikipedia.org/wiki/Avanos#History
+- Finnish mythology, bears and birds: https://en.wikipedia.org/wiki/Finnish_mythology
+- Joker-like undead, passing out deck of many things cards: https://www.d20pfsrd.com/bestiary/monster-listings/undead/red-jester/
+- Blue lava, sulfur burning in hot air: https://en.wikipedia.org/wiki/Blue_lava
+- Prediction houserules: http://recedingrules.blogspot.com/2012/06/3-ways-to-forsee.html
+- Wandering monster houserules: https://retiredadventurer.blogspot.com/2013/05/a-procedure-for-wandering-monsters.html
+- Language houserules: http://middenmurk.blogspot.com/2010/06/on-languages-and-herbalism.html
+- Metals: http://trollsmyth.blogspot.com/2011/03/metals-of-doom-tea-parties.html
+- Showy octagonal castle: https://en.wikipedia.org/wiki/Castel_del_Monte,_Apulia
+- Sanskrit animal fables: https://en.wikipedia.org/wiki/Panchatantra
+- Origin of the Lady of Pain from Planescape: https://rpo.library.utoronto.ca/content/dolores-notre-dame-des-sept-douleurs
+
+
 # A-plot Adventures/Scenarios/Locations
 - http://recedingrules.blogspot.com/2011/05/heist-con-special-mission.html
 - Woodland encounters: Young green/white/red dragon, wyverns, griffons, ogres, owlbears, dire boar, roc

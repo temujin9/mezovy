@@ -87,11 +87,11 @@ Fix for loss of income due to incorrect calculations
 
 # Notes
 ## Trod 
-L1, covers most of Puryev territory, overlaps with eastern Prolichia, western Velerolobo, ???
+L1, covers most of Puryev territory, overlaps with eastern Prolichica, western Velerolobo, ???
 Gates:
 - Painted Glen ruins, under the church
 - SW Velerolobo, from the twin's map
-- One nearer to Prolichia than the kobold gate
+- One nearer to Prolichica than the kobold gate
   - Not koboldy because it's lightly defended and not useful
   - How's it defended?
 - 2+ in Puryev, but less useful or previously locked

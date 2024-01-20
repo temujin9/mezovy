@@ -27,7 +27,7 @@ Main action to keep the heat off of Yarik?
 - Researching in Rolobo's library (Linguistics 30, 40)
   - Finds https://dndtools.net/spells/manual-of-the-planes--43/scramble-portal--1872/ with notes saying it's not the best
 - Dylan is reviewing spy reports from wizard towers
-  - Auseq is goblin-friendly, once had a wizard once get expelled for trying to sneak one into Prolichia
+  - Auseq is goblin-friendly, once had a wizard once get expelled for trying to sneak one into Prolichica
   - Sioraneq is chaos obsessed, Uhlinberg suspects them of fae collusion
 - Send Seryy letter telling him about the trods 
   - (Bluff 33), hiding earlier knowledge

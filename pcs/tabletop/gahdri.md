@@ -3,6 +3,7 @@
 - Mother is human, back home
 - Important person is board game buddy in tavern 
 - Has an admirer in the Royal Wizards Guild, who gave a Rod after winning big on a bet on her
+- Owes a favor to the Shepherd from Polyn Guild, for the use 
 
 
 

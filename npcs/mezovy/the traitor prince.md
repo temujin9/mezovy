@@ -8,7 +8,7 @@ Half-elf Darklantern Teisatsu Vigilante 14
 - Social identity: pious & LG, utter BS
   - Passes the Seryy & PC "smell test"
 - Hidden Strike: +7d8 to unaware, false ally, or flat-footed by startling appearance, +7d4 to flanked or denied Dex
-- Dark Identity: switch to drow as full-round, +2 Dex & Con, darkvision 120ft, light blindness, Will DC (10+hrs as drow) to switch back as move
+- Dark Identity: switch to drow as full-round, +2 Dex & Con, ~~darkvision 120ft, light blindness,~~ Will DC (10+hrs as drow) to switch back as move
 - Drow Magic: Dancing Lights, Darkness, and Faerie Fire 1/day, CL 14
 - Drow Paragon: SR 20
 - Ki Pool: 7+Cha

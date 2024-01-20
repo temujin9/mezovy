@@ -33,7 +33,7 @@ Prince of Crows
   - TODO: upgrade score
 - Leads a coven of 13 changeling wizard-types
   - TODO: upgrade list?
-  - Changeling Heka Magi 11th level with Coven from mom
+  - Changeling Heka Magi 16th level with Coven from Cohort chain
   - Changeling Strega 11th level from mom
   - 9x others (1 9th/2 8th/3 7th/3 6th)
     - Changeling Wizard 9th with Coven feats

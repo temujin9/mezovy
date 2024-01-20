@@ -1,4 +1,4 @@
-The PCs take a trip to Prolichia.
+The PCs take a trip to Prolichica.
 
 Results:
 - Beat up the dwarf highwaymen
@@ -8,7 +8,7 @@ Results:
 - Ragnar, Gahdri, Nikita fight kayfabe (+2BP)
 
 
-Prolichia layout:
+Prolichica layout:
 - Homage to Ankh-Morpork where we can, politely
 - Ruled by the Patritsiy (based on Moist von Lipwig, a well-leveled Vigilante)
 - Home to many forms of industry unfamiliar to those from the sticks
@@ -61,7 +61,7 @@ Probable Timeline:
     - Heightened directionless awareness, has bred strife with local underworld
     - Patritsiy is juggling a delicate balancing act inherited from his predecessor (about whom dark rumors circulated)
     - The Alchemist's Guild have been trying to talk them into massed guns, nobody's buying it
-    - Cossack elite guardsmen have friends who couldn't quite hack it in the Prolichia guard, they could grow your troop
+    - Cossack elite guardsmen have friends who couldn't quite hack it in the Prolichica guard, they could grow your troop
   - Church
     - Looking for evidence of ghoulishness, what can they find (Diplomacy 30, -5 if K: Religion 5 ranks)
     - Perception 30 or K: Engineering 20 to see the oddities in the flooring
@@ -140,7 +140,7 @@ Other elements
   - Gahdri
     - Admirer from Royal Wizards Guild?
     - Contact with the Axe of Perun?
-    - Visiting Prolichia's guild to learn ???
+    - Visiting Prolichica's guild to learn ???
 - Old Episode Callbacks
   - (001) Durko - fop with grey rat familiar named Beko
   - (003) Reference to The Sword Kladnetz?

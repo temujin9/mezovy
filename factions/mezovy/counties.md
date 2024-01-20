@@ -45,7 +45,7 @@ Royal lands:
     Burgermeister Mecek: Male Half-orc Aristocrat 5th, N. Str 9, Dex 10, Con 10, Int 13, Wis 11, Cha 12. Mecek has a long face, with red hair and light hazel eyes. He wears fine raiment and a dragonscale cloak. Corrupt. Formerly Stewart Mecek, hereditary stewards of Drutk in the Romanov name.
     Durko Voronin: Male Human Aristocrat, CN. Str 11, Dex 10, Con 13, Int 12, Wis 7, Cha 13. Durko has blonde hair and hazel eyes. He wears fine raiment and numerous rings. Durko has an animal companion, a gray rat named Beko. Fop, insulted Serry accidentally.
     Tyberiy Jelena Filippov, courtier
-  Wizard Guild: Prolichia
+  Wizard Guild: Prolichica
 - Ossavin County (royal)
   Relationships: dislikes Topolh Wizards dislikes Military Academy dislikes Ossavin elves
   Capital: Rosalk
@@ -116,7 +116,7 @@ Other noble lands:
   Wizard Guild: Polyn
 - Moriloro County
   Home of Morilorian Occultism: inner cabal of LE leaders of The Church
-  Wizard Guild: Prolichia
+  Wizard Guild: Prolichica
   Irena Miroslav Tomčić, courtier
   Vitaly Neven Lončar, courtier
   Attacked by ice giants in north
@@ -131,7 +131,7 @@ Other noble lands:
   Lilya Cveta Radić, courtier
 - Drozelk County
   Ruler: Baron Esfir Vyacheslav Nikolaev, "has a bit of a gambling problem."
-  Wizard Guild: Prolichia
+  Wizard Guild: Prolichica
 - Inech County
   Relationships: hates Provenkia
   Ruler: Grand Duke Esfir Vyacheslav Kohut, gnomish 
@@ -159,8 +159,8 @@ Other noble lands:
   Dejana Lazar Shvets, courtier
   Tihomir Dušan Sokolov, courtier
 - Olenkia County
-  Capital: Prolichia
-  Wizard Guild: Prolichia homebase
+  Capital: Prolichica
+  Wizard Guild: Prolichica homebase
 - Yutesh County
   Wizard Guild: Polyn
 - Orarfutaqia Margrave
@@ -214,7 +214,7 @@ Other noble lands:
   Capital: Auseq
   Wizard Guild: Auseq homebase
 - Nezutk County
-  Wizard Guild: Prolichia
+  Wizard Guild: Prolichica
 - Apatia Shire
   Wizard Guild: Sioraneq
 - Al Qur County

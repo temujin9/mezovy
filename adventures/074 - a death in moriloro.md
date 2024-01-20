@@ -4,7 +4,7 @@ Visit Seryy
 - Finally learns of the Queen's endgame, breaks down and admits the curse
 - PCs don't tell about motive coming from goblin rebels, or the flowery reply
 
-Ghadri burns the siblings reputation with Prolichia wizards guild
+Ghadri burns the siblings reputation with Prolichica wizards guild
 
 Go to Moriloro
 - At dockside tavern 
