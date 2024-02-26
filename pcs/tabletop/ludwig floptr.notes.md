@@ -1,71 +1,80 @@
-# Used
-Shifting Armor: trade Sure Footed (full-speed Stealth and Acrobatics)
-- Silent Dispatch
-Haste (1/10)
-Long Arm
-Enlarge
-
-# Tactical Plans
-- This turn
-  - Combat Expertise: +3 AC, -3 to hit (cancelled by CS)
-  - Move action: give self Improved Vital Strike
-  - Combat Stamina: 3 to get +3 to hit
-  - Spike dude 10ft from the bottle of mist (Improved Vital Strike + Force Punch + fall damage)
-  - Quick shirt: move action to get next to him, drawing pistol
-- Next turn:
-  - Haste from shoes
-  - Wail on dude with fists or shoot people with gun
-
-
- 
-# Later
-- Feat ???
+# TODO
+- Feat ??? from 13th
+- Double-check Vigilante stuff
+- Swap wrist-sheath loads
+- Investigate Brawler-less build
+  - Retraining
+    - 130 gp per day
+    - two levels takes 10 days (synergy) => 1300gp
+    - hit points? ~20kgp to cap out
+      3 days per, hard to gauge how much is too much
+      up to 13th: (130-88)hp x 3 days/hp x 130gp => 16380gp
+        Max 130 = 13x(8+2), base 88 = (8+2)+12x(4.5+2)
+      14th: 4hp x 3 days/hp x 140gp => 1680gp
+      15th: 3hp x 3 days/hp x 150gp => 1350gp
+    - Replace "Always Prepared (CoL)" for another Social option
+  - Martial Flexibility loses the extra layer of feat access for maneuvers (never used)
+  - Can get all the way to Greater Vital Strike (12d6 w/ Large Orc Hornbow, 10d6 melee w/ Enlarge and Gorilla ... sheesh)
+- +vigilante/2 to Disguise (Half-elf favored)
 
 ## Build
-20th: Vigilante 13/Battle Dancer Brawler 6/Alchemist 1
+Start: Moonshiner Gun Chemist 1 / Vigilante 10 / Battle Dancer Brawler 2
 
-Brawler 3 (14)
-- Maneuver training 1 (Trip)
-Brawler 4 (15)
-- d8/2d6 Unarmed Strike, Dancing Dodge (+Cha to AC to retreat), Sparring Partners 1/day
-- ??? Feat
-Brawler 5 (16)
-- Brawler's strike (magic), Close weapon mastery
-- +1 Constitution
-- ??? Combat Feat
-
-If we continue to 20th level:
-Brawler 6 (17)
-- Martial flexibility (swift)
-- ??? Feat
 Vigilante 11
-- Quick Change - shift identities as full-round, added full-round or Disguise check to avoid recognition as same person
 - Frightening Appearance - attack unaware, Demoralize target + enemies in 10ft, target Will (10+level/2+Cha) or frightened 1 rnd 
+- Social ???
 Vigilante 12
-- Vigilante ???
-- ??? Feat
+- Fist of the Avenger (Ex): Improved Unarmed Strike, +half vigilante level (maximum of +5) damage
 Vigilante 13
+- Social ???
+Vigilante 14
+- Vital Training - 10th, Improved Vital Strike, Greater at 14th
+
+Social Options
+- Skill Speciality (Lithe Gymnast) - +vigilante/2 to Acrobatics and Escape Artist, evade by 5+ costs AoO, half penalties for squeeze, DC 20 EA to squeeze at full speed
+- Skill Speciality (Vigilance) - +vigilante/2 to initiative and Perception for hidden creatures / surprise round
+- 
+- Skill Speciality (Imperceptable) - +vigilante/2 to Stealth, +20% to conceal miss chance
+- Wordy Wit - hide prepared action (doesn't count against next turn), DC 32 (15+Bluff ranks+Cha bonus) Sense Motive or Perception to see plan
+- Quick Comeback - opponents roll with disadvantage on Sense Motive vs deception
+- Quick Change - shift identities as full-round, added full-round or Disguise check to avoid recognition as same person
 - Assumption - 13th, register as touched helpless target to divinations for 1 week, 1/week
 
+Target: Moonshiner Gun Chemist 1 / Vigilante 14
 
+
+20th: Vigilante 19/Moonshiner Gun Chemist 1
 
 
 
 ## Equipment
-3750    Eternal Wand of Shocking Touch (CL5) - 5d6 electrical, +3 to attack vs metal
+- Wrist item: command-word Animal Aspect (Gorilla), constant Long-Arm, constant Enlarge
+  10800+3000+3000
+  - Swap with Seducer's Bane depending on situation
+- Add Cloak of Resistance +3 to Paragon Cloak
+  13500
+- Bag of Holding IV?
+  Full of what that can be turned inside out to dangerous effect?
+  10000
+
+3750    Wand of Shocking Touch (CL5) - 5d6 electrical, +3 to attack vs metal
 4308    https://www.d20pfsrd.com/magic-items/magic-weapons/specific-magic-weapons/boarding-pike-of-repelling/
-4500    Eternal Wand of Frigid Touch - 4d6 cold, staggered 1 round (1 min on crit)
-11250   Eternal Wand of Animate Object III
+4500    Wand of Frigid Touch - 4d6 cold, staggered 1 round (1 min on crit)
+11250   Wand of Animate Object III
 +14k    Martial Wraps (Dueling: +4 initiative, +2 to and vs disarm and feint)
 
+Permanency
+2500    Speechreader's Sight
+2500    Comprehend Languages
+7500    Soul Vault
+12500   Telepathic Bond
+15000   Greater Magic Fang (fist x2)
 
 Items Gahdri can make, given proper time and spells
-250     Dastard's Smoke Pellets - 20ft smoke, Will DC 17 or forget last minute
+FIXME: no more time to do so, buy at regular price or skip it
 2450    Alchemist's Bracers, Lesser     x1 per day      2x3x2000/5+50                           (wrists)
-        - https://aonprd.com/SpellDisplay.aspx?ItemName=Full%20Pouch 
-9900    https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/seducer-s-bane                  (wrists)
+        - https://aonprd.com/SpellDisplay.aspx?ItemName=Full%20Pouch
 13500   https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/robe-of-scintillating-colors/   (body)
-16200   Telepathic Bond                 x1 per day      5x9x1800/5
 110000  https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-shadowform/
 
 

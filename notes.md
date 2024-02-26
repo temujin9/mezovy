@@ -1,10 +1,24 @@
-# Next game(s)
-- What did Ragnar do in Prolichica while the shit was going down in Velerolobo
-
 # Next tick
 - Yarik
   - If he tries another strike on Mila, his agent is caught by the hidden bodyguard
+  - He's going all-in against Mila and crew
 
+- Berko
+  - Reaching out to the hobgoblins, they are trying to determine if they Yutch are loyal to The Queen or not
+  - If he reveals they are not, hobgoblins will try to verify somehow (Zone of Truth?), and if valid let them in
+
+- The Tsarina rallies (got to 10 on her villain clock)
+  - Tsarina: Holy Warrior Priestess of Law is out in full force
+  - Forestalls the Council acting against Seryy somehow (quorum failure, temp knockout of an opposed member?)
+  - Akichi just pulled Athamberingia into the war on the Tsarina's side, and she'll make hay of that
+    - Blockade cuts off Yutch support while she recaptures the , forcing Berko into a rough choice
+  - It's not going to be enough on its own, but it should give the PCs a chance at true diplomacy (or a late "side with Tsarina" move)
+
+
+# Next game(s)
+- What did Ragnar do in Prolichica while the shit was going down in Velerolobo
+  - some shady shit tbd, versus Yarik's attackers
+  - Figured out that Mila is in charge
 
 
 # Soon
@@ -21,6 +35,7 @@
 
 - The Towers are an infighting mess over Towersfall
   - Half are well aligned with the Tsarina, half sneering at them through prejudice or misinformation
+  - All are occupied with dispelling the Curse Land
   - Royal Wizards - Cannon Fodder - for, firmly aligned with Tsarina and PCs on this
   - Uhlinberg - Ditchdiggers - for, but reduced to beggars with rich purses, which they wish to protect from other guilds
   - Topolh - Snowballs - for, Rovenk is in their territory
@@ -39,13 +54,6 @@
 
 - Queen plans to make another Tower, this time with unbreakable CL and core which can be reopened from inside (w/ a no-magic one as an "airlock")
   - PCs need to know this is coming, so they can try to prevent it and so the drumbeat can be started
-
-- The Tsarina rallies (got to 10 on her villain clock)
-  - Tsarina: Holy Warrior Priestess of Law is out in full force
-  - Forestalls the Council acting against Seryy somehow (quorum failure, temp knockout of an opposed member?)
-  - Akichi just pulled Athamberingia into the war on the Tsarina's side, and she'll make hay of that
-    - Blockade cuts off Yutch support while she recaptures the , forcing Berko into a rough choice
-  - It's not going to be enough on its own, but it should give the PCs a chance at true diplomacy (or a late "side with Tsarina" move)
 
 - The Traitor is being rushed into marriage to Prince of Crows, no time to think on consequences
   - Raag was looking to prevent this, maybe he gets word in time?

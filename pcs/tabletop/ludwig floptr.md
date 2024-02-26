@@ -1,5 +1,5 @@
 "General Mayhem"
-Half-elf Moonshiner Gun Chemist 1 / Vigilante 9 / Battle Dancer Brawler 2
+Half-elf Moonshiner Gun Chemist 1 / Vigilante 10 / Battle Dancer Brawler 2
 
 Str 10  +0
 Dex 22  +6  (+2 half-elf, +1 level 4, +2 Belt)
@@ -9,7 +9,7 @@ Wis 10  +0
 Cha 14  +2  (+1 level 8)
 
 Initiative      +8 = +6 (Dex) +2 (Trait)
-BAB             +12/+7
+BAB             +12/+7 = +0 +10 +2
   Melee         +12/+7    (Str based)
   Finesse       +18/+13   (+4 damage)
   Ranged        +18/+13
@@ -53,7 +53,7 @@ Moonshiner Gun Chemist 1
   Gunsmith - Gunsmithing, plus free battered gun
   Alchemical Ordinance - free action when loading, infuse up to 3 rounds/day with +1d6+2 damage (no Vital), max 1 shot per round
   Moonshine Stupor - drink alcohol, AC +2, Str+4&Int-2/Dex+4&Wis-2/Con+4&Cha-2 for 5+drink rounds, then sickened 2*stupor*drinks
-Vigilante 9
+Vigilante 10
   Dual Identity - knowledge and scrying only shows current identity, can have two alignments, 1 min to switch
     "The Professor" - (L)N, old elf, know-it-all who's sometimes right
     "General Mayhem" - CG, young human, wearing a messed-up general's formal armor and a mask
@@ -62,15 +62,15 @@ Vigilante 9
   Startling Appearance - attack unaware foe, flat-footed for rest of my turn, –4 to hit me until next turn
   Social Talents
     Always Prepared (LVV) - eschew tools, or extra bonuses for having them (+2 to regular or masterwork)
-    Always Prepared (CoL) - 100xCL gp in "define later" items weighing 20lbs or less, 500xCL gp in stash
+    Always Prepared (CoL) - Brilliant Planner, 100xCL gp in "define later" items weighing 20lbs or less, 500xCL gp in stash
     Many Guises - third guise as "mundane NPC"
     Hidden Magic - constant Magic Aura, Greater @11th
+    Skill Familiarity - four skills (Stealth, Perception, Bluff, Acrobatics) take 10 even when threatened, or +2 if not
   Vigilante Talents
     Lethal Grace - Weapon Finesse, +1/2 vigilante to damage
     Sure Footed - full speed Stealth and Acrobatics
     Vital Punishment - Vital Strike, plus use once per round in Attack of Opportunity
     Cunning Feint - feint as move or first attack in full, flatfooted until the vigilante’s next turn
-    Skill Familiarity - four skills (Stealth, Perception, Bluff, Acrobatics) take 10 even when threatened, or +2 if not
     Shadow’s Speed - base speed +20 ft
 Battle Dancer Brawler 2
   Unarmed Strike - d6+10 damage from unarmed attack (d8+10 if Enlarged)
@@ -210,7 +210,7 @@ Most everything on person hidden by Shifting Armor and Hidden Magic when in Soci
 - 2x Spring-loaded wrist sheath - retrieve contents as swift
   - Preserving Flask (1st) - Enlarge
   - Preserving Flask (1st) - Long Arm
-- Seducer's Bane Bracelet - +5 to Sense Motive, +5 Will vs enchantment, can pretend to be enchanted
+- Seducer's Bane Bracelet - +5 to Sense Motive, +5 Will vs enchantment, can pretend to be enchanted (wrist)
 - Mummer's Ruff - (neck) +10 Bluff to imitate a voice, 5 min ventriloquism once per day
 - Belt of Dexterity +2 - (belt)
 - Paragon Cloak - (shoulders, shield)
@@ -247,19 +247,21 @@ As social but no sword-cane, and Shifting hides nothing
 - 5x Darts w/ Drow Poison, +18, 1d4 + poison, 20ft
 18 "Javelins"
 - 4x large thistle arrows, bleed for 1d6 rounds, move & 1d3 damage or standard Heal DC 12 to remove, w/ Fire Jackal Saliva
-- 12x large arrows
+- 10x large arrows
 - 2x Pilum & Amentum, 40ft, +18, 1d8, hit also neutralizes shield AC (standard to remove)
 - Chain whip (custom weapon), silver, +16/+18 (exotic), d8+10 slashing, reach, monk
 - Rapier - +18, 1d6+10, 18-20/x2, w/ Fire Jackal Saliva
-6 "Bows"
-- Composite longbow, 110ft, +18, 1d8
-- Large Orcish Hornbow, Masterwork, 80ft, -/+16/+18 (exotic, oversized), 3d6
-- Blowgun, 20ft, +18, 1d2 + poison
 - Bolas, 10ft, +16/+18 (exotic), d4 nonlethal, x2, trip attempt
+- Blowgun, 20ft, +18, 1d2 + poison
+6 "Bows"
 - Light slaver's crossbow, +16/+18 (exotic), d4, 19-20/entangle, 40ft, trip attempt
+- Composite longbow, 110ft, +18, 1d8
+- Orcish Hornbow, Masterwork, 80ft, +16/+18 (exotic), 2d6
+- Large Orcish Hornbow, Masterwork, 80ft, +14/+16/+18 (exotic, oversized), 3d6
 - Dragoon Musket, +18, 1d12, 60ft, 1-2 (5ft), 3 shots (dragoon only)
   - Far-Reaching Sight, full-round action to ranged touch at any increment
   - loaded with regular Dragoon (-1 shot)
+- ???
 
 ## In Haversack
 - (Vigilante: Sword-cane when not in use)
@@ -370,7 +372,7 @@ Martial Flexibility (1 move, 1 min) gives a Combat feat. Using Paragon Surge ite
 ## Martial Flexibility or Paragon Surge
 - Stand Still - CMB to stop movement in threat range (for the untrippable)
 - Deadly Aim - -2 to hit, +4 to damage on ranged attacks
-- Devastating Strike - +2 to each die added by Vital Strike
+- Devastating Strike - +2 damage to each die added by Vital Strike (max +6)
 - Opening Volley - hit with ranged gives +4 to hit with melee on next turn
 - Blind Fight - reroll miss chances, invisible gets no bonus in attacking you
 - Improved Dirty Trick - +2 to CMB, no AoO
@@ -400,7 +402,6 @@ Martial Flexibility (1 move, 1 min) gives a Combat feat. Using Paragon Surge ite
 Shifting Armor: trade Always Prepared (eschew tools, or +2 for having them)
 Paragon Surge: Extra Social Talent
 
-### Shifting Armor or Paragon Surge
 - Quick Change - shift identities as full-round, added full-round or Disguise check to avoid recognition as same person
 - Mockingbird - at-will ghost sound, ventriloquism, vocal alteration (self only)
 - Case the Joint - 1 hr at target, K(engineering) 20 to get reroll there within week, +1 reroll for +10 success, 1/week/joint
@@ -411,10 +412,9 @@ Paragon Surge: Extra Social Talent
 - Skill Specialty (Legerdemain): +4 to & vs. Sleight, +4 to feint, feinted/Sleighted stops AoO until next turn
 - Skill Specialty (Pretender): +4 to Disguise & Bluff to deceive/pass secrets, Bluff during mind-reading to cover surface thoughts
 
-## Vigilante
+## Vigilante Talents
 Shifting Armor: trade Sure Footed (full-speed Stealth and Acrobatics)
 
-### Shifting Armor
 - Skill Master - take a Signature Skill
   - Sense Motive: initiative bonus if you know it's coming, -20 vs Bluff to read surface thoughts
 - Volatile Arrows - 4d6 alchemist bomb attached to arrow, 5/day, +1 time per day and a discovery per extra talent used
