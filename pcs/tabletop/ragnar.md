@@ -36,8 +36,9 @@ Unchained Rogue 14th
 - Archetype: Underground Chemist
   - Chemical Weapons - +Int (+3) to damage with splash attacks
   - Precise Splash Weapons - Sneak attack with first splash weapon a round
-- Rogue's Edge (Stealth) - +10 to Snipe roll
 - Rogue's Edge (Perception) - half penalties while asleep, +1 to perception per 30ft
+- Rogue's Edge (Stealth) - +10 to Snipe roll
+- Rogue's Edge (Sense Motive) - Bluff DC 15 or 11+Bluff gives +1 to init and +1/5 success, -20 to read surface w/ 1 round conversation, attacked DC attack gives +2 AC vs attacker
 - Talents:
   - Minor Magic - Acid Splash at will
   - Certainty (Stealth) - reroll one Stealth check per day, take better
@@ -101,20 +102,21 @@ Swim                1+3(class)+2(Str)
 # Equipment
 Handy Haversack (2000gp)
 Efficient Quiver (1800gp)
-Sniper Goggles, Lesser (Sniper's Shot, use-activated, 2000gp)
+Sniper Goggles (20000gp)
 Celestial Armor (22,400gp)
-Ring of Protection +5 (2000gp)
-Cloak of Resistance +5 (4000gp)
+Ring of Protection +5 (50000gp)
+Cloak of Resistance +5 (25000gp)
 Belt of Dexterity +6 (from +2 by Gahdri, 21.6k)
-Amulet of Natural Armor +1 (2000gp)
+Amulet of Natural Armor +5 (50000gp)
 Cat Burglar’s Boots (2000gp) - +2 to Acrobatics, Climb, Stealth, reroll any of them once per day
 Rope of Climbing (3000gp) - 60ft animated rope, can knot itself
 Fire-ink tattoos (50gp) - firebird (left arm) and a feather (right palm), can expose to shed light like torch or candle
 
 2x Potion of Cure Moderate Wounds (300gp, from Loot) - heal 2d8+3hp (19hp)
+2x Potion of Cure Serious Wounds (750gp) - heal 3d8+5hp (29hp)
 
 ## Weapons
-+4 Sniping composite longbow (4275gp)
++4 Sniping composite longbow (52275gp)
 - Ranged - +12/+7, 20/x3, 110ft, 1d8+3 piercing +4d6 sneak attack
 - Rapid shot - +10/+10/+5, 20/x3, 110ft, 1d8+3 piercing +4d6 sneak attack
 Masterwork composite longbows (400gp) - backup in case primary bow is lost or broken
@@ -135,7 +137,7 @@ Daggers: 9 regular, 6 cold iron, 3 silver (93gp)
 
 40x Incendiary (20gp) - -1 to hit, +1 fire damage, crit Ref 15 or catch fire
 20x Adamantine (1201gp) - beats DR/adamantine
-10x +1 Holy (3600gp, 5 used) - +2d6 to evil alignment, counts as good for DR
+20x +1 Holy (3600gp, 8 used) - +2d6 to evil alignment, counts as good for DR
 5x Raining (150gp) - -2 to hit, only hurts undead/evil outsiders, direct 2d4 holy, splash 1 holy
 5x Sleep Arrow (660gp) - +1 to hit/damage, nonlethal, Will 11 or fall asleep
 5x +1 Seeking Arrow (800gp) - +1 to hit/damage, ignore concealment miss chance
@@ -163,12 +165,7 @@ Daggers: 9 regular, 6 cold iron, 3 silver (93gp)
 3x Sparking pinwheel firework (60gp) - 1 round delay, create a 15ft sparking barrier
 
 
-10244gp as of 2023-09-30
-Ring of Protection +5 from +1, 48k
-Cloak of Resistance +5 from +2, 21k
-+4 Sniping composite longbow from +1, 48gp
-10 +1 Holy arrows, 3600gp
-
+34015gp as of 2023-09-30
 
 # Notes
 - From one of the planar elven kingdoms, specifically one of the fire plane outposts.

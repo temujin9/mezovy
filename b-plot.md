@@ -9,7 +9,7 @@ Premise:
 - The Tzarina declares war and martial law in turn, forcing lords to conscript additional levies, and march in response. She includes the Vogovans in targets.
 - After grinding the two against each other, The Queen raises a Tower of Fear to help crush the heaviest opposition.
 - Offering to end the demon incursions and hobgoblin attacks, The Queen gains votes in the court of dukes to place The Traitor and the Prince of Crows on Mezovy's throne. To satisfy her new husband Koschechi, she institutes the tithe of souls, taken to the Towers of Fear on Halloween.
-- The Queen's agents seek out Ter Kreekan. He survives for a while, but eventually is assassinated. His assistants flee with the mother-draught, but Ukpik's hope of a rebllion and a hobgoblin state are ruined.
+- The Queen's agents seek out Ter Khrekaan. He survives for a while, but eventually is assassinated. His assistants flee with the mother-draught, but Ukpik's hope of a rebllion and a hobgoblin state are ruined.
 - The Church and the Towers hold out, but eventually fall to insider threats.
 - The drow side of the marriages inherit the throne after their half-elven children "die without issue" (herbal abortifacients, murders).
 
@@ -62,7 +62,7 @@ Progress:
   8: complete infiltration
 
 
-## Ukpik & Ter Kreekan
+## Ukpik & Ter Khrekaan
 - Plot points: 5
 - Advances their plots by 2d3-2 each month
 - Securing the trods

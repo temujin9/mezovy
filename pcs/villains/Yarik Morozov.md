@@ -9,6 +9,11 @@ Alias: Count Viktor Borovkov
 ## Soon
 - The Hand discussed with Victor that "I fear it was some form of fell arcana, almost certainly witchcraft. Our inquisitors will find the truth, no doubt."
 ## Past Results
+- ???
+- ???
+- ???
+- ???
+- ???
 - Visited by Aligajiev asking about Royal Wizard spell sharing
 - Sent assassins after hags, got 2/3
 - Building golems: cold iron, clay armored (armor spiked w/ cold iron) and acid+cold iron explosive

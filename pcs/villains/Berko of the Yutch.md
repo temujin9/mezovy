@@ -13,6 +13,12 @@ Build: Human Rogue 14th-ish
   - https://www.d20pfsrd.com/magic/all-spells/m/irrisen-mirror-sight/
   - If they know, The Queen knows (eventually)
 ## Past Results
+- ???
+- ???
+- ???
+- ???
+- ???
+- ???
 - Training heavier troops (bear hunters)
 - Looking for non-Mezovian spellcasting traditions
 - Diego used tax-free passage for merchants during negotiations to encourage delays, it's super effective

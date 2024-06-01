@@ -96,6 +96,7 @@ Equipment: 880kgp
  16kgp  Shawl of the Crone - used to use for getting wizards into Grand Coven (for the Permanency)
  81kgp  Item of Duplicate Familiar (CL 9, command word), worn by familiar
 
+
 Spells: 
   Known: 9/5/5/4/4/4/3/3/3/3
   Daily: */7/7/7/7/7/7/7/7/7

@@ -18,7 +18,7 @@ Plans:
   - Is it witchlords or The Queen herself?
 - Hobgoblins and hags and maybe drow hunting the PCs
   - They're gonna lock the first door behind them and chuckle; immediately hit them with more trouble from another door
-- How involved is The Queen in jailbreak response? ~Some~
+- How involved is The Queen in jailbreak response? ~None~
   - Very: she knows who the PCs are now, and unleashes direct powers
   - Some: she doesn't know who the PCs are yet, and unleashes powers at distance
   - None: she finds out about it later, perhaps to the displeasure of minions

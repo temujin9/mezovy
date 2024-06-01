@@ -1,3 +1,54 @@
+# Used Expies/homages
+- (Black List) 
+  - Slick talking gang-lord using law enforcement to take out enemies
+  - Hidden objectives and 15-betrayal-pileups
+  - Networks of criminals
+- (13th Age) Icons
+  - Archmage: The Nine Towers
+    - Currently serving the place of the Archmage because none qualify
+    - "the Curse of Excellence": the Queen also locates, assassinates and soul-drains near-Ipsissimus-level wizards
+    - Gahdri later (when she rises to Ipsissimus)
+    - Potato wizard doesn't fit the niche, but maybe he's a former Age's Archmage?
+  - Crusader: Caine
+  - Diabolist: The Queen
+  - Dwarf King: Thror II Vegdrasill
+    - aka Thror Vinblad, successor of Hugstari Eikinskjaldi as dwarven ethnarch, who died after defeating the White
+    - Martok expy, taking the fight to the giants
+  - Elf Queen: The Queen
+  - Emperor: Tsarina
+  - Great Gold Wyrm: Simargl
+    - Seryy respecs as a paladin of Simargl (in the middle of a battle/after a long meditation)
+  - Lich King: Ghastly Ecclesiarch
+  - Orc Lord: Ukpik
+  - Prince of Shadows: Yarik
+    - Does he get/did he just lose "The Coin of Fate"? 
+    - Does it go next to Seryy (to kill The Queen), and then to Gahdri (to become Archmage)?
+  - [The Three](npcs/the three.md)
+  - High Druid: Tamacti Jun
+  - Priestess: Heleward
+- (Prydian/Black Cauldron) Undead fae as war commander, followed by legion of doom made from a resurrection cauldron
+- (Once Upon A Time) Evil wizard from Polyn guild making her slaves her "sheep", using a shepherd's crook staff to track those she's Arcane Marked
+- (Drizzt Do'Urden) The Urden 
+- (Amber) Trump cards - how the Royal Wizards communicate
+- Mongols - [Yassa](https://en.wikipedia.org/wiki/Yassa)
+  "It is forbidden to make peace with a monarch, a prince or a people who have not submitted."
+- Russian history
+- Russian folklore
+- Slavic-adjacent folklore
+- (Wheel of Time) - warders, mixed gender casting circles
+- (meme) Mushroom: "You cannot kill me in any way that matters"
+- (Stargate)
+  - Tok'ra => good-aligned changelings
+- Deep Space 9
+  - Converted enemy fortress-town full of assorted species, at front lines of an interplanar war
+  - Ferengi - kobolds
+  - Cardassia - Japanese lizardfolk
+  - Romulans - Athamberingia, convinced to ally with the drow early, but could be swayed back
+- The Witch's Hammer https://astralcodexten.substack.com/p/book-review-malleus-maleficarum
+  - Gave a copy of this to Gahdri from one of the high-level Axe of Perun
+
+
+
 # TODO
 - http://www.sjgames.com/gurps/books/faerie/
 - https://tvtropes.org/pmwiki/pmwiki.php/Series/StarTrekDeepSpaceNine
