@@ -32,7 +32,7 @@ Prince of Crows
 - Vile Leadership 42 => 18(level)+6(various)+18(murder)+0(Cha) => 1200/120/60/30/15/8/4/2/1
   - TODO: upgrade score
 - Leads a coven of 13 changeling wizard-types
-  - TODO: upgrade list?
+  - TODO: upgrade list
   - Changeling Heka Magi 16th level with Coven from Cohort chain
   - Changeling Strega 11th level from mom
   - 9x others (1 9th/2 8th/3 7th/3 6th)

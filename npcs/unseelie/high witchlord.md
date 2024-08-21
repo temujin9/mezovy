@@ -1,3 +1,5 @@
+TODO: rebuild for CR 18
+
 High Witchlord - Blood Hag (CR 8) + Rogue 5 = CR 13
 - +4 Str, +4 Dex, +2 Wis, +2 Int, -2 Con
 - Also bodyguard for royal family, esp. Queen

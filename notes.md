@@ -1,55 +1,6 @@
 # Next game(s)
-- The Queen continues to wake up every day and cast Perm. Curse Land on someplace that spurned her
-  - https://www.aonprd.com/Rules.aspx?Name=Horror%20Hazards&Category=Horror%20Environments x6 up to 10CR
-  - Just happening all over now, with rumors placing still unaffected lands on The Queen's side
-
-- Tsarina: Holy Warrior Priestess of Law is out in full force
-  - She is locking down the Yutch and hobgoblin fronts now, in preparation for a pivot against The Queen
-  - When the going gets desperate, the Tsarina will start conscripting slaves en-mass
-
-- What did Ragnar do in Prolichica while the shit was going down in Velerolobo?
-  - Some shady shit tbd, versus Yarik's attackers
-  - Figures out belatedly that Mila was in charge
-  - Now he knows Mila and Martus are missing
-
-- What else can Seryy do to show willing to the hobgoblins?
-  - Seryy can't enact the surrender publicly yet, doing so will inevitably turn the Ducal council firmly against him.
-  - Convince his mother that this is the best way to strike back at the killer of her children? 
-  - Start evacuating the eastern lands?
-  - PC suggestions?
-
-- Dylan believed they're being spied upon, and now they really are
-  - Options
-    - Scrying (vs Nondetection)
-    - Vigilantes
-    - Familiars
-  - Who's sending them?
-    - Grey Eye
-    - Lord Hob
-    - some other follower or member of Queen's Cohort chain?
-
-- The hobgoblins know vulnerable targets for the PCs:
-  - PCs choose "send Tsarina & Black after the wedding, ask hobgoblins to trigger Lord Hob problem, lead an assault into Darkness"
-  - impending marriage between the Traitor and the Prince of Crows
-    - goblin forces can't help, since this is happening on Mezovian soil
-    - seems to be coming up soon
-  - Lord Hob and his control of the goblin gates
-    - The rebels can help The Queen discover the flower language insult now that it'd be a problem
-    - The Queen's treatment of Lord Hob and his subsequent hiding of things from her has helped rebels tremendously
-  - forces and lords in Darkness weakened by the Mad Mage
-    - Oilester is a Darkness wild card
-    - did he learn of this in time to take advantage, raiding Uhlinberg's remains while the PCs fought the demons?
-    - or does he show up in Hart and collect demons for his own army?
-    - how lucid is he about the fronts of this war? can he identify the demon tower as the queen's work? is he a potential TTPC ally? who could tell?
-  - PC suggestions?
-
-
 
 # Next tick
-- Yarik
-  - Martsell knows who you are already, do you keep your word?
-  - You've won your shadow war, now what?
-
 - Berko
   - Akichi just pulled Athamberingia into the war on the Tsarina's side, and she'll make hay of that
   - Blockade cuts off Yutch support while she recaptures northern Bereria and Yutesh
@@ -59,16 +10,15 @@
 
 # Soon
 - Every PC should have a moment in the limelight
-  - Dylan confronts the mindfucked Abstemious, who wants to reabsorb him to recover his memories 
-  - Gahdri confirmed as Ipsissimus by Royal Wizards (maybe posthumously)
   - Jerry gets a better rematch against undead trio
+  - Nikita gets to lead an important military attack (final battle against The Queen)
+  - Gahdri confirmed as Ipsissimus by Royal Wizards (maybe posthumously)
   - Yutch secure their conquests, either with hobgoblin or drow help, but can advance no further unless they pot-commit
-  - Nikita gets to lead an important military attack
-  - Ragnar - ???
-    - Asked him what he want from the endgame, fill in if he answers
-    - Otherwise just lots of opportunity for hideous headshots
-  - ~~Prolichica thieves guild gets fucked hard~~ What now?
   - Raag protects Hinntown, achieves success in business
+
+- Lord Hob and his control of the goblin gates
+  - The rebels can help The Queen discover the flower language insult now that it'd be a problem
+  - The Queen's treatment of Lord Hob and his subsequent hiding of things from her has helped rebels tremendously
 
 - What other plot beats are essential?
   - Mezovy surrenders the Uhlinberg lands to the hobgoblins, in exchange for aid against the Queen
@@ -98,7 +48,7 @@
   - Sylus, monk who showed up in Hinnton, stayed there
   - (001) The aristocrats, back finally seeking favor of these lords who are now in favor
   - (002) The Minister is back after the library?
-  - (003) Ice Troll plus Cossacks unit
+  - **(003) Ice Troll plus Cossacks unit**
   - (005) Puryev thieves guild
   - (013) Count Orlov Rozakrest, might be Seryy's daddy
   - (013) Kostchtchie cultists (full orcs!?)

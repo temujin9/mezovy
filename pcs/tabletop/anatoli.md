@@ -16,7 +16,6 @@ Cohort's Cohort: Oracle named Neobe
 # The other Anatoli
 Asked for a https://www.d20pfsrd.com/bestiary/monster-listings/templates/alter-ego-cr-0/
 
-He's the Alter Ego. His progenitor is an ancient evil member of the Dusky Snobs who's since become a Morolorian ghoul.
+He's the Alter Ego. His progenitor is an ancient evil member of the Dusky Snobs who's since become a Morolorian ghoul and then bound by The Prince of Crows.
 
-https://www.d20pfsrd.com/extras/community-creations/black-flame-studios-lab/spells/corrupting-touch/
 https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/talisman-sanguine/

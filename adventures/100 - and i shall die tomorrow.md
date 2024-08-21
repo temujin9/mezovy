@@ -8,6 +8,11 @@ Prerequistes:
 Give each PC an opportunity to sacrifice themselves to kill her, if they don't Seryy does. She has used ritual magic to curse her own death, so that it will nigh-inevitably poison her killer. The "break" DC is the same super-high level that the Demiplanes are, the save is the same, and it requires two saves to evade. If you die of it you can't be resurrected, you immediately go to your reward.
 
 
+Ways to keep the Queen from coming back:
+- https://www.d20pfsrd.com/magic/all-spells/h/hasten-judgment/
+- https://www.d20pfsrd.com/magic/all-spells/c/create-soul-gem/
+- https://www.d20pfsrd.com/magic/all-spells/s/soul-transfer/
+
 
 
 If the PCs do nothing:

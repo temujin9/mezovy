@@ -210,7 +210,7 @@ Spells:
 - The Raven Banner 
   https://en.wikipedia.org/wiki/Raven_banner
   - Originally a Norse thing, referring maybe to Hugin and Munin
-  - What does that mean for the old relationship with the dwarves? Was Odin a witch, or was it a kenning for an elven witch advisor?
+  - What does that mean for the old relationship with the dwarves? Was Odin a witch, or was it a kenning for elven witch advisors?
 
 
 # Notes
@@ -250,14 +250,12 @@ Spells:
     - PCs have encountered:
       - Coven who bonded Ivan: Winter Hag, Storm Hag, Boreal Annis Hag (or witch)
       - Treasurer - witch thief, angry at PCs
-  - Trade 2x lower level minions to cohorts in exchange for their cohorts
+  - Trade lower level minions to cohorts in exchange for their cohorts
     - This is also a hedge against betrayal, since everyone has Vile Leadership
-    - 2x Changeling Heka Magi 11 to son, for High Witchlord (CR 18)
-    - 2x drow witchlords TBD 10 to High Witchlord, for Assassin (CR 16)
-    - 2x witches TBD 9 to Lord Hob, for 
-    Lord Hob (CR 18)
-    - 2x CR 8 hags to Assassin, for 
-    drow witchlord TBD 15
+    - Binder's Apprentice & retinue to son, for High Witchlord (CR 18)
+    - 2x drow witchlords TBD 10 to High Witchlord, for Assassin (CR 17)
+    - 2x CR 8 hags to Assassin, for Binder's Apprentice (CR 16)
+    - 2x Changeling Heka Magi 11 to Binder's Apprentice, for Lord Hob (CR 15)
   - Grand coven
     - 8 witchlords (2+2 level 10, 4 level 9), all loyal to Queen but two TBD serving under High Witchlord
       - Changeling Altered bloodline Sorcerer 10
@@ -269,7 +267,7 @@ Spells:
       - Drow Sylvan Trickster 9 (Rogue)
       - Drow Plague Bringer 9 (Antipaladin)
       - Drow Shaman 9 (Oracle)
-    - 4 hags - High Witchlord (Blood, CR 18), Assassin (Night, CR 17), Storm (CR 7), Winter (CR 7)
+    - 4 hags - High Witchlord (Blood, CR 18), Assassin (Night, CR 17), Storm (CR 7), Winter++ (CR 7)
     - All members get SR 31
     - animate dead, baleful polymorph (DC 18), blight (DC 17), bestow curse (DC 17), clairaudience/clairvoyance, charm monster (DC 17), commune, dream, forcecage, mind blank, mirage arcana (DC 18), reincarnate, veil (DC 19), vision
     - Storm: call lightning storm (DC 18), plague storm (DC 19), quench (DC 16), whirlwind (DC 21), wind wall, child-scent within 100 ft
@@ -279,6 +277,11 @@ Spells:
     - 7+: create undead, dominate person (DC 18), epidemic (DC 19), fairy ring retreat, major curse (DC 18), magic jar (DC 18), and prying eyes
     - 13+: create greater undead, cursed earth (DC 22), dominate monster (DC 22), greater prying eyes, and wail of the banshee (DC 22)
     - CL 20, save DC +7 if Vasilisa leads, otherwise CL 9-10, +1 CL (up to 20) and +1/2 DC for added casters
+  - Followers 29 (suuuck) => 20+6(various)-20(murder)+10(Cha)+6(Legendary Dex)+7(Practiced)
+    - 260/26/13/7/4/2/1
+    - What happens when Vile Leadership is pushed too far
+    - Traded followers defect to their new leadership if possible?
+    - 
 
 - Spellcasting
   - Toxic & Lingering (+3), resist the poison twice too
