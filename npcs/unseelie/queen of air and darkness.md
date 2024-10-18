@@ -281,7 +281,6 @@ Spells:
     - 260/26/13/7/4/2/1
     - What happens when Vile Leadership is pushed too far
     - Traded followers defect to their new leadership if possible?
-    - 
 
 - Spellcasting
   - Toxic & Lingering (+3), resist the poison twice too

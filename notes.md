@@ -1,14 +1,34 @@
 # Next game(s)
+- Find something more engaging for Robert; set piece battles are taking too long to be enjoyable
+- Maybe do the set-up as "A attacks for B damage, C saves vs D effects, and use E percentage of your per-day abilities" rather than play it all out?
+- Need to add other parts to this final battle somehow
 
 # Next tick
+- Let Villains know how their plays worked out here
+  - Yarik sends offer of mercenary army, elite assassins, and dark knight to "commanders of the army"
+  - Viktor reveals existence of golem army and offers its part as vanguard troops
+  - Raag has sent best sneaky folks to protect Seryy's back, but stays behind to protect homeland / retreat
+
 - Berko
+  - Aiming to capture eastern grasslands as breadbasket, has sent Moscu north after treasure
   - Akichi just pulled Athamberingia into the war on the Tsarina's side, and she'll make hay of that
   - Blockade cuts off Yutch support while she recaptures northern Bereria and Yutesh
   - Forcing you into a rough choice: save lowlands and risk uplands, or fight for uplands and risk lowlands
+- Yarik
+  - Aiming to take over criminal orgs between Daydah and Prolichica to consolidate
+  - The Black might have some sort of response to that?
 
 
 
 # Soon
+- Ways to prevent The Queen from Plane Shifting or Teleporting away when the tide turns
+  https://www.d20pfsrd.com/magic/all-spells/c/conjuration-foil Wizard 4, immediate
+  https://www.d20pfsrd.com/magic/all-spells/d/dimensional-anchor/ Cleric/Wizard 4
+  https://www.d20pfsrd.com/magic/all-spells/f/forbiddance/ Cleric 6, 6 rounds
+  https://www.d20pfsrd.com/magic/all-spells/d/dimensional-lock/ Cleric/Wizard 8
+  https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/dimensional-shackles/ need to be put on her
+  Most of these allow SR. Dimensional Shackles says "no save", but anchor already has no save, so read as "no SR"?
+
 - Every PC should have a moment in the limelight
   - Jerry gets a better rematch against undead trio
   - Nikita gets to lead an important military attack (final battle against The Queen)
@@ -19,6 +39,10 @@
 - Lord Hob and his control of the goblin gates
   - The rebels can help The Queen discover the flower language insult now that it'd be a problem
   - The Queen's treatment of Lord Hob and his subsequent hiding of things from her has helped rebels tremendously
+
+- Who has all the soul gems? Some tithed to Kostchtchie, some in The Queen's coffers, some in The Prince's coffers
+- Where are all the soul-stitched books?
+  - Probably in The Prince's true castle (in the Abyss)
 
 - What other plot beats are essential?
   - Mezovy surrenders the Uhlinberg lands to the hobgoblins, in exchange for aid against the Queen

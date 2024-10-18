@@ -53,7 +53,7 @@ Construction:
 - 10x CGD before portals
 - Half cost (1000 castings) is planes, half is portals
 - 100 planes, 1000 portals
-- Lord Hob and the Forgotten Prince both live here too?
+- ~~Lord Hob and the Forgotten Prince both live here too?~~
 
 Inspirations:
 - Ice Queen's palace from Narnia
@@ -67,7 +67,7 @@ The winding main road through the woods to the palace is its own demiplane, with
 ## The Goblin Markets
 To the "west" of Autumn Palace, the Goblin Markets are absolutely stuffed with fae and goblin folk looking for a way up and out. Even internally they are an semi-accidental labyrinth, on account of the overstuffed construction. Comparatively warm, from bodies and fires and lack of airflow. Strange fruits grow everywhere in the dank flickering.
 
-The vast surface of the markets is its own demiplane, where many of the portals from the goblin demiplanes originate.
+The vast surface of the markets is covered with goblin doors, Tiny portals which lead through a portal-ridden demiplane that the Queen made for the Goblins to use. The doors are all controlled by an artifact that was in Lord Hob's possession, and which is maybe now lost or stolen?
 
 Inspirations:
 - Labyrinth

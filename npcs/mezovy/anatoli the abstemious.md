@@ -118,6 +118,7 @@ Init: +6
 # Equipment
 - https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/talisman-sanguine/ +5 profane AC bonus
 - https://www.d20pfsrd.com/magic-items/wondrous-items/h-l/headband-of-vast-intelligence/ +6
+  Gives capstone in Diplomacy, Knowledge (nobility), Survival
 - https://pathminder.github.io/special-materials/wyroot/ +3 arcane reservoir
 - https://www.d20pfsrd.com/magic-items/magic-armor/specific-magic-shields/clawhand-shield/ +4 AC, no spell failure
 - https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bracers-of-armor +8 AC
