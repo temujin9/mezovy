@@ -26,8 +26,8 @@ Cha 14 (+2)
 - Hit points    59            = 13d8
 
 # Class
-Unchained Rogue 16th
-- Sneak Attack +8d6
+Unchained Rogue 17th
+- Sneak Attack +9d6
 - Danger Sense +5 - adds to Reflex and dodge AC vs traps, Perception to avoid surprise
 - Debilitating Injury - bewildered (-8 AC, -2 vs rogue), disoriented (-2 to hit, -2 vs rogue), hampered (half move)
 - Archetype: Scout
@@ -153,7 +153,11 @@ Daggers: 9 regular, 6 cold iron, 3 silver (93gp) - Melee/ranged - +19, 19-20/x2,
 5x +1 Frost Arrow (160gp) - +1 to hit, +1d6+1 cold damage
 5x +1 Shock Arrow (160gp) - +1 to hit, +1d6+1 electrical damage
 5x +1 Seeking Limning Arrow (360gp) - +1 to hit/damage, ignore concealment miss chance, target loses concealment for 1 round
+5x +1 Bane (Monstrous humanoid)
+5x +1 Bane (Demon)
+5x +1 Bane (Elves)
 
+Greater Slaying Arrow (Elf)
 Greater Slaying Arrow (Goblinoids)
 5x Greater Slaying Arrow (Demon) (4,057gp per)
 

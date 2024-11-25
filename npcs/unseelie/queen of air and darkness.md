@@ -1,8 +1,5 @@
 TODO:
 - Traits
-- Balance the equipment correctly
-  - Maybe only Staff of Necromancy, etc.
-- Saving Throws
 
 
 
@@ -20,7 +17,13 @@ Int 16  +3
 Wis 13  +1
 Cha 25  +7    31  +10   Headband
 
-HP: 20d6 => (1+1+1+1+2+3)/6 + 20 *= 1.5 * 20 = 30 + 60 = 90hp
+HP: 20d6 => (1+1+1+1+2+3)/6 + 20 * 1.5 * 20 = 30 + 60 = 90hp
+
+AC:    31   = 10+6+8+5+2
+  FF:  25   = 10+8+5+2
+Ref:   +19  = +6+6+5+2
+Fort:  +13  = +0+6+5+2
+Will:  +20  = +1+12+5+2
 
 Unshadowed Drow:
 - Low-light vision, no light-blindness
@@ -53,11 +56,11 @@ Feats: 10
 - Legendary Leader (Dexterity)
 - Practiced Leader
 - Improved Familiar
+- Eschew Materials
 - Quicken Spell (+4)
 - Tenebrous Spell (+0/+1)
 - Reach Spell (+1 to +3)
 - Toxic Spell (+1)
-- Extend Spell (+1)
 - Persistent Spell (+2)
 
 Traits: 2
@@ -65,6 +68,7 @@ Traits: 2
 - ???
 
 Skills: 100
+- Bluff       =20+10
 - Fly          5
 - Intimidate  20
 - K: Arcana   10
@@ -77,7 +81,18 @@ Skills: 100
 
 
 Equipment: 880kgp
-235kgp  Staff of Power
+235kgp  Staff of Power (10 charges)
+  Continual flame (1 charge)
+  Fireball (heightened to 5th level, 1 charge)
+  Levitate (1 charge)
+  Lightning bolt (heightened to 5th level, 1 charge)
+  Magic missile (1 charge)
+  Ray of enfeeblement (heightened to 5th level, 1 charge)
+  Cone of cold (2 charges)
+  Globe of invulnerability (2 charges)
+  Hold monster (2 charges)
+  Wall of force (in a 10-ft.-diameter hemisphere around the caster only, 2 charges)
+
 ???kgp  Many-Way Mirrors
           50kgp   Base
           25kgp   Return
@@ -85,7 +100,10 @@ Equipment: 880kgp
           75kgp   +12 return
           25kgp   Return are mobile
 
- 18kgp  Belt of Dexterity +6
+ 64kgp  Bracers of Armor +8
+ 50kgp  Ring of Protection +5
+ 18kgp  Gloves of Dexterity +6
+ 18kgp  Belt of Constitution +6
  18kgp  Headband of Alluring Charisma +6
  20kgp  Suzerain Scepter
  25kgp  Ten mithral daggers +1 coated with some advanced drow poison
@@ -100,64 +118,59 @@ Equipment: 880kgp
 Spells: 
   Known: 9/5/5/4/4/4/3/3/3/3
   Daily: */7/7/7/7/7/7/7/7/7
-  - 9th
+  - 9th: DC 29
     wail of the banshee
     Create Demiplane, Greater
-    ???
-    ???
-    Shadow Transmutation, Greater (S)
-    Fey Form IV
     Polar Midnight (S)
-    Gate (and also replace Plane Shift)
-    Rival's Weald
-  - 8th
+    Shadow Transmutation, Greater (S)
+  - 8th: DC 28
     irresistible dance
     Moment of Prescience
     Wandering Weather
     Possession, Greater
-  - 7th
+  - 7th: DC 27
     waves of ecstasy
     Plane Shift
     Teleport, Greater
     Scrying, Greater
-  - 6th
+  - 6th: DC 26
     cloak of dreams
     Curse Terrain, Greater
     Dispel Magic, Greater
     Baleful Shadow Transmutation
-  - 5th
+  - 5th: DC 25
     mind fog
     Duplicate Familiar
     Pain Strike, Mass
     Release the Hounds
     Wreath of Blades
-  - 4th
+  - 4th: DC 24
     hallucinatory terrain
     Demanding Message
     Innocuous Shape
     Shadowform (T,S)
     Summon Cacodaemon, Greater
-  - 3rd
+  - 3rd: DC 23
     bestow curse
     Gloomblind Bolts (M,S)
     Shifting Shadow (M,S)
     Howling Agony (C,F)
     Stinking Cloud (M,F)
-  - 2nd
+  - 2nd: DC 22
     unnatural lust
     Shadow Anchor (T,S)
-    Protective Penumbra (T,S)
     Garden of Peril (M,F)
     Pernicious Poison (T)
     Bloodbath (C,F)
-  - 1st
+    Haunting Mists (S)
+  - 1st: DC 21
     charm person
     Dancing Darkness (S)
     Ray of Enfeeblement (C,F)
     Ray of Sickening (C,F)
     Reduce Person (C,F)
     Touch of Blindness (T,F,S)
-  - 0th
+  - 0th: DC 20
     Arcane Mark
     Dancing Lights
     Detect Magic

@@ -1,6 +1,6 @@
 # New plan
 - Triune heavy three-part episode
-- The PCs chose to free the elder
+- The PCs chose to free the elder wizards
   - Many have been mind-fucked, Secret Page can be undone but Erase cannot
   - Two remain viable, PCs can help define options:
     - Powerful abjuration mage from her time

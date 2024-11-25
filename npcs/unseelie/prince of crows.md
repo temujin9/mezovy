@@ -1,5 +1,20 @@
 Feannagan
 
+Str 10  +0
+Dex 16  +0    22  +6    Gloves
+Con 13  +1    19  +4    Belt
+Int 22  +6    31  +10   Headband
+Wis 14  +3
+Cha 10  +1
+
+HP: 142 = 19 * (3.5 + 1)
+
+AC:    31   = 10+6+8+5+2
+Ref:   +19  = +6+6+5+2
+Fort:  +13  = +0+6+5+2
+Will:  +19  = +1+11+5+2
+
+
 Prince of Crows
 - Changeling Wizard 19
 - Child of Vasilisa and Rolobo
@@ -71,6 +86,17 @@ Prince of Crows
     Nondetection
   - 2nd
     Lipstitch (C,F)
+
+- Equipment
+  64kgp  Bracers of Armor +8
+  50kgp  Ring of Protection +5
+  18kgp  Gloves of Dexterity +6
+  18kgp  Belt of Constitution +6
+  18kgp  Headband of Dazzling Intellect +6
+  25kgp  Cloak of Resistance +5
+  85kgp  Greater Quicken Metamagic Rod
+  75kgp  Coven Charm - one negative level per charge (up to 3, on other Coven members), use coven spells by self
+  81kgp  Item of Duplicate Familiar (CL 9, command word), worn by familiar
 
 - Vasilisa dumped young Crow upon several schools in turn for magical tutelage
   - How would PCs get this lead?
