@@ -1,3 +1,27 @@
+# Results
+- Alaric leads a planar manhunt against The Prince
+- Gahdri loots and destroys the Scholomanche, scatters its membership
+- Nikkita support Seryy and his lady, look for a cure unsuccessfully
+- Anatolii investigates the box, decides to drop it on the Scholomanche
+- Ragnar's sacrifice inspire wandering warrior corps of archers, others
+- Ludwig discards the Mayhem persona and helps build the wandering warrior corps
+- Surrendered the Eastern part of the kingdom to hobgoblins
+- Propaganda and counterpropaganda around the fall
+- PCs do find Rolobo, work with Church to get additional evidence & support
+- Gahdri goes digging on Magraves to determine support, finds that Pasternak was behind
+- Grand Duke Grisha Gusev becomes Tsar, nobles stronger, royals weaker
+- Tsarina slain by drow assassins, does not resurrect
+- PCs work to open trade with the hobgoblins kingdom
+- PCs remain lords of Velerolobo until the ends of their days
+- Kat's tiger tribe becomes cat fae
+- Velerolobo becomes melting pot and trade center
+- Uhlinberg guild builds a new tower in Velerolobo lands, PCs discourage anti-fae focus
+- 
+- 
+- 
+
+
+# Plans
 Raising the curtain
 - Answer everyone's questions about what had been happening
 - Have villains on the call too, if possible
