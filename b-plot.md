@@ -1,26 +1,42 @@
-Campaign Name: The Longshot
-Premise:
+# The Longshot - Campaign B-Plot
+
+## Premise
 - PCs are supporting an NPC contender for the throne of the Tzardom of Mezovy
-- Mommy Tzarina just gave each of her kids control of a ruined capital within Rovenkian Dearth
-- Intended to make episodic w/ rotating GMs easier
+- The Tzarina has given each of her children control of a ruined capital within the Rovenkian Dearth
+- Structure designed to enable episodic adventures with rotating GMs
 
-# If The PCs Do Nothing
-- The Queen orders the hobgoblins into a full offensive against hard targets in Mezovy: Uhlinberg, the Capital, other staunch opposition.
-- The Tzarina declares war and martial law in turn, forcing lords to conscript additional levies, and march in response. She includes the Vogovans in targets.
-- After grinding the two against each other, The Queen raises a Tower of Fear to help crush the heaviest opposition.
-- Offering to end the demon incursions and hobgoblin attacks, The Queen gains votes in the court of dukes to place The Traitor and the Prince of Crows on Mezovy's throne. To satisfy her new husband Koschechi, she institutes the tithe of souls, taken to the Towers of Fear on Halloween.
-- The Queen's agents seek out Ter Khrekaan. He survives for a while, but eventually is assassinated. His assistants flee with the mother-draught, but Ukpik's hope of a rebllion and a hobgoblin state are ruined.
-- The Church and the Towers hold out, but eventually fall to insider threats.
-- The drow side of the marriages inherit the throne after their half-elven children "die without issue" (herbal abortifacients, murders).
+## If The PCs Do Nothing
 
-# Antagonists
+*Campaign failure state if players take no meaningful action:*
+
+1. **War Escalation**
+   - The Queen orders hobgoblins to launch full offensive against key Mezovy targets: Uhlinberg, the Capital, and other opposition strongholds
+   - The Tzarina declares war and martial law, conscripting additional levies and including Vogovans as targets
+
+2. **Military Stalemate and Supernatural Advantage**
+   - After grinding the two forces against each other, The Queen raises a Tower of Fear to crush the heaviest opposition
+
+3. **Political Takeover**
+   - The Queen gains votes in the court of dukes by offering to end demon incursions and hobgoblin attacks
+   - The Traitor and Prince of Crows are placed on Mezovy's throne
+   - To satisfy her new husband Koschechi, she institutes the tithe of souls, taken to the Towers of Fear on Halloween
+
+4. **Elimination of Resistance**
+   - The Queen's agents assassinate Ter Khrekaan (after some resistance)
+   - His assistants flee with the mother-draught, but Ukpik's hopes for a hobgoblin rebellion and state are ruined
+   - The Church and Towers eventually fall to insider threats
+
+5. **Dynastic Outcome**
+   - The drow side of the marriages inherit the throne after their half-elven children "die without issue" (through herbal abortifacients and murders)
+
+## Antagonists
 - Each so often, each major antagonist advances plots abstractly by 1d3-1 points (or GM fiat)
 - If PCs delivered them a setback this period, no advancement, and -1 points instead
 - If the antagonist instead got aid from the PCs, normal advancement +1
 - At 10 points, have background bad thing happen and subtract 10 points
 - This ratchets up the losses as time progresses, but let PCs decide where to focus
 
-## Vasilisa
+### Vasilisa
 - Plot points: 3
 - Advances her plots by 2d3-2 each period
 - Currently will spend 1 point per targeted advance
@@ -62,49 +78,49 @@ Progress:
   8: complete infiltration
 
 
-## Ukpik & Ter Khrekaan
+### Ukpik & Ter Khrekaan
 - Plot points: 5
 - Advances their plots by 2d3-2 each month
 - Securing the trods
 - Advancing into the mundane realm
 
-## Tsarina Suzyanna
+### Tsarina Suzyanna
 - Plot points: 10
 - Advances her plots by 2d3-2 each month
 - Armies advance upon and smash her enemies
 - Courtiers find ways to maintain power
 
-## Koschei
+### Koschei
 - Plot points: 8
 - NOTE: King Cold has been told to withdraw and consolidate pending an unbroken tower
 - King Cold advancing from the north, gathering souls for Koschei in his belly
 - Attack any of the northern realms
 
-## The Traitor
+### The Traitor
 - Plot points: 6
 - Arrange failure for a sibling
 - Can contribute to another's success
 - Each step should eliminate another possibility
 
-## Caine
+### Caine
 - Plot points: 8
 - Impressed by the PCs fight against the Tower, continues quiet support from background via Cienfuegos
 - Manipulating others against The Church
 - Playing off The Queen's minions on behalf of Ukpik
 
-## Oilester
+### Oilester
 - Plot points: 0
 - Regain powerful spells
 - Take revenge on elves
 
-## Grey Eye
+### Grey Eye
 - Plot points: 2
 - Open closed trods
 - Finding and destroying portal knowledge
 - Necromantic power sources
 
 
-# History
+## History
 - Akichi just pulled Athamberingia into the war on the Tsarina's side
 - The Queen raises a Tower of Fear, only to have it smashed by the TTPCs
 - Grey Eye starts assassinating wizards and burning libraries en-masse
@@ -125,7 +141,7 @@ Progress:
 - Rovenk destroyed by demons
 
 
-# Endgame
+## Endgame
 - https://gnomestew.com/how-to-have-an-epic-campaign-in-three-acts-part-3-of-3/
   - Start at about 14th level, aim to run PCs vs. the Queen at 16th level? That's a 50:50 chance if she's -alone-.
   - Bring back memorable NPCs
@@ -135,5 +151,5 @@ Progress:
   - Blow something up at the end (the Iceland Palace?)
 - Make Vasilisa's retributive strike abilities clear, so PCs know a sacrifice is being called for, keep details hazy
  
-# Next
+## Next
 - Moriloran Occultism is run by undead, head of the cult is aiming to make himself a lich with mushroom magic

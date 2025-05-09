@@ -6,17 +6,17 @@
 
 ## Sources
 - https://en.wikipedia.org/wiki/Vladimir_the_Great#Years_of_pagan_rule
-  - https://en.wikipedia.org/wiki/Perun - leadership, sky, lightning, law, war
-  - https://en.wikipedia.org/wiki/Stribog - wind, wealth
-  - https://en.wikipedia.org/wiki/Mokosh - weaving, women, childbirth
-  - https://en.wikipedia.org/wiki/Dazhbog - sun
-  - https://en.wikipedia.org/wiki/Khors - moon
-  - https://en.wikipedia.org/wiki/Simargl - CG, fire, luck (chained monster)
+  - [Perun](https://en.wikipedia.org/wiki/Perun) - leadership, sky, lightning, law, war
+  - [Stribog](https://en.wikipedia.org/wiki/Stribog) - wind, wealth
+  - [Mokosh](https://en.wikipedia.org/wiki/Mokosh) - weaving, women, childbirth
+  - [Dazhbog](https://en.wikipedia.org/wiki/Dazhbog) - sun
+  - [Khors](https://en.wikipedia.org/wiki/Khors) - moon
+  - [Simargl](https://en.wikipedia.org/wiki/Simargl) - CG, fire, luck (chained monster)
 - Others
-  - https://en.wikipedia.org/wiki/Svarog - smithing, father of Dazhbog & Khors & Radagost
-  - https://en.wikipedia.org/wiki/Zorya - dawn, holds Simargl's chains
-  - https://en.wikipedia.org/wiki/Radegast_(god) - protection, hospitality, assemblies, aka Svarozhits
-  - https://en.wikipedia.org/wiki/Veles_(god) - underworld, trickery, magic
+  - [Svarog](https://en.wikipedia.org/wiki/Svarog) - smithing, father of Dazhbog & Khors & Radagost
+  - [Zorya](https://en.wikipedia.org/wiki/Zorya) - dawn, holds Simargl's chains
+  - [Radegast](https://en.wikipedia.org/wiki/Radegast_(god)) - protection, hospitality, assemblies, aka Svarozhits
+  - [Veles](https://en.wikipedia.org/wiki/Veles_(god)) - underworld, trickery, magic
   - Deivos - grandfather god, roughly equiv to Tyr?
   - Chernabog - LE - Asmodeus expy, worshiped by Caine, wants into Common Council
   - Chislobog – the god of numbers
@@ -24,8 +24,8 @@
   - Berend-Perun - first Tsar, treated as the demigod child of Perun
   - Svitibor - god of forests
   - see also 
-    - https://en.wikipedia.org/wiki/List_of_Slavic_pseudo-deities
-    - https://en.wikipedia.org/wiki/Slavic_paganism
+    - [List of Slavic pseudo-deities](https://en.wikipedia.org/wiki/List_of_Slavic_pseudo-deities)
+    - [Slavic paganism](https://en.wikipedia.org/wiki/Slavic_paganism)
 
 ## Morilorian Occultism
 - Inner cabal of LE leaders of The Church
